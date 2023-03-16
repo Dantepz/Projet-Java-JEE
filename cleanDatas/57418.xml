@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57418-01" codeInsee="57418" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Loudrefing</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Église</Ligne>
+      <CodePostal>57670</CodePostal>
+      <NomCommune>Loudrefing</NomCommune>
+      <Localisation>
+         <Latitude>48.8895988464</Latitude>
+         <Longitude>6.87118005753</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 86 57 48</Téléphone>
+      <Télécopie>+33 3 87 86 57 48</Télécopie>
+      <Email>mairie.loudrefing@wanadoo.fr</Email>
+      <Url>http://www.loudrefing.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

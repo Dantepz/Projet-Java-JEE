@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31069-01" codeInsee="31069" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blagnac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Jean-Louis-Puig</Ligne>
+      <CodePostal>31706</CodePostal>
+      <NomCommune>Blagnac Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6347999573</Latitude>
+         <Longitude>1.39722001553</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 71 72 00</Téléphone>
+      <Télécopie>+33 5 61 71 72 73</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09061-01" codeInsee="09061" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie des Bordes-sur-Arize</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 place Ladevèze</Ligne>
+      <CodePostal>09350</CodePostal>
+      <NomCommune>Les Bordes-sur-Arize</NomCommune>
+      <Localisation>
+         <Latitude>43.1056060791</Latitude>
+         <Longitude>1.37012898922</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 69 95 06</Téléphone>
+      <Télécopie>+33 5 61 69 71 16</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

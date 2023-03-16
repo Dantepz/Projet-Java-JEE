@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73296-01" codeInsee="73296" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tignes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Rosset</Ligne>
+      <Ligne>BP 50</Ligne>
+      <CodePostal>73321</CodePostal>
+      <NomCommune>Tignes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.468791</Latitude>
+         <Longitude>6.909508</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 40 06 40</Téléphone>
+      <Télécopie>+33 4 79 06 35 46</Télécopie>
+      <Email>mairie@tignes.net</Email>
+      <Url>http://www.tignes.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50528-01" codeInsee="50528" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Nicolas-de-Pierrepont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>50250</CodePostal>
+      <NomCommune>Saint-Nicolas-de-Pierrepont</NomCommune>
+      <Localisation>
+         <Latitude>49.3234481812</Latitude>
+         <Longitude>-1.58726203442</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 46 23 80</Téléphone>
+      <Télécopie>+33 2 33 46 23 80</Télécopie>
+      <Email>mairie.stnicolasdepierrepont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

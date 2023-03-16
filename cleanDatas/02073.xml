@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02073-01" codeInsee="02073" dateMiseAJour="2014-12-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Berry-au-Bac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Maréchal-Leclerc-de-Hauteclocque</Ligne>
+      <CodePostal>02190</CodePostal>
+      <NomCommune>Berry-au-Bac</NomCommune>
+      <Localisation>
+         <Latitude>49.4033622742</Latitude>
+         <Longitude>3.90023088455</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 51 87 45 33</Téléphone>
+      <Télécopie>+33 9 56 87 45 33</Télécopie>
+      <Email>berry-au-bac.mairie@hotmail.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Permanence du maire le 1er samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

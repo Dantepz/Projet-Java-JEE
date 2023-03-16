@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89462-01" codeInsee="89462" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villeneuve-les-Genêts</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>89350</CodePostal>
+      <NomCommune>Villeneuve-les-Genêts</NomCommune>
+      <Localisation>
+         <Latitude>47.737701416</Latitude>
+         <Longitude>3.09175992012</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 45 43 25</Téléphone>
+      <Télécopie>+33 3 86 45 43 25</Télécopie>
+      <Email>mairie.villeneuve-les-genets@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

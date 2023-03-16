@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53022-01" codeInsee="53022" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bazouge-de-Chemeré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Pont</Ligne>
+      <CodePostal>53170</CodePostal>
+      <NomCommune>La Bazouge-de-Chémeré</NomCommune>
+      <Localisation>
+         <Latitude>48.001268</Latitude>
+         <Longitude>-0.4874541</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 90 51 07</Téléphone>
+      <Télécopie>+33 2 43 90 59 12</Télécopie>
+      <Email>mairie.la.bazouge.de.chemere@wanadoo.fr</Email>
+      <Url>http://www.labazougedechemere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:45:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95024-01" codeInsee="95024" dateMiseAJour="2010-01-26"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arthies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la mairie</Ligne>
+      <CodePostal>95420</CodePostal>
+      <NomCommune>ARTHIES</NomCommune>
+      <Localisation>
+         <Latitude>49.0945863</Latitude>
+         <Longitude>1.7884206</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 46 80 65</Téléphone>
+      <Télécopie>+33 1 34 46 80 65</Télécopie>
+      <Email>arthies@wanadoo.fr</Email>
+      <Url>http://www.arthies.mairie.com</Url>
+   </CoordonnéesNum>
+</Organisme>

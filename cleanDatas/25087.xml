@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25087-01" codeInsee="25087" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Branne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de l'Église</Ligne>
+      <CodePostal>25340</CodePostal>
+      <NomCommune>Branne</NomCommune>
+      <Localisation>
+         <Latitude>47.3569984436</Latitude>
+         <Longitude>6.52441978455</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 93 87 34</Téléphone>
+      <Télécopie>+33 3 81 93 87 34</Télécopie>
+      <Email>branne.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:15:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

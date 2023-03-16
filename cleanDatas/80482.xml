@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80482-01" codeInsee="80482" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Limeux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Général-de-Gaulle</Ligne>
+      <CodePostal>80490</CodePostal>
+      <NomCommune>Limeux</NomCommune>
+      <Localisation>
+         <Latitude>50.0189892</Latitude>
+         <Longitude>1.8166548</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 28 63 14</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

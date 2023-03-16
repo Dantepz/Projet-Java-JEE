@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88311-01" codeInsee="88311" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montmotier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 rue Principale</Ligne>
+      <CodePostal>88240</CodePostal>
+      <NomCommune>Montmotier</NomCommune>
+      <Localisation>
+         <Latitude>48.0251998901</Latitude>
+         <Longitude>6.23409986496</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 36 26 41</Téléphone>
+      <Télécopie>+33 3 29 36 26 41</Télécopie>
+      <Email>mairie.montmotier@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

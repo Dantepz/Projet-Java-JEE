@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08459-01" codeInsee="08459" dateMiseAJour="2015-08-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tremblois-lès-Carignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Maréchal-Foch</Ligne>
+      <CodePostal>08110</CodePostal>
+      <NomCommune>Tremblois-lès-Carignan</NomCommune>
+      <Localisation>
+         <Latitude>49.6581575</Latitude>
+         <Longitude>5.2556752</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 22 68 58</Téléphone>
+      <Télécopie>+33 3 24 22 21 95</Télécopie>
+      <Email>mairie.detrembloislescarignan@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+         <Note>Uniquement si le lundi est un jour férié. Uniquement sur rendez-vous le samedi</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

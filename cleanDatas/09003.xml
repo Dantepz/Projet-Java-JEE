@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09003-01" codeInsee="09003" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Aiguillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, Grande rue</Ligne>
+      <CodePostal>09300</CodePostal>
+      <NomCommune>L'Aiguillon</NomCommune>
+      <Localisation>
+         <Latitude>42.9234008789</Latitude>
+         <Longitude>1.87202000618</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 01 12 14</Téléphone>
+      <Télécopie>+33 5 61 03 66 23</Télécopie>
+      <Email>mairie.laiguillon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52085-01" codeInsee="52085" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Buxières-lès-Clefmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de l'Église</Ligne>
+      <CodePostal>52240</CodePostal>
+      <NomCommune>Buxières-lès-Clefmont</NomCommune>
+      <Localisation>
+         <Latitude>48.134751</Latitude>
+         <Longitude>5.422904</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 62 17 64 28</Téléphone>
+      <Télécopie>+33 3 25 01 70 56</Télécopie>
+      <Email>mairie.buxiereslesclefmont@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

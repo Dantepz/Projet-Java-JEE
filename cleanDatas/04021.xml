@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04021-01" codeInsee="04021" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>04380</CodePostal>
+      <NomCommune>Barras</NomCommune>
+      <Localisation>
+         <Latitude>44.1050605774</Latitude>
+         <Longitude>6.11366796494</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 34 73 47</Téléphone>
+      <Télécopie>+33 4 92 34 73 47</Télécopie>
+      <Email>mairie.barras@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:30:00" fin="13:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

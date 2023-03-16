@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73092-01" codeInsee="73092" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Corbel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chef-lieu</Ligne>
+      <CodePostal>73160</CodePostal>
+      <NomCommune>Corbel</NomCommune>
+      <Localisation>
+         <Latitude>45.4291229248</Latitude>
+         <Longitude>5.82445716858</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 65 73 05</Téléphone>
+      <Télécopie>+33 4 79 65 36 79</Télécopie>
+      <Email>mairiedecorbel@orange.fr</Email>
+      <Url>http://www.corbel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Contacter l'accueil pour obtenir un rendez-vous pour les autres jours de la semaine</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

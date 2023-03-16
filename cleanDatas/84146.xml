@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84146-01" codeInsee="84146" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villedieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Libération</Ligne>
+      <CodePostal>84110</CodePostal>
+      <NomCommune>Villedieu</NomCommune>
+      <Localisation>
+         <Latitude>44.2838459</Latitude>
+         <Longitude>5.033666</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 28 92 50</Téléphone>
+      <Télécopie>+33 4 90 28 96 82</Télécopie>
+      <Email>villedieu.mairie@wanadoo.fr</Email>
+      <Url>http://www.villedieu-vaucluse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

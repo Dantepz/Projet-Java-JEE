@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16071-01" codeInsee="16071" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chabrac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16150</CodePostal>
+      <NomCommune>Chabrac</NomCommune>
+      <Localisation>
+         <Latitude>45.9323692322</Latitude>
+         <Longitude>0.738508999348</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 85 52 33</Téléphone>
+      <Télécopie>+33 5 45 85 52 33</Télécopie>
+      <Email>chabrac.cne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

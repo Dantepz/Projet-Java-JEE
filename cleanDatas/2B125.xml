@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2B125-01" codeInsee="2B125" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Giocatojo</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>20237</CodePostal>
+      <NomCommune>Giocatojo</NomCommune>
+      <Localisation>
+         <Latitude>42.4436988831</Latitude>
+         <Longitude>9.34904956818</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 39 23 33</Téléphone>
+      <Télécopie>+33 4 95 36 28 30</Télécopie>
+      <Email>mairie-giocatojo@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

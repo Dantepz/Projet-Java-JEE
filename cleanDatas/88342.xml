@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88342-01" codeInsee="88342" dateMiseAJour="2007-11-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pallegney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 grande rue</Ligne>
+      <CodePostal>88330</CodePostal>
+      <NomCommune>PALLEGNEY</NomCommune>
+      <Localisation>
+         <Latitude>43.3036994934</Latitude>
+         <Longitude>5.37834978104</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 67 22 20</Téléphone>
+      <Télécopie>+33 3 29 67 62 20</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

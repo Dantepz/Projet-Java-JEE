@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18188-01" codeInsee="18188" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Primelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25 Grande rue</Ligne>
+      <Ligne>Le Grand Malleray</Ligne>
+      <CodePostal>18400</CodePostal>
+      <NomCommune>Primelles</NomCommune>
+      <Localisation>
+         <Latitude>46.9283131</Latitude>
+         <Longitude>2.21195920000002</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 68 91 03</Téléphone>
+      <Télécopie>+33 2 48 68 04 87</Télécopie>
+      <Email>mairie.primelles@orange.fr</Email>
+      <Url>http://www.primelles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

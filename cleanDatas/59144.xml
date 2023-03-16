@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59144-01" codeInsee="59144" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Château-l'Abbaye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 place de l'Église</Ligne>
+      <CodePostal>59230</CodePostal>
+      <NomCommune>Château-l'Abbaye</NomCommune>
+      <Localisation>
+         <Latitude>50.4823989868</Latitude>
+         <Longitude>3.47675991058</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 48 66 04</Téléphone>
+      <Télécopie>+33 3 27 48 33 60</Télécopie>
+      <Email>ville.chateau.labbaye.fr@wanadoo.fr</Email>
+      <Url>http://www.ville-chateau-labbaye.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil uniquement ouvert au public le matin pendant les mois de juillet et août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

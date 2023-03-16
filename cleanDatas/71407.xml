@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71407-01" codeInsee="71407" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Didier-sur-Arroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71190</CodePostal>
+      <NomCommune>Saint-Didier-sur-Arroux</NomCommune>
+      <Localisation>
+         <Latitude>46.8036003113</Latitude>
+         <Longitude>4.10151004791</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 82 20 05</Téléphone>
+      <Email>saint-didier-sur-arroux@ozone.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

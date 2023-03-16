@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59600-01" codeInsee="59600" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tourmignies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>59551</CodePostal>
+      <NomCommune>Tourmignies</NomCommune>
+      <Localisation>
+         <Latitude>50.5065002441</Latitude>
+         <Longitude>3.08394002914</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 61 47 20</Téléphone>
+      <Télécopie>+33 3 20 84 82 33</Télécopie>
+      <Email>mairie.tourmignies@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

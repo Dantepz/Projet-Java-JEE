@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86084-01" codeInsee="86084" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coulonges-les-Hérolles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place Sully</Ligne>
+      <CodePostal>86290</CodePostal>
+      <NomCommune>Coulonges</NomCommune>
+      <Localisation>
+         <Latitude>46.4014359</Latitude>
+         <Longitude>1.153647</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 91 77 08</Téléphone>
+      <Télécopie>+33 5 49 91 59 16</Télécopie>
+      <Email>coulonges-les-herolles@cg86.fr</Email>
+      <Url>http://www.foire-des-herolles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02006-01" codeInsee="02006" dateMiseAJour="2014-12-18"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aisonville-et-Bernoville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Couturelle</Ligne>
+      <CodePostal>02110</CodePostal>
+      <NomCommune>Aisonville-et-Bernoville</NomCommune>
+      <Localisation>
+         <Latitude>49.9337158</Latitude>
+         <Longitude>3.5230164</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 66 10 30</Téléphone>
+      <Télécopie>+33 3 23 66 10 30</Télécopie>
+      <Email>aisonville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:45:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

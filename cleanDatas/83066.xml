@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83066-01" codeInsee="83066" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ginasservis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Docteur-Richaud</Ligne>
+      <CodePostal>83560</CodePostal>
+      <NomCommune>Ginasservis</NomCommune>
+      <Localisation>
+         <Latitude>43.6711349487</Latitude>
+         <Longitude>5.84798002243</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">appeler avant de s'y rendre</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 98 05 21 41</Téléphone>
+      <Télécopie>+33 4 98 05 21 50</Télécopie>
+      <Email>mairie@ginasservis.com</Email>
+      <Url>http://www.ginasservis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

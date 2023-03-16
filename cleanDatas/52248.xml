@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52248-01" codeInsee="52248" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Is-en-Bassigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place du Bas-de-la-Ville</Ligne>
+      <CodePostal>52140</CodePostal>
+      <NomCommune>Is-en-Bassigny</NomCommune>
+      <Localisation>
+         <Latitude>48.0317001343</Latitude>
+         <Longitude>5.44745016098</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 31 73 64</Téléphone>
+      <Télécopie>+33 3 25 31 73 64</Télécopie>
+      <Email>mairie.isenbassigny@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

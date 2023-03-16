@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39373-01" codeInsee="39373" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie des Moussières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue de Saint-Claude</Ligne>
+      <CodePostal>39310</CodePostal>
+      <NomCommune>Les Moussières</NomCommune>
+      <Localisation>
+         <Latitude>46.3839437</Latitude>
+         <Longitude>5.87436049999997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 41 67 32</Téléphone>
+      <Télécopie>+33 3 84 41 65 24</Télécopie>
+      <Email>mairie-moussieres@orange.fr</Email>
+      <Url>http://www.lesmoussieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37122-01" codeInsee="37122" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Joué-lès-Tours</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 50108</Ligne>
+      <Ligne>Parvis Raymond-Lory</Ligne>
+      <CodePostal>37301</CodePostal>
+      <NomCommune>Joué-lès-Tours Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.3441200256</Latitude>
+         <Longitude>0.660914003849</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 39 70 00</Téléphone>
+      <Télécopie>+33 2 47 39 70 50</Télécopie>
+      <Email>joue.contact@ville-jouelestours.fr</Email>
+      <Url>http://www.ville-jouelestours.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et le service guichet accueil unique.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95427-01" codeInsee="95427" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montmagny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue du 11-Novembre-1918</Ligne>
+      <CodePostal>95360</CodePostal>
+      <NomCommune>Montmagny</NomCommune>
+      <Localisation>
+         <Latitude>48.974899292</Latitude>
+         <Longitude>2.34589004517</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 28 69 00</Téléphone>
+      <Télécopie>+33 1 34 28 69 19</Télécopie>
+      <Email>cabinetdumaire@ville-montmagny.fr</Email>
+      <Url>http://www.ville-montmagny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+         <Note>Accueil ouvert le lundi de 13h45 à 18h30 pour l'état civil uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

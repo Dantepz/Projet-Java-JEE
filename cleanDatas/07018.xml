@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07018-01" codeInsee="07018" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Astet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Chavade</Ligne>
+      <CodePostal>07330</CodePostal>
+      <NomCommune>Astet</NomCommune>
+      <Localisation>
+         <Latitude>44.6972503662</Latitude>
+         <Longitude>4.02256298065</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 87 20 89</Téléphone>
+      <Email>mairiedeastet@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

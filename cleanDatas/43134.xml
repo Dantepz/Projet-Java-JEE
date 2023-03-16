@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43134-01" codeInsee="43134" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mézères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43800</CodePostal>
+      <NomCommune>Mézères</NomCommune>
+      <Localisation>
+         <Latitude>45.1599349976</Latitude>
+         <Longitude>4.01997423172</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 57 42 22</Téléphone>
+      <Télécopie>+33 4 71 57 42 22</Télécopie>
+      <Email>mairie.mezeres@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

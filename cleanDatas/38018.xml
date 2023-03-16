@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38018-01" codeInsee="38018" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Auberives-en-Royans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>720 route du Vercors</Ligne>
+      <CodePostal>38680</CodePostal>
+      <NomCommune>Auberives-en-Royans</NomCommune>
+      <Localisation>
+         <Latitude>45.0646018982</Latitude>
+         <Longitude>5.2733001709</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 36 03 76</Téléphone>
+      <Télécopie>+33 4 76 36 01 26</Télécopie>
+      <Email>mairie.auberivesenroyans@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="14:30:00"/>
+         <Note>Accueil ouvert également de 16h30 à 18h30.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="14:30:00"/>
+         <Note>Accueil ouvert également de 16h30 à 18h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

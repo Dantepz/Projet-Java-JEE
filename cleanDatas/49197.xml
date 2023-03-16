@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49197-01" codeInsee="49197" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Meigné-le-Vicomte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de la Mairie</Ligne>
+      <CodePostal>49490</CodePostal>
+      <NomCommune>Meigné-le-Vicomte</NomCommune>
+      <Localisation>
+         <Latitude>47.5097999573</Latitude>
+         <Longitude>0.190800994635</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 89 58 28</Téléphone>
+      <Télécopie>+33 2 41 89 50 92</Télécopie>
+      <Email>meignelevicomte.mairie@wanadoo.fr</Email>
+      <Url>http://www.meignelevicomte.mairie49.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

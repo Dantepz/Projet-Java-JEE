@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21660-01" codeInsee="21660" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Veilly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Peute rue</Ligne>
+      <CodePostal>21360</CodePostal>
+      <NomCommune>Veilly</NomCommune>
+      <Localisation>
+         <Latitude>47.124122</Latitude>
+         <Longitude>4.59245</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 20 11 20</Téléphone>
+      <Email>mairie-de-veilly@orange.fr</Email>
+      <Url>http://veilly.perso.orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

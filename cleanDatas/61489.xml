@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61489-01" codeInsee="61489" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Tourailles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Les Tourailles</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61100</CodePostal>
+      <NomCommune>Athis-Val-de-Rouvre</NomCommune>
+      <Localisation>
+         <Latitude>48.7567520142</Latitude>
+         <Longitude>-0.406085014343</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 64 46 44</Téléphone>
+      <Email>mairiedelestourailles@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert un vendredi sur deux.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52425-01" codeInsee="52425" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rivière-les-Fosses</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue des Charrières</Ligne>
+      <CodePostal>52190</CodePostal>
+      <NomCommune>Rivière-les-Fosses</NomCommune>
+      <Localisation>
+         <Latitude>47.658383</Latitude>
+         <Longitude>5.229751</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 84 85 11</Téléphone>
+      <Télécopie>+33 3 25 84 85 11</Télécopie>
+      <Email>mairierivierelesfosses@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

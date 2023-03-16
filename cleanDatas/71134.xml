@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71134-01" codeInsee="71134" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Clermain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71520</CodePostal>
+      <NomCommune>Clermain</NomCommune>
+      <Localisation>
+         <Latitude>46.3655395508</Latitude>
+         <Longitude>4.58347415924</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 50 43 21</Téléphone>
+      <Télécopie>+33 3 85 50 43 21</Télécopie>
+      <Email>mairie-de-clermain@wanadoo.fr</Email>
+      <Url>http://www.clermain.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

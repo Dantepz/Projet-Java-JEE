@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47068-01" codeInsee="47068" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cocumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Vignerons</Ligne>
+      <CodePostal>47250</CodePostal>
+      <NomCommune>Cocumont</NomCommune>
+      <Localisation>
+         <Latitude>44.4473876953</Latitude>
+         <Longitude>0.026562999934</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 94 51 34</Téléphone>
+      <Télécopie>+33 5 53 94 56 94</Télécopie>
+      <Email>communedecocumont.47@wanadoo.fr</Email>
+      <Url>http://www.cocumont-aquitaine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

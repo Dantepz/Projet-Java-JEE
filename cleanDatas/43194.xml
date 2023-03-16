@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43194-01" codeInsee="43194" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hostien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43260</CodePostal>
+      <NomCommune>Saint-Hostien</NomCommune>
+      <Localisation>
+         <Latitude>45.0725402</Latitude>
+         <Longitude>4.0464709</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 57 60 83</Téléphone>
+      <Télécopie>+33 4 71 57 60 83</Télécopie>
+      <Email>mairie-sthostien@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

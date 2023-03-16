@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26304-01" codeInsee="26304" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Ferréol-Trente-Pas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>26110</CodePostal>
+      <NomCommune>Saint-Ferréol-Trente-Pas</NomCommune>
+      <Localisation>
+         <Latitude>44.4266242981</Latitude>
+         <Longitude>5.21761608124</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 27 72 52</Téléphone>
+      <Télécopie>+33 4 75 27 72 52</Télécopie>
+      <Email>mairiesaintfe@orange.fr</Email>
+      <Url>http://www.saint-ferreol-trente-pas.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

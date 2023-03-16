@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17059-01" codeInsee="17059" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bourgneuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, rue de la Commanderie</Ligne>
+      <CodePostal>17220</CodePostal>
+      <NomCommune>Bourgneuf</NomCommune>
+      <Localisation>
+         <Latitude>46.1684989929</Latitude>
+         <Longitude>-1.02374994755</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">avec une aide</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 55 00 28</Téléphone>
+      <Télécopie>+33 5 46 55 07 31</Télécopie>
+      <Email>mairie.bourgneuf@wanadoo.fr</Email>
+      <Url>http://www.bourgneuf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

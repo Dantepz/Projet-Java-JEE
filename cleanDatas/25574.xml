@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25574-01" codeInsee="25574" dateMiseAJour="2015-09-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Uzelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>25340</CodePostal>
+      <NomCommune>Uzelle</NomCommune>
+      <Localisation>
+         <Latitude>47.4663858</Latitude>
+         <Longitude>6.4353168</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 95 91</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

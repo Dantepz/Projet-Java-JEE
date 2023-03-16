@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84126-01" codeInsee="84126" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Séguret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier La Combe</Ligne>
+      <CodePostal>84110</CodePostal>
+      <NomCommune>Séguret</NomCommune>
+      <Localisation>
+         <Latitude>44.20559</Latitude>
+         <Longitude>5.023091</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 46 91 06</Téléphone>
+      <Télécopie>+33 4 90 46 82 33</Télécopie>
+      <Email>mairie.seguret@orange.fr</Email>
+      <Url>http://www.seguret.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

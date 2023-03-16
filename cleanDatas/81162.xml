@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81162-01" codeInsee="81162" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maurens-Scopont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place J.P. Racaud - R. Alibert</Ligne>
+      <CodePostal>81470</CodePostal>
+      <NomCommune>Maurens-Scopont</NomCommune>
+      <Localisation>
+         <Latitude>43.6417999268</Latitude>
+         <Longitude>1.76731002331</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 75 71 91</Téléphone>
+      <Télécopie>+33 5 63 75 71 91</Télécopie>
+      <Email>mairie.maurens-scopont@e-kiwi.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

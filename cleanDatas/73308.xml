@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73308-01" codeInsee="73308" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Venthon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route de la Charrière</Ligne>
+      <CodePostal>73200</CodePostal>
+      <NomCommune>Venthon</NomCommune>
+      <Localisation>
+         <Latitude>45.6882400513</Latitude>
+         <Longitude>6.41251277924</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 32 23 82</Téléphone>
+      <Télécopie>+33 4 79 32 11 11</Télécopie>
+      <Email>mairie.venthon@wanadoo.fr</Email>
+      <Url>http://www.venthon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

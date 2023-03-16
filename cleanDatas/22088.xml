@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-22088-01" codeInsee="22088" dateMiseAJour="2015-09-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Kerien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>22480</CodePostal>
+      <NomCommune>Kerien</NomCommune>
+      <Localisation>
+         <Latitude>48.390153766416034</Latitude>
+         <Longitude>-3.211667187835701</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 45 72 60</Téléphone>
+      <Télécopie>+33 2 96 45 72 60</Télécopie>
+      <Email>mairie.kerien@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68373-01" codeInsee="68373" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Winkel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue Principale</Ligne>
+      <CodePostal>68480</CodePostal>
+      <NomCommune>Winkel</NomCommune>
+      <Localisation>
+         <Latitude>47.4620167</Latitude>
+         <Longitude>7.26100629999996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 40 85 34</Téléphone>
+      <Télécopie>+33 3 89 08 11 43</Télécopie>
+      <Email>mairiewinkel@orange.fr</Email>
+      <Url>http://www.winkel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08370-01" codeInsee="08370" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rouvroy-sur-Audry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue des Marronniers</Ligne>
+      <CodePostal>08150</CodePostal>
+      <NomCommune>Rouvroy-sur-Audry</NomCommune>
+      <Localisation>
+         <Latitude>49.7880237</Latitude>
+         <Longitude>4.49230120000004</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 35 83 90</Téléphone>
+      <Télécopie>+33 3 24 35 13 60</Télécopie>
+      <Email>mairie.rouvroy-08@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

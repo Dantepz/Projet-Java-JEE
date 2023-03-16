@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59571-01" codeInsee="59571" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Solesmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Jaurès</Ligne>
+      <Ligne>BP 19</Ligne>
+      <CodePostal>59730</CodePostal>
+      <NomCommune>Solesmes</NomCommune>
+      <Localisation>
+         <Latitude>50.1844830541</Latitude>
+         <Longitude>3.49781513214</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 72 17 70</Téléphone>
+      <Télécopie>+33 3 27 72 17 79</Télécopie>
+      <Email>mairiesolesmes@nordnet.fr</Email>
+      <Url>http://www.solesmes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

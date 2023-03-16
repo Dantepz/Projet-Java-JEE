@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21675-01" codeInsee="21675" dateMiseAJour="2004-09-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vianges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>21430</CodePostal>
+      <NomCommune>VIANGES</NomCommune>
+      <Localisation>
+         <Latitude>47.1599578857</Latitude>
+         <Longitude>4.32848787308</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

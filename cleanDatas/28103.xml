@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28103-01" codeInsee="28103" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cloyes-sur-le-Loir</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Gambetta</Ligne>
+      <CodePostal>28220</CodePostal>
+      <NomCommune>Cloyes-sur-le-Loir</NomCommune>
+      <Localisation>
+         <Latitude>47.9975013733</Latitude>
+         <Longitude>1.23343002796</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 98 53 18</Téléphone>
+      <Télécopie>+33 2 37 98 43 02</Télécopie>
+      <Email>cloyes.sur.le.loir@wanadoo.fr</Email>
+      <Url>http://www.cloyes-sur-le-loir.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

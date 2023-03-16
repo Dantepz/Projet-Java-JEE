@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80509-01" codeInsee="80509" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marchélepot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue de la Poste</Ligne>
+      <CodePostal>80200</CodePostal>
+      <NomCommune>Marchélepot</NomCommune>
+      <Localisation>
+         <Latitude>49.8336753845</Latitude>
+         <Longitude>2.86453008652</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 83 95 92</Téléphone>
+      <Télécopie>+33 3 22 83 95 92</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

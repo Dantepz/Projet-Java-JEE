@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55334-01" codeInsee="55334" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ménil-la-Horgne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21, rue Dom-Calmet</Ligne>
+      <CodePostal>55190</CodePostal>
+      <NomCommune>Ménil-la-Horgne</NomCommune>
+      <Localisation>
+         <Latitude>48.702999115</Latitude>
+         <Longitude>5.5286397934</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 89 84 19</Téléphone>
+      <Télécopie>+33 3 39 89 84 19</Télécopie>
+      <Email>mairie.de.menil.la.horgne@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14238-01" codeInsee="14238" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Englesqueville-en-Auge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin de la Forge</Ligne>
+      <CodePostal>14800</CodePostal>
+      <NomCommune>Englesqueville-en-Auge</NomCommune>
+      <Localisation>
+         <Latitude>49.3298343</Latitude>
+         <Longitude>0.1379317</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 64 63 25</Téléphone>
+      <Télécopie>+33 2 31 64 63 25</Télécopie>
+      <Email>mairie.englesquevilleenauge@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

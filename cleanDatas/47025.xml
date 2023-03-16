@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47025-01" codeInsee="47025" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Archambault-de-Vençay</Ligne>
+      <CodePostal>47470</CodePostal>
+      <NomCommune>Beauville</NomCommune>
+      <Localisation>
+         <Latitude>44.2776565552</Latitude>
+         <Longitude>0.880816996098</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 95 42 04</Téléphone>
+      <Télécopie>+33 9 70 06 14 40</Télécopie>
+      <Email>mairie.beauville47@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

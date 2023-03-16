@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42069-01" codeInsee="42069" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Commelle-Vernay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>519, rue Jules-Ferry</Ligne>
+      <CodePostal>42120</CodePostal>
+      <NomCommune>Commelle-Vernay</NomCommune>
+      <Localisation>
+         <Latitude>46.0004119873</Latitude>
+         <Longitude>4.06031990051</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 23 25 90</Téléphone>
+      <Télécopie>+33 4 77 72 57 49</Télécopie>
+      <Email>mairie@mairie-commelle-vernay.fr</Email>
+      <Url>http://www.mairie-commelle-vernay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Le 1er samedi de chaque mois, sauf le mois d'août.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

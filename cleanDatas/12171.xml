@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12171-01" codeInsee="12171" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nauviale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12330</CodePostal>
+      <NomCommune>Nauviale</NomCommune>
+      <Localisation>
+         <Latitude>44.5203781128</Latitude>
+         <Longitude>2.42865395546</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 69 85 25</Téléphone>
+      <Télécopie>+33 5 65 69 88 86</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

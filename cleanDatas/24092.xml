@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24092-01" codeInsee="24092" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cendrieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24380</CodePostal>
+      <NomCommune>Cendrieux</NomCommune>
+      <Localisation>
+         <Latitude>45.020376</Latitude>
+         <Longitude>0.773191</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">par l'arrière de la mairie</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 03 22 43</Téléphone>
+      <Télécopie>+33 9 70 60 01 64</Télécopie>
+      <Email>mairie@cendrieux.fr</Email>
+      <Url>http://www.cendrieux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire de 11h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

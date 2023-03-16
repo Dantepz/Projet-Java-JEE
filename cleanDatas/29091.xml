@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-29091-01" codeInsee="29091" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Kerlouan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Côte-des-Légendes</Ligne>
+      <CodePostal>29890</CodePostal>
+      <NomCommune>Kerlouan</NomCommune>
+      <Localisation>
+         <Latitude>48.6435012817</Latitude>
+         <Longitude>-4.36428022385</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 83 93 13</Téléphone>
+      <Télécopie>+33 2 98 83 97 48</Télécopie>
+      <Email>mairie.kerlouan@wanadoo.fr</Email>
+      <Url>http://www.kerlouan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

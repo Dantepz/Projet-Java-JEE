@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73045-01" codeInsee="73045" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chef-lieu</Ligne>
+      <CodePostal>73260</CodePostal>
+      <NomCommune>Le Bois</NomCommune>
+      <Localisation>
+         <Latitude>45.490605</Latitude>
+         <Longitude>6.498598</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 24 22 63</Téléphone>
+      <Télécopie>+33 4 79 22 90 56</Télécopie>
+      <Email>mairie@lebois73.com</Email>
+      <Url>http://www.lebois73.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

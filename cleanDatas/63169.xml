@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63169-01" codeInsee="63169" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Godivelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63850</CodePostal>
+      <NomCommune>La Godivelle</NomCommune>
+      <Localisation>
+         <Latitude>45.3882637024</Latitude>
+         <Longitude>2.92237401009</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 94 80</Téléphone>
+      <Email>mairie.lagodivelle@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+         <Note>Ouverture sans interruption.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

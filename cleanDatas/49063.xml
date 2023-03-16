@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49063-01" codeInsee="49063" dateMiseAJour="2015-10-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chalonnes-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>49290</CodePostal>
+      <NomCommune>Chalonnes-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.3512891</Latitude>
+         <Longitude>-0.7608803</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 74 10 81</Téléphone>
+      <Télécopie>+33 2 41 74 14 81</Télécopie>
+      <Email>mairie@chalogne-sur-loire.fr</Email>
+      <Url>http://www.chalonnes-sur-loire.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

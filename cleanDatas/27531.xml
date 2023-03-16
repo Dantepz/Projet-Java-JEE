@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27531-01" codeInsee="27531" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Denis-des-Monts</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, route Nationale</Ligne>
+      <CodePostal>27520</CodePostal>
+      <NomCommune>Saint-Denis-des-Monts</NomCommune>
+      <Localisation>
+         <Latitude>49.2590713501</Latitude>
+         <Longitude>0.810956001282</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 18 10</Téléphone>
+      <Télécopie>+33 2 32 42 18 10</Télécopie>
+      <Email>mairiestdenisdesmonts@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+         <Note>Permanence des élus uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

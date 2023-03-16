@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02030-01" codeInsee="02030" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aubencheul-aux-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de l'Église</Ligne>
+      <CodePostal>02420</CodePostal>
+      <NomCommune>Aubencheul-aux-Bois</NomCommune>
+      <Localisation>
+         <Latitude>50.0116004944</Latitude>
+         <Longitude>3.2099199295</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 66 20 08</Téléphone>
+      <Télécopie>+33 3 23 66 20 08</Télécopie>
+      <Email>mairie.aubencheulauxbois@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

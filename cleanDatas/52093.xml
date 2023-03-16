@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52093-01" codeInsee="52093" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chalindrey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>47 rue de Langres</Ligne>
+      <CodePostal>52600</CodePostal>
+      <NomCommune>Chalindrey</NomCommune>
+      <Localisation>
+         <Latitude>47.8077011108</Latitude>
+         <Longitude>5.42272996902</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 88 50 17</Téléphone>
+      <Télécopie>+33 3 25 84 26 46</Télécopie>
+      <Email>ville-chalindrey@wanadoo.fr</Email>
+      <Url>http://www.ville-chalindrey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

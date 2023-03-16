@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43108-01" codeInsee="43108" dateMiseAJour="2015-11-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jullianges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43500</CodePostal>
+      <NomCommune>Jullianges</NomCommune>
+      <Localisation>
+         <Latitude>45.3306922913</Latitude>
+         <Longitude>3.8472468853</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 03 22 68</Téléphone>
+      <Télécopie>+33 4 71 03 21 82</Télécopie>
+      <Email>mairie-de-jullianges@wanadoo.fr</Email>
+      <Url>http://www.jullianges-mairie.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

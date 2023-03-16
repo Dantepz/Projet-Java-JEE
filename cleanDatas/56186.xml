@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56186-01" codeInsee="56186" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quiberon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de Verdun</Ligne>
+      <Ligne>BP 90801</Ligne>
+      <CodePostal>56178</CodePostal>
+      <NomCommune>Quiberon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.4863529929</Latitude>
+         <Longitude>-3.11925888062</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 30 24 00</Téléphone>
+      <Télécopie>+33 2 97 30 24 11</Télécopie>
+      <Email>quiberon@ville-quiberon.fr</Email>
+      <Url>http://www.ville-quiberon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour une permanence d'état civil ou d'informations.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

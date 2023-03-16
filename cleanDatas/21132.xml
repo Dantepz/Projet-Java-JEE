@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21132-01" codeInsee="21132" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chambœuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 Grande rue</Ligne>
+      <CodePostal>21220</CodePostal>
+      <NomCommune>Chambœuf</NomCommune>
+      <Localisation>
+         <Latitude>47.2303597</Latitude>
+         <Longitude>4.9064391</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 51 88 38</Téléphone>
+      <Télécopie>+33 3 80 49 77 95</Télécopie>
+      <Email>mairiechamboeuf@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:45:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:45:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

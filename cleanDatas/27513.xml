@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27513-01" codeInsee="27513" dateMiseAJour="2007-12-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint Aubin Des Hayes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>27410</CodePostal>
+      <NomCommune>ST AUBIN DES HAYES</NomCommune>
+      <Localisation>
+         <Latitude>49.0088996887</Latitude>
+         <Longitude>0.678135991096</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 44 40 70</Téléphone>
+      <Email>saintaubindeshayes@cc-beaumesnil.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

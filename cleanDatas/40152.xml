@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40152-01" codeInsee="40152" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lesperon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>54 place Saint-Pierre</Ligne>
+      <CodePostal>40260</CodePostal>
+      <NomCommune>Lesperon</NomCommune>
+      <Localisation>
+         <Latitude>43.9696538</Latitude>
+         <Longitude>-1.0927581</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 89 60 08</Téléphone>
+      <Télécopie>+33 5 58 89 62 07</Télécopie>
+      <Email>commune.lesperon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

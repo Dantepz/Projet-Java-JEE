@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59039-01" codeInsee="59039" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Awoingt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Albert-Mathieu</Ligne>
+      <CodePostal>59400</CodePostal>
+      <NomCommune>Awoingt</NomCommune>
+      <Localisation>
+         <Latitude>50.1561012268</Latitude>
+         <Longitude>3.2813000679</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 78 61 66</Téléphone>
+      <Télécopie>+33 9 70 62 92 77</Télécopie>
+      <Email>mairieawoingt@orange.fr</Email>
+      <Url>http://awoingt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

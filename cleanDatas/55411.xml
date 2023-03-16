@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55411-01" codeInsee="55411" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rambluzin-et-Benoite-Vaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue Haute</Ligne>
+      <CodePostal>55220</CodePostal>
+      <NomCommune>Rambluzin-et-Benoite-Vaux</NomCommune>
+      <Localisation>
+         <Latitude>48.9973297119</Latitude>
+         <Longitude>5.33577823639</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 80 57 30</Téléphone>
+      <Télécopie>+33 3 29 80 57 30</Télécopie>
+      <Email>mairie.de.rambluzin@wibox.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02673-01" codeInsee="02673" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Christophe-à-Berry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 bis rue de l'Église</Ligne>
+      <CodePostal>02290</CodePostal>
+      <NomCommune>Saint-Christophe-à-Berry</NomCommune>
+      <Localisation>
+         <Latitude>49.4100990295</Latitude>
+         <Longitude>3.13324999809</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 01 07</Téléphone>
+      <Email>stchristopheaberry@orange.fr</Email>
+      <Url>http://www.saintchristophe.venez.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

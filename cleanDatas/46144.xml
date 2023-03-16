@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46144-01" codeInsee="46144" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lacave</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <Ligne>Jardin de la Mairie</Ligne>
+      <CodePostal>46200</CodePostal>
+      <NomCommune>Lacave</NomCommune>
+      <Localisation>
+         <Latitude>44.8459091187</Latitude>
+         <Longitude>1.5577839613</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 37 03 83</Téléphone>
+      <Télécopie>+33 5 65 37 13 09</Télécopie>
+      <Email>mairie-lacave@info46.fr</Email>
+      <Url>http://www.lacave.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86207-01" codeInsee="86207" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Roche-Posay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <CodePostal>86270</CodePostal>
+      <NomCommune>La Roche-Posay</NomCommune>
+      <Localisation>
+         <Latitude>46.7865104675</Latitude>
+         <Longitude>0.812205970287</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 86 20 59</Téléphone>
+      <Télécopie>+33 5 49 86 18 93</Télécopie>
+      <Email>mairie@ville-larocheposay.com</Email>
+      <Url>http://www.larocheposay.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

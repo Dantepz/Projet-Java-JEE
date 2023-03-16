@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52146-01" codeInsee="52146" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coupray</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue de Dancevoir</Ligne>
+      <CodePostal>52210</CodePostal>
+      <NomCommune>Coupray</NomCommune>
+      <Localisation>
+         <Latitude>47.9755210876</Latitude>
+         <Longitude>4.94299888611</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 02 58 23</Téléphone>
+      <Télécopie>+33 3 25 31 27 79</Télécopie>
+      <Email>gervais.gillet@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

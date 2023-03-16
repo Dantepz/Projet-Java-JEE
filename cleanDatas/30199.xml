@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30199-01" codeInsee="30199" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pommiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>30120</CodePostal>
+      <NomCommune>Pommiers</NomCommune>
+      <Localisation>
+         <Latitude>43.951774</Latitude>
+         <Longitude>3.609552</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 81 26 44</Téléphone>
+      <Télécopie>+33 4 67 81 26 44</Télécopie>
+      <Email>mairie.pommiers30@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

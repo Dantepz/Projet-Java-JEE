@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50161-01" codeInsee="50161" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Dézert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>50620</CodePostal>
+      <NomCommune>Le Dézert</NomCommune>
+      <Localisation>
+         <Latitude>49.2039353</Latitude>
+         <Longitude>-1.1662492</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 56 80 48</Téléphone>
+      <Télécopie>+33 2 33 56 08 23</Télécopie>
+      <Email>mairie.du.dezert@wanadoo.fr</Email>
+      <Url>http://www.le-dezert.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

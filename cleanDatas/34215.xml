@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34215-01" codeInsee="34215" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pouzols</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue de l'Égalité</Ligne>
+      <CodePostal>34230</CodePostal>
+      <NomCommune>Pouzols</NomCommune>
+      <Localisation>
+         <Latitude>43.6183013916</Latitude>
+         <Longitude>3.51331996918</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 96 73 16</Téléphone>
+      <Télécopie>+33 4 67 88 74 13</Télécopie>
+      <Email>mairie@pouzols-dherault.fr</Email>
+      <Url>http://www.pouzols-dherault.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

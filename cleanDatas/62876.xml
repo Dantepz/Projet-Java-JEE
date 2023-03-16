@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62876-01" codeInsee="62876" dateMiseAJour="2013-05-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Warlencourt-Eaucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de l'Église</Ligne>
+      <CodePostal>62450</CodePostal>
+      <NomCommune>Warlencourt-Eaucourt</NomCommune>
+      <Localisation>
+         <Latitude>50.1152992249</Latitude>
+         <Longitude>2.82324004173</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 59 95 96</Téléphone>
+      <Télécopie>+33 3 21 59 95 96</Télécopie>
+      <Email>mairie.warlencourteaucourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

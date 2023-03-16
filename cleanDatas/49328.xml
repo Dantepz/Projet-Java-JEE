@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49328-01" codeInsee="49328" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saumur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Molière</Ligne>
+      <Ligne>CS 54006</Ligne>
+      <CodePostal>49408</CodePostal>
+      <NomCommune>Saumur Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.2604560852</Latitude>
+         <Longitude>-0.0761530026793</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 83 30 00</Téléphone>
+      <Télécopie>+33 2 41 83 31 99</Télécopie>
+      <Email>contact@ville-saumur.fr</Email>
+      <Url>http://www.ville-saumur.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et les affaires générales.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

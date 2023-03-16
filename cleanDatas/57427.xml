@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57427-01" codeInsee="57427" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lutzelbourg</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Konzett</Ligne>
+      <CodePostal>57820</CodePostal>
+      <NomCommune>Lutzelbourg</NomCommune>
+      <Localisation>
+         <Latitude>48.7356185913</Latitude>
+         <Longitude>7.25029087067</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 25 30 19</Téléphone>
+      <Télécopie>+33 3 87 25 33 76</Télécopie>
+      <Email>lutzelbourg@wanadoo.fr</Email>
+      <Url>http://www.lutzelbourg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

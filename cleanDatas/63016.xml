@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63016-01" codeInsee="63016" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Augerolles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de l'École</Ligne>
+      <CodePostal>63930</CodePostal>
+      <NomCommune>Augerolles</NomCommune>
+      <Localisation>
+         <Latitude>45.7239303589</Latitude>
+         <Longitude>3.62020397186</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 53 50 16</Téléphone>
+      <Télécopie>+33 4 73 53 55 97</Télécopie>
+      <Email>augerolles.mairie@free.fr</Email>
+      <Url>http://augerolles.mairie.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

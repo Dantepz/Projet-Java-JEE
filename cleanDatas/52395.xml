@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52395-01" codeInsee="52395" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Poinson-lès-Grancey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, Grande rue</Ligne>
+      <CodePostal>52160</CodePostal>
+      <NomCommune>Poinson-lès-Grancey</NomCommune>
+      <Localisation>
+         <Latitude>47.7077</Latitude>
+         <Longitude>4.985748</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 88 04 48</Téléphone>
+      <Télécopie>+33 3 25 88 04 48</Télécopie>
+      <Email>mairie.poinsonlesgrancey@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

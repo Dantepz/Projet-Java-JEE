@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65283-01" codeInsee="65283" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Loudervielle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65240</CodePostal>
+      <NomCommune>LOUDERVIELLE</NomCommune>
+      <Localisation>
+         <Latitude>42.809627533</Latitude>
+         <Longitude>0.420444995165</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 65 70</Téléphone>
+      <Télécopie>+33 5 62 99 65 70</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="17:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

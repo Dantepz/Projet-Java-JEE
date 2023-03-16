@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74268-01" codeInsee="74268" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Seynod</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Hôtel-de-Ville</Ligne>
+      <Ligne>BP 25</Ligne>
+      <CodePostal>74601</CodePostal>
+      <NomCommune>Seynod Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.8900985718</Latitude>
+         <Longitude>6.10133981705</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 33 45 00</Téléphone>
+      <Télécopie>+33 4 50 52 15 74</Télécopie>
+      <Email>courriermairie@ville-seynod.fr</Email>
+      <Url>http://www.ville-seynod.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54203-01" codeInsee="54203" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Forcelles-Saint-Gorgon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, Grande rue</Ligne>
+      <CodePostal>54330</CodePostal>
+      <NomCommune>Forcelles-Saint-Gorgon</NomCommune>
+      <Localisation>
+         <Latitude>48.4571990967</Latitude>
+         <Longitude>6.10083007812</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 26 28 07</Téléphone>
+      <Télécopie>+33 3 83 26 28 07</Télécopie>
+      <Email>mairieforcellessaintgorgon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

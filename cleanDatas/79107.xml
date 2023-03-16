@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79107-01" codeInsee="79107" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crézières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de la Mairie</Ligne>
+      <CodePostal>79110</CodePostal>
+      <NomCommune>Crézières</NomCommune>
+      <Localisation>
+         <Latitude>46.0820005</Latitude>
+         <Longitude>-0.1316613</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 29 61 88</Téléphone>
+      <Télécopie>+33 5 49 29 61 88</Télécopie>
+      <Email>mairie-crezieres@paysmellois.org</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

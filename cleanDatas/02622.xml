@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02622-01" codeInsee="02622" dateMiseAJour="2014-12-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Priez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Montmangeon</Ligne>
+      <CodePostal>02470</CodePostal>
+      <NomCommune>Priez</NomCommune>
+      <Localisation>
+         <Latitude>49.1372795105</Latitude>
+         <Longitude>3.26349401474</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 71 92 69</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

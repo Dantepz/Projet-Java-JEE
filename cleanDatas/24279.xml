@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24279-01" codeInsee="24279" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monmarvès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24560</CodePostal>
+      <NomCommune>Monmarvès</NomCommune>
+      <Localisation>
+         <Latitude>44.708981</Latitude>
+         <Longitude>0.612292</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 58 71 78</Téléphone>
+      <Télécopie>+33 5 53 58 71 78</Télécopie>
+      <Email>mairie.monmarves@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

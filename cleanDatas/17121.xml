@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17121-01" codeInsee="17121" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Couarde-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 Grande rue</Ligne>
+      <CodePostal>17670</CodePostal>
+      <NomCommune>La Couarde-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>46.1940784</Latitude>
+         <Longitude>-1.4262806</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 29 82 89</Téléphone>
+      <Télécopie>+33 5 46 29 83 81</Télécopie>
+      <Email>lacouardesurmer@mairie17.com</Email>
+      <Url>http://www.lacouardesurmer.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

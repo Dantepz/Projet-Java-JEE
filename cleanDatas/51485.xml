@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51485-01" codeInsee="51485" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hilaire-au-Temple</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 rue Louis-Cochet</Ligne>
+      <CodePostal>51400</CodePostal>
+      <NomCommune>Saint-Hilaire-au-Temple</NomCommune>
+      <Localisation>
+         <Latitude>49.0603981018</Latitude>
+         <Longitude>4.38273000717</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 32 80</Téléphone>
+      <Télécopie>+33 3 26 64 50 24</Télécopie>
+      <Email>sainthilaireautemple.mairie@orange.fr</Email>
+      <Url>http://www.sainthilaireautemple.jimdo.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="11:00:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

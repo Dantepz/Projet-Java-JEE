@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28383-01" codeInsee="28383" dateMiseAJour="2016-02-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Theuville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue de la Mairie</Ligne>
+      <CodePostal>28360</CodePostal>
+      <NomCommune>Theuville</NomCommune>
+      <Localisation>
+         <Latitude>48.365398407</Latitude>
+         <Longitude>1.63461995125</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 25 29 14</Téléphone>
+      <Télécopie>+33 8 26 38 15 70</Télécopie>
+      <Email>mairietheuville@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les semaines paires.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016 la commune de Theuville remplace les communes  de Pézy et de Theuville</Commentaire>
+</Organisme>

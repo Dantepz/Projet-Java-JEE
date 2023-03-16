@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08310-01" codeInsee="08310" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mouron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Neuve</Ligne>
+      <CodePostal>08250</CodePostal>
+      <NomCommune>Mouron</NomCommune>
+      <Localisation>
+         <Latitude>49.311135</Latitude>
+         <Longitude>4.78545559999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 71 20 69</Téléphone>
+      <Télécopie>+33 3 24 71 20 69</Télécopie>
+      <Email>commune.mouron@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07025-01" codeInsee="07025" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barnas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Saint-Théophrède</Ligne>
+      <CodePostal>07330</CodePostal>
+      <NomCommune>Barnas</NomCommune>
+      <Localisation>
+         <Latitude>44.6684572</Latitude>
+         <Longitude>4.168881</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 36 40 12</Téléphone>
+      <Télécopie>+33 9 72 14 99 89</Télécopie>
+      <Email>mairie.barnas@orange.fr</Email>
+      <Url>http://www.barnas.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:00:00" fin="12:30:00"/>
+         <Note>Accueil ouvert l'après-midi sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

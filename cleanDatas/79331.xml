@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79331-01" codeInsee="79331" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tourtenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue de la Judrie</Ligne>
+      <CodePostal>79100</CodePostal>
+      <NomCommune>Tourtenay</NomCommune>
+      <Localisation>
+         <Latitude>47.0402984619</Latitude>
+         <Longitude>-0.11706200242</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 67 72 21</Téléphone>
+      <Télécopie>+33 5 49 67 81 09</Télécopie>
+      <Email>mairie-tourtenay@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47229-01" codeInsee="47229" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Astier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>47120</CodePostal>
+      <NomCommune>Saint-Astier</NomCommune>
+      <Localisation>
+         <Latitude>44.7289543152</Latitude>
+         <Longitude>0.254422992468</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 94 78 65</Téléphone>
+      <Télécopie>+33 5 53 94 78 65</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

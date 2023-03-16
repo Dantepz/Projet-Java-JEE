@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09242-01" codeInsee="09242" dateMiseAJour="2014-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Raissac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>09300</CodePostal>
+      <NomCommune>Raissac</NomCommune>
+      <Localisation>
+         <Latitude>42.941903</Latitude>
+         <Longitude>1.813276</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 01 29 89</Téléphone>
+      <Télécopie>+33 5 61 01 29 89</Télécopie>
+      <Email>raissac@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

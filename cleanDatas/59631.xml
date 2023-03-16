@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59631-01" codeInsee="59631" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Walincourt-Selvigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Jaurès</Ligne>
+      <CodePostal>59127</CodePostal>
+      <NomCommune>Walincourt-Selvigny</NomCommune>
+      <Localisation>
+         <Latitude>50.0699589</Latitude>
+         <Longitude>3.3366461</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 82 70 37</Téléphone>
+      <Télécopie>+33 3 27 78 81 81</Télécopie>
+      <Email>contact@walincourt-selvigny.fr</Email>
+      <Url>http://wallincourt-selvigny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le samedi en juillet et en août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15250-01" codeInsee="15250" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vebret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>15240</CodePostal>
+      <NomCommune>Vebret</NomCommune>
+      <Localisation>
+         <Latitude>45.33929</Latitude>
+         <Longitude>2.520107</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 40 20 86</Téléphone>
+      <Télécopie>+33 9 70 32 28 79</Télécopie>
+      <Email>mairie.vebret@orange.fr</Email>
+      <Url>http://www.vebret.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

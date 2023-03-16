@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81326-01" codeInsee="81326" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Croix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81150</CodePostal>
+      <NomCommune>Sainte-Croix</NomCommune>
+      <Localisation>
+         <Latitude>43.9715459</Latitude>
+         <Longitude>2.068165</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 56 82 90</Téléphone>
+      <Télécopie>+33 9 70 62 75 85</Télécopie>
+      <Email>mairiedesaintecroix.tarn@orange.fr</Email>
+      <Url>http://www.sainte-croix-tarn.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

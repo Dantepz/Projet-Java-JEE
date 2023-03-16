@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35194-01" codeInsee="35194" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montreuil-sous-Pérouse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue du Petit-Manoir</Ligne>
+      <CodePostal>35500</CodePostal>
+      <NomCommune>Montreuil-sous-Pérouse</NomCommune>
+      <Localisation>
+         <Latitude>48.1498231</Latitude>
+         <Longitude>-1.2405718</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 75 14 07</Téléphone>
+      <Télécopie>+33 2 99 75 04 95</Télécopie>
+      <Email>mairie.montreuilperouse@orange.fr</Email>
+      <Url>http://www.montreuilsousperouse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert le 2e et le 4e samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-82013-01" codeInsee="82013" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaumont-de-Lomagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, place Gambetta</Ligne>
+      <Ligne>BP 39</Ligne>
+      <CodePostal>82500</CodePostal>
+      <NomCommune>Beaumont-de-Lomagne</NomCommune>
+      <Localisation>
+         <Latitude>43.8824541</Latitude>
+         <Longitude>0.9886713</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 02 32 52</Téléphone>
+      <Télécopie>+33 5 63 02 43 01</Télécopie>
+      <Email>mairie-beaumont.de.lomagne@info82.com</Email>
+      <Url>http://www.coll82.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

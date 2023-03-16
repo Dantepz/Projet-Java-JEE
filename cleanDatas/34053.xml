@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34053-01" codeInsee="34053" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Carlencas-et-Levas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Saint-Martin</Ligne>
+      <CodePostal>34600</CodePostal>
+      <NomCommune>Carlencas-et-Levas</NomCommune>
+      <Localisation>
+         <Latitude>43.6329956055</Latitude>
+         <Longitude>3.22551703453</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 95 14 19</Téléphone>
+      <Télécopie>+33 4 67 95 35 63</Télécopie>
+      <Email>carlencasma@west-telecom.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

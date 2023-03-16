@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74254-01" codeInsee="74254" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sylvestre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Crêt</Ligne>
+      <CodePostal>74540</CodePostal>
+      <NomCommune>Saint-Sylvestre</NomCommune>
+      <Localisation>
+         <Latitude>45.816734314</Latitude>
+         <Longitude>6.04752016068</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 68 11 04</Téléphone>
+      <Télécopie>+33 4 50 68 29 86</Télécopie>
+      <Email>mairie@saint-sylvestre.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

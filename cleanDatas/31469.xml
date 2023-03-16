@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31469-01" codeInsee="31469" dateMiseAJour="2007-08-03"
+           pivotLocal="mairie">
+   <Nom>mairie de saint araille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Soules</Ligne>
+      <CodePostal>31430</CodePostal>
+      <NomCommune>ST ARAILLE</NomCommune>
+      <Localisation>
+         <Latitude>43.3656997681</Latitude>
+         <Longitude>0.997974991798</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 98 30 07</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

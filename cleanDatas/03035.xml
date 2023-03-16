@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03035-01" codeInsee="03035" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bouchaud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>03130</CodePostal>
+      <NomCommune>Le Bouchaud</NomCommune>
+      <Localisation>
+         <Latitude>46.3057603</Latitude>
+         <Longitude>3.8985938</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 55 32 65</Téléphone>
+      <Télécopie>+33 4 70 55 32 65</Télécopie>
+      <Email>mairie.lebouchaud@wanadoo.fr</Email>
+      <Url>http://www.cc-donjonvallibre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

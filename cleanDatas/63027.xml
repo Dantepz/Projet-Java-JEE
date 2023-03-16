@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63027-01" codeInsee="63027" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Baffie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63600</CodePostal>
+      <NomCommune>Baffie</NomCommune>
+      <Localisation>
+         <Latitude>45.471736908</Latitude>
+         <Longitude>3.82674598694</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 95 99 96</Téléphone>
+      <Télécopie>+33 4 73 95 32 59</Télécopie>
+      <Email>baffie.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

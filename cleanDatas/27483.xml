@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27483-01" codeInsee="27483" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quatremare</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, route d'Evreux</Ligne>
+      <CodePostal>27400</CodePostal>
+      <NomCommune>Quatremare</NomCommune>
+      <Localisation>
+         <Latitude>49.1851537</Latitude>
+         <Longitude>1.0807186</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 50 57 22</Téléphone>
+      <Télécopie>+33 2 32 50 57 22</Télécopie>
+      <Email>mairie.quatremare27@wanadoo.fr</Email>
+      <Url>http://www.monclocher.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:15:00" fin="19:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

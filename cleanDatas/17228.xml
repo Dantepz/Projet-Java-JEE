@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17228-01" codeInsee="17228" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Médis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Paul-Beau</Ligne>
+      <CodePostal>17600</CodePostal>
+      <NomCommune>Médis</NomCommune>
+      <Localisation>
+         <Latitude>45.6425471</Latitude>
+         <Longitude>-0.9654368</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 05 16 01</Téléphone>
+      <Télécopie>+33 5 46 05 80 60</Télécopie>
+      <Email>contact@mairie-medis.fr</Email>
+      <Url>http://www.mairie-medis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

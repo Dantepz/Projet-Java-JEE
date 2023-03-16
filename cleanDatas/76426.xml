@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-76426-01" codeInsee="76426" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mésangueville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>346, rue du Bourg</Ligne>
+      <CodePostal>76780</CodePostal>
+      <NomCommune>Mésangueville</NomCommune>
+      <Localisation>
+         <Latitude>49.546496</Latitude>
+         <Longitude>1.559828</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 09 23 21</Téléphone>
+      <Télécopie>+33 2 35 09 23 21</Télécopie>
+      <Email>communedemesangueville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

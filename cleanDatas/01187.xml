@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01187-01" codeInsee="01187" dateMiseAJour="2016-01-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Haut Valromey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de la Croix</Ligne>
+      <CodePostal>01260</CodePostal>
+      <NomCommune>Hotonnes</NomCommune>
+      <Localisation>
+         <Latitude>46.013999939</Latitude>
+         <Longitude>5.65649986267</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 87 72 32</Téléphone>
+      <Télécopie>+33 4 79 87 73 71</Télécopie>
+      <Email>mairie.hotonnes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence du maire de 17h30 à 18h30.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil téléphonique de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil téléphonique de 9h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Haut Valromey remplace les communes d'Hotonnes, du Grand-Abergement, du Petit-Abergement et de Songieu.</Commentaire>
+</Organisme>

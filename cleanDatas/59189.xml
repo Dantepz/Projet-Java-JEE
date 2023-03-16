@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59189-01" codeInsee="59189" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eecke</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>57, rue de Godewaersvelde</Ligne>
+      <CodePostal>59114</CodePostal>
+      <NomCommune>Eecke</NomCommune>
+      <Localisation>
+         <Latitude>50.7789014</Latitude>
+         <Longitude>2.5959679</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 40 15 02</Téléphone>
+      <Télécopie>+33 3 28 40 26 79</Télécopie>
+      <Email>mairie.eecke@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

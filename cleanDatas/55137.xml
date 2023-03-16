@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55137-01" codeInsee="55137" dateMiseAJour="2015-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cuisy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 Grande rue</Ligne>
+      <CodePostal>55270</CodePostal>
+      <NomCommune>Cuisy</NomCommune>
+      <Localisation>
+         <Latitude>49.267504</Latitude>
+         <Longitude>5.178944</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

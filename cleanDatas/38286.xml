@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38286-01" codeInsee="38286" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Oulles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bourg-d'Oisans</Ligne>
+      <CodePostal>38520</CodePostal>
+      <NomCommune>Oulles</NomCommune>
+      <Localisation>
+         <Latitude>45.074409</Latitude>
+         <Longitude>5.982473</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 80 06 13</Téléphone>
+      <Télécopie>+33 4 76 79 09 18</Télécopie>
+      <Email>communeoulles@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil ouvert sur rendez-vous du lundi au samedi de 9h à 12h et de 14h à 16h uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

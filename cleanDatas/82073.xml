@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-82073-01" codeInsee="82073" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Goudourville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>82400</CodePostal>
+      <NomCommune>Goudourville</NomCommune>
+      <Localisation>
+         <Latitude>44.1141929626</Latitude>
+         <Longitude>0.928120970726</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 39 50 56</Téléphone>
+      <Télécopie>+33 5 63 39 96 17</Télécopie>
+      <Email>mairie-goudourville@info82.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Accueil fermé en juillet-août</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

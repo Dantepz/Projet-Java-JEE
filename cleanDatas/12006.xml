@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12006-01" codeInsee="12006" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Alrance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12430</CodePostal>
+      <NomCommune>Alrance</NomCommune>
+      <Localisation>
+         <Latitude>44.1315383911</Latitude>
+         <Longitude>2.68267703056</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 46 56 46</Téléphone>
+      <Télécopie>+33 5 65 46 40 05</Télécopie>
+      <Email>mairie-alrance@orange.fr</Email>
+      <Url>http://www.alrance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02233-01" codeInsee="02233" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cramaille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, rue des Sources</Ligne>
+      <CodePostal>02130</CodePostal>
+      <NomCommune>Cramaille</NomCommune>
+      <Localisation>
+         <Latitude>49.2000999451</Latitude>
+         <Longitude>3.52254009247</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 87 65</Téléphone>
+      <Télécopie>+33 3 23 55 87 65</Télécopie>
+      <Email>mairie.cramaille@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26042-01" codeInsee="26042" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauvallon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40 montée du Château</Ligne>
+      <CodePostal>26800</CodePostal>
+      <NomCommune>Beauvallon</NomCommune>
+      <Localisation>
+         <Latitude>44.8570088</Latitude>
+         <Longitude>4.9020986</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 57 03 26</Téléphone>
+      <Télécopie>+33 4 75 57 30 47</Télécopie>
+      <Email>beauvallon.mairie@wanadoo.fr</Email>
+      <Url>http://www.beauvallon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires le samedi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

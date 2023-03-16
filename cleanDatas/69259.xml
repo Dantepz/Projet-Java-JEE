@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69259-01" codeInsee="69259" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vénissieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 24</Ligne>
+      <Ligne>5 avenue Marcel-Houël</Ligne>
+      <CodePostal>69631</CodePostal>
+      <NomCommune>Vénissieux Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.6968002319</Latitude>
+         <Longitude>4.88656997681</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 21 44 44</Téléphone>
+      <Télécopie>+33 4 72 21 44 77</Télécopie>
+      <Email>contact@ville-venissieux.fr</Email>
+      <Url>http://www.ville-venissieux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Fermeture à 19h le jeudi pour les passeports et les cartes d'identité.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

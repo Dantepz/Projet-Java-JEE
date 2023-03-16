@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A232-01" codeInsee="2A232" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pila-Canale</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Jérôme-Guarnieri</Ligne>
+      <CodePostal>20123</CodePostal>
+      <NomCommune>Pila-Canale</NomCommune>
+      <Localisation>
+         <Latitude>41.812736</Latitude>
+         <Longitude>8.911024</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 24 22 24</Téléphone>
+      <Télécopie>+33 4 95 24 59 34</Télécopie>
+      <Email>mairie.pilacanale@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

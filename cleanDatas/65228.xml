@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65228-01" codeInsee="65228" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ilhet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>65410</CodePostal>
+      <NomCommune>Ilhet</NomCommune>
+      <Localisation>
+         <Latitude>42.9640235901</Latitude>
+         <Longitude>0.382923990488</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">possibilité de contacter la mairie par téléphone, un agent descendra avec le matériel approprié</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 98 75 67</Téléphone>
+      <Télécopie>+33 5 62 98 75 67</Télécopie>
+      <Email>commune.ilhet@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

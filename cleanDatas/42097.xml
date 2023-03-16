@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42097-01" codeInsee="42097" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Fouillouse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de la Croix-de-Mission</Ligne>
+      <Ligne>BP 720</Ligne>
+      <CodePostal>42484</CodePostal>
+      <NomCommune>La Fouillouse Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.5004997253</Latitude>
+         <Longitude>4.31833982468</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 30 10 34</Téléphone>
+      <Télécopie>+33 4 77 30 17 54</Télécopie>
+      <Email>mairie@lafouillouse.fr</Email>
+      <Url>http://www.lafouillouse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

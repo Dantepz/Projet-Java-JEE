@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-82078-01" codeInsee="82078" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Labastide-de-Penne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Saint-Martin</Ligne>
+      <CodePostal>82240</CodePostal>
+      <NomCommune>Labastide-de-Penne</NomCommune>
+      <Localisation>
+         <Latitude>44.2797012329</Latitude>
+         <Longitude>1.60299003124</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 64 98 79</Téléphone>
+      <Télécopie>+33 5 63 23 00 96</Télécopie>
+      <Email>mairie-labastide.de.penne@info82.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

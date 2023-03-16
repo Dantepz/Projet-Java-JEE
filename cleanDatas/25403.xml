@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25403-01" codeInsee="25403" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montlebon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Minimes</Ligne>
+      <CodePostal>25500</CodePostal>
+      <NomCommune>Montlebon</NomCommune>
+      <Localisation>
+         <Latitude>47.045118</Latitude>
+         <Longitude>6.607657</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 67 01 85</Téléphone>
+      <Télécopie>+33 3 81 67 54 55</Télécopie>
+      <Email>mairie.montlebon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63277-01" codeInsee="63277" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Peslières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63580</CodePostal>
+      <NomCommune>Peslières</NomCommune>
+      <Localisation>
+         <Latitude>45.4391173</Latitude>
+         <Longitude>3.4575208</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">sonnette</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 38 67</Téléphone>
+      <Télécopie>+33 4 73 71 38 67</Télécopie>
+      <Email>mairie.peslieres022@orange.fr</Email>
+      <Url>http://www.mairiepeslieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

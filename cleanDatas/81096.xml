@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81096-01" codeInsee="81096" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie du Fraysse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Augustin-Malroux</Ligne>
+      <CodePostal>81430</CodePostal>
+      <NomCommune>Le Fraysse</NomCommune>
+      <Localisation>
+         <Latitude>43.6230010986</Latitude>
+         <Longitude>1.73131000996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 55 80 08</Téléphone>
+      <Télécopie>+33 5 63 55 80 08</Télécopie>
+      <Email>mairie.le.fraysse@wanadoo.fr</Email>
+      <Url>http://www.mairie-lefraysse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

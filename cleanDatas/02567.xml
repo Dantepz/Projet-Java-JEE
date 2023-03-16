@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02567-01" codeInsee="02567" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ohis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue de l'Église</Ligne>
+      <CodePostal>02500</CodePostal>
+      <NomCommune>Ohis</NomCommune>
+      <Localisation>
+         <Latitude>49.9294013977</Latitude>
+         <Longitude>4.01238012314</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 97 47 08</Téléphone>
+      <Télécopie>+33 3 23 97 47 08</Télécopie>
+      <Email>mairie.ohis@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

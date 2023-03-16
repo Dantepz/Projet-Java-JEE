@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14603-01" codeInsee="14603" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-de-Condel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route Nationale</Ligne>
+      <CodePostal>14220</CodePostal>
+      <NomCommune>Saint-Laurent-de-Condel</NomCommune>
+      <Localisation>
+         <Latitude>49.0431404114</Latitude>
+         <Longitude>-0.413161993027</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 79 37 28</Téléphone>
+      <Télécopie>+33 2 31 79 02 16</Télécopie>
+      <Email>mairie.stlaurent-condel@orange.fr</Email>
+      <Url>http://saintlaurentdecondel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

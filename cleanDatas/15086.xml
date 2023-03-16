@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15086-01" codeInsee="15086" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lacapelle Barrez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>15230</CodePostal>
+      <NomCommune>LACAPELLE BARRES</NomCommune>
+      <Localisation>
+         <Latitude>44.9335098267</Latitude>
+         <Longitude>2.72132492065</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 73 43 45</Téléphone>
+      <Télécopie>+33 4 71 73 43 45</Télécopie>
+      <Email>mairie.lacapelle.barrez@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

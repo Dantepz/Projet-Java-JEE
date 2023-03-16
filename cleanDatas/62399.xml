@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62399-01" codeInsee="62399" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Habarcq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de la Poste</Ligne>
+      <CodePostal>62123</CodePostal>
+      <NomCommune>Habarcq</NomCommune>
+      <Localisation>
+         <Latitude>50.3061981201</Latitude>
+         <Longitude>2.61177992821</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 55 78 80</Téléphone>
+      <Télécopie>+33 3 21 22 29 99</Télécopie>
+      <Email>mairie.habarcq@wanadoo.fr</Email>
+      <Url>http://www.habarcq.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42061-01" codeInsee="42061" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cherier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Bourg des Moulins</Ligne>
+      <CodePostal>42430</CodePostal>
+      <NomCommune>Cherier</NomCommune>
+      <Localisation>
+         <Latitude>45.9646347371</Latitude>
+         <Longitude>3.91096115112</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 63 14 67</Téléphone>
+      <Télécopie>+33 4 77 63 14 67</Télécopie>
+      <Email>mairie.cherier@gmail.com</Email>
+      <Url>http://www.cherier.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

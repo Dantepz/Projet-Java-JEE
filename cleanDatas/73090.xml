@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73090-01" codeInsee="73090" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Compôte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Chef-Lieu</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>73630</CodePostal>
+      <NomCommune>La Compôte</NomCommune>
+      <Localisation>
+         <Latitude>45.6715049744</Latitude>
+         <Longitude>6.16037082672</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 54 84 43</Téléphone>
+      <Télécopie>+33 4 79 54 74 44</Télécopie>
+      <Email>mairiedelacompote@wanadoo.fr</Email>
+      <Url>http://www.lacompote.info</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="11:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="11:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

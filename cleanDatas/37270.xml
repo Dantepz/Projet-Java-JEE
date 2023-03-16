@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37270-01" codeInsee="37270" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vernou-sur-Brenne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Anatole-France</Ligne>
+      <CodePostal>37210</CodePostal>
+      <NomCommune>Vernou-sur-Brenne</NomCommune>
+      <Localisation>
+         <Latitude>47.4211006165</Latitude>
+         <Longitude>0.845604002476</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 52 10 35</Téléphone>
+      <Télécopie>+33 2 47 52 08 44</Télécopie>
+      <Email>mairiedevernou@wanadoo.fr</Email>
+      <Url>http://vernou-sur-brenne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 1er et le 3e samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

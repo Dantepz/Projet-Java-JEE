@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65447-01" codeInsee="65447" dateMiseAJour="2016-02-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tournay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place d'Astarac</Ligne>
+      <CodePostal>65190</CodePostal>
+      <NomCommune>Tournay</NomCommune>
+      <Localisation>
+         <Latitude>43.1850013733</Latitude>
+         <Longitude>0.243686005473</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 70 26</Téléphone>
+      <Télécopie>+33 5 62 35 78 64</Télécopie>
+      <Email>mairie@ville-tournay.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

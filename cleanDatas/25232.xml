@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25232-01" codeInsee="25232" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Faimbe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 Grande rue</Ligne>
+      <CodePostal>25250</CodePostal>
+      <NomCommune>Faimbe</NomCommune>
+      <Localisation>
+         <Latitude>47.487701416</Latitude>
+         <Longitude>6.61340999603</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 93 12 85</Téléphone>
+      <Télécopie>+33 3 81 93 12 85</Télécopie>
+      <Email>mairie.faimbe@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

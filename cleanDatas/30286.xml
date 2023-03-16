@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30286-01" codeInsee="30286" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Maximin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue des Écoles</Ligne>
+      <CodePostal>30700</CodePostal>
+      <NomCommune>Saint-Maximin</NomCommune>
+      <Localisation>
+         <Latitude>44.0164985657</Latitude>
+         <Longitude>4.46787977219</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 22 17 90</Téléphone>
+      <Télécopie>+33 4 66 03 18 66</Télécopie>
+      <Email>contact@mairiestmaximin.fr</Email>
+      <Url>http://www.mairiestmaximin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

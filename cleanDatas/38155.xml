@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38155-01" codeInsee="38155" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Entre-deux-Guiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du 11-Novembre-1918</Ligne>
+      <CodePostal>38380</CodePostal>
+      <NomCommune>Entre-deux-Guiers</NomCommune>
+      <Localisation>
+         <Latitude>45.4338989258</Latitude>
+         <Longitude>5.75271987915</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 66 05 05</Téléphone>
+      <Télécopie>+33 4 76 66 05 13</Télécopie>
+      <Email>mairie@entredeuxguiers.fr</Email>
+      <Url>http://www.entredeuxguiers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

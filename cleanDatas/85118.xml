@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85118-01" codeInsee="85118" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Landeronde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Nicollon-des-Abbayes</Ligne>
+      <CodePostal>85150</CodePostal>
+      <NomCommune>Landeronde</NomCommune>
+      <Localisation>
+         <Latitude>46.6590003967</Latitude>
+         <Longitude>-1.57244002819</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 34 22 48</Téléphone>
+      <Télécopie>+33 2 51 34 24 39</Télécopie>
+      <Email>mairie.landeronde@wanadoo.fr</Email>
+      <Url>http://www.landeronde.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Accueil fermé le jeudi après-midi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

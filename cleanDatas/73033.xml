@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73033-01" codeInsee="73033" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bauche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chef-lieu</Ligne>
+      <CodePostal>73360</CodePostal>
+      <NomCommune>La Bauche</NomCommune>
+      <Localisation>
+         <Latitude>45.4798774719</Latitude>
+         <Longitude>5.76286411285</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 36 65 17</Téléphone>
+      <Télécopie>+33 4 79 36 58 00</Télécopie>
+      <Email>mairiedelabauche@orange.fr</Email>
+      <Url>http://www.labauche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

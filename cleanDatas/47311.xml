@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47311-01" codeInsee="47311" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tourliac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>47210</CodePostal>
+      <NomCommune>Tourliac</NomCommune>
+      <Localisation>
+         <Latitude>44.6860389709</Latitude>
+         <Longitude>0.806701004505</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 36 62 99</Téléphone>
+      <Télécopie>+33 5 53 36 62 99</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

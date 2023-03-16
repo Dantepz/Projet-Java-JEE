@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02758-01" codeInsee="02758" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vailly-sur-Aisne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 place Édouard-Herriot</Ligne>
+      <Ligne>BP 14</Ligne>
+      <CodePostal>02370</CodePostal>
+      <NomCommune>Vailly-sur-Aisne</NomCommune>
+      <Localisation>
+         <Latitude>49.4104995728</Latitude>
+         <Longitude>3.51605010033</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 54 70 72</Téléphone>
+      <Télécopie>+33 3 23 54 66 95</Télécopie>
+      <Email>mairie.de.vailly@wanadoo.fr</Email>
+      <Url>http://www.vailly-sur-aisne.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

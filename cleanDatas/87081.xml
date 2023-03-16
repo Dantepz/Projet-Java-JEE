@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-87081-01" codeInsee="87081" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jourgnac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 place Thérèse-Menot</Ligne>
+      <CodePostal>87800</CodePostal>
+      <NomCommune>Jourgnac</NomCommune>
+      <Localisation>
+         <Latitude>45.718914</Latitude>
+         <Longitude>1.213842</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 58 11 41</Téléphone>
+      <Télécopie>+33 5 55 58 17 78</Télécopie>
+      <Email>mairie.jourgnac87@laposte.net</Email>
+      <Url>http://www.mairie-jourgnac.fr.</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert le vendredi jusqu'à 18h uniquement quand le samedi est fermé.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement un samedi sur deux.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

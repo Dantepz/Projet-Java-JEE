@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A345-01" codeInsee="2A345" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vero</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Piazza Communa</Ligne>
+      <CodePostal>20172</CodePostal>
+      <NomCommune>Vero</NomCommune>
+      <Localisation>
+         <Latitude>42.0622787476</Latitude>
+         <Longitude>8.93194484711</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 52 81 22</Téléphone>
+      <Télécopie>+33 4 95 52 91 24</Télécopie>
+      <Email>mairie.vero@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

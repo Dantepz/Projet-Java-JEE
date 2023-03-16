@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18025-01" codeInsee="18025" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beffes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route du Fort</Ligne>
+      <CodePostal>18320</CodePostal>
+      <NomCommune>Beffes</NomCommune>
+      <Localisation>
+         <Latitude>47.0871009827</Latitude>
+         <Longitude>3.00466990471</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 76 51 08</Téléphone>
+      <Télécopie>+33 2 48 76 50 10</Télécopie>
+      <Email>mairie.beffes@beffes.fr</Email>
+      <Url>http://www.beffes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

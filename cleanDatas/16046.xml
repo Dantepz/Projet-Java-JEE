@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16046-01" codeInsee="16046" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blanzac-Porcheresse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route de Villebois-Lavalette</Ligne>
+      <CodePostal>16250</CodePostal>
+      <NomCommune>Blanzac-Porcheresse</NomCommune>
+      <Localisation>
+         <Latitude>45.4768981934</Latitude>
+         <Longitude>0.033574000001</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">contacter la mairie avant de se déplacer pour avoir de l'aide pour ouverture des portes.</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 64 03 77</Téléphone>
+      <Télécopie>+33 5 45 64 08 03</Télécopie>
+      <Email>mairie-blanzac@wanadoo.fr</Email>
+      <Url>http://www.blanzac-porcheresse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65023-01" codeInsee="65023" dateMiseAJour="2007-11-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ardengost</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>65240</CodePostal>
+      <NomCommune>ARDENGOST</NomCommune>
+      <Localisation>
+         <Latitude>42.925113678</Latitude>
+         <Longitude>0.403584003448</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 40 18 48</Téléphone>
+      <Télécopie>+33 5 62 40 18 48</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

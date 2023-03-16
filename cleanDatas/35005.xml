@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35005-01" codeInsee="35005" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arbrissel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 Pierre-et-Marie-Curie</Ligne>
+      <CodePostal>35130</CodePostal>
+      <NomCommune>Arbrissel</NomCommune>
+      <Localisation>
+         <Latitude>47.9271850586</Latitude>
+         <Longitude>-1.30384194851</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 96 22 45</Téléphone>
+      <Télécopie>+33 2 99 96 26 36</Télécopie>
+      <Email>mairiearbrissel@laposte.net</Email>
+      <Url>http://arbrissel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

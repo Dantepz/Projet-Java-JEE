@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81229-01" codeInsee="81229" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Roquevidal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, chemin des Brugues</Ligne>
+      <CodePostal>81470</CodePostal>
+      <NomCommune>Roquevidal</NomCommune>
+      <Localisation>
+         <Latitude>43.62646</Latitude>
+         <Longitude>1.863935</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 58 70 90</Téléphone>
+      <Télécopie>+33 5 63 58 70 90</Télécopie>
+      <Email>mairie-roquevidal@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

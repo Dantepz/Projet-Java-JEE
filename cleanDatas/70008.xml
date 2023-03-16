@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70008-01" codeInsee="70008" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ainvelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Philippe-Grappin</Ligne>
+      <CodePostal>70800</CodePostal>
+      <NomCommune>Ainvelle</NomCommune>
+      <Localisation>
+         <Latitude>47.8460046</Latitude>
+         <Longitude>6.2498398</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 49 87 18</Téléphone>
+      <Télécopie>+33 3 84 49 87 18</Télécopie>
+      <Email>commune.ainvelle@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

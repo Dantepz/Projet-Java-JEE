@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27430-01" codeInsee="27430" dateMiseAJour="2016-03-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Neuve-Grange</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue des Tilleuls</Ligne>
+      <CodePostal>27150</CodePostal>
+      <NomCommune>LA NEUVE GRANGE</NomCommune>
+      <Localisation>
+         <Latitude>49.3630857</Latitude>
+         <Longitude>1.5534349</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 55 76 18</Téléphone>
+      <Télécopie>+33 2 32 55 76 18</Télécopie>
+      <Email>mairielng@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

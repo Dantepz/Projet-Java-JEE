@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80494-01" codeInsee="80494" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Louvrechy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>80250</CodePostal>
+      <NomCommune>Louvrechy</NomCommune>
+      <Localisation>
+         <Latitude>49.7335548401</Latitude>
+         <Longitude>2.39464998245</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 41 45 82</Téléphone>
+      <Télécopie>+33 3 22 41 45 82</Télécopie>
+      <Email>mairie.louvrechy@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

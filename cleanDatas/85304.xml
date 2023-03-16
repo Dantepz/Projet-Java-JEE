@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85304-01" codeInsee="85304" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vouillé-les-Marais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>85450</CodePostal>
+      <NomCommune>Vouillé-les-Marais</NomCommune>
+      <Localisation>
+         <Latitude>46.387689</Latitude>
+         <Longitude>-0.96265</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 52 55 04</Téléphone>
+      <Télécopie>+33 2 51 52 51 27</Télécopie>
+      <Email>mairie.vouille-les-marais@wanadoo.fr</Email>
+      <Url>http://www.vouille-les-marais.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

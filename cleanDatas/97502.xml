@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie_com-97502-01" codeInsee="97502" dateMiseAJour="2013-12-18"
+           pivotLocal="mairie_com">
+   <Nom>Mairie de Saint-Pierre</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>Saint-Pierre</Ligne>
+      <Ligne>BP 4213</Ligne>
+      <CodePostal>97500</CodePostal>
+      <NomCommune>Saint-Pierre-et-Miquelon</NomCommune>
+      <Localisation>
+         <Latitude>46.7798424</Latitude>
+         <Longitude>-56.173185</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+508 41 10 50</Téléphone>
+      <Télécopie>+508 41 43 13</Télécopie>
+      <Email>http://www.mairie-stpierre.fr/fr/66-contacts.php</Email>
+      <Url>http://www.mairie-stpierre.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

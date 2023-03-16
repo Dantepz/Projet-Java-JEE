@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13043-01" codeInsee="13043" dateMiseAJour="2015-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gignac-la-Nerthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>13180</CodePostal>
+      <NomCommune>Gignac-la-Nerthe</NomCommune>
+      <Localisation>
+         <Latitude>43.3881863</Latitude>
+         <Longitude>5.2313192</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 77 00 00</Téléphone>
+      <Télécopie>+33 4 42 09 79 85</Télécopie>
+      <Email>communication@mairie-gignaclanerthe.fr</Email>
+      <Url>http://www.gignaclanerthe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour connaitre horaires des différents services.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

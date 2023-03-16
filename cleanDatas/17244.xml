@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17244-01" codeInsee="17244" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montpellier-de-Médillan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 route de Meursac</Ligne>
+      <CodePostal>17260</CodePostal>
+      <NomCommune>Montpellier-de-Médillan</NomCommune>
+      <Localisation>
+         <Latitude>45.6351013184</Latitude>
+         <Longitude>-0.752519011497</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 91 62 89</Téléphone>
+      <Télécopie>+33 5 46 97 47 73</Télécopie>
+      <Email>montpellier.de.medillan@mairie17.com</Email>
+      <Url>http://www.montpellierdemedillan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

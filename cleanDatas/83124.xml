@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83124-01" codeInsee="83124" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Seillans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue du Valat</Ligne>
+      <CodePostal>83440</CodePostal>
+      <NomCommune>Seillans</NomCommune>
+      <Localisation>
+         <Latitude>43.6355705261</Latitude>
+         <Longitude>6.6440281868</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 50 45 46</Téléphone>
+      <Télécopie>+33 4 94 50 45 65</Télécopie>
+      <Email>mairie.de.seillans@wanadoo.fr</Email>
+      <Url>http://www.seillans.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

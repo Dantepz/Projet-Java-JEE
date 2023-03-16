@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14448-01" codeInsee="14448" dateMiseAJour="2007-11-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montreuil-En-Auge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Mairie</Ligne>
+      <CodePostal>14340</CodePostal>
+      <NomCommune>MONTREUIL EN AUGE</NomCommune>
+      <Localisation>
+         <Latitude>49.1509094238</Latitude>
+         <Longitude>0.0485129989684</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 63 01 34</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="15:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

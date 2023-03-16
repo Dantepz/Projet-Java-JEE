@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83039-01" codeInsee="83039" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châteauvert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Barjols</Ligne>
+      <Ligne>Hôtel-de-Ville</Ligne>
+      <CodePostal>83670</CodePostal>
+      <NomCommune>Châteauvert</NomCommune>
+      <Localisation>
+         <Latitude>43.50132</Latitude>
+         <Longitude>6.0241049</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 77 02 02</Téléphone>
+      <Télécopie>+33 4 94 77 03 79</Télécopie>
+      <Email>mairie.chateauvert83@wanadoo.fr</Email>
+      <Url>http://www.chateauvert.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

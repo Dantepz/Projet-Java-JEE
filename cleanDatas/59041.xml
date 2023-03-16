@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59041-01" codeInsee="59041" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bachant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Maubeuge</Ligne>
+      <CodePostal>59138</CodePostal>
+      <NomCommune>Bachant</NomCommune>
+      <Localisation>
+         <Latitude>50.2135009766</Latitude>
+         <Longitude>3.86509990692</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 53 61 00</Téléphone>
+      <Télécopie>+33 3 27 67 28 47</Télécopie>
+      <Email>contact@mairie-bachant.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59261-01" codeInsee="59261" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Glageon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>59132</CodePostal>
+      <NomCommune>Glageon</NomCommune>
+      <Localisation>
+         <Latitude>50.0443191528</Latitude>
+         <Longitude>4.06317996979</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 56 14 20</Téléphone>
+      <Télécopie>+33 3 27 59 77 66</Télécopie>
+      <Email>mairie.glageon@wanadoo.fr</Email>
+      <Url>http://www.glageon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

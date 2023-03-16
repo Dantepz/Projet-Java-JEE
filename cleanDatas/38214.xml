@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38214-01" codeInsee="38214" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lumbin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>38660</CodePostal>
+      <NomCommune>Lumbin</NomCommune>
+      <Localisation>
+         <Latitude>45.2765007019</Latitude>
+         <Longitude>5.88763999939</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 08 21 85</Téléphone>
+      <Télécopie>+33 4 76 92 40 98</Télécopie>
+      <Email>mairie.lumbin@wanadoo.fr</Email>
+      <Url>http://www.lumbin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

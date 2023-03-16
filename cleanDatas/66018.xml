@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66018-01" codeInsee="66018" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bastide</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>66110</CodePostal>
+      <NomCommune>La Bastide</NomCommune>
+      <Localisation>
+         <Latitude>42.5468673706</Latitude>
+         <Longitude>2.58733701706</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 39 42 81</Téléphone>
+      <Télécopie>+33 4 68 39 42 81</Télécopie>
+      <Email>mairie.la-bastide@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="12:45:00" fin="16:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

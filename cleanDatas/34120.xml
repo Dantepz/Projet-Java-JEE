@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34120-01" codeInsee="34120" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jacou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de l'Hôtel-de-Ville</Ligne>
+      <Ligne>BP 30075</Ligne>
+      <CodePostal>34830</CodePostal>
+      <NomCommune>Jacou</NomCommune>
+      <Localisation>
+         <Latitude>43.6609939</Latitude>
+         <Longitude>3.9106014</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 55 88 55</Téléphone>
+      <Télécopie>+33 4 67 59 23 28</Télécopie>
+      <Email>mairie@ville-jacou.fr</Email>
+      <Url>http://www.ville-jacou.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59220-01" codeInsee="59220" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Faches-Thumesnil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>50, rue Jean-Jaurès</Ligne>
+      <CodePostal>59155</CodePostal>
+      <NomCommune>Faches-Thumesnil</NomCommune>
+      <Localisation>
+         <Latitude>50.6027984619</Latitude>
+         <Longitude>3.06924009323</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 62 61 61</Téléphone>
+      <Télécopie>+33 3 20 62 61 62</Télécopie>
+      <Email>maes@ville-fachesthumesnil.fr</Email>
+      <Url>http://www.ville-fachesthumesnil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

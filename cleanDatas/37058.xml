@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37058-01" codeInsee="37058" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Albert-Ruelle</Ligne>
+      <CodePostal>37140</CodePostal>
+      <NomCommune>La Chapelle-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.248347</Latitude>
+         <Longitude>0.222395</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 97 33 91</Téléphone>
+      <Télécopie>+33 2 47 97 43 09</Télécopie>
+      <Email>mairie.chapelle.sur.loire@wanadoo.fr</Email>
+      <Url>http://www.la-chapelle-sur-loire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

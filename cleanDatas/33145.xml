@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33145-01" codeInsee="33145" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cursan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 route du Gestas</Ligne>
+      <CodePostal>33670</CodePostal>
+      <NomCommune>Cursan</NomCommune>
+      <Localisation>
+         <Latitude>44.8031005859</Latitude>
+         <Longitude>-0.332313001156</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 23 06 29</Téléphone>
+      <Télécopie>+33 5 56 23 06 60</Télécopie>
+      <Email>mairie@cursan.fr</Email>
+      <Url>http://www.cursan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

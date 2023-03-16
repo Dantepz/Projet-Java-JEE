@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59268-01" codeInsee="59268" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Gorgue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du 8-Mai-1945</Ligne>
+      <CodePostal>59253</CodePostal>
+      <NomCommune>La Gorgue</NomCommune>
+      <Localisation>
+         <Latitude>50.6366004944</Latitude>
+         <Longitude>2.70725011826</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 48 86 05</Téléphone>
+      <Télécopie>+33 3 28 40 83 91</Télécopie>
+      <Email>contact@ville-lagorgue.fr</Email>
+      <Url>http://www.ville-lagorgue.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Permanence de l'état civil. Pour les horaires des inscriptions scolaires, contacter la mairie.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

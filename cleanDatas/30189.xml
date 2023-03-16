@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30189-01" codeInsee="30189" dateMiseAJour="2016-01-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nîmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>30033</CodePostal>
+      <NomCommune>Nîmes Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>43.8364829</Latitude>
+         <Longitude>4.3603081</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 76 70 01</Téléphone>
+      <Télécopie>+33 4 66 76 51 74</Télécopie>
+      <Email>http://www.nimes.fr/index.php?id=contacts</Email>
+      <Url>http://www.nimes.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour les naissances et les décès.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59374-01" codeInsee="59374" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marbaix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue de Taisnières</Ligne>
+      <CodePostal>59440</CodePostal>
+      <NomCommune>Marbaix</NomCommune>
+      <Localisation>
+         <Latitude>50.1421012878</Latitude>
+         <Longitude>3.81840991974</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 59 40 50</Téléphone>
+      <Télécopie>+33 3 27 59 40 05</Télécopie>
+      <Email>mairie.marbaix@wanadoo.fr</Email>
+      <Url>http://www.marbaix.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

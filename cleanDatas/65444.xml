@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65444-01" codeInsee="65444" dateMiseAJour="2006-12-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tibiran Jaunac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65150</CodePostal>
+      <NomCommune>TIBIRAN JAUNAC</NomCommune>
+      <Localisation>
+         <Latitude>43.0479354858</Latitude>
+         <Longitude>0.543211996555</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 88 94 11</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

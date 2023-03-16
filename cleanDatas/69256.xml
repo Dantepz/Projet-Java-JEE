@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69256-01" codeInsee="69256" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vaulx-en-Velin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Nation</Ligne>
+      <Ligne>BP 30</Ligne>
+      <CodePostal>69120</CodePostal>
+      <NomCommune>Vaulx-en-Velin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.7781</Latitude>
+         <Longitude>4.92071</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 04 80 80</Téléphone>
+      <Télécopie>+33 4 72 04 62 88</Télécopie>
+      <Email>communication@ville-vaulx-en-velin.fr</Email>
+      <Url>http://www.ville-vaulx-en-velin.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

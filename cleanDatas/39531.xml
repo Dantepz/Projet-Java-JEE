@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39531-01" codeInsee="39531" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thoiria</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue de la Fontaine</Ligne>
+      <CodePostal>39130</CodePostal>
+      <NomCommune>Thoiria</NomCommune>
+      <Localisation>
+         <Latitude>46.5339012146</Latitude>
+         <Longitude>5.73687982559</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 25 25 12</Téléphone>
+      <Télécopie>+33 3 84 25 25 12</Télécopie>
+      <Email>thoiria@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="09:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

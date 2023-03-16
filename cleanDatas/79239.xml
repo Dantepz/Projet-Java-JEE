@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79239-01" codeInsee="79239" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aubin-le-Cloud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>32, rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>79450</CodePostal>
+      <NomCommune>Saint-Aubin-le-Cloud</NomCommune>
+      <Localisation>
+         <Latitude>46.6495018005</Latitude>
+         <Longitude>-0.35347700119</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 95 35 08</Téléphone>
+      <Télécopie>+33 5 49 95 38 10</Télécopie>
+      <Email>mairie.staubinlecld@wanadoo.fr</Email>
+      <Url>http://www.saint-aubin-le-cloud.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

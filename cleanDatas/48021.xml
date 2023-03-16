@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48021-01" codeInsee="48021" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bastide-Puylaurent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48250</CodePostal>
+      <NomCommune>La Bastide-Puylaurent</NomCommune>
+      <Localisation>
+         <Latitude>44.5917167664</Latitude>
+         <Longitude>3.90542888641</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 46 00 59</Téléphone>
+      <Email>mairie.labastide@wanadoo.fr</Email>
+      <Url>http://www.bastide-puylaurent.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

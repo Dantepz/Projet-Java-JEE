@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65171-01" codeInsee="65171" dateMiseAJour="2007-11-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Estarvielle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65240</CodePostal>
+      <NomCommune>ESTARVIELLE</NomCommune>
+      <Localisation>
+         <Latitude>42.8196144104</Latitude>
+         <Longitude>0.415632009506</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 67 20</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17005-01" codeInsee="17005" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Allas-Bocage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27, avenue de Saintong</Ligne>
+      <CodePostal>17150</CodePostal>
+      <NomCommune>Allas-Bocage</NomCommune>
+      <Localisation>
+         <Latitude>45.3849112</Latitude>
+         <Longitude>-0.4931488</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 48 24 88</Téléphone>
+      <Télécopie>+33 5 46 48 24 88</Télécopie>
+      <Email>mairie-allas-bocage@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

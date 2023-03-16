@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03185-01" codeInsee="03185" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montluçon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>1 rue des Conches</Ligne>
+      <Ligne>Esplanade Georges-Pompidou</Ligne>
+      <Ligne>CS 13249</Ligne>
+      <CodePostal>03106</CodePostal>
+      <NomCommune>Montluçon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.3431454</Latitude>
+         <Longitude>2.6055073</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 02 55 00</Téléphone>
+      <Télécopie>+33 4 70 02 55 19</Télécopie>
+      <Email>webmestre@mairie-montlucon.fr</Email>
+      <Url>http://www.mairie-montlucon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:15:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:15:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

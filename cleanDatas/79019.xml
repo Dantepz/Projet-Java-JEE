@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79019-01" codeInsee="79019" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aubigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue André-Ganne</Ligne>
+      <CodePostal>79390</CodePostal>
+      <NomCommune>Aubigny</NomCommune>
+      <Localisation>
+         <Latitude>46.73999</Latitude>
+         <Longitude>-0.1184198</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 69 81 13</Téléphone>
+      <Télécopie>+33 5 49 69 81 13</Télécopie>
+      <Email>mairie.aubigny79@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

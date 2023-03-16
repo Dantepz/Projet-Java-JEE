@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16199-01" codeInsee="16199" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Magnac-sur-Touvre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place de la Mairie</Ligne>
+      <CodePostal>16600</CodePostal>
+      <NomCommune>Magnac-sur-Touvre</NomCommune>
+      <Localisation>
+         <Latitude>45.665087</Latitude>
+         <Longitude>0.238267</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 37 14 50</Téléphone>
+      <Télécopie>+33 5 45 37 14 59</Télécopie>
+      <Email>mairie@magnacsurtouvre.fr</Email>
+      <Url>http://www.magnacsurtouvre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

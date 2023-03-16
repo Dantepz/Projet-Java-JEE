@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42058-01" codeInsee="42058" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chazelles-sur-Lavieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>42560</CodePostal>
+      <NomCommune>Chazelles-sur-Lavieu</NomCommune>
+      <Localisation>
+         <Latitude>45.5391998291</Latitude>
+         <Longitude>4.00052976608</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 76 78 33</Téléphone>
+      <Email>chazelles-sur-lavieu.cne@wanadoo.fr</Email>
+      <Url>http://www.chazelles-sur-lavieu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

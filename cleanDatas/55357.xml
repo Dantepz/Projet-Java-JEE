@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55357-01" codeInsee="55357" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Morgemoulin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route d'Étain</Ligne>
+      <CodePostal>55400</CodePostal>
+      <NomCommune>Morgemoulin</NomCommune>
+      <Localisation>
+         <Latitude>49.2318000793</Latitude>
+         <Longitude>5.60902023315</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 87 14 59</Téléphone>
+      <Télécopie>+33 3 29 87 14 59</Télécopie>
+      <Email>commune.morgemoulin@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62425-01" codeInsee="62425" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Hendecourt-lès-Ransart</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Le-Sergent</Ligne>
+      <CodePostal>62175</CodePostal>
+      <NomCommune>Hendecourt-lès-Ransart</NomCommune>
+      <Localisation>
+         <Latitude>50.1930928</Latitude>
+         <Longitude>2.7222084</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 59 16 22</Téléphone>
+      <Télécopie>+33 3 21 59 16 22</Télécopie>
+      <Email>commune-hendecourt@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="19:00:00" fin="20:00:00"/>
+         <Note>Secrétariat ouvert de 8h30 à 12h30 et permanence de 19h à 20h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="19:00:00" fin="20:00:00"/>
+         <Note>Secrétariat ouvert de 8h30 à 12h30 et permanence de 19h à 20h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

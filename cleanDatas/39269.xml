@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39269-01" codeInsee="39269" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jeurre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, rue Principale</Ligne>
+      <CodePostal>39360</CodePostal>
+      <NomCommune>Jeurre</NomCommune>
+      <Localisation>
+         <Latitude>46.3666992188</Latitude>
+         <Longitude>5.70780992508</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 42 51 19</Téléphone>
+      <Télécopie>+33 3 84 42 36 78</Télécopie>
+      <Email>mairie.jeurre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

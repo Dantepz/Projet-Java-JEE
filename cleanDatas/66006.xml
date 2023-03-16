@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66006-01" codeInsee="66006" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ansignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, avenue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>66220</CodePostal>
+      <NomCommune>Ansignan</NomCommune>
+      <Localisation>
+         <Latitude>42.7615013123</Latitude>
+         <Longitude>2.51541996002</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 59 09 94</Téléphone>
+      <Télécopie>+33 4 68 59 19 82</Télécopie>
+      <Email>mairie.ansignan@wanadoo.fr</Email>
+      <Url>http://www.mairie-ansignan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

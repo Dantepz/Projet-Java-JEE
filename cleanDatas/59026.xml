@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59026-01" codeInsee="59026" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aubigny-au-Bac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>59265</CodePostal>
+      <NomCommune>Aubigny-au-Bac</NomCommune>
+      <Localisation>
+         <Latitude>50.2621002197</Latitude>
+         <Longitude>3.16265010834</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 80 91 40</Téléphone>
+      <Télécopie>+33 3 27 80 97 03</Télécopie>
+      <Email>mairie.aubigny.au.bac@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

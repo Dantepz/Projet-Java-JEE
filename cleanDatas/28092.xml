@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28092-01" codeInsee="28092" dateMiseAJour="2004-09-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châtenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 Rue du Moulin</Ligne>
+      <CodePostal>28700</CodePostal>
+      <NomCommune>CHATENAY</NomCommune>
+      <Localisation>
+         <Latitude>48.507598877</Latitude>
+         <Longitude>1.31025004387</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 99 61 21</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

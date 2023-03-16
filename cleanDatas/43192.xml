@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43192-01" codeInsee="43192" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Haon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43340</CodePostal>
+      <NomCommune>Saint-Haon</NomCommune>
+      <Localisation>
+         <Latitude>44.8457269</Latitude>
+         <Longitude>3.759608</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 08 20 64</Téléphone>
+      <Télécopie>+33 4 71 01 09 43</Télécopie>
+      <Email>mairie.sthaon@wanadoo.fr</Email>
+      <Url>http://www.sainthaon43340.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

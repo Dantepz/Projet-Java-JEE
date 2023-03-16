@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63126-01" codeInsee="63126" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie du Crest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Touragne</Ligne>
+      <CodePostal>63450</CodePostal>
+      <NomCommune>Le Crest</NomCommune>
+      <Localisation>
+         <Latitude>45.6869392395</Latitude>
+         <Longitude>3.12713909149</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 39 38 63</Téléphone>
+      <Télécopie>+33 4 73 39 08 79</Télécopie>
+      <Email>communelecrest@orange.fr</Email>
+      <Url>http://www.lecrest.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

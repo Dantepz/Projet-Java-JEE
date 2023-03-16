@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74042-01" codeInsee="74042" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bonneville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de l'Hôtel-de-Ville</Ligne>
+      <Ligne>CS 70139</Ligne>
+      <CodePostal>74136</CodePostal>
+      <NomCommune>Bonneville Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.0774993896</Latitude>
+         <Longitude>6.40929985046</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 25 22 00</Téléphone>
+      <Télécopie>+33 4 50 25 22 46</Télécopie>
+      <Email>courrier@ville-bonneville.fr</Email>
+      <Url>http://www.bonneville.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34236-01" codeInsee="34236" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie du Rouet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>34380</CodePostal>
+      <NomCommune>Rouet</NomCommune>
+      <Localisation>
+         <Latitude>43.8181114197</Latitude>
+         <Longitude>3.79094696045</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 55 78 01</Téléphone>
+      <Télécopie>+33 4 67 55 78 01</Télécopie>
+      <Email>mairie.rouet@yahoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil à la mairie de Mas-de-Londres.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

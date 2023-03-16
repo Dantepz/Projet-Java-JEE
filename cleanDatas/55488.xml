@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55488-01" codeInsee="55488" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Silmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, Grande rue</Ligne>
+      <CodePostal>55000</CodePostal>
+      <NomCommune>Silmont</NomCommune>
+      <Localisation>
+         <Latitude>48.7930984497</Latitude>
+         <Longitude>5.18094015121</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 78 17 12</Téléphone>
+      <Télécopie>+33 3 29 78 91 11</Télécopie>
+      <Email>mairie.silmont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

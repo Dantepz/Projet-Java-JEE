@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13208-01" codeInsee="13208" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marseille - secteur des 6e et 8e arrondissements</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Villa Bagatelle</Ligne>
+      <Ligne>125, rue du Commandant-Rolland</Ligne>
+      <CodePostal>13008</CodePostal>
+      <NomCommune>Marseille</NomCommune>
+      <Localisation>
+         <Latitude>43.270362854</Latitude>
+         <Longitude>5.3791718483</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 55 15 84</Téléphone>
+      <Télécopie>+33 4 91 55 37 78</Télécopie>
+      <Email>http://www.mairie-marseille6-8.fr/contactez-nous.html</Email>
+      <Url>http://www.mairie-marseille6-8.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="12:45:00" fin="16:30:00"/>
+         <Note>Démarches dans les mairies de secteur : mariage, déclaration de naissance, etc. Tout usager marseillais peut se rendre dans un bureau de proximité quel que soit son domicile pour les démarches suivantes : établir une carte nationale d'identité, un passeport, la délivrance d'un certificat conforme (concubinage, chien dangereux, légalisation de signature, certificat d'hérédité, visite aux tombes), s'inscrire sur les listes électorales ou demander une réduction des tarifs de restauration scolaire. Vous pouvez contacter le BMDP par téléphone au 0810 813 813 au coût d'un appel local. Pour connaître tous ces accueils, veuillez consulter la page : http://www.marseille.fr/sitevdm/mairie/services-de-proximite/bureaux-municipaux-de-proximite.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:00:00"/>
+         <Note>Accueil ouvert uniquement pour les naissances et décès.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16397-01" codeInsee="16397" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verdille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Impasse du Logis</Ligne>
+      <CodePostal>16140</CodePostal>
+      <NomCommune>Verdille</NomCommune>
+      <Localisation>
+         <Latitude>45.8827171326</Latitude>
+         <Longitude>-0.105881996453</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 21 00 94</Téléphone>
+      <Télécopie>+33 5 45 21 06 37</Télécopie>
+      <Email>mairie.verdille@wanadoo.fr</Email>
+      <Url>http://www.verdille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

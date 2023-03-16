@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41279-01" codeInsee="41279" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villedieu-le-Château</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Principale</Ligne>
+      <CodePostal>41800</CodePostal>
+      <NomCommune>Villedieu-le-Château</NomCommune>
+      <Localisation>
+         <Latitude>47.7198982239</Latitude>
+         <Longitude>0.647907018661</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 72 41 01</Téléphone>
+      <Télécopie>+33 2 54 72 52 61</Télécopie>
+      <Email>mairie-villedieu@wanadoo.fr</Email>
+      <Url>http://www.mairie-villedieu41.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

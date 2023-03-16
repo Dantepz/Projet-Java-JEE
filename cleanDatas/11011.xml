@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11011-01" codeInsee="11011" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aragon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue de la Mairie</Ligne>
+      <CodePostal>11600</CodePostal>
+      <NomCommune>Aragon</NomCommune>
+      <Localisation>
+         <Latitude>43.2961006165</Latitude>
+         <Longitude>2.31381988525</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 77 17 87</Téléphone>
+      <Télécopie>+33 4 68 77 17 87</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

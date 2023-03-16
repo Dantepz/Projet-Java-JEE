@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72126-01" codeInsee="72126" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Épineu-le-Chevreuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Ernest-Langlais</Ligne>
+      <CodePostal>72540</CodePostal>
+      <NomCommune>Épineu-le-Chevreuil</NomCommune>
+      <Localisation>
+         <Latitude>48.037376</Latitude>
+         <Longitude>-0.117485</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 88 97 22</Téléphone>
+      <Télécopie>+33 2 43 88 97 22</Télécopie>
+      <Email>mairie-epineulechevreuil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="16:45:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="16:45:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert uniquement les semaines paires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

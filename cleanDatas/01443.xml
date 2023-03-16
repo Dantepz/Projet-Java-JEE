@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01443-01" codeInsee="01443" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villars-les-Dombes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>01330</CodePostal>
+      <NomCommune>Villars-les-Dombes</NomCommune>
+      <Localisation>
+         <Latitude>46.0015</Latitude>
+         <Longitude>5.0296</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 98 03 54</Téléphone>
+      <Télécopie>+33 4 74 98 12 77</Télécopie>
+      <Email>mairie@mairie-villars-les-dombes.org</Email>
+      <Url>http://www.villarslesdombes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

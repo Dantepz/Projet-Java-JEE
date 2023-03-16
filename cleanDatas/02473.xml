@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02473-01" codeInsee="02473" dateMiseAJour="2004-08-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mayot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Pasteur</Ligne>
+      <CodePostal>02800</CodePostal>
+      <NomCommune>MAYOT</NomCommune>
+      <Localisation>
+         <Latitude>49.70470047</Latitude>
+         <Longitude>3.38466000557</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 56 80 88</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

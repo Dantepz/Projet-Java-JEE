@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40217-01" codeInsee="40217" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Parentis-en-Born</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>258 avenue du Maréchal-Foch</Ligne>
+      <Ligne>BP 42</Ligne>
+      <CodePostal>40160</CodePostal>
+      <NomCommune>Parentis-en-Born</NomCommune>
+      <Localisation>
+         <Latitude>44.3553231</Latitude>
+         <Longitude>-1.073793300000034</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 78 40 02</Téléphone>
+      <Télécopie>+33 5 58 78 90 22</Télécopie>
+      <Email>sce-courrier@parentis.com</Email>
+      <Url>http://www.parentis.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

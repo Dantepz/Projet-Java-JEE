@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02052-01" codeInsee="02052" dateMiseAJour="2007-12-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bassoles Aulers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>02380</CodePostal>
+      <NomCommune>BASSOLES AULERS</NomCommune>
+      <Localisation>
+         <Latitude>49.5541000366</Latitude>
+         <Longitude>3.36964988708</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 52 44 12</Téléphone>
+      <Télécopie>+33 3 23 52 44 12</Télécopie>
+      <Email>bassoles-aulers-mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

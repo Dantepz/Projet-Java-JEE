@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74089-01" codeInsee="74089" dateMiseAJour="2007-11-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cordon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 route de Cordon</Ligne>
+      <CodePostal>74700</CodePostal>
+      <NomCommune>CORDON</NomCommune>
+      <Localisation>
+         <Latitude>45.9303016663</Latitude>
+         <Longitude>6.59783983231</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 05 58 04 17</Téléphone>
+      <Télécopie>+33 4 50 93 95 08</Télécopie>
+      <Email>mairie@cordon.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

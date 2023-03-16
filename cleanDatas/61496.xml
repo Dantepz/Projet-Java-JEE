@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61496-01" codeInsee="61496" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Urou-et-Crennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue de l'École</Ligne>
+      <CodePostal>61200</CodePostal>
+      <NomCommune>Urou-et-Crennes</NomCommune>
+      <Localisation>
+         <Latitude>48.7473983765</Latitude>
+         <Longitude>0.0152770001441</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 67 10 95</Téléphone>
+      <Télécopie>+33 2 33 67 58 68</Télécopie>
+      <Email>mairie.urou-et-crennes@wanadoo.fr</Email>
+      <Url>http://www.urouetcrennes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

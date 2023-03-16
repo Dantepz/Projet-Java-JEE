@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80271-01" codeInsee="80271" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Épehy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Rue Raoul-Trocmé</Ligne>
+      <CodePostal>80740</CodePostal>
+      <NomCommune>Épehy</NomCommune>
+      <Localisation>
+         <Latitude>49.933071</Latitude>
+         <Longitude>2.933353</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 90108</Ligne>
+      <Ligne>Épehy</Ligne>
+      <CodePostal>80208</CodePostal>
+      <NomCommune>Péronne Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 86 64 06</Téléphone>
+      <Télécopie>+33 3 22 86 50 13</Télécopie>
+      <Email>mairie-epehy@wanadoo.fr</Email>
+      <Url>http://www.epehy.jimdo.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62849-01" codeInsee="62849" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verton</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Mairie</Ligne>
+      <CodePostal>62180</CodePostal>
+      <NomCommune>Verton</NomCommune>
+      <Localisation>
+         <Latitude>50.4012985229</Latitude>
+         <Longitude>1.65104997158</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 84 24 40</Téléphone>
+      <Télécopie>+33 3 21 84 84 73</Télécopie>
+      <Email>commune.verton@wanadoo.fr</Email>
+      <Url>http://www.verton-village.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73039-01" codeInsee="73039" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Belmont-Tramonet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>680 route du Village</Ligne>
+      <CodePostal>73330</CodePostal>
+      <NomCommune>Belmont-Tramonet</NomCommune>
+      <Localisation>
+         <Latitude>45.5590591431</Latitude>
+         <Longitude>5.68160200119</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 32 80 00</Téléphone>
+      <Télécopie>+33 4 76 37 26 64</Télécopie>
+      <Email>mairie@belmont-tramonet.fr</Email>
+      <Url>http://www.belmont-tramonet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

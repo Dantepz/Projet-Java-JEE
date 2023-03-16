@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78138-01" codeInsee="78138" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chanteloup-les-Vignes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 rue du Général-Leclerc</Ligne>
+      <Ligne>BP 2</Ligne>
+      <CodePostal>78570</CodePostal>
+      <NomCommune>Chanteloup-les-Vignes</NomCommune>
+      <Localisation>
+         <Latitude>48.9789078</Latitude>
+         <Longitude>2.0304752</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 01 10 50</Téléphone>
+      <Télécopie>+33 1 39 70 93 09</Télécopie>
+      <Email>mairie@chanteloup-les-vignes.fr</Email>
+      <Url>http://www.chanteloup-les-vignes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

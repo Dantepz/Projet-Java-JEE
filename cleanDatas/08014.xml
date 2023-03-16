@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08014-01" codeInsee="08014" dateMiseAJour="2012-12-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Annelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, ruelle Gaillard</Ligne>
+      <CodePostal>08310</CodePostal>
+      <NomCommune>Annelles</NomCommune>
+      <Localisation>
+         <Latitude>49.4282989502</Latitude>
+         <Longitude>4.41852998734</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 72 89 99</Téléphone>
+      <Télécopie>+33 3 24 72 89 99</Télécopie>
+      <Email>communeannelles@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

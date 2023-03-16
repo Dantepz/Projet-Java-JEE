@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66028-01" codeInsee="66028" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cabestany</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Droits-de-l'Homme</Ligne>
+      <CodePostal>66330</CodePostal>
+      <NomCommune>Cabestany</NomCommune>
+      <Localisation>
+         <Latitude>42.6792373657</Latitude>
+         <Longitude>2.93729305267</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 66 36 00</Téléphone>
+      <Télécopie>+33 4 68 66 36 25</Télécopie>
+      <Email>sg@cabestany.com</Email>
+      <Url>http://www.cabestany.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="14:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

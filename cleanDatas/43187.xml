@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43187-01" codeInsee="43187" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Geneys-près-Saint-Paulien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Maison-Carrée</Ligne>
+      <CodePostal>43350</CodePostal>
+      <NomCommune>Saint-Geneys-près-Saint-Paulien</NomCommune>
+      <Localisation>
+         <Latitude>45.1574067</Latitude>
+         <Longitude>3.8251139</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 00 42 91</Téléphone>
+      <Télécopie>+33 4 71 00 53 79</Télécopie>
+      <Email>mairie.st.geneys@wanadoo.fr</Email>
+      <Url>http://www.saint-geneys.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

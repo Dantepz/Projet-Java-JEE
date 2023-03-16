@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12007-01" codeInsee="12007" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ambeyrac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12260</CodePostal>
+      <NomCommune>Ambeyrac</NomCommune>
+      <Localisation>
+         <Latitude>44.5094871521</Latitude>
+         <Longitude>1.94437098503</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 81 60 43</Téléphone>
+      <Télécopie>+33 5 65 65 54 58</Télécopie>
+      <Email>mairie.ambeyrac@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="10:00:00"/>
+         <Note>Accueil ouvert les 1er et 3e samedis de chaque mois.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31340-01" codeInsee="31340" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mervilla</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, chemin de l'Église</Ligne>
+      <CodePostal>31320</CodePostal>
+      <NomCommune>Mervilla</NomCommune>
+      <Localisation>
+         <Latitude>43.5084991455</Latitude>
+         <Longitude>1.47424995899</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 73 29 85</Téléphone>
+      <Télécopie>+33 9 70 62 76 98</Télécopie>
+      <Email>mervilla.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

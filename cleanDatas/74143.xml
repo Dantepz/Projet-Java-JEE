@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74143-01" codeInsee="74143" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie des Houches</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 1</Ligne>
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>74310</CodePostal>
+      <NomCommune>Les Houches</NomCommune>
+      <Localisation>
+         <Latitude>45.8898010254</Latitude>
+         <Longitude>6.79792022705</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 54 40 04</Téléphone>
+      <Télécopie>+33 4 50 54 55 22</Télécopie>
+      <Email>mairie@leshouches.fr</Email>
+      <Url>http://www.leshouches.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52240-01" codeInsee="52240" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Heuilley-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue de la Mairie</Ligne>
+      <CodePostal>52600</CodePostal>
+      <NomCommune>Heuilley-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>47.7549064</Latitude>
+         <Longitude>5.3911306</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 63 54 17 55</Téléphone>
+      <Email>mairie.heuilleylegrand@orange.fr</Email>
+      <Url>http://</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="14:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

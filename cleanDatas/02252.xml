@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02252-01" codeInsee="02252" dateMiseAJour="2004-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cuissy et Geny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Micherons</Ligne>
+      <CodePostal>02160</CodePostal>
+      <NomCommune>CUISSY ET GENY</NomCommune>
+      <Localisation>
+         <Latitude>49.408782959</Latitude>
+         <Longitude>3.70275902748</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 20 84 83</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

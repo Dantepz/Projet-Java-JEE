@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86070-01" codeInsee="86070" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chauvigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Moulin-Saint-Léger</Ligne>
+      <CodePostal>86300</CodePostal>
+      <NomCommune>Chauvigny</NomCommune>
+      <Localisation>
+         <Latitude>46.5699119568</Latitude>
+         <Longitude>0.644774019718</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 45 99 10</Téléphone>
+      <Télécopie>+33 5 49 46 40 60</Télécopie>
+      <Email>chauvigny@cg86.fr</Email>
+      <Url>http://www.chauvigny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

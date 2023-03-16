@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27320-01" codeInsee="27320" dateMiseAJour="2004-09-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Hay du Theil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>27370</CodePostal>
+      <NomCommune>LA HAYE DU THEIL</NomCommune>
+      <Localisation>
+         <Latitude>49.2109527588</Latitude>
+         <Longitude>0.859829008579</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 35 50 86</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:45:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

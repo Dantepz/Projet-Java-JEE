@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32285-01" codeInsee="32285" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montesquiou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>32320</CodePostal>
+      <NomCommune>Montesquiou</NomCommune>
+      <Localisation>
+         <Latitude>43.5786590576</Latitude>
+         <Longitude>0.326543986797</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 70 91 18</Téléphone>
+      <Télécopie>+33 5 62 70 92 05</Télécopie>
+      <Email>mairie.montesquiou@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

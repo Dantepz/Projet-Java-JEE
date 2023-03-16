@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73054-01" codeInsee="73054" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bourg-Saint-Maurice</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 20008</Ligne>
+      <Ligne>Place Marcel-Gaimard</Ligne>
+      <CodePostal>73704</CodePostal>
+      <NomCommune>Bourg-Saint-Maurice Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.6186609</Latitude>
+         <Longitude>6.7693948</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 07 23 33</Téléphone>
+      <Télécopie>+33 4 79 07 27 29</Télécopie>
+      <Email>mairie@bourgsaintmaurice.fr</Email>
+      <Url>http://www.bourgsaintmaurice.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

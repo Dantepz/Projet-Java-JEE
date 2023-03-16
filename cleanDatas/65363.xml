@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65363-01" codeInsee="65363" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pinas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin d'Uglas</Ligne>
+      <CodePostal>65300</CodePostal>
+      <NomCommune>Pinas</NomCommune>
+      <Localisation>
+         <Latitude>43.1142692566</Latitude>
+         <Longitude>0.435434013605</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 98 15 41</Téléphone>
+      <Télécopie>+33 5 62 98 15 41</Télécopie>
+      <Email>mairiedepinas@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

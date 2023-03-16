@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83054-01" codeInsee="83054" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Farlède</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>BP 25</Ligne>
+      <Ligne>140 place de la Liberté</Ligne>
+      <CodePostal>83210</CodePostal>
+      <NomCommune>La Farlède</NomCommune>
+      <Localisation>
+         <Latitude>43.1669407</Latitude>
+         <Longitude>6.0431494</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 27 85 85</Téléphone>
+      <Télécopie>+33 4 94 27 85 70</Télécopie>
+      <Email>communication@lafarlede.fr</Email>
+      <Url>http://www.lafarlede.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

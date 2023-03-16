@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46231-01" codeInsee="46231" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Puy-l'Évêque</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Truffière</Ligne>
+      <Ligne>BP 40</Ligne>
+      <CodePostal>46700</CodePostal>
+      <NomCommune>Puy-l'Évêque</NomCommune>
+      <Localisation>
+         <Latitude>44.5041999817</Latitude>
+         <Longitude>1.13656997681</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 30 81 45</Téléphone>
+      <Télécopie>+33 5 65 30 85 89</Télécopie>
+      <Email>mairie@puy-leveque.fr</Email>
+      <Url>http://www.puy-leveque.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

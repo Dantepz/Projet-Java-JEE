@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60345-01" codeInsee="60345" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lamécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18, Grande rue</Ligne>
+      <CodePostal>60600</CodePostal>
+      <NomCommune>Lamécourt</NomCommune>
+      <Localisation>
+         <Latitude>49.4297981262</Latitude>
+         <Longitude>2.47337007523</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 78 12 11</Téléphone>
+      <Télécopie>+33 3 44 78 12 11</Télécopie>
+      <Email>mairie.lamecourt@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+         <Note>Accueil fermé en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+         <Note>Permanence des élus uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

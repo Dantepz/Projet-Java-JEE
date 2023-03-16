@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65233-01" codeInsee="65233" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jarret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 impasse de la Mairie</Ligne>
+      <CodePostal>65100</CodePostal>
+      <NomCommune>Jarret</NomCommune>
+      <Localisation>
+         <Latitude>43.0936012268</Latitude>
+         <Longitude>-0.023125000298</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 42 95 15</Téléphone>
+      <Télécopie>+33 5 62 42 95 15</Télécopie>
+      <Email>jarret.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:45:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

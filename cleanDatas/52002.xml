@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52002-01" codeInsee="52002" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aigremont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>52400</CodePostal>
+      <NomCommune>Aigremont</NomCommune>
+      <Localisation>
+         <Latitude>48.022088</Latitude>
+         <Longitude>5.71608249999997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 90 15 17</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

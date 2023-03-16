@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52292-01" codeInsee="52292" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longeau-Percey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de Champagne</Ligne>
+      <CodePostal>52250</CodePostal>
+      <NomCommune>Longeau-Percey</NomCommune>
+      <Localisation>
+         <Latitude>47.7682991028</Latitude>
+         <Longitude>5.3099899292</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 88 42 57</Téléphone>
+      <Télécopie>+33 3 25 88 84 58</Télécopie>
+      <Email>longeau-percey@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

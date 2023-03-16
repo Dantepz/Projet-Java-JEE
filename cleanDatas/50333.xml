@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50333-01" codeInsee="50333" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Moitiers-en-Bauptois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 route de Longuerac</Ligne>
+      <CodePostal>50360</CodePostal>
+      <NomCommune>Les Moitiers-en-Bauptois</NomCommune>
+      <Localisation>
+         <Latitude>49.36464</Latitude>
+         <Longitude>-1.455335</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 41 08 87</Téléphone>
+      <Télécopie>+33 2 33 41 08 87</Télécopie>
+      <Email>mairie.lesmoitiersenauptois@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

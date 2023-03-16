@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17167-01" codeInsee="17167" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Fouilloux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>17270</CodePostal>
+      <NomCommune>Le Fouilloux</NomCommune>
+      <Localisation>
+         <Latitude>45.18981</Latitude>
+         <Longitude>-0.125864</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 04 12 49</Téléphone>
+      <Télécopie>+33 5 46 04 04 17</Télécopie>
+      <Email>mairie-le.fouilloux@wanadoo.fr</Email>
+      <Url>http://www.lefouilloux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Horaires de l'agence postale: lundi au vendredi de 9h à 12h30. Téléphone: 05 46 04 35 62.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

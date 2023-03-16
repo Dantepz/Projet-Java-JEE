@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30267-01" codeInsee="30267" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-de-Serres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, place de l'Église</Ligne>
+      <CodePostal>30350</CodePostal>
+      <NomCommune>Saint-Jean-de-Serres</NomCommune>
+      <Localisation>
+         <Latitude>44.0130996704</Latitude>
+         <Longitude>4.07853984833</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 83 41 07</Téléphone>
+      <Télécopie>+33 4 66 60 43 06</Télécopie>
+      <Email>mairie-st-jean-de-serres@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

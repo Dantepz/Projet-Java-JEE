@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24500-01" codeInsee="24500" dateMiseAJour="2014-05-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sauveur-Lalande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24700</CodePostal>
+      <NomCommune>Saint-Sauveur-Lalande</NomCommune>
+      <Localisation>
+         <Latitude>44.9858970642</Latitude>
+         <Longitude>0.253508001566</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 81 76 44</Téléphone>
+      <Télécopie>+33 5 53 81 76 44</Télécopie>
+      <Email>mairie.stsauveurlalande@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

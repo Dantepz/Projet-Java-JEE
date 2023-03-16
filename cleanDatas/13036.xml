@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13036-01" codeInsee="13036" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eyragues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Libération</Ligne>
+      <CodePostal>13630</CodePostal>
+      <NomCommune>Eyragues</NomCommune>
+      <Localisation>
+         <Latitude>43.8406659</Latitude>
+         <Longitude>4.841572</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 24 99 00</Téléphone>
+      <Télécopie>+33 4 90 92 85 91</Télécopie>
+      <Email>accueil@eyragues.fr</Email>
+      <Url>http://www.eyragues.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert à partir de 8h30 en hiver.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert à partir de 8h30 en hiver.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

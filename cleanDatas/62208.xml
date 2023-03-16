@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62208-01" codeInsee="62208" dateMiseAJour="2013-05-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Canettemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, rue Principale</Ligne>
+      <CodePostal>62270</CodePostal>
+      <NomCommune>Canettemont</NomCommune>
+      <Localisation>
+         <Latitude>50.2407989502</Latitude>
+         <Longitude>2.39059996605</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 04 31 68</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

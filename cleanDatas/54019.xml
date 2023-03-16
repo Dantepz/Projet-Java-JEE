@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54019-01" codeInsee="54019" dateMiseAJour="2007-11-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ansauville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Eglise</Ligne>
+      <CodePostal>54470</CodePostal>
+      <NomCommune>ANSAUVILLE</NomCommune>
+      <Localisation>
+         <Latitude>48.8213233948</Latitude>
+         <Longitude>5.82659387589</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 23 16 33</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77262-01" codeInsee="77262" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Louan-Villegruis-Fontaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue Perré-Louan</Ligne>
+      <CodePostal>77560</CodePostal>
+      <NomCommune>Louan-Villegruis-Fontaine</NomCommune>
+      <Localisation>
+         <Latitude>48.6264408</Latitude>
+         <Longitude>3.4776544</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 00 80 10</Téléphone>
+      <Télécopie>+33 1 64 00 80 10</Télécopie>
+      <Email>commune.louan-villgruis@wanadoo.fr</Email>
+      <Url>http://www.louan-villegruis-fontaine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert le 1er et 3e samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

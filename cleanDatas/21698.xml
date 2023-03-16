@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21698-01" codeInsee="21698" dateMiseAJour="2014-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villers-la-Faye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>21700</CodePostal>
+      <NomCommune>Villers-la-Faye</NomCommune>
+      <Localisation>
+         <Latitude>47.105514</Latitude>
+         <Longitude>4.8780499</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 62 91 39</Téléphone>
+      <Télécopie>+33 3 80 62 70 16</Télécopie>
+      <Email>mairie.villers-la-faye@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

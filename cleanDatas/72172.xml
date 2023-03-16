@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72172-01" codeInsee="72172" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Luart</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Roland-du-Luart</Ligne>
+      <CodePostal>72390</CodePostal>
+      <NomCommune>Le Luart</NomCommune>
+      <Localisation>
+         <Latitude>48.068697</Latitude>
+         <Longitude>0.584284</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 93 44 21</Téléphone>
+      <Télécopie>+33 2 43 71 14 39</Télécopie>
+      <Email>mairie.leluart@rlan.eu</Email>
+      <Url>http://pagesperso-orange.fr/mairie.du.luart</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

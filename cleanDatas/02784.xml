@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02784-01" codeInsee="02784" dateMiseAJour="2015-06-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Petit Verly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de Marchavennes</Ligne>
+      <CodePostal>02630</CodePostal>
+      <NomCommune>PETIT VERLY</NomCommune>
+      <Localisation>
+         <Latitude>49.9692687988</Latitude>
+         <Longitude>3.55705809593</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 60 89 90</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

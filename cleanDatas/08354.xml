@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08354-01" codeInsee="08354" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Raucourt-et-Flaba</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Halle</Ligne>
+      <CodePostal>08450</CodePostal>
+      <NomCommune>Raucourt-et-Flaba</NomCommune>
+      <Localisation>
+         <Latitude>49.6017775</Latitude>
+         <Longitude>4.9576639</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 26 70 97</Téléphone>
+      <Télécopie>+33 3 24 26 32 02</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54512-01" codeInsee="54512" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tanconville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 Grande rue</Ligne>
+      <CodePostal>54480</CodePostal>
+      <NomCommune>Tanconville</NomCommune>
+      <Localisation>
+         <Latitude>48.5956001282</Latitude>
+         <Longitude>6.88676023483</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 42 66 02</Téléphone>
+      <Télécopie>+33 3 83 42 66 02</Télécopie>
+      <Email>commune.tanconville@wanadoo.fr</Email>
+      <Url>http://www.tanconville.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

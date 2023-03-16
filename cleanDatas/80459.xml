@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80459-01" codeInsee="80459" dateMiseAJour="2004-10-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Laleu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la mairie</Ligne>
+      <CodePostal>80270</CodePostal>
+      <NomCommune>LALEU</NomCommune>
+      <Localisation>
+         <Latitude>50.1581993103</Latitude>
+         <Longitude>1.58661997318</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 29 06 27</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

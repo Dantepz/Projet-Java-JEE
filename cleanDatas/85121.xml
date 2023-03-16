@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85121-01" codeInsee="85121" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Langon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Anciens-Combattants</Ligne>
+      <CodePostal>85370</CodePostal>
+      <NomCommune>Le Langon</NomCommune>
+      <Localisation>
+         <Latitude>46.4371643066</Latitude>
+         <Longitude>-0.952353000641</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 52 81 84</Téléphone>
+      <Télécopie>+33 2 51 52 85 32</Télécopie>
+      <Email>mairie.le.langon@wanadoo.fr</Email>
+      <Url>http://www.lelangon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 2e et le 4e samedi du mois.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

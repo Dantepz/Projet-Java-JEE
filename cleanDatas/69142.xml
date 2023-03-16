@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69142-01" codeInsee="69142" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Mulatière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Jean-Moulin</Ligne>
+      <CodePostal>69350</CodePostal>
+      <NomCommune>La Mulatière</NomCommune>
+      <Localisation>
+         <Latitude>45.7284011841</Latitude>
+         <Longitude>4.80884981155</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 78 86 62 00</Téléphone>
+      <Télécopie>+33 4 78 51 17 11</Télécopie>
+      <Email>mairie@lamulatiere.fr</Email>
+      <Url>http://www.lamulatiere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

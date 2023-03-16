@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14423-01" codeInsee="14423" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie du Mesnil-Patry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du 11-juin-1944</Ligne>
+      <CodePostal>14740</CodePostal>
+      <NomCommune>Le Mesnil-Patry</NomCommune>
+      <Localisation>
+         <Latitude>49.2088012695</Latitude>
+         <Longitude>-0.518177986145</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 80 60 93</Téléphone>
+      <Télécopie>+33 2 31 80 60 93</Télécopie>
+      <Email>mairie.mesnilpatry@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

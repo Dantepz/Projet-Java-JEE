@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04084-01" codeInsee="04084" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Estoublon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Louis-Laurens</Ligne>
+      <CodePostal>04270</CodePostal>
+      <NomCommune>Estoublon</NomCommune>
+      <Localisation>
+         <Latitude>43.9438247681</Latitude>
+         <Longitude>6.17105388641</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 34 40 87</Téléphone>
+      <Télécopie>+33 4 92 34 48 07</Télécopie>
+      <Email>mairie.estoublon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40048-01" codeInsee="40048" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 place de la Liberté</Ligne>
+      <CodePostal>40370</CodePostal>
+      <NomCommune>Boos</NomCommune>
+      <Localisation>
+         <Latitude>43.8909988403</Latitude>
+         <Longitude>-0.994174003601</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 57 22 91</Téléphone>
+      <Email>mairieboos@wanadoo.fr</Email>
+      <Url>http://www.boos40.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17395-01" codeInsee="17395" dateMiseAJour="2015-11-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sauvant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue du Marché</Ligne>
+      <CodePostal>17610</CodePostal>
+      <NomCommune>Saint-Sauvant</NomCommune>
+      <Localisation>
+         <Latitude>45.7391014099</Latitude>
+         <Longitude>-0.505034029484</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 91 50 10</Téléphone>
+      <Email>mairie-saintsauvant@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:00:00"/>
+         <Note>Permanence Elus sur rendez-vous le vendredi</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

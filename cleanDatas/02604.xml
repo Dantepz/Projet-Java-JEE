@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02604-01" codeInsee="02604" dateMiseAJour="2015-07-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pithon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 pue Principale</Ligne>
+      <CodePostal>02480</CodePostal>
+      <NomCommune>Pithon</NomCommune>
+      <Localisation>
+         <Latitude>49.7515658</Latitude>
+         <Longitude>3.0992995</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85224-01" codeInsee="85224" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hilaire-de-Loulay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 20022</Ligne>
+      <Ligne>Rue du Chemin-Neuf</Ligne>
+      <CodePostal>85615</CodePostal>
+      <NomCommune>Montaigu Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.0041007996</Latitude>
+         <Longitude>-1.33203005791</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 48 92 92</Téléphone>
+      <Télécopie>+33 2 51 48 92 99</Télécopie>
+      <Email>contact.mairie@sainthilairedeloulay.fr</Email>
+      <Url>http://www.sainthilairedeloulay.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

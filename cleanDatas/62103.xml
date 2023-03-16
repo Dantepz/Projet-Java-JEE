@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62103-01" codeInsee="62103" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Béhagnies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue de Bihucourt</Ligne>
+      <CodePostal>62121</CodePostal>
+      <NomCommune>Béhagnies</NomCommune>
+      <Localisation>
+         <Latitude>50.1315002441</Latitude>
+         <Longitude>2.78350996971</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 24 27 92</Téléphone>
+      <Télécopie>+33 3 21 24 27 92</Télécopie>
+      <Email>commune-behagnies@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

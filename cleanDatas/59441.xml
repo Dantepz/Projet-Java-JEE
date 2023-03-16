@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59441-01" codeInsee="59441" dateMiseAJour="2011-08-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Obies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>200 rue de la Wiarde</Ligne>
+      <CodePostal>59570</CodePostal>
+      <NomCommune>OBIES</NomCommune>
+      <Localisation>
+         <Latitude>50.270401001</Latitude>
+         <Longitude>3.78736996651</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 63 15 50</Téléphone>
+      <Télécopie>+33 3 27 39 92 75</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

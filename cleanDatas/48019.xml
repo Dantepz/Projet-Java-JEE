@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48019-01" codeInsee="48019" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barre-des-Cévennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Principale</Ligne>
+      <CodePostal>48400</CodePostal>
+      <NomCommune>Barre-des-Cévennes</NomCommune>
+      <Localisation>
+         <Latitude>44.2440834045</Latitude>
+         <Longitude>3.65509009361</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 45 05 07</Téléphone>
+      <Télécopie>+33 4 66 45 28 12</Télécopie>
+      <Email>mairie.barre-des-cevennes@orange.fr</Email>
+      <Url>http://www.barredescevennes.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

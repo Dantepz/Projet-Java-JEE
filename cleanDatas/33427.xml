@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33427-01" codeInsee="33427" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-du-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40 le Bourg-Ouest</Ligne>
+      <CodePostal>33540</CodePostal>
+      <NomCommune>Saint-Laurent-du-Bois</NomCommune>
+      <Localisation>
+         <Latitude>44.6356141</Latitude>
+         <Longitude>-0.1360631</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 76 40 61</Téléphone>
+      <Télécopie>+33 5 56 76 20 33</Télécopie>
+      <Email>mairie.stlaurentdubois@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

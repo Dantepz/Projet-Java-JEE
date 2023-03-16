@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27284-01" codeInsee="27284" dateMiseAJour="2015-02-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gisors</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quai Fossé-aux-Tanneurs</Ligne>
+      <CodePostal>27140</CodePostal>
+      <NomCommune>Gisors</NomCommune>
+      <Localisation>
+         <Latitude>49.2792746</Latitude>
+         <Longitude>1.7775539</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">porte battante</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 27 60 60</Téléphone>
+      <Télécopie>+33 2 32 55 41 41</Télécopie>
+      <Email>administration.generale@mairie-gisors.fr</Email>
+      <Url>http://www.ville-gisors.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <Note>Uniquement le service Population.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

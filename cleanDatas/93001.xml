@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-93001-01" codeInsee="93001" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aubervilliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Commune-de-Paris</Ligne>
+      <CodePostal>93300</CodePostal>
+      <NomCommune>Aubervilliers</NomCommune>
+      <Localisation>
+         <Latitude>48.91461</Latitude>
+         <Longitude>2.3817895</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 39 52 00</Téléphone>
+      <Url>http://www.aubervilliers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

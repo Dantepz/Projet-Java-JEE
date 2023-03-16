@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33102-01" codeInsee="33102" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Casseuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 le Bourg</Ligne>
+      <CodePostal>33190</CodePostal>
+      <NomCommune>Casseuil</NomCommune>
+      <Localisation>
+         <Latitude>44.5855865479</Latitude>
+         <Longitude>-0.115818999708</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 71 10 50</Téléphone>
+      <Télécopie>+33 5 56 71 13 66</Télécopie>
+      <Email>mairie.mairiedecasseuil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

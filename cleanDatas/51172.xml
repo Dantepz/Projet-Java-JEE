@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51172-01" codeInsee="51172" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cormontreuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <Ligne>BP 6</Ligne>
+      <CodePostal>51350</CodePostal>
+      <NomCommune>Cormontreuil</NomCommune>
+      <Localisation>
+         <Latitude>49.2240982056</Latitude>
+         <Longitude>4.0531001091</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 82 05 53</Téléphone>
+      <Télécopie>+33 3 26 50 15 19</Télécopie>
+      <Email>mairie@cormontreuil.fr</Email>
+      <Url>http://www.cormontreuil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

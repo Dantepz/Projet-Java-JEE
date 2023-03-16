@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21641-01" codeInsee="21641" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Touillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Église</Ligne>
+      <CodePostal>21500</CodePostal>
+      <NomCommune>Touillon</NomCommune>
+      <Localisation>
+         <Latitude>47.6517762</Latitude>
+         <Longitude>4.4262971</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">entrée par la salle des fêtes</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 89 01 44</Téléphone>
+      <Télécopie>+33 3 80 89 01 44</Télécopie>
+      <Email>mairie-touillon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

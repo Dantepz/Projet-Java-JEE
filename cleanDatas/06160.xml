@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06160-01" codeInsee="06160" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villeneuve-d'Entraunes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 place Jean-Claude-Coste</Ligne>
+      <CodePostal>06470</CodePostal>
+      <NomCommune>Villeneuve-d'Entraunes</NomCommune>
+      <Localisation>
+         <Latitude>44.1212425232</Latitude>
+         <Longitude>6.79386281967</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 05 54 72</Téléphone>
+      <Télécopie>+33 4 93 03 54 99</Télécopie>
+      <Email>mairie-de-villeneuvedentraunes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

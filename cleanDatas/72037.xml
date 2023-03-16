@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72037-01" codeInsee="72037" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blèves</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, rue du Maine</Ligne>
+      <CodePostal>72600</CodePostal>
+      <NomCommune>Blèves</NomCommune>
+      <Localisation>
+         <Latitude>48.4576568604</Latitude>
+         <Longitude>0.347788006067</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 97 82 82</Téléphone>
+      <Télécopie>+33 2 43 97 82 82</Télécopie>
+      <Email>mairie.bleves@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

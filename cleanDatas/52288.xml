@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52288-01" codeInsee="52288" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lezéville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, route de Laneuville</Ligne>
+      <CodePostal>52230</CodePostal>
+      <NomCommune>Lezéville</NomCommune>
+      <Localisation>
+         <Latitude>48.4281191</Latitude>
+         <Longitude>5.3906567</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 94 55 19</Téléphone>
+      <Télécopie>+33 3 25 94 55 19</Télécopie>
+      <Email>communedelezeville@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

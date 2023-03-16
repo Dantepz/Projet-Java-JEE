@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70335-01" codeInsee="70335" dateMiseAJour="2004-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maussans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>mairie</Ligne>
+      <CodePostal>70230</CodePostal>
+      <NomCommune>MAUSSANS</NomCommune>
+      <Localisation>
+         <Latitude>47.4304008484</Latitude>
+         <Longitude>6.25226593018</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 86 00 46</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

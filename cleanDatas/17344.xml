@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17344-01" codeInsee="17344" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hilaire-de-Villefranche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, avenue de Saint-Jean-d'Angély</Ligne>
+      <CodePostal>17770</CodePostal>
+      <NomCommune>Saint-Hilaire-de-Villefranche</NomCommune>
+      <Localisation>
+         <Latitude>45.8521003723</Latitude>
+         <Longitude>-0.528483986855</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 95 30 05</Téléphone>
+      <Télécopie>+33 5 46 95 41 00</Télécopie>
+      <Email>mairie-st-hilaire@smic17.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

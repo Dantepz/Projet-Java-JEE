@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88091-01" codeInsee="88091" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Charmois-devant-Bruyères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 Grande rue</Ligne>
+      <CodePostal>88460</CodePostal>
+      <NomCommune>Charmois-devant-Bruyères</NomCommune>
+      <Localisation>
+         <Latitude>48.1394996643</Latitude>
+         <Longitude>6.60270023346</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 33 26 21</Téléphone>
+      <Télécopie>+33 3 29 33 26 21</Télécopie>
+      <Email>commune.charmois-dt-bruyeres@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

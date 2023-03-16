@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12172-01" codeInsee="12172" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie du Nayrac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12190</CodePostal>
+      <NomCommune>Le Nayrac</NomCommune>
+      <Localisation>
+         <Latitude>44.6131439209</Latitude>
+         <Longitude>2.66231894493</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 44 40 05</Téléphone>
+      <Télécopie>+33 5 65 44 46 91</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:15:00" fin="12:00:00"/>
+         <Note>Permanence du maire tous les jeudis de 09h30 à 12h00.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21263-01" codeInsee="21263" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fénay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Basse</Ligne>
+      <Ligne>Hameau-de-Chevigny</Ligne>
+      <CodePostal>21600</CodePostal>
+      <NomCommune>Fénay</NomCommune>
+      <Localisation>
+         <Latitude>47.2445297241</Latitude>
+         <Longitude>5.05842781067</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 36 62 05</Téléphone>
+      <Télécopie>+33 3 80 36 93 54</Télécopie>
+      <Email>mairie@fenay.fr</Email>
+      <Url>http://fenay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

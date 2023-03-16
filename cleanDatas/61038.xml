@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61038-01" codeInsee="61038" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bellême</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la République</Ligne>
+      <Ligne>BP 105</Ligne>
+      <CodePostal>61130</CodePostal>
+      <NomCommune>Bellême</NomCommune>
+      <Localisation>
+         <Latitude>48.3763999939</Latitude>
+         <Longitude>0.560828983784</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 85 31 00</Téléphone>
+      <Télécopie>+33 2 33 83 58 85</Télécopie>
+      <Email>mairie.belleme@wanadoo.fr</Email>
+      <Url>http://www.villedebelleme.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73248-01" codeInsee="73248" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-de-Maurienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>73300</CodePostal>
+      <NomCommune>Saint-Jean-de-Maurienne</NomCommune>
+      <Localisation>
+         <Latitude>45.2764916</Latitude>
+         <Longitude>6.3448766</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 64 11 44</Téléphone>
+      <Télécopie>+33 4 79 64 47 54</Télécopie>
+      <Email>mairie@saintjeandemaurienne.fr</Email>
+      <Url>http://www.saintjeandemaurienne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62362-01" codeInsee="62362" dateMiseAJour="2007-11-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Frévillers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue basse</Ligne>
+      <CodePostal>62127</CodePostal>
+      <NomCommune>FREVILLERS</NomCommune>
+      <Localisation>
+         <Latitude>50.396194458</Latitude>
+         <Longitude>2.52303099632</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 41 57 63</Téléphone>
+      <Télécopie>+33 3 21 47 29 81</Télécopie>
+      <Email>frevillers@cc-atrebatie.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

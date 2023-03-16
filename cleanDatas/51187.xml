@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51187-01" codeInsee="51187" dateMiseAJour="2004-09-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courlandon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>grande rue</Ligne>
+      <CodePostal>51170</CodePostal>
+      <NomCommune>COURLANDON</NomCommune>
+      <Localisation>
+         <Latitude>49.3139038086</Latitude>
+         <Longitude>3.73594403267</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 48 84 47</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31437-01" codeInsee="31437" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pouze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Les Oustalets</Ligne>
+      <CodePostal>31450</CodePostal>
+      <NomCommune>Pouze</NomCommune>
+      <Localisation>
+         <Latitude>43.4342002869</Latitude>
+         <Longitude>1.52511000633</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 81 10 94</Téléphone>
+      <Télécopie>+33 5 61 81 10 94</Télécopie>
+      <Email>mairie.pouze@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

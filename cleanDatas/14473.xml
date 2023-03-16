@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14473-01" codeInsee="14473" dateMiseAJour="2004-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Notre-Dame-de-Livaye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route nationale 13</Ligne>
+      <CodePostal>14340</CodePostal>
+      <NomCommune>Notre-Dame-de-Livaye</NomCommune>
+      <Localisation>
+         <Latitude>49.1145248413</Latitude>
+         <Longitude>0.0427450016141</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 63 95 92</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

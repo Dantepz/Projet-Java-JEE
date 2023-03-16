@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17216-01" codeInsee="17216" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lussant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40 Grand'rue</Ligne>
+      <CodePostal>17430</CodePostal>
+      <NomCommune>Lussant</NomCommune>
+      <Localisation>
+         <Latitude>45.9613990784</Latitude>
+         <Longitude>-0.82687997818</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 83 42 52</Téléphone>
+      <Télécopie>+33 5 46 83 43 39</Télécopie>
+      <Email>lussant@mairie17.com</Email>
+      <Url>http://www.mairie-lussant.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

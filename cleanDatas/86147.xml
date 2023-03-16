@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86147-01" codeInsee="86147" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marigny-Chemereau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du Parc</Ligne>
+      <CodePostal>86370</CodePostal>
+      <NomCommune>Marigny-Chemereau</NomCommune>
+      <Localisation>
+         <Latitude>46.4247016907</Latitude>
+         <Longitude>0.214129000902</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 43 41 90</Téléphone>
+      <Télécopie>+33 5 49 43 41 90</Télécopie>
+      <Email>marigny-chemereau@cg86.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:15:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:15:00" fin="16:30:00"/>
+         <Note>Accueil téléphonique uniquement le jeudi de 13h15 à 16h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

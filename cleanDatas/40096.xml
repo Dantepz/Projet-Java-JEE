@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40096-01" codeInsee="40096" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Estigarde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 chemin Clos-Casteret</Ligne>
+      <CodePostal>40240</CodePostal>
+      <NomCommune>Estigarde</NomCommune>
+      <Localisation>
+         <Latitude>44.028737</Latitude>
+         <Longitude>-0.114679000000024</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 44 87 84</Téléphone>
+      <Télécopie>+33 9 61 30 80 82</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39407-01" codeInsee="39407" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Passenans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>65 rue de l'Asile</Ligne>
+      <CodePostal>39230</CodePostal>
+      <NomCommune>Passenans</NomCommune>
+      <Localisation>
+         <Latitude>46.8251991272</Latitude>
+         <Longitude>5.6442899704</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 24 03</Téléphone>
+      <Télécopie>+33 3 84 85 24 03</Télécopie>
+      <Email>mairie.passenans@sfr.fr</Email>
+      <Url>http://passenans.jimdo.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

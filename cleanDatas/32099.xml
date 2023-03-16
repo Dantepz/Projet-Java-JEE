@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32099-01" codeInsee="32099" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cazaux-Villecomtal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>32230</CodePostal>
+      <NomCommune>Cazaux-Villecomtal</NomCommune>
+      <Localisation>
+         <Latitude>43.4479391</Latitude>
+         <Longitude>0.1710064</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 64 85 57</Téléphone>
+      <Télécopie>+33 5 62 64 85 57</Télécopie>
+      <Email>mairie.cazauxvillecomtal@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

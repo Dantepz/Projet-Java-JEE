@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02117-01" codeInsee="02117" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bray Saint Christophe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'église</Ligne>
+      <CodePostal>02480</CodePostal>
+      <NomCommune>BRAY ST CHRISTOPHE</NomCommune>
+      <Localisation>
+         <Latitude>49.765499115</Latitude>
+         <Longitude>3.18967008591</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 09 91 93</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:15:00" fin="20:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

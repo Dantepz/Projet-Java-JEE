@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81250-01" codeInsee="81250" dateMiseAJour="2004-09-25"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint Genest De Contest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Eglise</Ligne>
+      <CodePostal>81440</CodePostal>
+      <NomCommune>ST GENEST DE CONTEST</NomCommune>
+      <Localisation>
+         <Latitude>43.7594070435</Latitude>
+         <Longitude>2.14562702179</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 79 12 61</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

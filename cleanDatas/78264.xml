@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78264-01" codeInsee="78264" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gambaiseuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route de Montfort</Ligne>
+      <CodePostal>78490</CodePostal>
+      <NomCommune>Gambaiseuil</NomCommune>
+      <Localisation>
+         <Latitude>48.7574005127</Latitude>
+         <Longitude>1.7343300581</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 86 39 20</Téléphone>
+      <Télécopie>+33 1 34 86 37 55</Télécopie>
+      <Email>mairiegambaiseuil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="dimanche" fin="dimanche">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence possible tous les jours sur rendez-vous uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

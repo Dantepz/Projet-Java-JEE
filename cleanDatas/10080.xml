@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10080-01" codeInsee="10080" dateMiseAJour="2014-07-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaource</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>43, Grande rue</Ligne>
+      <CodePostal>10210</CodePostal>
+      <NomCommune>Chaource</NomCommune>
+      <Localisation>
+         <Latitude>48.0730018616</Latitude>
+         <Longitude>4.21214008331</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 40 10 46</Téléphone>
+      <Télécopie>+33 3 25 73 32 45</Télécopie>
+      <Email>mairie.chaource@wanadoo.fr</Email>
+      <Url>http://www.chaource.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

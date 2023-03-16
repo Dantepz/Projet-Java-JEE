@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60540-01" codeInsee="60540" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rivecourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de la Mairie</Ligne>
+      <CodePostal>60126</CodePostal>
+      <NomCommune>Rivecourt</NomCommune>
+      <Localisation>
+         <Latitude>49.3480987549</Latitude>
+         <Longitude>2.73626995087</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 41 18 64</Téléphone>
+      <Télécopie>+33 3 44 43 91 68</Télécopie>
+      <Email>m.rivecourt@wanadoo.fr</Email>
+      <Url>http://www.site.google.com/site/mairiederivecourt/home</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

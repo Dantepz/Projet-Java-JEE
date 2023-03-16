@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31186-01" codeInsee="31186" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fonbeauzard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Simon-Montariol</Ligne>
+      <Ligne>BP 90223</Ligne>
+      <CodePostal>31142</CodePostal>
+      <NomCommune>Fonbeauzard Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6794013977</Latitude>
+         <Longitude>1.42701995373</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 70 23 38</Téléphone>
+      <Télécopie>+33 5 61 70 87 96</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

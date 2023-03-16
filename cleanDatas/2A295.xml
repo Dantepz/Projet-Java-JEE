@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A295-01" codeInsee="2A295" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sant'Andréa-d'Orcino</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Upustanu</Ligne>
+      <CodePostal>20151</CodePostal>
+      <NomCommune>Sant'Andréa-d'Orcino</NomCommune>
+      <Localisation>
+         <Latitude>42.0456314087</Latitude>
+         <Longitude>8.80760765076</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 27 20 25</Téléphone>
+      <Télécopie>+33 4 95 27 20 25</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

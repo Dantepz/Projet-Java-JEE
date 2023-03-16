@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27006-01" codeInsee="27006" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aizier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>65, route des Chaumières</Ligne>
+      <CodePostal>27500</CodePostal>
+      <NomCommune>Aizier</NomCommune>
+      <Localisation>
+         <Latitude>49.430267334</Latitude>
+         <Longitude>0.62675601244</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 18 40</Téléphone>
+      <Télécopie>+33 2 32 42 18 40</Télécopie>
+      <Email>mairie.aizier@wibox.fr</Email>
+      <Url>http://www.aizier.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

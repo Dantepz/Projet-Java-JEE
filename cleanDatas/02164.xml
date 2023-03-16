@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02164-01" codeInsee="02164" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Charmel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue de l'Église</Ligne>
+      <CodePostal>82850</CodePostal>
+      <NomCommune>Le Charmel</NomCommune>
+      <Localisation>
+         <Latitude>49.1137815</Latitude>
+         <Longitude>3.5494493</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 70 32 89</Téléphone>
+      <Télécopie>+33 3 23 70 32 89</Télécopie>
+      <Email>mairie.lecharmel@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

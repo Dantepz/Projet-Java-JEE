@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88069-01" codeInsee="88069" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouxières-aux-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 rue du Berger</Ligne>
+      <CodePostal>88270</CodePostal>
+      <NomCommune>Bouxières-aux-Bois</NomCommune>
+      <Localisation>
+         <Latitude>48.2643013</Latitude>
+         <Longitude>6.31663990021</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 67 14 91</Téléphone>
+      <Télécopie>+33 3 29 67 14 91</Télécopie>
+      <Email>bouxieres.aux.bois.88@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28004-01" codeInsee="28004" dateMiseAJour="2007-11-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Allonnes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de la république</Ligne>
+      <CodePostal>28150</CodePostal>
+      <NomCommune>ALLONNES</NomCommune>
+      <Localisation>
+         <Latitude>48.3297996521</Latitude>
+         <Longitude>1.65603005886</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 99 31 81</Téléphone>
+      <Télécopie>+33 2 37 99 35 25</Télécopie>
+      <Email>mairie28-allonnes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

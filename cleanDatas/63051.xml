@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63051-01" codeInsee="63051" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brenat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 route du Chauffour</Ligne>
+      <CodePostal>63500</CodePostal>
+      <NomCommune>Brenat</NomCommune>
+      <Localisation>
+         <Latitude>45.5526008606</Latitude>
+         <Longitude>3.30784988403</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 55 76</Téléphone>
+      <Télécopie>+33 4 73 71 58 39</Télécopie>
+      <Email>mairie.brenat@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 14h à 17h30</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68096-01" codeInsee="68096" dateMiseAJour="2014-05-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Franken</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place du Lieutenant-Jean-de-Loisy</Ligne>
+      <CodePostal>68130</CodePostal>
+      <NomCommune>Franken</NomCommune>
+      <Localisation>
+         <Latitude>47.603262</Latitude>
+         <Longitude>7.354919</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 07 87 31</Téléphone>
+      <Télécopie>+33 3 89 07 42 73</Télécopie>
+      <Email>mairiefranken@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

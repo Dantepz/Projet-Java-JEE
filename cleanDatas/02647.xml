@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02647-01" codeInsee="02647" dateMiseAJour="2007-11-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ribeauville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 grande rue</Ligne>
+      <CodePostal>02110</CodePostal>
+      <NomCommune>RIBEAUVILLE</NomCommune>
+      <Localisation>
+         <Latitude>50.0424003601</Latitude>
+         <Longitude>3.58340001106</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 60 60 74</Téléphone>
+      <Télécopie>+33 3 23 60 60 74</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

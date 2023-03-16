@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60685-01" codeInsee="60685" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villers-Saint-Sépulcre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28, rue de la Place</Ligne>
+      <CodePostal>60134</CodePostal>
+      <NomCommune>Villers-Saint-Sépulcre</NomCommune>
+      <Localisation>
+         <Latitude>49.3656005859</Latitude>
+         <Longitude>2.21749997139</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 07 67 26</Téléphone>
+      <Télécopie>+33 3 44 07 59 22</Télécopie>
+      <Email>mairie-villersstsepulcre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

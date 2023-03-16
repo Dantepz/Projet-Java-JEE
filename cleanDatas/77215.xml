@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77215-01" codeInsee="77215" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gretz-Armainvilliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>69, rue de Paris</Ligne>
+      <CodePostal>77220</CodePostal>
+      <NomCommune>Gretz-Armainvilliers</NomCommune>
+      <Localisation>
+         <Latitude>48.7410011292</Latitude>
+         <Longitude>2.73631000519</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 42 83 00</Téléphone>
+      <Télécopie>+33 1 64 42 83 10</Télécopie>
+      <Email>contact@mairie-gretz.fr</Email>
+      <Url>http://www.gretzarmainvilliers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

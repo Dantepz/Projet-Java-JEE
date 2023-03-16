@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59171-01" codeInsee="59171" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Deheries</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de Bohain</Ligne>
+      <CodePostal>59127</CodePostal>
+      <NomCommune>DEHERIES</NomCommune>
+      <Localisation>
+         <Latitude>50.0518951416</Latitude>
+         <Longitude>3.34056711197</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 82 74 97</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

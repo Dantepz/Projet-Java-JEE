@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50438-01" codeInsee="50438" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Ronde-Haye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>50490</CodePostal>
+      <NomCommune>La Ronde-Haye</NomCommune>
+      <Localisation>
+         <Latitude>49.123298645</Latitude>
+         <Longitude>-1.41464996338</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 07 67 67</Téléphone>
+      <Télécopie>+33 2 33 07 67 67</Télécopie>
+      <Email>mairie.la-rondehaye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56087-01" codeInsee="56087" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Île-aux-Moines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Mairie</Ligne>
+      <Ligne>BP 2</Ligne>
+      <CodePostal>56780</CodePostal>
+      <NomCommune>Île-aux-Moines</NomCommune>
+      <Localisation>
+         <Latitude>47.5975</Latitude>
+         <Longitude>-2.8433</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 26 32 61</Téléphone>
+      <Télécopie>+33 2 97 26 38 27</Télécopie>
+      <Email>mairie@mairie-ileauxmoines.fr</Email>
+      <Url>http://www.mairie-ileauxmoines.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement en semaine impaire du 1er octobre au 30 avril et ouvert tous les samedis en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement l'après-midi entre le 1er mai et le 30 septembre.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement l'après-midi entre le 1er mai et le 30 septembre.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

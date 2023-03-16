@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61478-01" codeInsee="61478" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Taillebois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Taillebois</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61100</CodePostal>
+      <NomCommune>Athis-Val-de-Rouvre</NomCommune>
+      <Localisation>
+         <Latitude>48.8014446</Latitude>
+         <Longitude>-0.4285</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 64 48 56</Téléphone>
+      <Email>mairiede-taillebois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

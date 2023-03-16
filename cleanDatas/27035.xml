@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27035-01" codeInsee="27035" dateMiseAJour="2013-08-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bailleul-la-Vallée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>27260</CodePostal>
+      <NomCommune>Bailleul-la-Vallée</NomCommune>
+      <Localisation>
+         <Latitude>49.2005996704</Latitude>
+         <Longitude>0.427827000618</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone coût="Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .">0825 08 85 45</Téléphone>
+      <Email>mairie.bailleullavallee@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

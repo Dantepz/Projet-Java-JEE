@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11124-01" codeInsee="11124" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Durban-Corbières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue de la Mairie</Ligne>
+      <CodePostal>11360</CodePostal>
+      <NomCommune>Durban-Corbières</NomCommune>
+      <Localisation>
+         <Latitude>42.9954986572</Latitude>
+         <Longitude>2.81347990036</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 45 90 12</Téléphone>
+      <Télécopie>+33 4 68 45 84 20</Télécopie>
+      <Email>mairiededurban@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

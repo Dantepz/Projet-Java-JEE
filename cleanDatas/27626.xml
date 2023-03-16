@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27626-01" codeInsee="27626" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Theillement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>625, route de la Mairie</Ligne>
+      <CodePostal>27520</CodePostal>
+      <NomCommune>Theillement</NomCommune>
+      <Localisation>
+         <Latitude>49.2876807</Latitude>
+         <Longitude>0.799592399999938</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 63 79</Téléphone>
+      <Télécopie>+33 2 32 41 90 92</Télécopie>
+      <Email>mairie.theillement@cegetel.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

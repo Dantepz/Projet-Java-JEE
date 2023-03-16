@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59113-01" codeInsee="59113" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bruille-lez-Marchiennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Roger-Salengro</Ligne>
+      <CodePostal>59490</CodePostal>
+      <NomCommune>Bruille-lez-Marchiennes</NomCommune>
+      <Localisation>
+         <Latitude>50.3564021</Latitude>
+         <Longitude>3.2386269</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 71 39 69</Téléphone>
+      <Télécopie>+33 3 27 71 39 60</Télécopie>
+      <Email>m.bruillemarch@wanadoo.fr</Email>
+      <Url>http://www.bruillelezmarchiennes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

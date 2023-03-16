@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-76412-01" codeInsee="76412" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Martainville-Épreville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>311, route du Château</Ligne>
+      <CodePostal>76116</CodePostal>
+      <NomCommune>Martainville-Épreville</NomCommune>
+      <Localisation>
+         <Latitude>49.4598579407</Latitude>
+         <Longitude>1.29496002197</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 23 40 16</Téléphone>
+      <Télécopie>+33 2 35 23 15 78</Télécopie>
+      <Email>mairie-sg.martainville-epreville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

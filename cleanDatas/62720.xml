@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62720-01" codeInsee="62720" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rombly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de l'Estrèe Blanche</Ligne>
+      <CodePostal>62120</CodePostal>
+      <NomCommune>ROMBLY</NomCommune>
+      <Localisation>
+         <Latitude>50.5979995728</Latitude>
+         <Longitude>2.3874900341</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 26 31 50</Téléphone>
+      <Email>rombly.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

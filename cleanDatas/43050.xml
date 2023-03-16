@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43050-01" codeInsee="43050" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chambezon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43410</CodePostal>
+      <NomCommune>Chambezon</NomCommune>
+      <Localisation>
+         <Latitude>45.3801307678</Latitude>
+         <Longitude>3.2406771183</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 76 59 55</Téléphone>
+      <Télécopie>+33 4 71 76 59 55</Télécopie>
+      <Email>mairie-chamdezon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="dimanche" fin="dimanche">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

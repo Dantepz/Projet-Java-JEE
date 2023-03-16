@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53030-01" codeInsee="53030" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bignon-du-Maine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du Lin</Ligne>
+      <CodePostal>53170</CodePostal>
+      <NomCommune>Le Bignon-du-Maine</NomCommune>
+      <Localisation>
+         <Latitude>47.9501037598</Latitude>
+         <Longitude>-0.610701024532</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 98 42 64</Téléphone>
+      <Télécopie>+33 2 43 98 69 50</Télécopie>
+      <Email>mairie.le.bignon.du.maine@wanadoo.fr</Email>
+      <Url>http://www.lebignondumaine.mairie53.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

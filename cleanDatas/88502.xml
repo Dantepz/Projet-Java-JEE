@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88502-01" codeInsee="88502" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vervezelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de la Mairie</Ligne>
+      <CodePostal>88600</CodePostal>
+      <NomCommune>Vervezelle</NomCommune>
+      <Localisation>
+         <Latitude>48.193901062</Latitude>
+         <Longitude>6.70144987106</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 50 20 38</Téléphone>
+      <Télécopie>+33 3 29 50 20 38</Télécopie>
+      <Email>communevervezelle@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

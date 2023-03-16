@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83042-01" codeInsee="83042" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cogolin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <CodePostal>83312</CodePostal>
+      <NomCommune>Cogolin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.2518645</Latitude>
+         <Longitude>6.5335011</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 56 65 45</Téléphone>
+      <Télécopie>+33 4 94 54 03 91</Télécopie>
+      <Email>mairie@cogolin.fr</Email>
+      <Url>http://www.cogolin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

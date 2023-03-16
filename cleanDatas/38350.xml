@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38350-01" codeInsee="38350" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Agnès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Ville</Ligne>
+      <CodePostal>38190</CodePostal>
+      <NomCommune>Sainte-Agnès</NomCommune>
+      <Localisation>
+         <Latitude>45.2375984192</Latitude>
+         <Longitude>5.92328977585</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 71 48 85</Téléphone>
+      <Télécopie>+33 4 76 13 04 84</Télécopie>
+      <Email>mairie.ste-agnes38@wanadoo.fr</Email>
+      <Url>http://www.sainte-agnes38.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

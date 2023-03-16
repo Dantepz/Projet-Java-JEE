@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60231-01" codeInsee="60231" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Feigneux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, Grand'rue</Ligne>
+      <CodePostal>60800</CodePostal>
+      <NomCommune>Feigneux</NomCommune>
+      <Localisation>
+         <Latitude>49.261100769</Latitude>
+         <Longitude>2.93074989319</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 59 03 05</Téléphone>
+      <Télécopie>+33 3 44 87 25 46</Télécopie>
+      <Email>mairie.feigneux@sfr.fr</Email>
+      <Url>http://www.mairie-feigneux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

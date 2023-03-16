@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10273-01" codeInsee="10273" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d' Ortillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de la Chapelle</Ligne>
+      <CodePostal>10700</CodePostal>
+      <NomCommune>ORTILLON</NomCommune>
+      <Localisation>
+         <Latitude>48.5125732422</Latitude>
+         <Longitude>4.24770689011</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 37 02 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

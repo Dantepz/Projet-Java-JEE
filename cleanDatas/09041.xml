@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09041-01" codeInsee="09041" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bastide-du-Salat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 allée du Pré-Commun</Ligne>
+      <CodePostal>09160</CodePostal>
+      <NomCommune>La Bastide-du-Salat</NomCommune>
+      <Localisation>
+         <Latitude>43.0480181</Latitude>
+         <Longitude>0.9964712</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 96 60 36</Téléphone>
+      <Télécopie>+33 5 61 96 60 36</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32287-01" codeInsee="32287" dateMiseAJour="2004-08-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monties</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>32420</CodePostal>
+      <NomCommune>MONTIES</NomCommune>
+      <Localisation>
+         <Latitude>43.4249000549</Latitude>
+         <Longitude>0.644465982914</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 66 11 70</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

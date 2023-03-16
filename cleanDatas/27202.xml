@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27202-01" codeInsee="27202" dateMiseAJour="2007-11-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Daubeuf Près Vatteville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue des acacias</Ligne>
+      <CodePostal>27430</CodePostal>
+      <NomCommune>DAUBEUF PRES VATTEVILLE</NomCommune>
+      <Localisation>
+         <Latitude>49.2660331726</Latitude>
+         <Longitude>1.30156600475</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 54 13 09</Téléphone>
+      <Télécopie>+33 2 32 54 13 09</Télécopie>
+      <Email>commune.daubeuf@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

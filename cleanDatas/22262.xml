@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-22262-01" codeInsee="22262" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quintin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place du Martray</Ligne>
+      <CodePostal>22800</CodePostal>
+      <NomCommune>Quintin</NomCommune>
+      <Localisation>
+         <Latitude>48.4033761</Latitude>
+         <Longitude>-2.9127096</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 74 84 01</Téléphone>
+      <Télécopie>+33 2 96 74 06 53</Télécopie>
+      <Email>mairie@quintin.fr</Email>
+      <Url>http://www.quintin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

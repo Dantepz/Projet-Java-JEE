@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-29247-01" codeInsee="29247" dateMiseAJour="2014-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Évarzec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de la Mairie</Ligne>
+      <CodePostal>29170</CodePostal>
+      <NomCommune>Saint-Évarzec</NomCommune>
+      <Localisation>
+         <Latitude>47.9363721</Latitude>
+         <Longitude>-4.0217033</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 56 28 29</Téléphone>
+      <Télécopie>+33 2 98 56 72 21</Télécopie>
+      <Email>mairie-saint-evarzec@wanadoo.fr</Email>
+      <Url>http://www.saint-evarzec.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

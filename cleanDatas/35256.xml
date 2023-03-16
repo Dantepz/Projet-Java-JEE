@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35256-01" codeInsee="35256" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Briac-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 place Tony-Vaccaro</Ligne>
+      <CodePostal>35800</CodePostal>
+      <NomCommune>Saint-Briac-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>48.619354</Latitude>
+         <Longitude>-2.132691</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 88 32 34</Téléphone>
+      <Télécopie>+33 2 99 88 39 35</Télécopie>
+      <Email>saint-briac@wanadoo.fr</Email>
+      <Url>http://www.saintbriac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="15:00:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

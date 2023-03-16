@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72376-01" codeInsee="72376" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villaines-sous-Lucé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue de Saint-Calais</Ligne>
+      <CodePostal>72150</CodePostal>
+      <NomCommune>Villaines-sous-Lucé</NomCommune>
+      <Localisation>
+         <Latitude>47.8666000366</Latitude>
+         <Longitude>0.481546014547</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 40 92 66</Téléphone>
+      <Télécopie>+33 2 43 40 87 38</Télécopie>
+      <Email>villaines-sous-luce@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le dernier samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

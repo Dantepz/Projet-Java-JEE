@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35148-01" codeInsee="35148" dateMiseAJour="2014-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lanrigan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Fresne</Ligne>
+      <CodePostal>35270</CodePostal>
+      <NomCommune>Lanrigan</NomCommune>
+      <Localisation>
+         <Latitude>48.3962364197</Latitude>
+         <Longitude>-1.69913697243</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 73 01 85</Téléphone>
+      <Télécopie>+33 2 99 73 57 24</Télécopie>
+      <Email>mairiedelanrigan@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert uniquement le 1er samedi du mois</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

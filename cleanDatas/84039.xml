@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84039-01" codeInsee="84039" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courthézon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Château de Val-Seille</Ligne>
+      <Ligne>BP 14</Ligne>
+      <CodePostal>84350</CodePostal>
+      <NomCommune>Courthézon</NomCommune>
+      <Localisation>
+         <Latitude>44.0862388611</Latitude>
+         <Longitude>4.88396120071</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">sonnette</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 70 72 06</Téléphone>
+      <Télécopie>+33 4 90 70 22 15</Télécopie>
+      <Email>mairie@courthezon.fr</Email>
+      <Url>http://www.courthezon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert le 1er, 2e et 3e samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

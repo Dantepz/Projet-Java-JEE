@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27579-01" codeInsee="27579" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Ouen-de-Pontcheuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Château</Ligne>
+      <CodePostal>27370</CodePostal>
+      <NomCommune>Saint-Ouen-de-Pontcheuil</NomCommune>
+      <Localisation>
+         <Latitude>49.2346458435</Latitude>
+         <Longitude>0.980619013309</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 35 57 32</Téléphone>
+      <Télécopie>+33 2 32 35 57 32</Télécopie>
+      <Email>mairie.stouendepontcheuil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

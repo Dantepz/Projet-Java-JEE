@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65239-01" codeInsee="65239" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Labastide</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>Labastide</NomCommune>
+      <Localisation>
+         <Latitude>43.0351969</Latitude>
+         <Longitude>0.3523797</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 98 82 13</Téléphone>
+      <Email>mairielabastide65@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire de 10h à 12h uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85175-01" codeInsee="85175" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie des Pineaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue de l'Océan</Ligne>
+      <CodePostal>85320</CodePostal>
+      <NomCommune>Les Pineaux</NomCommune>
+      <Localisation>
+         <Latitude>46.5975554</Latitude>
+         <Longitude>-1.1788187</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 30 50 58</Téléphone>
+      <Télécopie>+33 2 51 28 23 07</Télécopie>
+      <Email>mairie-les-pineaux@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

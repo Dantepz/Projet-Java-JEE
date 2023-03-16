@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51325-01" codeInsee="51325" dateMiseAJour="2016-01-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lisse-en-Champagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Stumel</Ligne>
+      <CodePostal>51300</CodePostal>
+      <NomCommune>Lisse-en-Champagne</NomCommune>
+      <Localisation>
+         <Latitude>48.8140525818</Latitude>
+         <Longitude>4.64245891571</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 73 96 87</Téléphone>
+      <Télécopie>+33 3 26 73 96 87</Télécopie>
+      <Email>mairielisse@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

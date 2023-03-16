@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17156-01" codeInsee="17156" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Expiremont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>17130</CodePostal>
+      <NomCommune>Expiremont</NomCommune>
+      <Localisation>
+         <Latitude>45.3239479065</Latitude>
+         <Longitude>-0.37165799737</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 62 13 83 72</Téléphone>
+      <Télécopie>+33 5 46 49 44 13</Télécopie>
+      <Email>mairie.expiremont@wanadoo.fr</Email>
+      <Url>http://www.canton-montendre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72335-01" codeInsee="72335" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sillé-le-Philippe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Neuve</Ligne>
+      <CodePostal>72460</CodePostal>
+      <NomCommune>Sillé-le-Philippe</NomCommune>
+      <Localisation>
+         <Latitude>48.107385</Latitude>
+         <Longitude>0.348992</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 27 51 08</Téléphone>
+      <Télécopie>+33 2 43 27 39 66</Télécopie>
+      <Email>mairie-de-sille-le-philippe@wanadoo.fr</Email>
+      <Url>http://www.sille-le-philippe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

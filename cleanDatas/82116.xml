@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-82116-01" codeInsee="82116" dateMiseAJour="2007-11-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montagudet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>82110</CodePostal>
+      <NomCommune>MONTAGUDET</NomCommune>
+      <Localisation>
+         <Latitude>44.2441101074</Latitude>
+         <Longitude>1.09322595596</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 94 60 69</Téléphone>
+      <Télécopie>+33 5 63 94 60 56</Télécopie>
+      <Email>mairie-montagudet@info82.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

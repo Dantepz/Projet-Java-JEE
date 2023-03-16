@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17342-01" codeInsee="17342" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Germain-du-Seudre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue Eutrope-Dupon</Ligne>
+      <CodePostal>17240</CodePostal>
+      <NomCommune>Saint-Germain-du-Seudre</NomCommune>
+      <Localisation>
+         <Latitude>45.512802124</Latitude>
+         <Longitude>-0.668489992619</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 70 91 61</Téléphone>
+      <Télécopie>+33 5 46 49 84 47</Télécopie>
+      <Email>saint-germain-du-seudre@mairie17.com</Email>
+      <Url>http://stgermainduseudre.monsite.wanadoo.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

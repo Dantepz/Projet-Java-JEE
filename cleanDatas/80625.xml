@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80625-01" codeInsee="80625" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pierrepont-sur-Avre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du 8-Mai-1945</Ligne>
+      <CodePostal>80500</CodePostal>
+      <NomCommune>Pierrepont-sur-Avre</NomCommune>
+      <Localisation>
+         <Latitude>49.7161999</Latitude>
+         <Longitude>2.5384739</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 61 38 08 28</Téléphone>
+      <Télécopie>+33 9 61 38 08 28</Télécopie>
+      <Email>mairie.pierrepont-sur-avre@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Possibilité de prendre rendez-vous en semaine hors des horaires d'ouverture.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

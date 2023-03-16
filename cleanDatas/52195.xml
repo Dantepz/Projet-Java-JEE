@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52195-01" codeInsee="52195" dateMiseAJour="2007-11-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Farincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Croix</Ligne>
+      <CodePostal>52500</CodePostal>
+      <NomCommune>FARINCOURT</NomCommune>
+      <Localisation>
+         <Latitude>47.6994552612</Latitude>
+         <Longitude>5.68207120895</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 87 32 06</Téléphone>
+      <Télécopie>+33 3 25 87 32 06</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

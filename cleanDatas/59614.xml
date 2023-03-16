@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59614-01" codeInsee="59614" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Viesly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue de la Mairie</Ligne>
+      <CodePostal>59271</CodePostal>
+      <NomCommune>Viesly</NomCommune>
+      <Localisation>
+         <Latitude>50.1523539</Latitude>
+         <Longitude>3.4632807</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 85 09 03</Téléphone>
+      <Télécopie>+33 3 27 85 07 02</Télécopie>
+      <Email>mairie-de-viesly2@wanadoo.fr</Email>
+      <Url>http://www.viesly.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

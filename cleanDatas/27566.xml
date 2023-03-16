@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27566-01" codeInsee="27566" dateMiseAJour="2004-09-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte Marguerite en Ouche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>27410</CodePostal>
+      <NomCommune>STE MARGUERITE EN OUCHE</NomCommune>
+      <Localisation>
+         <Latitude>49.0243988037</Latitude>
+         <Longitude>0.65766197443</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 44 30 97</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

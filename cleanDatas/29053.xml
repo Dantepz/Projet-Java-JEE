@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-29053-01" codeInsee="29053" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Faou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place aux Foires</Ligne>
+      <CodePostal>29590</CodePostal>
+      <NomCommune>Le Faou</NomCommune>
+      <Localisation>
+         <Latitude>48.2941017151</Latitude>
+         <Longitude>-4.17745018005</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 81 90 44</Téléphone>
+      <Télécopie>+33 2 98 81 08 03</Télécopie>
+      <Email>accueil@mairielefaou.fr</Email>
+      <Url>http://www.lefaou.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

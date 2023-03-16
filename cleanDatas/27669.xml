@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27669-01" codeInsee="27669" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valletot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>27350</CodePostal>
+      <NomCommune>VALLETOT</NomCommune>
+      <Localisation>
+         <Latitude>49.3630447388</Latitude>
+         <Longitude>0.623003005981</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 45 35 28</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25277-01" codeInsee="25277" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gondenans-les-Moulins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Château</Ligne>
+      <CodePostal>25680</CodePostal>
+      <NomCommune>Gondenans-les-Moulins</NomCommune>
+      <Localisation>
+         <Latitude>47.4696006775</Latitude>
+         <Longitude>6.38219976425</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 06 78</Téléphone>
+      <Télécopie>+33 3 81 86 06 81</Télécopie>
+      <Email>cc-rougemont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

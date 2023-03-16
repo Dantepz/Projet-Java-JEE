@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57578-01" codeInsee="57578" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rezonville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>78 rue de Metz</Ligne>
+      <CodePostal>57130</CodePostal>
+      <NomCommune>Rezonville</NomCommune>
+      <Localisation>
+         <Latitude>49.0982017517</Latitude>
+         <Longitude>5.99042987823</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 31 41 30</Téléphone>
+      <Télécopie>+33 3 87 31 41 30</Télécopie>
+      <Email>mairie.rezonville@orange.fr</Email>
+      <Url>http://mairie-rezonville.over-blog.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Permanence des élus le lundi soir de 19h à 20h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Permanence des élus le jeudi soir de 19h à 20h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

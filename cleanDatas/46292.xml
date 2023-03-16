@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46292-01" codeInsee="46292" dateMiseAJour="2015-11-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Simon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>46320</CodePostal>
+      <NomCommune>Saint-Simon</NomCommune>
+      <Localisation>
+         <Latitude>44.69698</Latitude>
+         <Longitude>1.851162</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 40 50 48</Téléphone>
+      <Télécopie>+33 5 65 40 50 48</Télécopie>
+      <Email>commune-saint-simon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

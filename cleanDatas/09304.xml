@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09304-01" codeInsee="09304" dateMiseAJour="2007-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Suzan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>09240</CodePostal>
+      <NomCommune>SUZAN</NomCommune>
+      <Localisation>
+         <Latitude>43.0120010376</Latitude>
+         <Longitude>1.42919003963</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 64 53 24</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

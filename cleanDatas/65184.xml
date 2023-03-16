@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65184-01" codeInsee="65184" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Galez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le village</Ligne>
+      <CodePostal>65330</CodePostal>
+      <NomCommune>GALEZ</NomCommune>
+      <Localisation>
+         <Latitude>43.1888122559</Latitude>
+         <Longitude>0.405404001474</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 72 69</Téléphone>
+      <Email>mairie-galez@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

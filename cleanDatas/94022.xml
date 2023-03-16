@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-94022-01" codeInsee="94022" dateMiseAJour="2016-03-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Choisy-le-Roi</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Gabriel-Péri</Ligne>
+      <CodePostal>94607</CodePostal>
+      <NomCommune>Choisy-le-Roi Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7977974</Latitude>
+         <Longitude>2.3995699</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 48 92 44 44</Téléphone>
+      <Email>courrier@choisyleroi.fr</Email>
+      <Url>http://www.choisyleroi.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <Note>Accueil fermé en juillet-août les samedis.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

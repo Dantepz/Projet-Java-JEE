@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02435-01" codeInsee="02435" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Logny-lès-Aubenton</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Principale</Ligne>
+      <CodePostal>02500</CodePostal>
+      <NomCommune>Logny-lès-Aubenton</NomCommune>
+      <Localisation>
+         <Latitude>49.8347015381</Latitude>
+         <Longitude>4.20132017136</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 97 71 05</Téléphone>
+      <Télécopie>+33 3 23 97 71 05</Télécopie>
+      <Email>mairielognylesaubenton@orange.fr</Email>
+      <Url>http://www.cc3r.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

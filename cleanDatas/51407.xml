@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51407-01" codeInsee="51407" dateMiseAJour="2007-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Noue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place du général Vaillant</Ligne>
+      <CodePostal>51310</CodePostal>
+      <NomCommune>LA NOUE</NomCommune>
+      <Localisation>
+         <Latitude>48.7427616</Latitude>
+         <Longitude>3.6099731</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 81 90 67</Téléphone>
+      <Télécopie>+33 3 26 81 90 67</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

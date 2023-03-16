@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89008-01" codeInsee="89008" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Angely</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Soeurs</Ligne>
+      <CodePostal>89440</CodePostal>
+      <NomCommune>Angely</NomCommune>
+      <Localisation>
+         <Latitude>47.5653305054</Latitude>
+         <Longitude>4.01962280273</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 33 88 05</Téléphone>
+      <Email>mairieangely89@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

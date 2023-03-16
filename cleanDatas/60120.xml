@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60120-01" codeInsee="60120" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cambronne-lès-Clermont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45 rue de Vaux</Ligne>
+      <CodePostal>60290</CodePostal>
+      <NomCommune>Cambronne-lès-Clermont</NomCommune>
+      <Localisation>
+         <Latitude>49.3315010071</Latitude>
+         <Longitude>2.40230989456</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 73 00 06</Téléphone>
+      <Télécopie>+33 3 44 73 40 26</Télécopie>
+      <Email>mairie.cambronne-les-clermont@wanadoo.fr</Email>
+      <Url>http://www.cambronne-les-clermont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

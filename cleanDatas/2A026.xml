@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A026-01" codeInsee="2A026" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Azilone-Ampaza</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>20190</CodePostal>
+      <NomCommune>Azilone-Ampaza</NomCommune>
+      <Localisation>
+         <Latitude>41.864440918</Latitude>
+         <Longitude>9.01449871063</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 53 62 25</Téléphone>
+      <Télécopie>+33 4 95 53 62 25</Télécopie>
+      <Email>mairie.azilone@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

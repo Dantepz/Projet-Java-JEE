@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81211-01" codeInsee="81211" dateMiseAJour="2004-09-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Poulan Pouzols</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Poulan</Ligne>
+      <CodePostal>81120</CodePostal>
+      <NomCommune>POULAN POUZOLS</NomCommune>
+      <Localisation>
+         <Latitude>43.8590927124</Latitude>
+         <Longitude>2.11772894859</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 56 62 43</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

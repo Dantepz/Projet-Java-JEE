@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67136-01" codeInsee="67136" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eywiller</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de l'École</Ligne>
+      <CodePostal>67320</CodePostal>
+      <NomCommune>Eywiller</NomCommune>
+      <Localisation>
+         <Latitude>48.8853988647</Latitude>
+         <Longitude>7.18081998825</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">il y a une marche à monter, travaux en cours pour installer une rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 01 96 04</Téléphone>
+      <Télécopie>+33 3 88 01 39 55</Télécopie>
+      <Email>mairie.eywiller@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

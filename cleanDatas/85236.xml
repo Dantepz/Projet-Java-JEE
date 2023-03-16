@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85236-01" codeInsee="85236" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien-des-Landes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>85150</CodePostal>
+      <NomCommune>Saint-Julien-des-Landes</NomCommune>
+      <Localisation>
+         <Latitude>46.6402015686</Latitude>
+         <Longitude>-1.71231997013</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 46 62 15</Téléphone>
+      <Télécopie>+33 2 51 46 64 04</Télécopie>
+      <Email>mairie@stjuliendeslandes.fr</Email>
+      <Url>http://www.stjuliendeslandes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

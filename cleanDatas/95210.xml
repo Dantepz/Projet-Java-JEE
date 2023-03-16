@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95210-01" codeInsee="95210" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Enghien-les-Bains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>57 rue du Général-de-Gaulle</Ligne>
+      <Ligne>BP 20026</Ligne>
+      <CodePostal>95880</CodePostal>
+      <NomCommune>Enghien-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>48.9698982239</Latitude>
+         <Longitude>2.30707001686</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 28 45 45</Téléphone>
+      <Url>http://www.ville-enghienlesbains.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

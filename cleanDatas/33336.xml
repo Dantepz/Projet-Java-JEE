@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33336-01" codeInsee="33336" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Préchac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue Jeanne-et-Emmanuel-Lasserre</Ligne>
+      <CodePostal>33730</CodePostal>
+      <NomCommune>Préchac</NomCommune>
+      <Localisation>
+         <Latitude>44.3988571167</Latitude>
+         <Longitude>-0.353509008884</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 65 20 17</Téléphone>
+      <Télécopie>+33 5 56 65 26 87</Télécopie>
+      <Email>mairie-prechac33@prechac33.fr</Email>
+      <Url>http://www.prechac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

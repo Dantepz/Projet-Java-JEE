@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63369-01" codeInsee="63369" dateMiseAJour="2016-01-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien-la-Geneste</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63390</CodePostal>
+      <NomCommune>Saint-Julien-la-Geneste</NomCommune>
+      <Localisation>
+         <Latitude>46.051521</Latitude>
+         <Longitude>2.734547</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 85 70 93</Téléphone>
+      <Télécopie>+33 4 73 85 71 09</Télécopie>
+      <Email>mairie.stjulienlageneste@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

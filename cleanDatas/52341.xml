@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52341-01" codeInsee="52341" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Morancourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>52110</CodePostal>
+      <NomCommune>Morancourt</NomCommune>
+      <Localisation>
+         <Latitude>48.395198822</Latitude>
+         <Longitude>4.96277999878</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 94 10 25</Téléphone>
+      <Télécopie>+33 3 25 94 10 25</Télécopie>
+      <Email>communedemorancourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="14:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08344-01" codeInsee="08344" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Prez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue de la Cerleau</Ligne>
+      <CodePostal>08290</CodePostal>
+      <NomCommune>Prez</NomCommune>
+      <Localisation>
+         <Latitude>49.7997016907</Latitude>
+         <Longitude>4.35204982758</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 54 40 40</Téléphone>
+      <Télécopie>+33 3 24 54 40 40</Télécopie>
+      <Email>mairie.prez@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

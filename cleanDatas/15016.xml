@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15016-01" codeInsee="15016" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ayrens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>15250</CodePostal>
+      <NomCommune>Ayrens</NomCommune>
+      <Localisation>
+         <Latitude>44.9696495</Latitude>
+         <Longitude>2.3552966</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 46 30 70</Téléphone>
+      <Télécopie>+33 4 71 63 04 58</Télécopie>
+      <Email>mairie.ayrens@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

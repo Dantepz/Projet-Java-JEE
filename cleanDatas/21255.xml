@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21255-01" codeInsee="21255" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Étaules</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>21121</CodePostal>
+      <NomCommune>Étaules</NomCommune>
+      <Localisation>
+         <Latitude>47.4071577</Latitude>
+         <Longitude>4.9443197</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 35 60 65</Téléphone>
+      <Email>etaules.mairie@orange.fr</Email>
+      <Url>http://www.etaules21.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

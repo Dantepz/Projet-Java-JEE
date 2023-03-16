@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89102-01" codeInsee="89102" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chevannes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>89240</CodePostal>
+      <NomCommune>Chevannes</NomCommune>
+      <Localisation>
+         <Latitude>47.7513999939</Latitude>
+         <Longitude>3.49162006378</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 41 24 98</Téléphone>
+      <Télécopie>+33 3 86 41 26 71</Télécopie>
+      <Email>mairie.chevannes@gmail.com</Email>
+      <Url>http://www.chevannes89.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement le 2e et 4e samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

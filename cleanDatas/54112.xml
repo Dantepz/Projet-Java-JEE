@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54112-01" codeInsee="54112" dateMiseAJour="2015-10-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chambley-Bussières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de l'Église</Ligne>
+      <CodePostal>54890</CodePostal>
+      <NomCommune>Chambley-Bussières</NomCommune>
+      <Localisation>
+         <Latitude>49.04895</Latitude>
+         <Longitude>5.89889</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 33 75 22</Téléphone>
+      <Télécopie>+33 3 82 33 79 33</Télécopie>
+      <Email>mchambleybussieres@yahoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil physique de M.le maire et ses adjoints uniquement le samedi des semaines paires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

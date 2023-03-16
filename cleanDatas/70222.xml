@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70222-01" codeInsee="70222" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Étrelles-et-la-Montbleuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Marronniers</Ligne>
+      <CodePostal>70700</CodePostal>
+      <NomCommune>Étrelles-et-la-Montbleuse</NomCommune>
+      <Localisation>
+         <Latitude>47.4595429</Latitude>
+         <Longitude>5.861581</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 32 40 09</Téléphone>
+      <Télécopie>+33 3 84 32 40 09</Télécopie>
+      <Email>commune.etrelles-montbleuse@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

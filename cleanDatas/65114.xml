@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65114-01" codeInsee="65114" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Buzon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>65140</CodePostal>
+      <NomCommune>Buzon</NomCommune>
+      <Localisation>
+         <Latitude>47.2569999695</Latitude>
+         <Longitude>5.90623998642</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 96 38 33</Téléphone>
+      <Télécopie>+33 5 62 96 38 33</Télécopie>
+      <Email>mairie-de-buzon.1@alsatis.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

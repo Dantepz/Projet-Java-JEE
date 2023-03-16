@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12204-01" codeInsee="12204" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Roque-Sainte-Marguerite</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12100</CodePostal>
+      <NomCommune>La Roque-Sainte-Marguerite</NomCommune>
+      <Localisation>
+         <Latitude>44.1243515015</Latitude>
+         <Longitude>3.22265100479</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 62 81 00</Téléphone>
+      <Télécopie>+33 5 65 61 00 23</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

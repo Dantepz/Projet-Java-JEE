@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25183-01" codeInsee="25183" dateMiseAJour="2007-11-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cusance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin du Moulin</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>CUSANCE</NomCommune>
+      <Localisation>
+         <Latitude>47.3428993225</Latitude>
+         <Longitude>6.36757993698</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 30 22</Téléphone>
+      <Télécopie>+33 3 81 84 30 22</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27440-01" codeInsee="27440" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Notre-Dame-de-l'Isle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35, rue de l'Église</Ligne>
+      <CodePostal>27940</CodePostal>
+      <NomCommune>Notre-Dame-de-l'Isle</NomCommune>
+      <Localisation>
+         <Latitude>49.1473999023</Latitude>
+         <Longitude>1.4369699955</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 52 60 90</Téléphone>
+      <Télécopie>+33 2 32 52 04 19</Télécopie>
+      <Email>mairienotredamedelisle@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72234-01" codeInsee="72234" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pezé-le-Robert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de la Gare</Ligne>
+      <CodePostal>72140</CodePostal>
+      <NomCommune>Pezé-le-Robert</NomCommune>
+      <Localisation>
+         <Latitude>48.193901062</Latitude>
+         <Longitude>-0.0591249987483</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 20 14 05</Téléphone>
+      <Télécopie>+33 2 43 20 14 05</Télécopie>
+      <Email>mairie.de-peze.72@orange.fr</Email>
+      <Url>http://www.mairiepezelerobert.jimdo.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24015-01" codeInsee="24015" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Audrix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24260</CodePostal>
+      <NomCommune>Audrix</NomCommune>
+      <Localisation>
+         <Latitude>44.880532</Latitude>
+         <Longitude>0.94839</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 07 23 77</Téléphone>
+      <Télécopie>+33 5 53 54 38 37</Télécopie>
+      <Email>mairie-audrix@wanadoo.fr</Email>
+      <Url>http://www.cc-vallee-dordogne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

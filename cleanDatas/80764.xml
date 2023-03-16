@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80764-01" codeInsee="80764" dateMiseAJour="2015-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tœufles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue de l'Église</Ligne>
+      <CodePostal>80870</CodePostal>
+      <NomCommune>Tœufles</NomCommune>
+      <Localisation>
+         <Latitude>50.066631</Latitude>
+         <Longitude>1.716443</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 26 26 95</Téléphone>
+      <Télécopie>+33 3 22 26 26 95</Télécopie>
+      <Email>mairie.toeufles@wanadoo.fr</Email>
+      <Url>http://www.communedetoeufles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

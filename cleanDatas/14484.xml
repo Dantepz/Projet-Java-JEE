@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14484-01" codeInsee="14484" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ouilly-du-Houley</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>L'Église</Ligne>
+      <CodePostal>14590</CodePostal>
+      <NomCommune>Ouilly-du-Houley</NomCommune>
+      <Localisation>
+         <Latitude>49.1833000183</Latitude>
+         <Longitude>0.385780006647</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 63 63 40</Téléphone>
+      <Télécopie>+33 2 31 63 63 40</Télécopie>
+      <Email>mairie.ouilly.du.houley@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

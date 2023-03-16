@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-58088-01" codeInsee="58088" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coulanges-lès-Nevers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du 8-Mai-1945</Ligne>
+      <CodePostal>58660</CodePostal>
+      <NomCommune>Coulanges-lès-Nevers</NomCommune>
+      <Localisation>
+         <Latitude>47.0093002</Latitude>
+         <Longitude>3.1968998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 93 01 00</Téléphone>
+      <Télécopie>+33 3 86 21 47 11</Télécopie>
+      <Email>coulanges-les-nevers@wanadoo.fr</Email>
+      <Url>http://www.coulanges-les-nevers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

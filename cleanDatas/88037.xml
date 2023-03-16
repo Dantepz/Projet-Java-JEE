@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88037-01" codeInsee="88037" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Basse-sur-le-Rupt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27 chemin départemental 34 de Planois</Ligne>
+      <CodePostal>88120</CodePostal>
+      <NomCommune>Basse-sur-le-Rupt</NomCommune>
+      <Localisation>
+         <Latitude>47.9886016846</Latitude>
+         <Longitude>6.7681</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 24 72 23</Téléphone>
+      <Télécopie>+33 3 29 24 89 52</Télécopie>
+      <Email>mairie.basse.sur.le.rupt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

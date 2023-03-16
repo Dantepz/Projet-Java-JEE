@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71363-01" codeInsee="71363" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Puley</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71460</CodePostal>
+      <NomCommune>Le Puley</NomCommune>
+      <Localisation>
+         <Latitude>46.6516838074</Latitude>
+         <Longitude>4.5731959343</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 49 27 64</Téléphone>
+      <Télécopie>+33 3 85 49 27 64</Télécopie>
+      <Email>mairie-lepuley@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

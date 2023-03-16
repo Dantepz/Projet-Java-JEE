@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53014-01" codeInsee="53014" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Azé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Val-de-Loire</Ligne>
+      <Ligne>BP 30019</Ligne>
+      <CodePostal>53201</CodePostal>
+      <NomCommune>Azé Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.8182487488</Latitude>
+         <Longitude>-0.685202002525</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 70 44 00</Téléphone>
+      <Télécopie>+33 2 43 70 00 18</Télécopie>
+      <Email>mairie@aze-53.fr</Email>
+      <Url>http://www.aze-53.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

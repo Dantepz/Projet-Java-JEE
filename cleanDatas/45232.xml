@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45232-01" codeInsee="45232" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Olivet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 20129</Ligne>
+      <Ligne>283 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>45160</CodePostal>
+      <NomCommune>Olivet</NomCommune>
+      <Localisation>
+         <Latitude>47.8655014038</Latitude>
+         <Longitude>1.89770996571</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 69 83 00</Téléphone>
+      <Télécopie>+33 2 38 69 37 62</Télécopie>
+      <Email>contact@olivet.fr</Email>
+      <Url>http://www.ville-olivet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Le service de l'urbanisme est fermé les lundis et jeudis après-midi.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

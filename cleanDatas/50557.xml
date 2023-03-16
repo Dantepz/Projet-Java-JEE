@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50557-01" codeInsee="50557" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Buais-les-Monts</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 route de le Teilleul</Ligne>
+      <CodePostal>50640</CodePostal>
+      <NomCommune>Buais</NomCommune>
+      <Localisation>
+         <Latitude>48.504901886</Latitude>
+         <Longitude>-0.969705998898</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 49 39 00</Téléphone>
+      <Télécopie>+33 2 33 49 39 00</Télécopie>
+      <Email>communestsymphorien.des.monts@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

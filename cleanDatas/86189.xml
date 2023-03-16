@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86189-01" codeInsee="86189" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Payroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 place du Général-de-Gaulle</Ligne>
+      <CodePostal>86350</CodePostal>
+      <NomCommune>Payroux</NomCommune>
+      <Localisation>
+         <Latitude>46.2775993347</Latitude>
+         <Longitude>0.529259979725</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 87 82 09</Téléphone>
+      <Télécopie>+33 5 49 87 90 84</Télécopie>
+      <Email>payroux@cg86.fr</Email>
+      <Url>http://payroux.nouvelles.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30058-01" codeInsee="30058" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Cadière-et-Cambo</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>30170</CodePostal>
+      <NomCommune>La Cadière-et-Cambo</NomCommune>
+      <Localisation>
+         <Latitude>43.956514</Latitude>
+         <Longitude>3.80821</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 77 23 94</Téléphone>
+      <Télécopie>+33 4 66 77 23 94</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

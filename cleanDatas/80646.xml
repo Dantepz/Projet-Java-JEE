@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80646-01" codeInsee="80646" dateMiseAJour="2007-11-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Punchy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>80320</CodePostal>
+      <NomCommune>PUNCHY</NomCommune>
+      <Localisation>
+         <Latitude>49.7920913696</Latitude>
+         <Longitude>2.80908107758</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 85 48 63</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

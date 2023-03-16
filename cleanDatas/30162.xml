@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30162-01" codeInsee="30162" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Massillargues-Attuech</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>351 route de Massillargues</Ligne>
+      <CodePostal>30140</CodePostal>
+      <NomCommune>Massillargues-Attuech</NomCommune>
+      <Localisation>
+         <Latitude>44.0153694153</Latitude>
+         <Longitude>4.02558088303</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 61 71 65</Téléphone>
+      <Télécopie>+33 4 66 61 60 02</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+         <Note>Accueil ouvert pendant les vacances scolaires uniquement de 8h30 à 12h du lundi au vendredi.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

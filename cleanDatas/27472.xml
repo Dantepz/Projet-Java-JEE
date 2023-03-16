@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27472-01" codeInsee="27472" dateMiseAJour="2007-11-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Portes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>27190</CodePostal>
+      <NomCommune>PORTES</NomCommune>
+      <Localisation>
+         <Latitude>49.0281562805</Latitude>
+         <Longitude>0.952957987785</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 30 00 99</Téléphone>
+      <Télécopie>+33 2 32 30 00 99</Télécopie>
+      <Email>mairie.portes472@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

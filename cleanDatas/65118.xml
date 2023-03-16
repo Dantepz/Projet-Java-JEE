@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65118-01" codeInsee="65118" dateMiseAJour="2006-08-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Caharet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65190</CodePostal>
+      <NomCommune>CAHARET</NomCommune>
+      <Localisation>
+         <Latitude>43.1445922852</Latitude>
+         <Longitude>0.317945986986</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 01 00</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

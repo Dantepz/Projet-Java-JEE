@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86141-01" codeInsee="86141" dateMiseAJour="2015-10-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de Magné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue Anatole-de-Briey</Ligne>
+      <CodePostal>86160</CodePostal>
+      <NomCommune>Magné</NomCommune>
+      <Localisation>
+         <Latitude>46.3572006226</Latitude>
+         <Longitude>0.393119990826</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 59 33 04</Téléphone>
+      <Télécopie>+33 5 49 58 62 65</Télécopie>
+      <Email>magne@cg86.fr</Email>
+      <Url>http://www.magne86.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

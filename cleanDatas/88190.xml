@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88190-01" codeInsee="88190" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Frizon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>75 place de la Mairie</Ligne>
+      <CodePostal>88440</CodePostal>
+      <NomCommune>Frizon</NomCommune>
+      <Localisation>
+         <Latitude>48.2850990295</Latitude>
+         <Longitude>6.36265993118</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 67 17 03</Téléphone>
+      <Télécopie>+33 3 29 67 17 03</Télécopie>
+      <Email>mairie.frizon@wanadoo.fr</Email>
+      <Url>http://www.frizon.mairie.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Permanence des élus de 17h à 18h</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Permanence des élus de 13h30 à 14h30)</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+         <Note>Permanence des élus de 13h30 à 14h30)</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

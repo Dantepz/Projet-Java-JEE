@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57132-01" codeInsee="57132" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Château-Salins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 51</Ligne>
+      <Ligne>Rue de Nancy</Ligne>
+      <CodePostal>57170</CodePostal>
+      <NomCommune>Château-Salins</NomCommune>
+      <Localisation>
+         <Latitude>48.8181991577</Latitude>
+         <Longitude>6.50311994553</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 05 10 52</Téléphone>
+      <Télécopie>+33 3 87 05 16 34</Télécopie>
+      <Email>mairiechateausalins@wanadoo.fr</Email>
+      <Url>http://www.chateau-salins.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

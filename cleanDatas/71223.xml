@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71223-01" codeInsee="71223" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Grande-Verrière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71990</CodePostal>
+      <NomCommune>La Grande-Verrière</NomCommune>
+      <Localisation>
+         <Latitude>46.9645576477</Latitude>
+         <Longitude>4.14167118073</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 82 53 72</Téléphone>
+      <Télécopie>+33 3 85 82 56 36</Télécopie>
+      <Email>mairie.grande.verriere@wanadoo.fr</Email>
+      <Url>http://www.mairie-grande-verriere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

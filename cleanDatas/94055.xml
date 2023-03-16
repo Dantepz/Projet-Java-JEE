@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-94055-01" codeInsee="94055" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ormesson-sur-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 avenue Wladimir-d'Ormesson</Ligne>
+      <CodePostal>94490</CodePostal>
+      <NomCommune>Ormesson-sur-Marne</NomCommune>
+      <Localisation>
+         <Latitude>48.7859992981</Latitude>
+         <Longitude>2.54068994522</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 76 95 28</Téléphone>
+      <Télécopie>+33 1 45 76 29 78</Télécopie>
+      <Email>cab@ville-ormesson-sur-marne.fr</Email>
+      <Url>http://www.ville-ormesson-sur-marne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

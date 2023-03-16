@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63442-01" codeInsee="63442" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valz-sous-Châteauneuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63580</CodePostal>
+      <NomCommune>Valz-sous-Châteauneuf</NomCommune>
+      <Localisation>
+         <Latitude>45.4337997437</Latitude>
+         <Longitude>3.41612005234</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 32 18</Téléphone>
+      <Télécopie>+33 4 73 71 32 18</Télécopie>
+      <Email>valzsouschateauneuf@wanadoo.fr</Email>
+      <Url>http://www.valzsouschateauneuf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

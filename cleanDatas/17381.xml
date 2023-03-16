@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17381-01" codeInsee="17381" dateMiseAJour="2004-09-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint Pardoult</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 Les basses rues</Ligne>
+      <CodePostal>17400</CodePostal>
+      <NomCommune>ST PARDOULT</NomCommune>
+      <Localisation>
+         <Latitude>45.9968986511</Latitude>
+         <Longitude>-0.450607985258</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 59 96 68</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38563-01" codeInsee="38563" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Voiron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Mainssieux</Ligne>
+      <Ligne>BP 268</Ligne>
+      <CodePostal>38507</CodePostal>
+      <NomCommune>Voiron Cedex</NomCommune>
+      <Localisation>
+         <Latitude>45.363</Latitude>
+         <Longitude>5.59213</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 67 27 37</Téléphone>
+      <Télécopie>+33 4 76 67 27 47</Télécopie>
+      <Email>mairie@ville-voiron.fr</Email>
+      <Url>http://www.voiron.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour cartes d'identités et passeports.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

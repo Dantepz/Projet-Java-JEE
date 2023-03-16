@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59275-01" codeInsee="59275" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gruson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de Verdun</Ligne>
+      <CodePostal>59152</CodePostal>
+      <NomCommune>Gruson</NomCommune>
+      <Localisation>
+         <Latitude>50.5932006836</Latitude>
+         <Longitude>3.20668005943</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 41 45 35</Téléphone>
+      <Télécopie>+33 3 20 41 45 30</Télécopie>
+      <Email>mairie.gruson@wanadoo.fr</Email>
+      <Url>http://www.mairie-gruson.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

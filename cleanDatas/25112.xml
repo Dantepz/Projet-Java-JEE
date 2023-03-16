@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25112-01" codeInsee="25112" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chalezeule</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue de la Cure</Ligne>
+      <CodePostal>25220</CodePostal>
+      <NomCommune>Chalezeule</NomCommune>
+      <Localisation>
+         <Latitude>47.2600127</Latitude>
+         <Longitude>6.0756213</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 61 04 63</Téléphone>
+      <Télécopie>+33 3 81 61 29 92</Télécopie>
+      <Email>mairiedechalezeule@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

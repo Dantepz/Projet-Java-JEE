@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18062-01" codeInsee="18062" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Chautay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 place de l'Église</Ligne>
+      <CodePostal>18150</CodePostal>
+      <NomCommune>Le Chautay</NomCommune>
+      <Localisation>
+         <Latitude>47.0205993652</Latitude>
+         <Longitude>2.96531009674</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 74 01 57</Téléphone>
+      <Télécopie>+33 2 48 74 01 57</Télécopie>
+      <Email>mairieduchautay@wanadoo.fr</Email>
+      <Url>http://www.mairieduchautay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

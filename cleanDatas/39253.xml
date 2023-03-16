@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39253-01" codeInsee="39253" dateMiseAJour="2013-03-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 quart, place de la Mairie</Ligne>
+      <CodePostal>39320</CodePostal>
+      <NomCommune>Gigny</NomCommune>
+      <Localisation>
+         <Latitude>46.4521905</Latitude>
+         <Longitude>5.4610243</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 41 25</Téléphone>
+      <Télécopie>+33 3 84 85 41 25</Télécopie>
+      <Email>mairie.gigny@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

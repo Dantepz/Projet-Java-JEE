@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81144-01" codeInsee="81144" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lescure-d'Albigeois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 avenue de Hermet</Ligne>
+      <CodePostal>81380</CodePostal>
+      <NomCommune>Lescure-d'Albigeois</NomCommune>
+      <Localisation>
+         <Latitude>43.9583015442</Latitude>
+         <Longitude>2.17510008812</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 60 76 73</Téléphone>
+      <Télécopie>+33 5 63 60 11 48</Télécopie>
+      <Email>mairie@mairie-lescure.fr</Email>
+      <Url>http://www.mairie-lescure.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

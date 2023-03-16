@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52300-01" codeInsee="52300" dateMiseAJour="2006-09-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Magneux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 mairie Magneux</Ligne>
+      <CodePostal>52130</CodePostal>
+      <NomCommune>MAGNEUX</NomCommune>
+      <Localisation>
+         <Latitude>48.5127754211</Latitude>
+         <Longitude>5.00628709793</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 57 77 33</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

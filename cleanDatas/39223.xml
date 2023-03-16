@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39223-01" codeInsee="39223" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Ferté</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue Principale</Ligne>
+      <CodePostal>39600</CodePostal>
+      <NomCommune>La Ferté</NomCommune>
+      <Localisation>
+         <Latitude>46.9415016174</Latitude>
+         <Longitude>5.66036987305</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 37 56 28</Téléphone>
+      <Email>mairielaferte@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

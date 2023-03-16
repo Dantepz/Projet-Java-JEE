@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80325-01" codeInsee="80325" dateMiseAJour="2013-05-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontaine-lès-Cappy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de Fay</Ligne>
+      <CodePostal>80340</CodePostal>
+      <NomCommune>Fontaine-lès-Cappy</NomCommune>
+      <Localisation>
+         <Latitude>49.9099655151</Latitude>
+         <Longitude>2.78701901436</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 85 26 41</Téléphone>
+      <Télécopie>+33 3 22 85 91 70</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

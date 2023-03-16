@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55208-01" codeInsee="55208" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gesnes en Argonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 route de Varennes</Ligne>
+      <CodePostal>55110</CodePostal>
+      <NomCommune>GESNES EN ARGONNE</NomCommune>
+      <Localisation>
+         <Latitude>49.3055496216</Latitude>
+         <Longitude>5.06045293808</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 85 12 16</Téléphone>
+      <Email>gesnes.en.argonne.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

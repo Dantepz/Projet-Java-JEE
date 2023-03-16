@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66070-01" codeInsee="66070" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Espira-de-Conflent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Carrer Major</Ligne>
+      <CodePostal>66320</CodePostal>
+      <NomCommune>Espira-de-Conflent</NomCommune>
+      <Localisation>
+         <Latitude>42.61709</Latitude>
+         <Longitude>2.49818</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 05 89 21</Téléphone>
+      <Télécopie>+33 4 68 05 75 53</Télécopie>
+      <Email>mairie.espira.de.conflent@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

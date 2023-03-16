@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79018-01" codeInsee="79018" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aubigné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue des Écoles</Ligne>
+      <CodePostal>79110</CodePostal>
+      <NomCommune>Aubigné</NomCommune>
+      <Localisation>
+         <Latitude>46.0562086</Latitude>
+         <Longitude>-0.1421662</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 07 41 52</Téléphone>
+      <Télécopie>+33 5 49 07 41 52</Télécopie>
+      <Email>mairie-aubigne@paysmellois.org</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57095-01" codeInsee="57095" dateMiseAJour="2007-11-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boucheporn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de Longeville</Ligne>
+      <CodePostal>57220</CodePostal>
+      <NomCommune>BOUCHEPORN</NomCommune>
+      <Localisation>
+         <Latitude>49.138999939</Latitude>
+         <Longitude>6.60922002792</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 90 37 76</Téléphone>
+      <Télécopie>+33 3 87 90 37 76</Télécopie>
+      <Email>mairie-boucheporn@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51231-01" codeInsee="51231" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Épine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 avenue du Luxembourg</Ligne>
+      <CodePostal>51460</CodePostal>
+      <NomCommune>L'Épine</NomCommune>
+      <Localisation>
+         <Latitude>48.9775009155</Latitude>
+         <Longitude>4.47067022324</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 96 99</Téléphone>
+      <Télécopie>+33 9 71 70 69 21</Télécopie>
+      <Email>mairie.lepine51@wanadoo.fr</Email>
+      <Url>http://www.mairie-l-epine-en-champagne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

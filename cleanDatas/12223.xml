@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12223-01" codeInsee="12223" dateMiseAJour="2016-02-18"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Argences en Aubrac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Tilleuls</Ligne>
+      <CodePostal>12420</CodePostal>
+      <NomCommune>Sainte-Genevièvre-sur-Argence</NomCommune>
+      <Localisation>
+         <Latitude>44.8033981323</Latitude>
+         <Longitude>2.75817990303</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 66 41 46</Téléphone>
+      <Télécopie>+33 5 65 66 29 28</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle d'Argences en Aubrac remplace les communes d'Alpuech, de Graissac, de Lacalm, de La Terrisse, de Sainte-Geneviève-sur-Argence et de Vitrac-en-Viadène</Commentaire>
+</Organisme>

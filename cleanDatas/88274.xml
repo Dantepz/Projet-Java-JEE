@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88274-01" codeInsee="88274" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longchamp-sous-Châtenois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Jean-François-Collenel</Ligne>
+      <CodePostal>88170</CodePostal>
+      <NomCommune>Longchamp-sous-Châtenois</NomCommune>
+      <Localisation>
+         <Latitude>48.2885319</Latitude>
+         <Longitude>5.82979290000003</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 94 55 88</Téléphone>
+      <Télécopie>+33 3 29 94 55 88</Télécopie>
+      <Email>mairie.longchamp.chat@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

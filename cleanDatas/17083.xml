@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17083-01" codeInsee="17083" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Champagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>59 avenue René-Caillé</Ligne>
+      <CodePostal>17620</CodePostal>
+      <NomCommune>Champagne</NomCommune>
+      <Localisation>
+         <Latitude>45.8320999146</Latitude>
+         <Longitude>-0.909958004951</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 97 02 61</Téléphone>
+      <Télécopie>+33 5 46 97 17 18</Télécopie>
+      <Email>champagne@mairie17.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25211-01" codeInsee="25211" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Échevannes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Joseph-Tardy</Ligne>
+      <CodePostal>25580</CodePostal>
+      <NomCommune>Échevannes</NomCommune>
+      <Localisation>
+         <Latitude>47.0744018555</Latitude>
+         <Longitude>6.22966003418</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 59 30 43</Téléphone>
+      <Télécopie>+33 3 81 86 40 19</Télécopie>
+      <Email>mairie.echevannes@packsurfwifi.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

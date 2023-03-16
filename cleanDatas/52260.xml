@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52260-01" codeInsee="52260" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lamancine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue de la Tournelle</Ligne>
+      <CodePostal>52310</CodePostal>
+      <NomCommune>Lamancine</NomCommune>
+      <Localisation>
+         <Latitude>48.2080993652</Latitude>
+         <Longitude>5.11283016205</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 01 43 46</Téléphone>
+      <Télécopie>+33 3 25 01 43 46</Télécopie>
+      <Email>mairielamancine@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

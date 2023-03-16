@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81163-01" codeInsee="81163" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mazamet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Georges-Tournier</Ligne>
+      <CodePostal>81200</CodePostal>
+      <NomCommune>Mazamet</NomCommune>
+      <Localisation>
+         <Latitude>43.4897994995</Latitude>
+         <Longitude>2.37641000748</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 61 02 55</Téléphone>
+      <Télécopie>+33 5 63 61 02 62</Télécopie>
+      <Url>http://www.ville-mazamet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

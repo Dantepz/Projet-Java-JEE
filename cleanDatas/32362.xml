@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32362-01" codeInsee="32362" dateMiseAJour="2015-02-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aunix-Lengros</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Au Village</Ligne>
+      <CodePostal>32160</CodePostal>
+      <NomCommune>Saint-Aunix-Lengros</NomCommune>
+      <Localisation>
+         <Latitude>43.577307</Latitude>
+         <Longitude>0.0503059</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 69 45 20</Téléphone>
+      <Email>saint.aunix@orange.fr</Email>
+      <Url>http://saintaunixlengros.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

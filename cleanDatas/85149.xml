@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85149-01" codeInsee="85149" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Moreilles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Nationale</Ligne>
+      <CodePostal>85450</CodePostal>
+      <NomCommune>Moreilles</NomCommune>
+      <Localisation>
+         <Latitude>46.4208807</Latitude>
+         <Longitude>-1.0844273</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">accessibilité de la mairie par le parking</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 56 07 73</Téléphone>
+      <Télécopie>+33 2 51 28 68 28</Télécopie>
+      <Email>mairie-moreilles@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Ouverture de l'accueil le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

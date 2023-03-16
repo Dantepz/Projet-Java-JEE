@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63328-01" codeInsee="63328" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Catherine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63580</CodePostal>
+      <NomCommune>Sainte-Catherine</NomCommune>
+      <Localisation>
+         <Latitude>45.450593</Latitude>
+         <Longitude>3.474964</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 72 04 33</Téléphone>
+      <Télécopie>+33 4 73 72 04 33</Télécopie>
+      <Email>commune-de-ste-catherine@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:15:00" fin="19:15:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:15:00" fin="19:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:15:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

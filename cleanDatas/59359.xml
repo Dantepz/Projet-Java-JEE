@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59359-01" codeInsee="59359" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Loon-Plage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27, place de la République</Ligne>
+      <Ligne>BP 37</Ligne>
+      <CodePostal>59279</CodePostal>
+      <NomCommune>Loon-Plage</NomCommune>
+      <Localisation>
+         <Latitude>51.0306015015</Latitude>
+         <Longitude>2.30202007294</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 58 03 20</Téléphone>
+      <Télécopie>+33 3 28 58 09 31</Télécopie>
+      <Email>mairie@loonplage.org</Email>
+      <Url>http://www.loonplage.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Permanence état civil et cantine scolaire de 8h30 à 12h et de 13h30 à 19h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

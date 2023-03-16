@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62101-01" codeInsee="62101" dateMiseAJour="2013-05-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauvois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue d'Oeuf</Ligne>
+      <CodePostal>62130</CodePostal>
+      <NomCommune>Beauvois</NomCommune>
+      <Localisation>
+         <Latitude>50.3611984253</Latitude>
+         <Longitude>2.21633005142</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 41 31 89</Téléphone>
+      <Télécopie>+33 3 21 41 31 89</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50490-01" codeInsee="50490" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-de-la-Rivière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 hameau de la Fontaine</Ligne>
+      <CodePostal>50270</CodePostal>
+      <NomCommune>Saint-Jean-de-la-Rivière</NomCommune>
+      <Localisation>
+         <Latitude>49.3723983765</Latitude>
+         <Longitude>-1.74001002312</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 04 72 95</Téléphone>
+      <Télécopie>+33 2 33 53 17 19</Télécopie>
+      <Email>commune.st-jean-de-la-riviere@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Permanence uniquement du maire et adjoints.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

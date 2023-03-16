@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56114-01" codeInsee="56114" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Locmaria</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Acadiens</Ligne>
+      <CodePostal>56360</CodePostal>
+      <NomCommune>Locmaria</NomCommune>
+      <Localisation>
+         <Latitude>47.2937011719</Latitude>
+         <Longitude>-3.08422994614</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 31 70 92</Téléphone>
+      <Télécopie>+33 2 97 31 71 65</Télécopie>
+      <Email>locmaria-belle-ile@wanadoo.fr</Email>
+      <Url>http://www.locmaria-belle-ile.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil fermé l'après-midi jusqu'au 31 mars 2016.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

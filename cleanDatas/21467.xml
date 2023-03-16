@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21467-01" codeInsee="21467" dateMiseAJour="2014-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Oisilly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue des Champs</Ligne>
+      <CodePostal>21310</CodePostal>
+      <NomCommune>Oisilly</NomCommune>
+      <Localisation>
+         <Latitude>47.4211120605</Latitude>
+         <Longitude>5.36571979523</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 36 58 88</Téléphone>
+      <Télécopie>+33 3 80 36 58 88</Télécopie>
+      <Email>mairie.oisilly@cegetel.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

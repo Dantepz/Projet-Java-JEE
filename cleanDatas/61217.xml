@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61217-01" codeInsee="61217" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Lande-de-Lougé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61210</CodePostal>
+      <NomCommune>La Lande-de-Lougé</NomCommune>
+      <Localisation>
+         <Latitude>48.7462005615</Latitude>
+         <Longitude>-0.275458008051</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 65 14 79</Téléphone>
+      <Télécopie>+33 2 33 65 14 79</Télécopie>
+      <Email>mairiedelalandedelouge61@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="10:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="10:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

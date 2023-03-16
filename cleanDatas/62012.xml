@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62012-01" codeInsee="62012" dateMiseAJour="2011-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Agnières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Camblain</Ligne>
+      <CodePostal>62690</CodePostal>
+      <NomCommune>Agnières</NomCommune>
+      <Localisation>
+         <Latitude>50.3602981567</Latitude>
+         <Longitude>2.6070098877</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 22 03 62</Téléphone>
+      <Télécopie>+33 3 21 22 03 62</Télécopie>
+      <Email>agnieres.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

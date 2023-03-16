@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27550-01" codeInsee="27550" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Grégoire-du-Vièvre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1647, route du Vièvre</Ligne>
+      <CodePostal>27450</CodePostal>
+      <NomCommune>Saint-Grégoire-du-Vièvre</NomCommune>
+      <Localisation>
+         <Latitude>49.2437214</Latitude>
+         <Longitude>0.6332374</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 80 57</Téléphone>
+      <Télécopie>+33 2 32 42 80 57</Télécopie>
+      <Email>mairiesaintgregoireduvievre@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

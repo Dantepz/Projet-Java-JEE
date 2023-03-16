@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59372-01" codeInsee="59372" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Malincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de Péronne</Ligne>
+      <CodePostal>59127</CodePostal>
+      <NomCommune>Malincourt</NomCommune>
+      <Localisation>
+         <Latitude>50.042301178</Latitude>
+         <Longitude>3.31760001183</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 82 72 73</Téléphone>
+      <Télécopie>+33 3 27 82 71 12</Télécopie>
+      <Email>mairie-de-malincourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10118-01" codeInsee="10118" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie des Croûtes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 rue Principale</Ligne>
+      <CodePostal>10130</CodePostal>
+      <NomCommune>Les Croûtes</NomCommune>
+      <Localisation>
+         <Latitude>47.9969038</Latitude>
+         <Longitude>3.8643686</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">contacter l'accueil avant de se présenter</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 70 67 67</Téléphone>
+      <Télécopie>+33 3 25 70 67 67</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement à certaines dates précisées sur le site internet de la mairie.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

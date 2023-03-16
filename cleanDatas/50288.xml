@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50288-01" codeInsee="50288" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marcey-les-Grèves</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Écoles</Ligne>
+      <CodePostal>50300</CodePostal>
+      <NomCommune>Marcey-les-Grèves</NomCommune>
+      <Localisation>
+         <Latitude>48.6959991455</Latitude>
+         <Longitude>-1.38217997551</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 58 10 57</Téléphone>
+      <Télécopie>+33 2 33 58 66 15</Télécopie>
+      <Email>mairiemarceylesgreves@wanadoo.fr</Email>
+      <Url>http://marcey-les-greves.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67422-01" codeInsee="67422" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saasenheim</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue Principale</Ligne>
+      <CodePostal>67390</CodePostal>
+      <NomCommune>Saasenheim</NomCommune>
+      <Localisation>
+         <Latitude>48.2070007324</Latitude>
+         <Longitude>7.57243013382</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 85 20 85</Téléphone>
+      <Télécopie>+33 3 88 85 96 10</Télécopie>
+      <Email>mairiesaasenheim@wanadoo.fr</Email>
+      <Url>http://www.saasenheim.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+         <PlageH début="16:30:00" fin="18:00:00"/>
+         <Note>Contacter l'accueil pour obtenir un rendez-vous en dehors de ces horaires d'ouverture.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

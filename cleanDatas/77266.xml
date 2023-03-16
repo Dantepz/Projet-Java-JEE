@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77266-01" codeInsee="77266" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Machault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue des Trois-Maillets</Ligne>
+      <CodePostal>77133</CodePostal>
+      <NomCommune>Machault</NomCommune>
+      <Localisation>
+         <Latitude>48.4552001953</Latitude>
+         <Longitude>2.82896995544</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 23 85 76</Téléphone>
+      <Télécopie>+33 1 64 23 65 47</Télécopie>
+      <Email>mairiemachault@wanadoo.fr</Email>
+      <Url>http://www.machault77.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

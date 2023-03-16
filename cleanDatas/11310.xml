@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11310-01" codeInsee="11310" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rennes-les-Bains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, Grand'rue de la Mairie</Ligne>
+      <CodePostal>11190</CodePostal>
+      <NomCommune>Rennes-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>42.9198989868</Latitude>
+         <Longitude>2.31963992119</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 69 87 95</Téléphone>
+      <Télécopie>+33 4 68 69 80 40</Télécopie>
+      <Email>mairie-rennes-les-bains@wanadoo.fr</Email>
+      <Url>http://www.renneslesbains.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement de 9h à 12h sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

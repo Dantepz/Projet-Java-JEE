@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01067-01" codeInsee="01067" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ceignes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>01430</CodePostal>
+      <NomCommune>Ceignes</NomCommune>
+      <Localisation>
+         <Latitude>46.1189117432</Latitude>
+         <Longitude>5.49924707413</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 75 79 01</Téléphone>
+      <Télécopie>+33 4 75 75 70 43</Télécopie>
+      <Email>mairie-de-ceignes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

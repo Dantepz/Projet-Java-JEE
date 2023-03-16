@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02542-01" codeInsee="02542" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neuflieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>route de Chauny</Ligne>
+      <CodePostal>02300</CodePostal>
+      <NomCommune>NEUFLIEUX</NomCommune>
+      <Localisation>
+         <Latitude>49.6194458008</Latitude>
+         <Longitude>3.15983104706</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 38 83 36</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

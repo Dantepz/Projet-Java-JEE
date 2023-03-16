@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78053-01" codeInsee="78053" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Béhoust</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du Village</Ligne>
+      <CodePostal>78910</CodePostal>
+      <NomCommune>Béhoust</NomCommune>
+      <Localisation>
+         <Latitude>48.8306007385</Latitude>
+         <Longitude>1.7212100029</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 94 67 70</Téléphone>
+      <Télécopie>+33 1 34 87 29 66</Télécopie>
+      <Email>secretariat.behoust@orange.fr</Email>
+      <Url>http://www.behoust.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

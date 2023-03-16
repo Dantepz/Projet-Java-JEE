@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27650-01" codeInsee="27650" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tournedos-Bois-Hubert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Gendarmerie</Ligne>
+      <CodePostal>27180</CodePostal>
+      <NomCommune>Tournedos-Bois-Hubert</NomCommune>
+      <Localisation>
+         <Latitude>49.0762825012</Latitude>
+         <Longitude>0.980476975441</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 34 94 16</Téléphone>
+      <Télécopie>+33 2 32 34 94 16</Télécopie>
+      <Email>mairietbh@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

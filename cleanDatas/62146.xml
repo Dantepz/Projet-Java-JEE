@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62146-01" codeInsee="62146" dateMiseAJour="2007-11-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boiry Saint Martin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de la Mairie</Ligne>
+      <CodePostal>62175</CodePostal>
+      <NomCommune>BOIRY ST MARTIN</NomCommune>
+      <Localisation>
+         <Latitude>50.1991004944</Latitude>
+         <Longitude>2.75819993019</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 22 47 46</Téléphone>
+      <Télécopie>+33 3 21 22 47 46</Télécopie>
+      <Email>boiry-st-martin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

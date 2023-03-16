@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79132-01" codeInsee="79132" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Genneton</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Lilas</Ligne>
+      <CodePostal>79150</CodePostal>
+      <NomCommune>Genneton</NomCommune>
+      <Localisation>
+         <Latitude>47.0547485352</Latitude>
+         <Longitude>-0.427363991737</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 96 81 47</Téléphone>
+      <Télécopie>+33 5 49 96 36 97</Télécopie>
+      <Email>mairiedegenneton@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

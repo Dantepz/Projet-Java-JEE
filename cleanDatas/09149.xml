@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09149-01" codeInsee="09149" dateMiseAJour="2014-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lacourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>09200</CodePostal>
+      <NomCommune>Lacourt</NomCommune>
+      <Localisation>
+         <Latitude>42.945554</Latitude>
+         <Longitude>1.2634524</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 66 01 37</Téléphone>
+      <Télécopie>+33 5 61 66 01 37</Télécopie>
+      <Email>commune-de-lacourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

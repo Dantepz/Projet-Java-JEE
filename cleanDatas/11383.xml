@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11383-01" codeInsee="11383" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Souilhe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place des Marronniers</Ligne>
+      <CodePostal>11400</CodePostal>
+      <NomCommune>SOUILHE</NomCommune>
+      <Localisation>
+         <Latitude>43.368598938</Latitude>
+         <Longitude>1.91419994831</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 60 04 10</Téléphone>
+      <Télécopie>+33 4 68 60 04 10</Télécopie>
+      <Email>commune.souilhe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

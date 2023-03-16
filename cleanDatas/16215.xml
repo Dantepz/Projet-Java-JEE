@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16215-01" codeInsee="16215" dateMiseAJour="2015-09-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Médillac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Pont de Corps</Ligne>
+      <CodePostal>16210</CodePostal>
+      <NomCommune>Médillac</NomCommune>
+      <Localisation>
+         <Latitude>45.222192</Latitude>
+         <Longitude>0.024155</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 98 27 42</Téléphone>
+      <Télécopie>+33 5 45 98 44 72</Télécopie>
+      <Email>medillac.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Permanence téléphonique uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25339-01" codeInsee="25339" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lods</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Ambroise-Roy</Ligne>
+      <CodePostal>25930</CodePostal>
+      <NomCommune>Lods</NomCommune>
+      <Localisation>
+         <Latitude>47.0451011658</Latitude>
+         <Longitude>6.24644994736</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 60 90 11</Téléphone>
+      <Télécopie>+33 3 81 60 93 86</Télécopie>
+      <Email>mairie.lods@wanadoo.fr</Email>
+      <Url>http://www.lods-village.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

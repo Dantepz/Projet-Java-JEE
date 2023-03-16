@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31559-01" codeInsee="31559" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Trébons-de-Luchon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>31110</CodePostal>
+      <NomCommune>Trébons-de-Luchon</NomCommune>
+      <Localisation>
+         <Latitude>42.803305</Latitude>
+         <Longitude>0.5661929</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 94 27 85</Téléphone>
+      <Email>mairie.trebons.luchon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

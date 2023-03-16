@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02064-01" codeInsee="02064" dateMiseAJour="2014-12-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Belleu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Joliot-Curie</Ligne>
+      <CodePostal>02200</CodePostal>
+      <NomCommune>Belleu</NomCommune>
+      <Localisation>
+         <Latitude>49.3591003418</Latitude>
+         <Longitude>3.3347799778</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 73 21 93</Téléphone>
+      <Télécopie>+33 3 23 73 87 08</Télécopie>
+      <Email>mairie.belleu@wanadoo.fr</Email>
+      <Url>http://www.mairie-belleu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

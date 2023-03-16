@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02444-01" codeInsee="02444" dateMiseAJour="2011-02-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lugny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue du Lavoir</Ligne>
+      <CodePostal>02140</CodePostal>
+      <NomCommune>LUGNY</NomCommune>
+      <Localisation>
+         <Latitude>49.7776435</Latitude>
+         <Longitude>3.8057188</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 90 04 53</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

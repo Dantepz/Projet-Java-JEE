@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18043-01" codeInsee="18043" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Celle-Condé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 route de Lignières</Ligne>
+      <CodePostal>18160</CodePostal>
+      <NomCommune>La Celle-Condé</NomCommune>
+      <Localisation>
+         <Latitude>46.7944449</Latitude>
+         <Longitude>2.1841272</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 60 04 82</Téléphone>
+      <Télécopie>+33 2 48 60 16 92</Télécopie>
+      <Email>mairie.lacelleconde@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

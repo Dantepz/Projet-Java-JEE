@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14493-01" codeInsee="14493" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Percy-en-Auge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>43 Grande rue</Ligne>
+      <CodePostal>14270</CodePostal>
+      <NomCommune>Percy-en-Auge</NomCommune>
+      <Localisation>
+         <Latitude>49.0989990234</Latitude>
+         <Longitude>-0.0457299984992</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">par la salle</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 77 79 10 20</Téléphone>
+      <Télécopie>+33 2 90 92 72 06</Télécopie>
+      <Email>commune.percyenauge@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

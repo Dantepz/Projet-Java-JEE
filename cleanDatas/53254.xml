@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53254-01" codeInsee="53254" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sulpice</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace Grand Maison</Ligne>
+      <Ligne>Chemin de la Rongère</Ligne>
+      <CodePostal>53360</CodePostal>
+      <NomCommune>Saint-Sulpice</NomCommune>
+      <Localisation>
+         <Latitude>48.0989074707</Latitude>
+         <Longitude>-0.886824011803</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 07 71 25</Téléphone>
+      <Télécopie>+33 2 43 07 77 84</Télécopie>
+      <Email>st_sulpice@cc-chateau-gontier.fr</Email>
+      <Url>http://www.saint-sulpice.mairie53.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

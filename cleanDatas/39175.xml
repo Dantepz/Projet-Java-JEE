@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39175-01" codeInsee="39175" dateMiseAJour="2013-03-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coyron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place des Tilleuls</Ligne>
+      <CodePostal>39260</CodePostal>
+      <NomCommune>Coyron</NomCommune>
+      <Localisation>
+         <Latitude>46.5112266541</Latitude>
+         <Longitude>5.70661306381</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 42 07 22</Téléphone>
+      <Télécopie>+33 3 84 42 07 22</Télécopie>
+      <Email>mairie.coyron@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97209-01" codeInsee="97209" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fort-de-France</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Boulevard du Général-de-Gaulle</Ligne>
+      <Ligne>BP 646</Ligne>
+      <Ligne>Centre administratif municipal</Ligne>
+      <CodePostal>97200</CodePostal>
+      <NomCommune>Fort-de-France</NomCommune>
+      <Localisation>
+         <Latitude>14.6072147</Latitude>
+         <Longitude>-61.0678656</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 596 596 000</Téléphone>
+      <Télécopie>+596 596 700 031</Télécopie>
+      <Email>http://www.fortdefrance.fr/--Contact</Email>
+      <Url>http://www.fortdefrance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="07:15:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:15:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="07:15:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:15:00" fin="13:00:00"/>
+         <Note>Permanence téléphonique lundi, mardi, jeudi de 17h à 22h, mercredi et vendredi de 13h à 22h, samedi, dimanche et jours fériés de 8h à 18h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

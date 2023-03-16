@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21663-01" codeInsee="21663" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Venarey-les-Laumes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 avenue Jean-Jaurès</Ligne>
+      <CodePostal>21150</CodePostal>
+      <NomCommune>Venarey-les-Laumes</NomCommune>
+      <Localisation>
+         <Latitude>47.5424995422</Latitude>
+         <Longitude>4.4493598938</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">sonnette</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 96 01 59</Téléphone>
+      <Télécopie>+33 3 80 96 02 19</Télécopie>
+      <Email>contact@vll.fr</Email>
+      <Url>http://www.venareyleslaumes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil fermé à 16h en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

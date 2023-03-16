@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65068-01" codeInsee="65068" dateMiseAJour="2011-05-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>quartier bataille</Ligne>
+      <CodePostal>65230</CodePostal>
+      <NomCommune>BARTHE</NomCommune>
+      <Localisation>
+         <Latitude>43.2826347351</Latitude>
+         <Longitude>0.471920013428</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 82 36</Téléphone>
+      <Email>mairie.barthe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:15:00" fin="13:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

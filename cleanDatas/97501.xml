@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie_com-97501-01" codeInsee="97501" dateMiseAJour="2013-12-18"
+           pivotLocal="mairie_com">
+   <Nom>Mairie de Miquelon-Langlade</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>BP 8309</Ligne>
+      <Ligne>2, rue du Baron-de-l'Espérance</Ligne>
+      <Ligne>Miquelon</Ligne>
+      <CodePostal>97500</CodePostal>
+      <NomCommune>Saint-Pierre-et-Miquelon</NomCommune>
+      <Localisation>
+         <Latitude>47.0970451</Latitude>
+         <Longitude>-56.3743681</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+508 41 05 60</Téléphone>
+      <Télécopie>+508 41 65 94</Télécopie>
+      <Email>mairie@miquelon-langlade.fr</Email>
+      <Url>http://www.miquelon-langlade.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

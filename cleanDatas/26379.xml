@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26379-01" codeInsee="26379" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Granges-les-Beaumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>175 rue Henri-Machon</Ligne>
+      <CodePostal>26600</CodePostal>
+      <NomCommune>Granges-les-Beaumont</NomCommune>
+      <Localisation>
+         <Latitude>45.0531005859</Latitude>
+         <Longitude>4.983689785</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 71 50 27</Téléphone>
+      <Télécopie>+33 4 75 71 51 74</Télécopie>
+      <Email>granges.les.beaumont@cc-pays-romans.fr</Email>
+      <Url>http://www.granges-les-beaumont-26.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

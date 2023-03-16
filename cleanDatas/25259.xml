@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25259-01" codeInsee="25259" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Frasne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Gare</Ligne>
+      <CodePostal>25560</CodePostal>
+      <NomCommune>Frasne</NomCommune>
+      <Localisation>
+         <Latitude>46.857159</Latitude>
+         <Longitude>6.1615883</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 49 83 17</Téléphone>
+      <Télécopie>+33 3 81 89 71 61</Télécopie>
+      <Email>mairie@frasne.fr</Email>
+      <Url>http://www.frasne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

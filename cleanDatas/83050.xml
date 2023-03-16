@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83050-01" codeInsee="83050" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Draguignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue Georges-Cisson</Ligne>
+      <CodePostal>83300</CodePostal>
+      <NomCommune>Draguignan</NomCommune>
+      <Localisation>
+         <Latitude>43.5379219</Latitude>
+         <Longitude>6.4634904</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 60 31 00</Téléphone>
+      <Télécopie>+33 4 94 47 18 87</Télécopie>
+      <Email>mairie@ville-draguignan.fr</Email>
+      <Url>http://www.ville-draguignan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>L'accueil, l'état civil et les affaires générales sont ouverts de 8h à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Uniquement service de l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

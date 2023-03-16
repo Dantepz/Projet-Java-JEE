@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34126-01" codeInsee="34126" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lamalou-les-Bains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue Clemenceau</Ligne>
+      <CodePostal>34240</CodePostal>
+      <NomCommune>Lamalou-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>43.5910021</Latitude>
+         <Longitude>3.0821656</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 95 63 07</Téléphone>
+      <Télécopie>+33 4 67 95 87 70</Télécopie>
+      <Email>contact@mairielamalou.fr</Email>
+      <Url>http://www.lamalou-les-bains.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

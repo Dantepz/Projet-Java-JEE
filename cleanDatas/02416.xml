@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02416-01" codeInsee="02416" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lemé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de la Nation</Ligne>
+      <CodePostal>02140</CodePostal>
+      <NomCommune>Lemé</NomCommune>
+      <Localisation>
+         <Latitude>49.8381004333</Latitude>
+         <Longitude>3.76410007477</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 98 13 16</Téléphone>
+      <Télécopie>+33 3 23 98 01 71</Télécopie>
+      <Email>communedeleme02@orange.fr</Email>
+      <Url>http://www.communedeleme.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie_com-98714-01" codeInsee="98714" dateMiseAJour="2015-05-20"
+           pivotLocal="mairie_com">
+   <Nom>Mairie de Bora-Bora</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Îles-sous-le-Vent</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>98730</CodePostal>
+      <NomCommune>Bora Bora</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Télécopie>+689 67 74 42</Télécopie>
+      <Email>mairieborabora@mail.pf</Email>
+   </CoordonnéesNum>
+</Organisme>

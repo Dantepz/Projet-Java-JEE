@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81008-01" codeInsee="81008" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Almayrac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81190</CodePostal>
+      <NomCommune>Almayrac</NomCommune>
+      <Localisation>
+         <Latitude>44.1014099121</Latitude>
+         <Longitude>2.16845011711</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 76 72 18</Téléphone>
+      <Télécopie>+33 5 63 76 63 95</Télécopie>
+      <Email>mairiealmayrac@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

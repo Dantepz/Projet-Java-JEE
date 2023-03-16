@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85083-01" codeInsee="85083" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Épine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue de l'Hôtel-de-Ville</Ligne>
+      <Ligne>BP 17</Ligne>
+      <CodePostal>85740</CodePostal>
+      <NomCommune>L'Épine</NomCommune>
+      <Localisation>
+         <Latitude>46.9791984558</Latitude>
+         <Longitude>-2.26559996605</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 39 11 17</Téléphone>
+      <Télécopie>+33 2 51 39 07 61</Télécopie>
+      <Email>mairie@lepine-iledenoirmoutier.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Uniquement ouverture de l'accueil.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

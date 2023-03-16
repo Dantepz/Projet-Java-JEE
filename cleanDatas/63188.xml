@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63188-01" codeInsee="63188" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Laps</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place François-Brugiére</Ligne>
+      <Ligne>Maison des associations</Ligne>
+      <CodePostal>63270</CodePostal>
+      <NomCommune>Laps</NomCommune>
+      <Localisation>
+         <Latitude>45.673781</Latitude>
+         <Longitude>3.268283</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 69 02 69</Téléphone>
+      <Télécopie>+33 4 73 69 24 23</Télécopie>
+      <Email>communelaps@orange.fr</Email>
+      <Url>http://allier-comte-communaute.fr/laps</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence des élus sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

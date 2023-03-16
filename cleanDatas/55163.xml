@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55163-01" codeInsee="55163" dateMiseAJour="2015-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Doncourt-aux-Templiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>55160</CodePostal>
+      <NomCommune>Doncourt-aux-Templiers</NomCommune>
+      <Localisation>
+         <Latitude>49.058287</Latitude>
+         <Longitude>5.7175649</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 80 82 43</Téléphone>
+      <Télécopie>+33 3 29 80 82 43</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

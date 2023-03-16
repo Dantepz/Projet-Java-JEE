@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54323-01" codeInsee="54323" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longwy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 avenue de la Grande-Duchesse-Charlotte</Ligne>
+      <Ligne>BP 80048</Ligne>
+      <CodePostal>54400</CodePostal>
+      <NomCommune>Longwy</NomCommune>
+      <Localisation>
+         <Latitude>49.5146598816</Latitude>
+         <Longitude>5.76824092865</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">accès sur le côté de la mairie et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 44 54 00</Téléphone>
+      <Télécopie>+33 3 82 25 06 73</Télécopie>
+      <Email>accueil@mairie-longwy.fr</Email>
+      <Url>http://www.mairie-longwy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="19:15:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous pour les passeports et sans rendez-vous pour les cartes d'identité.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

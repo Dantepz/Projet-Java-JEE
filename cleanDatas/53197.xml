@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53197-01" codeInsee="53197" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aignan-sur-Roë</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 boulevard Charles-de-Gaulle</Ligne>
+      <CodePostal>53390</CodePostal>
+      <NomCommune>Saint-Aignan-sur-Roë</NomCommune>
+      <Localisation>
+         <Latitude>47.8398017883</Latitude>
+         <Longitude>-1.13687002659</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 06 51 17</Téléphone>
+      <Télécopie>+33 2 43 06 93 55</Télécopie>
+      <Email>saint.aignan.sur.roe@wanadoo.fr</Email>
+      <Url>http://www.saintaignan53.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

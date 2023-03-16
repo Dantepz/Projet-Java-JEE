@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-64531-01" codeInsee="64531" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tabaille-Usquain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place de la Mairie</Ligne>
+      <CodePostal>64190</CodePostal>
+      <NomCommune>Tabaille-Usquain</NomCommune>
+      <Localisation>
+         <Latitude>43.3575</Latitude>
+         <Longitude>-0.8933</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 38 67 87</Téléphone>
+      <Télécopie>+33 5 59 38 67 87</Télécopie>
+      <Email>mairie-tabaille-usquain@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

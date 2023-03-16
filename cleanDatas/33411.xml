@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33411-01" codeInsee="33411" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Germain-de-Grave</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>33490</CodePostal>
+      <NomCommune>Saint-Germain-de-Grave</NomCommune>
+      <Localisation>
+         <Latitude>44.6258163452</Latitude>
+         <Longitude>-0.222169995308</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 76 41 07</Téléphone>
+      <Télécopie>+33 5 56 76 47 35</Télécopie>
+      <Email>mairie.stgermaindegrave@wanadoo.fr</Email>
+      <Url>http://www.stgermaindegraves.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 1er samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

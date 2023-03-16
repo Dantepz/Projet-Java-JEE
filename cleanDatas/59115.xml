@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59115-01" codeInsee="59115" dateMiseAJour="2013-07-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brunémont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue d'En-Bas</Ligne>
+      <CodePostal>59151</CodePostal>
+      <NomCommune>Brunémont</NomCommune>
+      <Localisation>
+         <Latitude>50.2724990845</Latitude>
+         <Longitude>3.1383600235</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 80 91 29</Téléphone>
+      <Télécopie>+33 3 27 89 40 15</Télécopie>
+      <Email>mairie-brunemont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire uniquement sur rendez-vous</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

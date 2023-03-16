@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05043-01" codeInsee="05043" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Costes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>05500</CodePostal>
+      <NomCommune>Les Costes</NomCommune>
+      <Localisation>
+         <Latitude>44.7456169128</Latitude>
+         <Longitude>6.03348493576</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 50 01 72</Téléphone>
+      <Télécopie>+33 4 92 50 01 72</Télécopie>
+      <Email>mairiedescostes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="10:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="10:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

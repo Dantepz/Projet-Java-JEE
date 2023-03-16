@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32038-01" codeInsee="32038" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaupuy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>32600</CodePostal>
+      <NomCommune>Beaupuy</NomCommune>
+      <Localisation>
+         <Latitude>43.6505012512</Latitude>
+         <Longitude>0.965880990028</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 65 73 76</Téléphone>
+      <Télécopie>+33 5 62 65 73 76</Télécopie>
+      <Email>mairie-de-beaupuy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:15:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

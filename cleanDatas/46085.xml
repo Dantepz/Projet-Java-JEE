@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46085-01" codeInsee="46085" dateMiseAJour="2015-12-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cuzac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>46270</CodePostal>
+      <NomCommune>Cuzac</NomCommune>
+      <Localisation>
+         <Latitude>44.5800552368</Latitude>
+         <Longitude>2.14281511307</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 34 04 84</Téléphone>
+      <Télécopie>+33 5 65 34 02 83</Télécopie>
+      <Email>cuzac.mairie@wanadoo.fr</Email>
+      <Url>http://www.cuzac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

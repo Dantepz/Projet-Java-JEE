@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50552-01" codeInsee="50552" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sébastien-de-Raids</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 la Sublinière</Ligne>
+      <CodePostal>50190</CodePostal>
+      <NomCommune>Saint-Sébastien-de-Raids</NomCommune>
+      <Localisation>
+         <Latitude>49.1922988892</Latitude>
+         <Longitude>-1.36607003212</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 46 66 80</Téléphone>
+      <Télécopie>+33 2 33 46 66 80</Télécopie>
+      <Email>mairie.st-sebastien-de-raids@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01433-01" codeInsee="01433" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vernoux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 route du Tronchet</Ligne>
+      <CodePostal>01560</CodePostal>
+      <NomCommune>Vernoux</NomCommune>
+      <Localisation>
+         <Latitude>46.4859243</Latitude>
+         <Longitude>5.1027857</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 30 71 39</Téléphone>
+      <Télécopie>+33 9 70 32 06 58</Télécopie>
+      <Email>mairiedevernoux@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique de 14h à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>Permanence téléphonique de 9h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

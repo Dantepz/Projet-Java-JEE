@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54002-01" codeInsee="54002" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Abbéville-lès-Conflans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Roy-Tandy</Ligne>
+      <CodePostal>54800</CodePostal>
+      <NomCommune>Abbéville-lès-Conflans</NomCommune>
+      <Localisation>
+         <Latitude>49.1976013184</Latitude>
+         <Longitude>5.84501981735</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 33 09 06</Téléphone>
+      <Télécopie>+33 3 82 20 70 96</Télécopie>
+      <Email>abbeville.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

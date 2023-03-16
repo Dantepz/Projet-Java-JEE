@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27673-01" codeInsee="27673" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vatteville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue de l'Église</Ligne>
+      <CodePostal>27430</CodePostal>
+      <NomCommune>Vatteville</NomCommune>
+      <Localisation>
+         <Latitude>49.2561683655</Latitude>
+         <Longitude>1.27389097214</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 54 64 34</Téléphone>
+      <Télécopie>+33 2 32 21 30 48</Télécopie>
+      <Email>mairie.vatteville@wanadoo.fr</Email>
+      <Url>http://www.ccae.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

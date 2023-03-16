@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-76754-01" codeInsee="76754" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Yport</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Ernest-Lethuillier</Ligne>
+      <CodePostal>76111</CodePostal>
+      <NomCommune>Yport</NomCommune>
+      <Localisation>
+         <Latitude>49.7371742</Latitude>
+         <Longitude>0.3141231</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 27 30 24</Téléphone>
+      <Télécopie>+33 2 35 27 66 45</Télécopie>
+      <Email>mairie.yport@gmail.com</Email>
+      <Url>http://www.ville-yport.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="12:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

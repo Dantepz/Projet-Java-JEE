@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30156-01" codeInsee="30156" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marguerittes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>14, rue Gustave-de-Chanaleilles</Ligne>
+      <CodePostal>30320</CodePostal>
+      <NomCommune>Marguerittes</NomCommune>
+      <Localisation>
+         <Latitude>43.8593978882</Latitude>
+         <Longitude>4.44519996643</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 75 23 25</Téléphone>
+      <Télécopie>+33 4 66 75 19 64</Télécopie>
+      <Email>secretariat-maire@mairie-marguerittes.org</Email>
+      <Url>http://www.marguerittes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

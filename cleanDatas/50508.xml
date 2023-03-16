@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50508-01" codeInsee="50508" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Teilleul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie déléguée de Sainte-Marie-du-Bois</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>50640</CodePostal>
+      <NomCommune>Le Teilleul</NomCommune>
+      <Localisation>
+         <Latitude>48.5625724792</Latitude>
+         <Longitude>-0.891544997692</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 69 51 93</Téléphone>
+      <Télécopie>+33 2 33 69 51 93</Télécopie>
+      <Email>ste.marie.du.bois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

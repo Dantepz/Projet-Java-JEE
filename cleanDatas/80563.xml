@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80563-01" codeInsee="80563" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montigny-les-Jongleurs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25 rue Principale</Ligne>
+      <CodePostal>80370</CodePostal>
+      <NomCommune>MONTIGNY LES JONGLEURS</NomCommune>
+      <Localisation>
+         <Latitude>50.1707051</Latitude>
+         <Longitude>2.1952789</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 32 67 20</Téléphone>
+      <Télécopie>+33 9 77 75 75 73</Télécopie>
+      <Email>mairie.montigny.lesjongleurs@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Uniquement les 1er et 3e samedis de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

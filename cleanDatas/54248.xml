@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54248-01" codeInsee="54248" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hamonville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue de la Mairie</Ligne>
+      <CodePostal>54470</CodePostal>
+      <NomCommune>Hamonville</NomCommune>
+      <Localisation>
+         <Latitude>48.8276176453</Latitude>
+         <Longitude>5.81257820129</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 23 18 03</Téléphone>
+      <Télécopie>+33 3 83 23 18 03</Télécopie>
+      <Email>communehamonville@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61192-01" codeInsee="61192" dateMiseAJour="2004-09-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Godisson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61240</CodePostal>
+      <NomCommune>GODISSON</NomCommune>
+      <Localisation>
+         <Latitude>48.6641998291</Latitude>
+         <Longitude>0.329346001148</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 35 48 13</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

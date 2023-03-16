@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46139-01" codeInsee="46139" dateMiseAJour="2015-12-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de Labathude</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Remise</Ligne>
+      <CodePostal>46120</CodePostal>
+      <NomCommune>Labathude</NomCommune>
+      <Localisation>
+         <Latitude>44.7380561829</Latitude>
+         <Longitude>1.99273204803</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 40 32 74</Téléphone>
+      <Télécopie>+33 5 65 11 91 95</Télécopie>
+      <Email>mairie.labathude@wanadoo.fr</Email>
+      <Url>http://www.labathude.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

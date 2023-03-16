@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18064-01" codeInsee="18064" dateMiseAJour="2015-03-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chéry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 chemin des Prés-Martins</Ligne>
+      <CodePostal>18120</CodePostal>
+      <NomCommune>Chéry</NomCommune>
+      <Localisation>
+         <Latitude>47.1214607</Latitude>
+         <Longitude>2.042944</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 51 71 53</Téléphone>
+      <Télécopie>+33 2 48 51 73 88</Télécopie>
+      <Email>mairiechery@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert sur rendez-vous auprès de M. le maire</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57107-01" codeInsee="57107" dateMiseAJour="2004-09-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brehain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>mairie de Brehain</Ligne>
+      <Ligne>8 rue principale</Ligne>
+      <CodePostal>57340</CodePostal>
+      <NomCommune>BREHAIN</NomCommune>
+      <Localisation>
+         <Latitude>48.9099006653</Latitude>
+         <Longitude>6.53725004196</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 01 95 62</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

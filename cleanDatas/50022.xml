@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50022-01" codeInsee="50022" dateMiseAJour="2011-01-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aumeville-Lestre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue La Rue</Ligne>
+      <CodePostal>50630</CodePostal>
+      <NomCommune>AUMEVILLE LESTRE</NomCommune>
+      <Localisation>
+         <Latitude>49.5397415161</Latitude>
+         <Longitude>-1.32100200653</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 54 19 31</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

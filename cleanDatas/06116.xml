@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06116-01" codeInsee="06116" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Auban</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, place Don-Jean-Bellon</Ligne>
+      <CodePostal>06850</CodePostal>
+      <NomCommune>Saint-Auban</NomCommune>
+      <Localisation>
+         <Latitude>43.8483963013</Latitude>
+         <Longitude>6.7258849144</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 60 43 20</Téléphone>
+      <Télécopie>+33 4 93 60 43 72</Télécopie>
+      <Email>mairie.stauban@wanadoo.fr</Email>
+      <Url>http://www.saint-auban.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

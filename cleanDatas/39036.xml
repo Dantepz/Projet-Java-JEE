@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39036-01" codeInsee="39036" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Balme-d'Épy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40, Grande rue</Ligne>
+      <CodePostal>39320</CodePostal>
+      <NomCommune>La Balme-d'Épy</NomCommune>
+      <Localisation>
+         <Latitude>46.380355</Latitude>
+         <Longitude>5.41606899999999</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 48 64</Téléphone>
+      <Télécopie>+33 3 84 85 48 64</Télécopie>
+      <Email>mairie.labalmedepy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

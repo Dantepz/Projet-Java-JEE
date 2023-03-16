@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88453-01" codeInsee="88453" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Seraumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, Grande rue</Ligne>
+      <CodePostal>88630</CodePostal>
+      <NomCommune>Seraumont</NomCommune>
+      <Localisation>
+         <Latitude>48.3925018311</Latitude>
+         <Longitude>5.64079999924</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 06 17 63</Téléphone>
+      <Télécopie>+33 3 29 06 17 63</Télécopie>
+      <Email>mairie.seraumont@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

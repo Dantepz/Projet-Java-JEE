@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25444-01" codeInsee="25444" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Palise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Maréchal-Moncey</Ligne>
+      <CodePostal>25870</CodePostal>
+      <NomCommune>Palise</NomCommune>
+      <Localisation>
+         <Latitude>47.3713437</Latitude>
+         <Longitude>6.0909762</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 57 83 51</Téléphone>
+      <Télécopie>+33 3 81 57 83 51</Télécopie>
+      <Email>mairie.palise@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

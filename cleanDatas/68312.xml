@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68312-01" codeInsee="68312" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sondersdorf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue de l'École</Ligne>
+      <CodePostal>68480</CodePostal>
+      <NomCommune>Sondersdorf</NomCommune>
+      <Localisation>
+         <Latitude>47.4822006226</Latitude>
+         <Longitude>7.33613014221</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 40 42 00</Téléphone>
+      <Télécopie>+33 3 89 40 45 33</Télécopie>
+      <Email>mairie.sondersdorf@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="19:00:00" fin="21:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

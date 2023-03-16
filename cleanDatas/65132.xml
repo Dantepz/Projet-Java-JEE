@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65132-01" codeInsee="65132" dateMiseAJour="2006-08-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Castéra Lanusse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65190</CodePostal>
+      <NomCommune>CASTERA LANUSSE</NomCommune>
+      <Localisation>
+         <Latitude>43.1726493835</Latitude>
+         <Longitude>0.290279000998</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="19:00:00" fin="21:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

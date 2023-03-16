@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39238-01" codeInsee="39238" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Frasne-les-Meulières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 Grande rue</Ligne>
+      <CodePostal>39290</CodePostal>
+      <NomCommune>Frasne-les-Meulières</NomCommune>
+      <Localisation>
+         <Latitude>47.2039985657</Latitude>
+         <Longitude>5.50222015381</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 70 22 20</Téléphone>
+      <Télécopie>+33 3 84 70 22 20</Télécopie>
+      <Email>ccjdfrasne39@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

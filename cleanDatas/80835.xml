@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80835-01" codeInsee="80835" dateMiseAJour="2015-08-20"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Yzeux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Jeu-de-Paume</Ligne>
+      <CodePostal>80310</CodePostal>
+      <NomCommune>Yzeux</NomCommune>
+      <Localisation>
+         <Latitude>49.9751391</Latitude>
+         <Longitude>2.1095904</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 51 16 04</Téléphone>
+      <Télécopie>+33 3 22 51 16 04</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

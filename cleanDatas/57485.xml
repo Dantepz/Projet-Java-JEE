@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57485-01" codeInsee="57485" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Morville-lès-Vic</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue de l'Église</Ligne>
+      <CodePostal>57170</CodePostal>
+      <NomCommune>Morville-lès-Vic</NomCommune>
+      <Localisation>
+         <Latitude>48.8147010803</Latitude>
+         <Longitude>6.54594993591</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 05 13 90</Téléphone>
+      <Télécopie>+33 3 87 05 13 90</Télécopie>
+      <Email>mairiemorvillelesvic@cegetel.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

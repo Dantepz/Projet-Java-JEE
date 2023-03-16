@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84112-01" codeInsee="84112" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-de-Castillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Poste</Ligne>
+      <CodePostal>84750</CodePostal>
+      <NomCommune>Saint-Martin-de-Castillon</NomCommune>
+      <Localisation>
+         <Latitude>43.9241218567</Latitude>
+         <Longitude>5.48581790924</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 75 20 08</Téléphone>
+      <Télécopie>+33 4 90 75 16 33</Télécopie>
+      <Email>mairiedesaintmartindecastillon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

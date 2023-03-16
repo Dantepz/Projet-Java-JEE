@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80469-01" codeInsee="80469" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lawarde Mauger L' Hortoy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 place de l'église</Ligne>
+      <CodePostal>80250</CodePostal>
+      <NomCommune>LAWARDE MAUGER L HORTOY</NomCommune>
+      <Localisation>
+         <Latitude>49.7076950073</Latitude>
+         <Longitude>2.2782869339</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 09 45 05</Téléphone>
+      <Télécopie>+33 3 22 09 45 05</Télécopie>
+      <Email>mairie.lawardemauger@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

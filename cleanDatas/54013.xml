@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54013-01" codeInsee="54013" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Amenoncourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, Grande rue</Ligne>
+      <CodePostal>54450</CodePostal>
+      <NomCommune>Amenoncourt</NomCommune>
+      <Localisation>
+         <Latitude>48.6278175</Latitude>
+         <Longitude>6.7894877</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 42 45 91</Téléphone>
+      <Télécopie>+33 3 83 42 45 91</Télécopie>
+      <Email>mairie.amenoncourt@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

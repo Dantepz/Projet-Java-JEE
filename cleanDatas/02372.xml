@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02372-01" codeInsee="02372" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hartennes et Taux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 grande rue</Ligne>
+      <CodePostal>02210</CodePostal>
+      <NomCommune>HARTENNES ET TAUX</NomCommune>
+      <Localisation>
+         <Latitude>49.2723693848</Latitude>
+         <Longitude>3.35260796547</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 05 48</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

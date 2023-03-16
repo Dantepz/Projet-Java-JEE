@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77163-01" codeInsee="77163" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Douy-la-Ramée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du Sac</Ligne>
+      <CodePostal>77139</CodePostal>
+      <NomCommune>Douy-la-Ramée</NomCommune>
+      <Localisation>
+         <Latitude>49.067199707</Latitude>
+         <Longitude>2.88163995743</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 36 67 75</Téléphone>
+      <Télécopie>+33 1 64 36 60 69</Télécopie>
+      <Email>mairie.douy-la-ramee@lrj.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

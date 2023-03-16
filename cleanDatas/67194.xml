@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67194-01" codeInsee="67194" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Herrlisheim</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue d'Offendorf</Ligne>
+      <CodePostal>67850</CodePostal>
+      <NomCommune>Herrlisheim</NomCommune>
+      <Localisation>
+         <Latitude>48.728741</Latitude>
+         <Longitude>7.906801</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 59 77 11</Téléphone>
+      <Télécopie>+33 3 88 59 70 27</Télécopie>
+      <Email>mairie@herrlisheim.fr</Email>
+      <Url>http://www.herrlisheim.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

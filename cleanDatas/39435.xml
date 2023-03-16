@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39435-01" codeInsee="39435" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pont-de-Poitte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 Grande rue</Ligne>
+      <CodePostal>39130</CodePostal>
+      <NomCommune>Pont-de-Poitte</NomCommune>
+      <Localisation>
+         <Latitude>46.5857009888</Latitude>
+         <Longitude>5.69690990448</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 48 30 01</Téléphone>
+      <Télécopie>+33 3 84 48 31 04</Télécopie>
+      <Email>pontdepoitte@orange.fr</Email>
+      <Url>http://www.pontdepoitte.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

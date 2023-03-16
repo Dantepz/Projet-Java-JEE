@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42078-01" codeInsee="42078" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie du Crozet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Mario-Meunier</Ligne>
+      <CodePostal>42310</CodePostal>
+      <NomCommune>Le Crozet</NomCommune>
+      <Localisation>
+         <Latitude>46.1699295044</Latitude>
+         <Longitude>3.85558509827</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 64 31 57</Téléphone>
+      <Télécopie>+33 4 77 64 11 88</Télécopie>
+      <Email>commune.le.crozet@wanadoo.fr</Email>
+      <Url>http://www.le-crozet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

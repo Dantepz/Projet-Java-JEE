@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14329-01" codeInsee="14329" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Heuland</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Croix-d'Heuland</Ligne>
+      <CodePostal>14430</CodePostal>
+      <NomCommune>Heuland</NomCommune>
+      <Localisation>
+         <Latitude>49.2789001465</Latitude>
+         <Longitude>-0.00351800001226</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 39 03 37</Téléphone>
+      <Télécopie>+33 2 31 39 03 37</Télécopie>
+      <Email>mairie.heuland@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

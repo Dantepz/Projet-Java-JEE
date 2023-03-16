@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38494-01" codeInsee="38494" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Soleymieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 route de Courtenay</Ligne>
+      <CodePostal>38460</CodePostal>
+      <NomCommune>Soleymieu</NomCommune>
+      <Localisation>
+         <Latitude>45.6713981628</Latitude>
+         <Longitude>5.40894985199</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 92 81 13</Téléphone>
+      <Télécopie>+33 4 74 92 91 67</Télécopie>
+      <Email>mairie@soleymieu.fr</Email>
+      <Url>http://soleymieu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les 2e et 4e samedis du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

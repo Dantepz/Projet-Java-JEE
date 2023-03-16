@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54252-01" codeInsee="54252" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Haroué</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9-11 square de Lorraine</Ligne>
+      <CodePostal>54740</CodePostal>
+      <NomCommune>HAROUE</NomCommune>
+      <Localisation>
+         <Latitude>48.46900177</Latitude>
+         <Longitude>6.17681980133</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 52 40 12</Téléphone>
+      <Télécopie>+33 3 83 52 47 58</Télécopie>
+      <Email>mairie.haroue@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

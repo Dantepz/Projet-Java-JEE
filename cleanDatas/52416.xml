@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52416-01" codeInsee="52416" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rangecourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Viot</Ligne>
+      <CodePostal>52140</CodePostal>
+      <NomCommune>RANGECOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.0439758301</Latitude>
+         <Longitude>5.4862279892</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 90 76 37</Téléphone>
+      <Télécopie>+33 3 25 90 76 37</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

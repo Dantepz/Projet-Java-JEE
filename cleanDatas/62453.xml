@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62453-01" codeInsee="62453" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hézecques</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue église</Ligne>
+      <CodePostal>62310</CodePostal>
+      <NomCommune>HEZECQUES</NomCommune>
+      <Localisation>
+         <Latitude>50.545501709</Latitude>
+         <Longitude>2.16584992409</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 04 40 21</Téléphone>
+      <Télécopie>+33 3 21 04 40 21</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

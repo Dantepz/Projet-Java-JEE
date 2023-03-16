@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48197-01" codeInsee="48197" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Villedieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48700</CodePostal>
+      <NomCommune>La Villedieu</NomCommune>
+      <Localisation>
+         <Latitude>44.714994</Latitude>
+         <Longitude>3.521479</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 47 43 08</Téléphone>
+      <Télécopie>+33 4 66 47 43 08</Télécopie>
+      <Email>mairie-lavilledieu@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

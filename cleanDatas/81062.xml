@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81062-01" codeInsee="81062" dateMiseAJour="2016-02-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontrieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81260</CodePostal>
+      <NomCommune>Castelnau-de-Brassac</NomCommune>
+      <Localisation>
+         <Latitude>43.6483688354</Latitude>
+         <Longitude>2.51455211639</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 74 00 61</Téléphone>
+      <Télécopie>+33 5 63 74 58 01</Télécopie>
+      <Email>castelnau.brassac.mairie@wanadoo.fr</Email>
+      <Url>http://www.castelnau-brassac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Fontrieu  remplace les communes de Castelnau-de-Brassac, de Ferrières, du Margnès</Commentaire>
+</Organisme>

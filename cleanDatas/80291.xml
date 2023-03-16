@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80291-01" codeInsee="80291" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Estrées-sur-Noye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Lombards</Ligne>
+      <CodePostal>80250</CodePostal>
+      <NomCommune>Estrées-sur-Noye</NomCommune>
+      <Localisation>
+         <Latitude>49.7859649658</Latitude>
+         <Longitude>2.33215999603</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 09 50 35</Téléphone>
+      <Télécopie>+33 3 22 09 50 35</Télécopie>
+      <Email>mairie.estrees@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

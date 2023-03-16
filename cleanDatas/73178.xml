@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73178-01" codeInsee="73178" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Motte-en-Bauges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chef-lieu</Ligne>
+      <CodePostal>73340</CodePostal>
+      <NomCommune>La Motte-en-Bauges</NomCommune>
+      <Localisation>
+         <Latitude>45.7004699707</Latitude>
+         <Longitude>6.12950611115</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 63 37 71</Téléphone>
+      <Télécopie>+33 4 79 63 37 71</Télécopie>
+      <Email>mairie.lamotteenbauges@wanadoo.fr</Email>
+      <Url>http://www.la-motte-en-bauges.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Permanence téléphonique uniquement</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Permanence téléphonique de 8h30 à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

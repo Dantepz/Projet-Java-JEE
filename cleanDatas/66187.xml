@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66187-01" codeInsee="66187" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Paul-de-Fenouillet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue Arago</Ligne>
+      <CodePostal>66220</CodePostal>
+      <NomCommune>Saint-Paul-de-Fenouillet</NomCommune>
+      <Localisation>
+         <Latitude>42.8106002808</Latitude>
+         <Longitude>2.50294995308</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">uniquement l'accueil</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 59 00 26</Téléphone>
+      <Télécopie>+33 4 68 59 11 04</Télécopie>
+      <Email>mairie.stpaul66@wanadoo.fr</Email>
+      <Url>http://www.st-paul66.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

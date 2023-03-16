@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28248-01" codeInsee="28248" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie du Mesnil-Thomas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, le Bourg</Ligne>
+      <CodePostal>28250</CodePostal>
+      <NomCommune>Le Mesnil-Thomas</NomCommune>
+      <Localisation>
+         <Latitude>48.5997657776</Latitude>
+         <Longitude>1.09495401382</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 37 73 64</Téléphone>
+      <Télécopie>+33 2 37 37 83 11</Télécopie>
+      <Email>mairiemesnil-thomas@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

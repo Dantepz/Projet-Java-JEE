@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65207-01" codeInsee="65207" dateMiseAJour="2006-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gourgue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>GOURGUE</NomCommune>
+      <Localisation>
+         <Latitude>43.1355209351</Latitude>
+         <Longitude>0.261510998011</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 08 99</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

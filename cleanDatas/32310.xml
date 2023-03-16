@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32310-01" codeInsee="32310" dateMiseAJour="2016-02-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Perchède</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>32460</CodePostal>
+      <NomCommune>PERCHEDE</NomCommune>
+      <Localisation>
+         <Latitude>43.777254</Latitude>
+         <Longitude>-0.1382799</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 08 94 74</Téléphone>
+      <Email>mairie.perchede@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

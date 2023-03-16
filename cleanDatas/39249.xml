@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39249-01" codeInsee="39249" dateMiseAJour="2015-09-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Germigney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Val-d'Amour</Ligne>
+      <CodePostal>39380</CodePostal>
+      <NomCommune>Germigney</NomCommune>
+      <Localisation>
+         <Latitude>47.0264209</Latitude>
+         <Longitude>5.6880971</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 37 68 33</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

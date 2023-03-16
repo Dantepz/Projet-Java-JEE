@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54593-01" codeInsee="54593" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Waville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, rue de Joyeuse</Ligne>
+      <CodePostal>54890</CodePostal>
+      <NomCommune>Waville</NomCommune>
+      <Localisation>
+         <Latitude>49.0097007751</Latitude>
+         <Longitude>5.94973993301</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 81 81 47</Téléphone>
+      <Télécopie>+33 3 83 81 89 79</Télécopie>
+      <Email>mairie.waville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59491-01" codeInsee="59491" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Raismes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grand'place</Ligne>
+      <CodePostal>59590</CodePostal>
+      <NomCommune>Raismes</NomCommune>
+      <Localisation>
+         <Latitude>50.392546</Latitude>
+         <Longitude>3.484984</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">passer par l'arrière</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 14 94 14</Téléphone>
+      <Télécopie>+33 3 27 14 94 99</Télécopie>
+      <Email>secretariatdumaire@ville-raismes.fr</Email>
+      <Url>http://www.ville-raismes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

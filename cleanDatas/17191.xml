@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17191-01" codeInsee="17191" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Jard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, route Napoléon</Ligne>
+      <CodePostal>17460</CodePostal>
+      <NomCommune>La Jard</NomCommune>
+      <Localisation>
+         <Latitude>45.6548957825</Latitude>
+         <Longitude>-0.586274981499</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 96 90 70</Téléphone>
+      <Télécopie>+33 5 46 91 93 05</Télécopie>
+      <Email>la.jard@mairie17.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60336-01" codeInsee="60336" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lachaussée-du-Bois-d'Écu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>56, rue Diogène-Maillart</Ligne>
+      <CodePostal>60480</CodePostal>
+      <NomCommune>Lachaussée-du-Bois-d'Écu</NomCommune>
+      <Localisation>
+         <Latitude>49.5595016479</Latitude>
+         <Longitude>2.17320990562</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 48 88 47</Téléphone>
+      <Télécopie>+33 3 44 80 41 89</Télécopie>
+      <Email>mairie.lachaussee.duboisdecu@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

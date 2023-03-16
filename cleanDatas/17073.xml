@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17073-01" codeInsee="17073" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bussac-sur-Charente</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>139 route du Val-de-Charente</Ligne>
+      <CodePostal>17100</CodePostal>
+      <NomCommune>Bussac-sur-Charente</NomCommune>
+      <Localisation>
+         <Latitude>45.7835006714</Latitude>
+         <Longitude>-0.630671024323</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 93 11 11</Téléphone>
+      <Télécopie>+33 5 46 93 92 32</Télécopie>
+      <Email>mairie@bussac-sur-charente.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39321-01" codeInsee="39321" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Menétru-le-Vignoble</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>39210</CodePostal>
+      <NomCommune>Menétru-le-Vignoble</NomCommune>
+      <Localisation>
+         <Latitude>46.7683982849</Latitude>
+         <Longitude>5.62166976929</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 44 66 32</Téléphone>
+      <Télécopie>+33 3 84 44 66 32</Télécopie>
+      <Email>mairie-de-menetru-le-vignoble@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

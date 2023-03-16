@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27071-01" codeInsee="27071" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bois-Hellain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>205, rue de la Mairie</Ligne>
+      <CodePostal>27260</CodePostal>
+      <NomCommune>Le Bois-Hellain</NomCommune>
+      <Localisation>
+         <Latitude>48.8682851</Latitude>
+         <Longitude>1.3500753</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 53 77</Téléphone>
+      <Email>mairie.leboishellain@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

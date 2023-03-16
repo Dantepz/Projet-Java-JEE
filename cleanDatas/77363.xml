@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77363-01" codeInsee="77363" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Pin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de Courtry</Ligne>
+      <Ligne>BP 20</Ligne>
+      <CodePostal>77181</CodePostal>
+      <NomCommune>Le Pin</NomCommune>
+      <Localisation>
+         <Latitude>48.9150908</Latitude>
+         <Longitude>2.6298041</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 26 22 09</Téléphone>
+      <Télécopie>+33 1 60 26 67 80</Télécopie>
+      <Email>secretariat@mairielepin.fr</Email>
+      <Url>http://www.mairiedelepin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

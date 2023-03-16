@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63294-01" codeInsee="63294" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Queuille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 avenue du Méandre</Ligne>
+      <CodePostal>63780</CodePostal>
+      <NomCommune>Queuille</NomCommune>
+      <Localisation>
+         <Latitude>45.970617</Latitude>
+         <Longitude>2.84499</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 86 70 80</Téléphone>
+      <Télécopie>+33 4 73 86 94 98</Télécopie>
+      <Email>mairiedequeuille@orange.fr</Email>
+      <Url>http://www.queuille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

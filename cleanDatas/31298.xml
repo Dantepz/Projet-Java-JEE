@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31298-01" codeInsee="31298" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>31440</CodePostal>
+      <NomCommune>Lez</NomCommune>
+      <Localisation>
+         <Latitude>42.908876</Latitude>
+         <Longitude>0.700449</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 79 46 37</Téléphone>
+      <Télécopie>+33 5 61 79 46 37</Télécopie>
+      <Email>mairie.lez@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence téléphonique de 9h à 12h et de 14h à 18h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

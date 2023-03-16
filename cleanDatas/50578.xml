@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50578-01" codeInsee="50578" dateMiseAJour="2004-09-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sortosville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village de l'Eglise</Ligne>
+      <CodePostal>50310</CodePostal>
+      <NomCommune>SORTOSVILLE</NomCommune>
+      <Localisation>
+         <Latitude>49.4353981018</Latitude>
+         <Longitude>-1.77597594261</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

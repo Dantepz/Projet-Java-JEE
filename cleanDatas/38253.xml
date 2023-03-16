@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38253-01" codeInsee="38253" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mont-de-Lans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 12</Ligne>
+      <Ligne>48 avenue de la Muzelle</Ligne>
+      <CodePostal>38860</CodePostal>
+      <NomCommune>Mont-de-Lans</NomCommune>
+      <Localisation>
+         <Latitude>45.0360565186</Latitude>
+         <Longitude>6.12974023819</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 79 24 24</Téléphone>
+      <Télécopie>+33 4 76 79 57 09</Télécopie>
+      <Email>mairie@mont-de-lans.fr</Email>
+      <Url>http://www.mairiedemontdelansles2alpes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

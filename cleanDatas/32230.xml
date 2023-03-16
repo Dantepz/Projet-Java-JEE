@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32230-01" codeInsee="32230" dateMiseAJour="2007-12-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mansencôme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le village</Ligne>
+      <CodePostal>32310</CodePostal>
+      <NomCommune>MANSENCOME</NomCommune>
+      <Localisation>
+         <Latitude>43.8724136353</Latitude>
+         <Longitude>0.339711993933</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 28 57 00</Téléphone>
+      <Télécopie>+33 5 62 28 57 00</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

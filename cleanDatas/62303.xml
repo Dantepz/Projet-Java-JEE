@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62303-01" codeInsee="62303" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Erin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue d'Anvin</Ligne>
+      <CodePostal>62134</CodePostal>
+      <NomCommune>ERIN</NomCommune>
+      <Localisation>
+         <Latitude>50.4538002014</Latitude>
+         <Longitude>2.29352998734</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 41 80 37</Téléphone>
+      <Télécopie>+33 3 21 04 51 10</Télécopie>
+      <Email>mairie.erin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

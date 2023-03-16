@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-90027-01" codeInsee="90027" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courcelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue d'Ajoie</Ligne>
+      <CodePostal>90100</CodePostal>
+      <NomCommune>Courcelles</NomCommune>
+      <Localisation>
+         <Latitude>47.5405006409</Latitude>
+         <Longitude>6.97785997391</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 29 64 28</Téléphone>
+      <Télécopie>+33 3 84 29 64 28</Télécopie>
+      <Email>courcellesmairie@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="15:00:00"/>
+         <PlageH début="17:00:00" fin="18:00:00"/>
+         <Note>Permanence du maire ou de ses adjoints de 17h à 18h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

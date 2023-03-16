@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06049-01" codeInsee="06049" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>83 place de la Mairie</Ligne>
+      <CodePostal>06620</CodePostal>
+      <NomCommune>Courmes</NomCommune>
+      <Localisation>
+         <Latitude>43.7949981689</Latitude>
+         <Longitude>6.9433298111</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 09 68 77</Téléphone>
+      <Télécopie>+33 4 93 77 60 11</Télécopie>
+      <Email>mairie-de-courmes@wanadoo.fr</Email>
+      <Url>http://www.courmes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

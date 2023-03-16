@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40215-01" codeInsee="40215" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ousse-Suzan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 chemin Vicinal-le-Bourg</Ligne>
+      <CodePostal>40110</CodePostal>
+      <NomCommune>Ousse-Suzan</NomCommune>
+      <Localisation>
+         <Latitude>43.9567756653</Latitude>
+         <Longitude>-0.761946022511</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 51 73 80</Téléphone>
+      <Télécopie>+33 5 58 51 80 17</Télécopie>
+      <Email>mairie-ousse@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement le 2e samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

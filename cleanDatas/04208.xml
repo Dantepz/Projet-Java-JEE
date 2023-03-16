@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04208-01" codeInsee="04208" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Simiane-la-Rotonde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Haut-Village</Ligne>
+      <CodePostal>04150</CodePostal>
+      <NomCommune>Simiane-la-Rotonde</NomCommune>
+      <Localisation>
+         <Latitude>43.9807014465</Latitude>
+         <Longitude>5.56187009811</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 75 91 40</Téléphone>
+      <Télécopie>+33 4 92 75 94 39</Télécopie>
+      <Email>communedesimiane@wanadoo.fr</Email>
+      <Url>http://www.simiane-la-rotonde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

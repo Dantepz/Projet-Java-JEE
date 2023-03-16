@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17268-01" codeInsee="17268" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nuaillé-sur-Boutonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 bis route d'Aulnay</Ligne>
+      <CodePostal>17470</CodePostal>
+      <NomCommune>Nuaillé-sur-Boutonne</NomCommune>
+      <Localisation>
+         <Latitude>46.0124015808</Latitude>
+         <Longitude>-0.434264987707</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 59 92 00</Téléphone>
+      <Télécopie>+33 5 46 59 92 00</Télécopie>
+      <Email>nuaille.boutonne@mairie17.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

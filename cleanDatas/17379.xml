@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17379-01" codeInsee="17379" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Palais-de-Phiolin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue de Saintonge</Ligne>
+      <CodePostal>17800</CodePostal>
+      <NomCommune>Saint-Palais-de-Phiolin</NomCommune>
+      <Localisation>
+         <Latitude>45.5171012878</Latitude>
+         <Longitude>-0.600234985352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 49 01 66</Téléphone>
+      <Télécopie>+33 5 46 49 07 70</Télécopie>
+      <Email>saint-palais-de-phiolin@mairie17.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

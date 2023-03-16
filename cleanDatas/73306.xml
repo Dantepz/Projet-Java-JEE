@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73306-01" codeInsee="73306" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valloire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>73450</CodePostal>
+      <NomCommune>Valloire</NomCommune>
+      <Localisation>
+         <Latitude>45.2182273865</Latitude>
+         <Longitude>6.47447919846</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 59 03 11</Téléphone>
+      <Télécopie>+33 4 79 83 30 74</Télécopie>
+      <Email>mairie@valloire.net</Email>
+      <Url>http://www.mairie-valloire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement en période de saison touristique.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

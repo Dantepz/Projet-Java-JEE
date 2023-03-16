@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21372-01" codeInsee="21372" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maisey-le-Duc</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Louis-Folléa</Ligne>
+      <CodePostal>21400</CodePostal>
+      <NomCommune>Maisey-le-Duc</NomCommune>
+      <Localisation>
+         <Latitude>47.845834</Latitude>
+         <Longitude>4.677869</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 91 42 44</Téléphone>
+      <Télécopie>+33 3 80 91 42 44</Télécopie>
+      <Email>mairiedemaisey@wanadoo.fr</Email>
+      <Url>http://www.maisey-le-duc.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

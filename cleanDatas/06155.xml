@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06155-01" codeInsee="06155" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vallauris</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jacques-Cavasse</Ligne>
+      <Ligne>BP 299</Ligne>
+      <CodePostal>06220</CodePostal>
+      <NomCommune>Vallauris</NomCommune>
+      <Localisation>
+         <Latitude>43.579498291</Latitude>
+         <Longitude>7.05296993256</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 64 24 24</Téléphone>
+      <Télécopie>+33 4 93 64 55 37</Télécopie>
+      <Email>groupecabmaire@vallauris.fr</Email>
+      <Url>http://www.vallauris-golfe-juan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

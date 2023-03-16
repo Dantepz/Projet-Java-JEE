@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83103-01" codeInsee="83103" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Revest-les-Eaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Jaurès</Ligne>
+      <CodePostal>83200</CodePostal>
+      <NomCommune>Le Revest-les-Eaux</NomCommune>
+      <Localisation>
+         <Latitude>43.1767959595</Latitude>
+         <Longitude>5.92562818527</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 98 19 90</Téléphone>
+      <Télécopie>+33 4 94 98 19 99</Télécopie>
+      <Email>contactmairie@lerevest83.fr</Email>
+      <Url>http://www.lerevest83.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

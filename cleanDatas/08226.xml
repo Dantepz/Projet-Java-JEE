@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08226-01" codeInsee="08226" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hierges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du Cimetière</Ligne>
+      <CodePostal>08320</CodePostal>
+      <NomCommune>Hierges</NomCommune>
+      <Localisation>
+         <Latitude>50.1053619385</Latitude>
+         <Longitude>4.74085998535</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 41 75 94</Téléphone>
+      <Télécopie>+33 3 24 41 74 76</Télécopie>
+      <Email>mairie.hierges@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89172-01" codeInsee="89172" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontaine-la-Gaillarde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Gaston-Corgibet</Ligne>
+      <CodePostal>89100</CodePostal>
+      <NomCommune>Fontaine-la-Gaillarde</NomCommune>
+      <Localisation>
+         <Latitude>48.2211468</Latitude>
+         <Longitude>3.3800447</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 97 83 00</Téléphone>
+      <Télécopie>+33 3 86 88 16 45</Télécopie>
+      <Email>mairie.fontaine89@wanadoo.fr</Email>
+      <Url>http://www.mairie-fontainelagaillarde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

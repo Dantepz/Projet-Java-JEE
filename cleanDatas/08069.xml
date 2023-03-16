@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08069-01" codeInsee="08069" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blanchefosse-et-Bay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Plate-Fontaine</Ligne>
+      <CodePostal>08290</CodePostal>
+      <NomCommune>Blanchefosse-et-Bay</NomCommune>
+      <Localisation>
+         <Latitude>49.7713012695</Latitude>
+         <Longitude>4.23369979858</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 35 46 19</Téléphone>
+      <Télécopie>+33 3 24 35 46 19</Télécopie>
+      <Email>blanchefosse-et-bay@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert à la mairie de Blanchefosse</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert de 10h à 11h à la mairie de Blanchefosse et de 11h à 12h à la mairie de Bay</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

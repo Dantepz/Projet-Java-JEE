@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48111-01" codeInsee="48111" dateMiseAJour="2015-06-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pelouse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48000</CodePostal>
+      <NomCommune>Pelouse</NomCommune>
+      <Localisation>
+         <Latitude>44.5681762695</Latitude>
+         <Longitude>3.61716103554</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 47 70 92</Téléphone>
+      <Télécopie>+33 4 66 47 70 92</Télécopie>
+      <Email>mairie.pelouse@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

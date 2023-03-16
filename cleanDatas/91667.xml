@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-91667-01" codeInsee="91667" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villemoisson-sur-Orge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 avenue du Grand-Orme</Ligne>
+      <CodePostal>91360</CodePostal>
+      <NomCommune>Villemoisson-sur-Orge</NomCommune>
+      <Localisation>
+         <Latitude>48.6615982056</Latitude>
+         <Longitude>2.33032989502</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 51 56 00</Téléphone>
+      <Télécopie>+33 1 69 04 06 77</Télécopie>
+      <Email>contact@villemoisson.fr</Email>
+      <Url>http://www.mairie-villemoisson.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

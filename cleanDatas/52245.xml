@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52245-01" codeInsee="52245" dateMiseAJour="2004-09-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Humberville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de Manois</Ligne>
+      <CodePostal>52700</CodePostal>
+      <NomCommune>HUMBERVILLE</NomCommune>
+      <Localisation>
+         <Latitude>48.2723999023</Latitude>
+         <Longitude>5.40973997116</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 02 22 45</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

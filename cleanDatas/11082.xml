@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11082-01" codeInsee="11082" dateMiseAJour="2014-10-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Caunette-sur-Lauquet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>11250</CodePostal>
+      <NomCommune>Caunette-sur-Lauquet</NomCommune>
+      <Localisation>
+         <Latitude>43.0317</Latitude>
+         <Longitude>2.4161</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 69 60 03</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

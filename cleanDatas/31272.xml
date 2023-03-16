@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31272-01" codeInsee="31272" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lapeyrère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Bourdette</Ligne>
+      <CodePostal>31310</CodePostal>
+      <NomCommune>Lapeyrère</NomCommune>
+      <Localisation>
+         <Latitude>43.2363014221</Latitude>
+         <Longitude>1.33230996132</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 90 23 52</Téléphone>
+      <Télécopie>+33 5 61 90 23 52</Télécopie>
+      <Email>mairielapeyrere@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

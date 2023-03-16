@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65163-01" codeInsee="65163" dateMiseAJour="2006-08-30"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Escots</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>ESCOTS</NomCommune>
+      <Localisation>
+         <Latitude>43.059173584</Latitude>
+         <Longitude>0.257889002562</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 16 52</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

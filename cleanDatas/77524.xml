@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77524-01" codeInsee="77524" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vimpelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 bis rue de la Mairie</Ligne>
+      <CodePostal>77520</CodePostal>
+      <NomCommune>Vimpelles</NomCommune>
+      <Localisation>
+         <Latitude>48.4390983582</Latitude>
+         <Longitude>3.16702008247</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 67 33 75</Téléphone>
+      <Télécopie>+33 9 70 32 73 79</Télécopie>
+      <Email>mairie.vimpelles@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+         <Note>Accueil ouvert le mercredi de 17h30 à 18h30 au hameau de Cutrelles.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le dernier samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88223-01" codeInsee="88223" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gugney-aux-Aulx</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue de l'Église</Ligne>
+      <CodePostal>88450</CodePostal>
+      <NomCommune>Gugney-aux-Aulx</NomCommune>
+      <Localisation>
+         <Latitude>48.3045815</Latitude>
+         <Longitude>6.2690736</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 39 51 63</Téléphone>
+      <Télécopie>+33 9 71 70 30 44</Télécopie>
+      <Email>mairiegugneyauxaulx@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

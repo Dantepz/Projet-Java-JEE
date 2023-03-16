@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85050-01" codeInsee="85050" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Champ-Saint-Père</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>85540</CodePostal>
+      <NomCommune>Le Champ-Saint-Père</NomCommune>
+      <Localisation>
+         <Latitude>46.5098991394</Latitude>
+         <Longitude>-1.34403002262</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 40 93 24</Téléphone>
+      <Télécopie>+33 2 51 40 92 06</Télécopie>
+      <Email>mairie.champstpere@wanadoo.fr</Email>
+      <Url>http://www.champ-saint-pere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

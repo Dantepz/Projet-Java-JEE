@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02625-01" codeInsee="02625" dateMiseAJour="2014-12-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Proix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Jean-Fontesse</Ligne>
+      <CodePostal>02120</CodePostal>
+      <NomCommune>Proix</NomCommune>
+      <Localisation>
+         <Latitude>49.9003105164</Latitude>
+         <Longitude>3.56713104248</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 61 06 60</Téléphone>
+      <Télécopie>+33 3 23 61 06 60</Télécopie>
+      <Email>proix@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

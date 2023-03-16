@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51421-01" codeInsee="51421" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Oyes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, rue de la Mairie</Ligne>
+      <CodePostal>51120</CodePostal>
+      <NomCommune>Oyes</NomCommune>
+      <Localisation>
+         <Latitude>48.8507995605</Latitude>
+         <Longitude>3.76276993752</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 80 38 23</Téléphone>
+      <Télécopie>+33 3 26 80 38 23</Télécopie>
+      <Email>mairiedeoyes@orange.fr</Email>
+      <Url>http://oyes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

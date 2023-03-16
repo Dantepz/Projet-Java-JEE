@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49077-01" codeInsee="49077" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-sur-Oudon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Saint-Martin</Ligne>
+      <CodePostal>49500</CodePostal>
+      <NomCommune>La Chapelle-sur-Oudon</NomCommune>
+      <Localisation>
+         <Latitude>47.6757926941</Latitude>
+         <Longitude>-0.82811999321</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 92 25 45</Téléphone>
+      <Télécopie>+33 9 72 42 82 47</Télécopie>
+      <Email>mairie.lachapellesuroudon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 1er samedi du mois.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

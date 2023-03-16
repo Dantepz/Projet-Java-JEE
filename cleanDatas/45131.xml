@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45131-01" codeInsee="45131" dateMiseAJour="2015-10-01"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Échilleuses</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>45390</CodePostal>
+      <NomCommune>Échilleuses</NomCommune>
+      <Localisation>
+         <Latitude>48.1647373</Latitude>
+         <Longitude>2.4432801</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 33 60 09</Téléphone>
+      <Télécopie>+33 2 38 33 52 06</Télécopie>
+      <Email>commune.echilleuses@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les dates d'ouverture les samedis.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Ouverture un samedi sur deux.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

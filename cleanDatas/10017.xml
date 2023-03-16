@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10017-01" codeInsee="10017" dateMiseAJour="2014-07-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aulnay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Petit-Aulnay</Ligne>
+      <CodePostal>10240</CodePostal>
+      <NomCommune>Aulnay</NomCommune>
+      <Localisation>
+         <Latitude>48.472114</Latitude>
+         <Longitude>4.406875</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 27 47 60</Téléphone>
+      <Télécopie>+33 3 25 27 47 60</Télécopie>
+      <Email>mairie.aulnay10@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85239-01" codeInsee="85239" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Maixent-sur-Vie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>85220</CodePostal>
+      <NomCommune>Saint-Maixent-sur-Vie</NomCommune>
+      <Localisation>
+         <Latitude>46.7400016785</Latitude>
+         <Longitude>-1.82183003426</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 55 27 83</Téléphone>
+      <Télécopie>+33 2 51 54 10 31</Télécopie>
+      <Email>mairiestmaixentsurvie@wanadoo.fr</Email>
+      <Url>http://communesaintmaixentsurvie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

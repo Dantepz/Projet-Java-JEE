@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59133-01" codeInsee="59133" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Carnin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Lieutenant-Baillet</Ligne>
+      <CodePostal>59112</CodePostal>
+      <NomCommune>Carnin</NomCommune>
+      <Localisation>
+         <Latitude>50.5183982849</Latitude>
+         <Longitude>2.95918011665</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 85 66 17</Téléphone>
+      <Télécopie>+33 3 20 85 56 30</Télécopie>
+      <Email>communedecarnin@orange.fr</Email>
+      <Url>http://www.mairiecarnin.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30045-01" codeInsee="30045" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bordezac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>30160</CodePostal>
+      <NomCommune>Bordezac</NomCommune>
+      <Localisation>
+         <Latitude>44.3148155212</Latitude>
+         <Longitude>4.07737207413</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 25 02 36</Téléphone>
+      <Télécopie>+33 4 66 25 19 30</Télécopie>
+      <Email>mairie.bordezac@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil uniquement à l'annexe de la mairie à La Côte de Long.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil uniquement à la mairie du village.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

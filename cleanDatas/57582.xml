@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57582-01" codeInsee="57582" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Richemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>57270</CodePostal>
+      <NomCommune>Richemont</NomCommune>
+      <Localisation>
+         <Latitude>49.2788009644</Latitude>
+         <Longitude>6.16687011719</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 71 23 70</Téléphone>
+      <Télécopie>+33 3 87 71 95 23</Télécopie>
+      <Email>mairie-richemont@wanadoo.fr</Email>
+      <Url>http://www.richemont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Accueil ouvert de 7h30 à 15h, du 1er juillet au 31 août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

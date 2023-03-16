@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30178-01" codeInsee="30178" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montfaucon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue de la République</Ligne>
+      <CodePostal>30150</CodePostal>
+      <NomCommune>Montfaucon</NomCommune>
+      <Localisation>
+         <Latitude>44.0728988647</Latitude>
+         <Longitude>4.74601984024</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 50 06 46</Téléphone>
+      <Télécopie>+33 4 66 50 07 75</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le samedi pour les semaines paires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Accueil fermé le lundi matin les semaines paires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

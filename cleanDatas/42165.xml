@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42165-01" codeInsee="42165" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Panissières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Denis-Boulanger</Ligne>
+      <Ligne>BP 21</Ligne>
+      <CodePostal>42360</CodePostal>
+      <NomCommune>Panissières</NomCommune>
+      <Localisation>
+         <Latitude>45.7925987244</Latitude>
+         <Longitude>4.33993005753</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 27 40 40</Téléphone>
+      <Télécopie>+33 4 77 27 40 41</Télécopie>
+      <Email>mairie@panissieres.fr</Email>
+      <Url>http://www.panissieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

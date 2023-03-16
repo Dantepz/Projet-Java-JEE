@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52285-01" codeInsee="52285" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Leuchey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de l'Huilerie</Ligne>
+      <CodePostal>52190</CodePostal>
+      <NomCommune>Leuchey</NomCommune>
+      <Localisation>
+         <Latitude>47.728656</Latitude>
+         <Longitude>5.213497</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 87 02 38</Téléphone>
+      <Télécopie>+33 3 25 87 02 38</Télécopie>
+      <Email>mairie.leuchey@orange.fr</Email>
+      <Url>http://www.leuchey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

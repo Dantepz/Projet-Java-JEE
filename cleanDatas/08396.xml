@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08396-01" codeInsee="08396" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Quentin-le-Petit</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, Grande rue</Ligne>
+      <CodePostal>08220</CodePostal>
+      <NomCommune>Saint-Quentin-le-Petit</NomCommune>
+      <Localisation>
+         <Latitude>49.6061471</Latitude>
+         <Longitude>4.1375372</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 72 44 17</Téléphone>
+      <Télécopie>+33 3 24 72 44 17</Télécopie>
+      <Email>st-quentin-le-p.mairie@orange.fr</Email>
+      <Url>http://st-quentin08.pagesperso-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

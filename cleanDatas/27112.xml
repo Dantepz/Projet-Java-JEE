@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27112-01" codeInsee="27112" dateMiseAJour="2016-03-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Breteuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Huckelhoven</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>27160</CodePostal>
+      <NomCommune>Breteuil</NomCommune>
+      <Localisation>
+         <Latitude>48.8362221</Latitude>
+         <Longitude>0.9131206</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 29 82 45</Téléphone>
+      <Télécopie>+33 2 32 29 91 25</Télécopie>
+      <Email>mairie-breteuil@orange.fr</Email>
+      <Url>http://www.villedebreteuilsuriton.fr</Url>
+   </CoordonnéesNum>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Breteuil remplace les communes de Breteuil, de Cintray et de La Guéroulde</Commentaire>
+</Organisme>

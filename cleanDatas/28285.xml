@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28285-01" codeInsee="28285" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Oinville-sous-Auneau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue des Acacias</Ligne>
+      <CodePostal>28700</CodePostal>
+      <NomCommune>Oinville-sous-Auneau</NomCommune>
+      <Localisation>
+         <Latitude>48.4661369324</Latitude>
+         <Longitude>1.72697794437</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 31 71 98</Téléphone>
+      <Télécopie>+33 2 37 31 71 98</Télécopie>
+      <Email>oinvillesousauneau@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

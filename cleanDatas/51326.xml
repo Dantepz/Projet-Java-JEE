@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51326-01" codeInsee="51326" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Livry-Louvercy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de la Renaissance</Ligne>
+      <CodePostal>51400</CodePostal>
+      <NomCommune>Livry-Louvercy</NomCommune>
+      <Localisation>
+         <Latitude>49.1128005981</Latitude>
+         <Longitude>4.31522989273</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 00 86</Téléphone>
+      <Télécopie>+33 3 26 70 53 33</Télécopie>
+      <Email>mairie@livrylouvercy.fr</Email>
+      <Url>http://www.livrylouvercy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

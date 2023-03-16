@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02077-01" codeInsee="02077" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Berzy-le-Sec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Roger-Ambroise</Ligne>
+      <CodePostal>02200</CodePostal>
+      <NomCommune>Berzy-le-Sec</NomCommune>
+      <Localisation>
+         <Latitude>49.3333969116</Latitude>
+         <Longitude>3.31263494492</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 74 90 09</Téléphone>
+      <Télécopie>+33 9 74 44 96 02</Télécopie>
+      <Email>berzylesec.mairie@sfr.fr</Email>
+      <Url>http://www.berzylesec.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

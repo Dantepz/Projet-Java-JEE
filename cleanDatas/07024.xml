@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07024-01" codeInsee="07024" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Banne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>07460</CodePostal>
+      <NomCommune>Banne</NomCommune>
+      <Localisation>
+         <Latitude>44.3656997681</Latitude>
+         <Longitude>4.15601015091</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 39 82 66</Téléphone>
+      <Télécopie>+33 4 75 39 86 71</Télécopie>
+      <Email>ma-banne@inforoutes-ardeche.fr</Email>
+      <Url>http://www.banne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="07:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence des élus.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

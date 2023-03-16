@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80458-01" codeInsee="80458" dateMiseAJour="2004-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lahoussoye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Ruelle</Ligne>
+      <CodePostal>80800</CodePostal>
+      <NomCommune>LAHOUSSOYE</NomCommune>
+      <Localisation>
+         <Latitude>49.9519004822</Latitude>
+         <Longitude>2.48183989525</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 40 53 17</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

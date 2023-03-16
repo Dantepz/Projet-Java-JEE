@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45272-01" codeInsee="45272" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Cyr-en-Val</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>140 rue du 11-Novembre</Ligne>
+      <CodePostal>45590</CodePostal>
+      <NomCommune>Saint-Cyr-en-Val</NomCommune>
+      <Localisation>
+         <Latitude>47.8320055</Latitude>
+         <Longitude>1.9692595</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 76 20 20</Téléphone>
+      <Télécopie>+33 2 38 76 49 61</Télécopie>
+      <Email>contact@mairie-saintcyrenval.fr</Email>
+      <Url>http://www.mairie-saintcyrenval.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

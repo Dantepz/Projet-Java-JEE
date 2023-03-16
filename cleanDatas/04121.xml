@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04121-01" codeInsee="04121" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mézel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>04270</CodePostal>
+      <NomCommune>Mézel</NomCommune>
+      <Localisation>
+         <Latitude>43.9973869324</Latitude>
+         <Longitude>6.19651889801</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 35 53 87</Téléphone>
+      <Télécopie>+33 4 92 35 52 86</Télécopie>
+      <Email>mairie.mezel2@wanadoo.fr</Email>
+      <Url>http://www.mezel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

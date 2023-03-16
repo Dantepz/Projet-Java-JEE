@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49246-01" codeInsee="49246" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie des Ponts-de-Cé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, rue Charles-de-Gaulle</Ligne>
+      <Ligne>BP 60029</Ligne>
+      <CodePostal>49135</CodePostal>
+      <NomCommune>Les Ponts-de-Cé Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.4245711</Latitude>
+         <Longitude>-0.5249884</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">l'usager doit contacter la mairie avant son passage pour qu'on vienne lui ouvrir</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 79 75 75</Téléphone>
+      <Télécopie>+33 2 41 79 75 90</Télécopie>
+      <Email>mairie@ville-lespontsdece.fr</Email>
+      <Url>http://www.ville-lespontsdece.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

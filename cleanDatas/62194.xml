@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62194-01" codeInsee="62194" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Calonne-Ricouart</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place René-Lannoy</Ligne>
+      <CodePostal>62470</CodePostal>
+      <NomCommune>Calonne-Ricouart</NomCommune>
+      <Localisation>
+         <Latitude>50.4895744324</Latitude>
+         <Longitude>2.48438000679</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 52 18 52</Téléphone>
+      <Télécopie>+33 3 21 52 22 32</Télécopie>
+      <Email>matthieu.m@calonne-ricouart.fr</Email>
+      <Url>http://www.calonne-ricouart.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

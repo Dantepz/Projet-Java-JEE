@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85109-01" codeInsee="85109" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Herbiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 40209</Ligne>
+      <Ligne>6 rue du Tourniquet</Ligne>
+      <CodePostal>85502</CodePostal>
+      <NomCommune>Les Herbiers Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.8694031</Latitude>
+         <Longitude>-1.0128249</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 91 07 67</Téléphone>
+      <Télécopie>+33 2 51 64 99 45</Télécopie>
+      <Email>mairie@lesherbiers.fr</Email>
+      <Url>http://www.lesherbiers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

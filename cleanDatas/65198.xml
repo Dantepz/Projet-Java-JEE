@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65198-01" codeInsee="65198" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gerde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 rue de la République</Ligne>
+      <CodePostal>65200</CodePostal>
+      <NomCommune>Gerde</NomCommune>
+      <Localisation>
+         <Latitude>43.0553016663</Latitude>
+         <Longitude>0.167743995786</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 95 06 58</Téléphone>
+      <Télécopie>+33 5 62 95 17 57</Télécopie>
+      <Email>gerde.mairie@wanadoo.fr</Email>
+      <Url>http://www.gerde.monclocher.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

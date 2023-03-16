@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-90057-01" codeInsee="90057" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lachapelle-sous-Chaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue du Rhome</Ligne>
+      <CodePostal>90300</CodePostal>
+      <NomCommune>Lachapelle-sous-Chaux</NomCommune>
+      <Localisation>
+         <Latitude>47.7051010132</Latitude>
+         <Longitude>6.82106018066</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 29 20 04</Téléphone>
+      <Télécopie>+33 3 84 29 15 48</Télécopie>
+      <Email>mairie.lsc@wanadoo.fr</Email>
+      <Url>http://www.lachapelle-sous-chaux.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

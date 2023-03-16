@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54053-01" codeInsee="54053" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bauzemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45, Grande rue</Ligne>
+      <CodePostal>54370</CodePostal>
+      <NomCommune>Bauzemont</NomCommune>
+      <Localisation>
+         <Latitude>48.6561598</Latitude>
+         <Longitude>6.4896247</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 72 07 89</Téléphone>
+      <Télécopie>+33 3 83 72 07 89</Télécopie>
+      <Email>bauzemont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80237-01" codeInsee="80237" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Démuin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Écoles</Ligne>
+      <CodePostal>80110</CodePostal>
+      <NomCommune>Démuin</NomCommune>
+      <Localisation>
+         <Latitude>49.8479995728</Latitude>
+         <Longitude>2.57265996933</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 42 20 56</Téléphone>
+      <Télécopie>+33 3 22 42 20 56</Télécopie>
+      <Email>mairie.demuin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13049-01" codeInsee="13049" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lamanon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 Grand'rue</Ligne>
+      <CodePostal>13113</CodePostal>
+      <NomCommune>Lamanon</NomCommune>
+      <Localisation>
+         <Latitude>43.7012658</Latitude>
+         <Longitude>5.0850622</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 59 56 07</Téléphone>
+      <Télécopie>+33 4 90 59 55 71</Télécopie>
+      <Email>contact@mairie-lamanon.fr</Email>
+      <Url>http://www.mairie-lamanon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

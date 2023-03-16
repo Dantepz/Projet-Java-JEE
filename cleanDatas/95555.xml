@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95555-01" codeInsee="95555" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Gratien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Gambetta</Ligne>
+      <Ligne>BP 21</Ligne>
+      <CodePostal>95210</CodePostal>
+      <NomCommune>Saint-Gratien</NomCommune>
+      <Localisation>
+         <Latitude>48.970500946</Latitude>
+         <Longitude>2.28377008438</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 17 84 84</Téléphone>
+      <Télécopie>+33 1 34 17 84 06</Télécopie>
+      <Email>info@mairie-saintgratien.fr</Email>
+      <Url>http://www.ville-saintgratien.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Ouvert jusqu'à 19h pour l'accueil et l'état civil.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Ouvert jusqu'à 19h pour l'accueil et l'état civil.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

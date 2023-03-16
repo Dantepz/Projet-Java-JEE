@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31181-01" codeInsee="31181" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie du Fauga</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Halle</Ligne>
+      <CodePostal>31410</CodePostal>
+      <NomCommune>Le Fauga</NomCommune>
+      <Localisation>
+         <Latitude>43.396104</Latitude>
+         <Longitude>1.2959998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 56 30 04</Téléphone>
+      <Télécopie>+33 5 61 56 79 82</Télécopie>
+      <Email>mairie@lefauga.fr</Email>
+      <Url>http://www.lefauga.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence des élus uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

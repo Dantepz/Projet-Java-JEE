@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81070-01" codeInsee="81070" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Couffouleux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>53 avenue Jean-Berenguier</Ligne>
+      <CodePostal>81800</CodePostal>
+      <NomCommune>Couffouleux</NomCommune>
+      <Localisation>
+         <Latitude>43.8166999817</Latitude>
+         <Longitude>1.73160994053</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 33 73 10</Téléphone>
+      <Télécopie>+33 5 63 40 62 59</Télécopie>
+      <Email>mairie.couffouleux@free.fr</Email>
+      <Url>http://www.couffouleux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

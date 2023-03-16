@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80813-01" codeInsee="80813" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie DE VRAIGNES LES HORNOY</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue d'Hormoy</Ligne>
+      <CodePostal>80640</CodePostal>
+      <NomCommune>VRAIGNES LES HORNOY</NomCommune>
+      <Localisation>
+         <Latitude>49.8548049927</Latitude>
+         <Longitude>1.8871229887</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 90 60 83</Téléphone>
+      <Télécopie>+33 3 22 90 60 83</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

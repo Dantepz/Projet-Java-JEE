@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41081-01" codeInsee="41081" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Faye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue du Château</Ligne>
+      <CodePostal>41100</CodePostal>
+      <NomCommune>Faye</NomCommune>
+      <Localisation>
+         <Latitude>47.802345</Latitude>
+         <Longitude>1.176582</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 77 90 65 02</Téléphone>
+      <Télécopie>+33 2 54 77 50 23</Télécopie>
+      <Email>mairie.faye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>les 1ers et 3e samedis du mois uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

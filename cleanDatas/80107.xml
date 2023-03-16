@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80107-01" codeInsee="80107" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blangy-Tronville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place Gaston-Delapierre</Ligne>
+      <CodePostal>80440</CodePostal>
+      <NomCommune>Blangy-Tronville</NomCommune>
+      <Localisation>
+         <Latitude>49.880194</Latitude>
+         <Longitude>2.4232896</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 38 18 01</Téléphone>
+      <Télécopie>+33 3 22 38 19 52</Télécopie>
+      <Email>mairie.blangy-tronville@amiens-metropole.com</Email>
+      <Url>http://www.ville-blangy-tronville.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

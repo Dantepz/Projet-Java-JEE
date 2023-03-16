@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21185-01" codeInsee="21185" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Combertault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route de Challanges</Ligne>
+      <CodePostal>21200</CodePostal>
+      <NomCommune>Combertault</NomCommune>
+      <Localisation>
+         <Latitude>46.994149</Latitude>
+         <Longitude>4.899231</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 26 62 60</Téléphone>
+      <Télécopie>+33 9 62 51 25 24</Télécopie>
+      <Email>commune.combertault@wanadoo.fr</Email>
+      <Url>http://www.combertault.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

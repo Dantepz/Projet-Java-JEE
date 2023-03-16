@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44211-01" codeInsee="44211" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Turballe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de la Fontaine</Ligne>
+      <Ligne>BP 51009</Ligne>
+      <CodePostal>44356</CodePostal>
+      <NomCommune>La Turballe Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.3463547</Latitude>
+         <Longitude>-2.5090403</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 11 88 00</Téléphone>
+      <Télécopie>+33 2 40 23 30 00</Télécopie>
+      <Email>secretariatgeneral@mairielaturballe.fr</Email>
+      <Url>http://www.mairie-laturballe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence état civil uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

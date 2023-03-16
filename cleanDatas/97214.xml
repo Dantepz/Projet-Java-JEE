@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97214-01" codeInsee="97214" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie du Lorrain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19, rue Schoelcher</Ligne>
+      <Ligne>Bourg</Ligne>
+      <CodePostal>97214</CodePostal>
+      <NomCommune>Le Lorrain</NomCommune>
+      <Localisation>
+         <Latitude>14.6777158</Latitude>
+         <Longitude>-60.9385633</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+596 5 96 53 44 22</Téléphone>
+      <Télécopie>+596 5 96 53 40 42</Télécopie>
+      <Email>mairie.lorrain@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="07:00:00" fin="13:00:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="07:00:00" fin="12:30:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

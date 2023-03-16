@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24482-01" codeInsee="24482" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Paul-Lizonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>24320</CodePostal>
+      <NomCommune>Saint-Paul-Lizonne</NomCommune>
+      <Localisation>
+         <Latitude>45.3198432922</Latitude>
+         <Longitude>0.282220005989</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 91 66 15</Téléphone>
+      <Télécopie>+33 5 53 91 45 68</Télécopie>
+      <Email>mairie.lizonne@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous le mercredi toute la journée.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

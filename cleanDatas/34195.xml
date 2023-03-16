@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34195-01" codeInsee="34195" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pégairolles-de-Buèges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grand'rue</Ligne>
+      <CodePostal>34380</CodePostal>
+      <NomCommune>Pégairolles-de-Buèges</NomCommune>
+      <Localisation>
+         <Latitude>43.8086891174</Latitude>
+         <Longitude>3.58682990074</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 73 14 07</Téléphone>
+      <Télécopie>+33 4 67 73 14 07</Télécopie>
+      <Email>mairiedepegairolles@wanadoo.fr</Email>
+      <Url>http://www.pegairollesdebueges.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="12:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

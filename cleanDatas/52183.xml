@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52183-01" codeInsee="52183" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ecot-la-Combe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue de l'Église</Ligne>
+      <CodePostal>52700</CodePostal>
+      <NomCommune>Ecot-la-Combe</NomCommune>
+      <Localisation>
+         <Latitude>48.2072274</Latitude>
+         <Longitude>5.3802543</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 01 76 97</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

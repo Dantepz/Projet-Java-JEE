@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62253-01" codeInsee="62253" dateMiseAJour="2004-10-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Couturelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue Château</Ligne>
+      <CodePostal>62158</CodePostal>
+      <NomCommune>COUTURELLE</NomCommune>
+      <Localisation>
+         <Latitude>50.2144012451</Latitude>
+         <Longitude>2.4678299427</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 48 75 75</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

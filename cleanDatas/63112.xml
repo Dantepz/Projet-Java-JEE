@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63112-01" codeInsee="63112" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Clerlande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Saint-Amable</Ligne>
+      <CodePostal>63720</CodePostal>
+      <NomCommune>Clerlande</NomCommune>
+      <Localisation>
+         <Latitude>45.9178009033</Latitude>
+         <Longitude>3.19212007523</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 97 00 86</Téléphone>
+      <Télécopie>+33 4 73 97 00 86</Télécopie>
+      <Email>mairie-clerlande@wanadoo.fr</Email>
+      <Url>http://www.clerlande.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

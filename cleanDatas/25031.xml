@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25031-01" codeInsee="25031" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Audincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 45199</Ligne>
+      <Ligne>8 avenue Aristide-Briand</Ligne>
+      <CodePostal>25400</CodePostal>
+      <NomCommune>Audincourt</NomCommune>
+      <Localisation>
+         <Latitude>47.4822998047</Latitude>
+         <Longitude>6.84090995789</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 36 37 38</Téléphone>
+      <Télécopie>+33 3 81 36 37 39</Télécopie>
+      <Email>lemaire@audincourt.fr</Email>
+      <Url>http://www.audincourt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Fermeture des services administratifs à 16h30 du 15 juillet au 21 août 2015.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement pour l'état-civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

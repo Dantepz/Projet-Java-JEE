@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97125-01" codeInsee="97125" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-François</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>97118</CodePostal>
+      <NomCommune>Saint-Francois</NomCommune>
+      <Localisation>
+         <Latitude>16.2496572980523</Latitude>
+         <Longitude>-61.2832832336426</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 5 90 85 58 18</Téléphone>
+      <Télécopie>+590 5 90 88 42 20</Télécopie>
+      <Email>valerie.herlem.mairie@orange.fr</Email>
+      <Url>http://www.saintfrancoiscabouge.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert du 2 juillet au 24 août de 7h45 à 13h30.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+         <Note>Accueil ouvert du 2 juillet au 24 août de 7h45 à 13h30.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert du 2 juillet au 24 août de 7h45 à 13h30.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+         <Note>Accueil ouvert du 2 juillet au 24 août de 7h45 à 13h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

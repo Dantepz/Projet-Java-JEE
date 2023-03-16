@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83091-01" codeInsee="83091" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pierrefeu-du-Var</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Urbain-Sénès</Ligne>
+      <CodePostal>83390</CodePostal>
+      <NomCommune>Pierrefeu-du-Var</NomCommune>
+      <Localisation>
+         <Latitude>43.2268981934</Latitude>
+         <Longitude>6.14451980591</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 13 53 13</Téléphone>
+      <Télécopie>+33 4 94 13 53 00</Télécopie>
+      <Email>communication@pierrefeu-du-var.fr</Email>
+      <Url>http://www.pierrefeu-du-var.blogspot.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

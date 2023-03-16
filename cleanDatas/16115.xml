@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16115-01" codeInsee="16115" dateMiseAJour="2015-06-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cressac-Saint-Genis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16250</CodePostal>
+      <NomCommune>Cressac-Saint-Genis</NomCommune>
+      <Localisation>
+         <Latitude>45.446559906</Latitude>
+         <Longitude>0.012032000348</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 64 04 50</Téléphone>
+      <Télécopie>+33 5 45 62 50 47</Télécopie>
+      <Email>mairie.cressacsaintgenis@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

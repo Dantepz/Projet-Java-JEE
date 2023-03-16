@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60573-01" codeInsee="60573" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Eusoye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Prien</Ligne>
+      <CodePostal>60480</CodePostal>
+      <NomCommune>Sainte-Eusoye</NomCommune>
+      <Localisation>
+         <Latitude>49.5781326294</Latitude>
+         <Longitude>2.2449131012</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 80 71 73</Téléphone>
+      <Télécopie>+33 3 44 80 71 73</Télécopie>
+      <Email>mairie.steusoye@wanadoo.fr</Email>
+      <Url>http://www.sainte-eusoye.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

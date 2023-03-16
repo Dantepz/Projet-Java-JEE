@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21603-01" codeInsee="21603" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Semur-en-Auxois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 bis place de l'Ancienne-Comédie</Ligne>
+      <CodePostal>21140</CodePostal>
+      <NomCommune>Semur-en-Auxois</NomCommune>
+      <Localisation>
+         <Latitude>47.4899857</Latitude>
+         <Longitude>4.3340411</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 97 01 11</Téléphone>
+      <Télécopie>+33 3 80 97 06 26</Télécopie>
+      <Email>accueil@ville-semur-en-auxois.fr</Email>
+      <Url>http://www.ville-semur-en-auxois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour les cartes d'identités et pour les passeports et uniquement sur rendez-vous .</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert uniquement à partir de 9h30 pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

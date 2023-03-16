@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80064-01" codeInsee="80064" dateMiseAJour="2011-10-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaucourt-en-Santerre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue Brûlé</Ligne>
+      <CodePostal>80110</CodePostal>
+      <NomCommune>BEAUCOURT EN SANTERRE</NomCommune>
+      <Localisation>
+         <Latitude>49.7928009033</Latitude>
+         <Longitude>2.58781003952</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 94 90 26</Téléphone>
+      <Email>commune-beaucourt-en-santerre@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

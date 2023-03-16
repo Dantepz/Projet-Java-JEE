@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54021-01" codeInsee="54021" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Armaucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25, Grande rue</Ligne>
+      <CodePostal>54760</CodePostal>
+      <NomCommune>Armaucourt</NomCommune>
+      <Localisation>
+         <Latitude>48.8146018982</Latitude>
+         <Longitude>6.30518007278</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 31 89 03</Téléphone>
+      <Télécopie>+33 3 83 31 89 03</Télécopie>
+      <Email>mairie-armaucourt@wanadoo.fr</Email>
+      <Url>http://www.armaucourt.mairie.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 1er et 3eme samedi du mois, permanence des élus</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

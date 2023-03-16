@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62081-01" codeInsee="62081" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Baralle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 Grand'rue</Ligne>
+      <CodePostal>62860</CodePostal>
+      <NomCommune>Baralle</NomCommune>
+      <Localisation>
+         <Latitude>50.2098808289</Latitude>
+         <Longitude>3.05385804176</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 73 01 81</Téléphone>
+      <Télécopie>+33 3 21 07 87 43</Télécopie>
+      <Email>mairiedebaralle@wanadoo.fr</Email>
+      <Url>http://www.mairie-de-baralle.info</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62577-01" codeInsee="62577" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monchel-sur-Canche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>51, rue de Saint-Pol</Ligne>
+      <CodePostal>62270</CodePostal>
+      <NomCommune>Monchel-sur-Canche</NomCommune>
+      <Localisation>
+         <Latitude>50.3067458</Latitude>
+         <Longitude>2.2146878</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 47 17 49</Téléphone>
+      <Télécopie>+33 3 21 04 58 23</Télécopie>
+      <Email>commune.monchel-sur-canche@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

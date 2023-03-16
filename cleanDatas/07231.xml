@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07231-01" codeInsee="07231" dateMiseAJour="2016-01-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Étienne-de-Fontbellon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Les Champs</Ligne>
+      <Ligne>100 rue de la Mairie</Ligne>
+      <CodePostal>07200</CodePostal>
+      <NomCommune>Saint-Étienne-de-Fontbellon</NomCommune>
+      <Localisation>
+         <Latitude>44.6006616</Latitude>
+         <Longitude>4.3865344</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 35 12 96</Téléphone>
+      <Télécopie>+33 4 75 93 47 00</Télécopie>
+      <Email>mairie.stef@orange.fr</Email>
+      <Url>http://www.st-etienne-de-fontbellon.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert uniquement le 2e samedi du mois.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

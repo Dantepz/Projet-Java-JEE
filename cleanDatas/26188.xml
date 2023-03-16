@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26188-01" codeInsee="26188" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mollans-sur-Ouvèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village Porte-Major</Ligne>
+      <CodePostal>26170</CodePostal>
+      <NomCommune>Mollans-sur-Ouvèze</NomCommune>
+      <Localisation>
+         <Latitude>44.237239</Latitude>
+         <Longitude>5.191743</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">une marche</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 28 70 15</Téléphone>
+      <Télécopie>+33 4 75 28 79 11</Télécopie>
+      <Email>mairiemollan@wanadoo.fr</Email>
+      <Url>http://mollans.info</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

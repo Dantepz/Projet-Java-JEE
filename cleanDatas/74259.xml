@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74259-01" codeInsee="74259" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Sappey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route du Salève</Ligne>
+      <CodePostal>74350</CodePostal>
+      <NomCommune>Le Sappey</NomCommune>
+      <Localisation>
+         <Latitude>46.1357383728</Latitude>
+         <Longitude>6.13291501999</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 44 02 31</Téléphone>
+      <Télécopie>+33 4 50 32 27 98</Télécopie>
+      <Email>mairie.lesappey@wanadoo.fr</Email>
+      <Url>http://www.lesappey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

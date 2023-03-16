@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63097-01" codeInsee="63097" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chassagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63320</CodePostal>
+      <NomCommune>Chassagne</NomCommune>
+      <Localisation>
+         <Latitude>45.49785</Latitude>
+         <Longitude>3.077313</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 47 60</Téléphone>
+      <Télécopie>+33 4 73 71 47 60</Télécopie>
+      <Email>mairie-de-chassagne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

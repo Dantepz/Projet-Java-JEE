@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69267-01" codeInsee="69267" dateMiseAJour="2007-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villie Morgon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>54 rue du Chateau Fontcrenne</Ligne>
+      <CodePostal>69910</CodePostal>
+      <NomCommune>VILLIE MORGON</NomCommune>
+      <Localisation>
+         <Latitude>46.1613006592</Latitude>
+         <Longitude>4.67902994156</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 69 12 38</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

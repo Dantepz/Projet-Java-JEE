@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62223-01" codeInsee="62223" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chérisy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 bis rue Vis</Ligne>
+      <CodePostal>62128</CodePostal>
+      <NomCommune>CHERISY</NomCommune>
+      <Localisation>
+         <Latitude>50.2462997437</Latitude>
+         <Longitude>2.94201993942</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 73 35 44</Téléphone>
+      <Télécopie>+33 3 21 73 35 44</Télécopie>
+      <Email>mairie.cherisy62@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

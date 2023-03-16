@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38191-01" codeInsee="38191" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Huez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>226 route de la Poste</Ligne>
+      <CodePostal>38750</CodePostal>
+      <NomCommune>Huez</NomCommune>
+      <Localisation>
+         <Latitude>45.0917015076</Latitude>
+         <Longitude>6.06297016144</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 11 21 21</Téléphone>
+      <Télécopie>+33 4 76 11 21 00</Télécopie>
+      <Email>info@mairie-alpedhuez.fr</Email>
+      <Url>http://www.alpedhuez-mairie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

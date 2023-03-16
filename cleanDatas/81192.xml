@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81192-01" codeInsee="81192" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Murat-sur-Vèbre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Languedoc</Ligne>
+      <CodePostal>81320</CodePostal>
+      <NomCommune>Murat-sur-Vèbre</NomCommune>
+      <Localisation>
+         <Latitude>43.6824989319</Latitude>
+         <Longitude>2.867000103</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 37 41 16</Téléphone>
+      <Télécopie>+33 5 63 37 16 52</Télécopie>
+      <Email>mairie.murat81@orange.fr</Email>
+      <Url>http://www.murat-sur-vebre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

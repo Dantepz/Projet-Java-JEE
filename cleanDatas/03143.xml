@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03143-01" codeInsee="03143" dateMiseAJour="2016-01-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'ételon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 rue Télonéa</Ligne>
+      <CodePostal>03360</CodePostal>
+      <NomCommune>LETELON</NomCommune>
+      <Localisation>
+         <Latitude>46.6565666199</Latitude>
+         <Longitude>2.58696198463</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 06 95 88</Téléphone>
+      <Télécopie>+33 4 70 06 96 92</Télécopie>
+      <Email>mairie.letelon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

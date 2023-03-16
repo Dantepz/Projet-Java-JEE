@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83070-01" codeInsee="83070" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Lavandou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Ernest-Reyer</Ligne>
+      <CodePostal>83980</CodePostal>
+      <NomCommune>Le Lavandou</NomCommune>
+      <Localisation>
+         <Latitude>43.1381492615</Latitude>
+         <Longitude>6.36927509308</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 05 15 70</Téléphone>
+      <Télécopie>+33 4 94 64 92 50</Télécopie>
+      <Email>secretariat.maire@le-lavandou.fr</Email>
+      <Url>http://le-lavandou.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

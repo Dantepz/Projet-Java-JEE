@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01317-01" codeInsee="01317" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ramasse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Abbé-Gringoz</Ligne>
+      <CodePostal>01250</CodePostal>
+      <NomCommune>Ramasse</NomCommune>
+      <Localisation>
+         <Latitude>46.207408905</Latitude>
+         <Longitude>5.33318281174</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 30 66 34</Téléphone>
+      <Télécopie>+33 4 74 47 71 32</Télécopie>
+      <Email>mairie.ramasse317@orange.fr</Email>
+      <Url>http://www.ramasse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:30:00" fin="11:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

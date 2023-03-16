@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72253-01" codeInsee="72253" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Roézé-sur-Sarthe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue de la Mairie</Ligne>
+      <CodePostal>72210</CodePostal>
+      <NomCommune>Roézé-sur-Sarthe</NomCommune>
+      <Localisation>
+         <Latitude>47.8945007324</Latitude>
+         <Longitude>0.0676539987326</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 77 26 22</Téléphone>
+      <Télécopie>+33 2 43 77 42 51</Télécopie>
+      <Email>mairie-roeze@wanadoo.fr</Email>
+      <Url>http://mairie.wanadoo.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil fermé le jeudi matin.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

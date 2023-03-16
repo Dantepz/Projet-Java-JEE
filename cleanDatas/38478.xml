@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38478-01" codeInsee="38478" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Séchilienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>196 rue de l'Amicale-Laïque-Séchilienne</Ligne>
+      <CodePostal>38220</CodePostal>
+      <NomCommune>Séchilienne</NomCommune>
+      <Localisation>
+         <Latitude>45.0567016602</Latitude>
+         <Longitude>5.76756000519</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 72 18 06</Téléphone>
+      <Télécopie>+33 4 76 72 12 00</Télécopie>
+      <Email>mairie.sechilienne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

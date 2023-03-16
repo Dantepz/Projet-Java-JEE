@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71047-01" codeInsee="71047" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bourbon-Lancy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>71140</CodePostal>
+      <NomCommune>Bourbon-Lancy</NomCommune>
+      <Localisation>
+         <Latitude>46.62241745</Latitude>
+         <Longitude>3.76792192459</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 89 23 23</Téléphone>
+      <Télécopie>+33 3 85 89 30 20</Télécopie>
+      <Email>mairie@bourbon-lancy.com</Email>
+      <Url>http://www.bourbon-lancy.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état-civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

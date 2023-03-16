@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03042-01" codeInsee="03042" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie du Breuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Baptiste-Côte</Ligne>
+      <CodePostal>03120</CodePostal>
+      <NomCommune>Le Breuil</NomCommune>
+      <Localisation>
+         <Latitude>46.1838684082</Latitude>
+         <Longitude>3.65862393379</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 99 11 16</Téléphone>
+      <Télécopie>+33 4 70 99 06 41</Télécopie>
+      <Email>mairie.lebreuil.03@wanadoo.fr</Email>
+      <Url>http://www.lebreuil.planet-allier.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

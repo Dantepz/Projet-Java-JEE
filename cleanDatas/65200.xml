@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65200-01" codeInsee="65200" dateMiseAJour="2013-04-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Germs-sur-l'Oussouet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Michel-Laffaille</Ligne>
+      <CodePostal>65200</CodePostal>
+      <NomCommune>Germs-sur-l'Oussouet</NomCommune>
+      <Localisation>
+         <Latitude>43.0510406494</Latitude>
+         <Longitude>0.0555169992149</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 42 90 91</Téléphone>
+      <Télécopie>+33 5 62 42 90 91</Télécopie>
+      <Email>germs-sur-oussouet.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

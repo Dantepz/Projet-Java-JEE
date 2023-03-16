@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11109-01" codeInsee="11109" dateMiseAJour="2007-11-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coustaussa</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>11190</CodePostal>
+      <NomCommune>COUSTAUSSA</NomCommune>
+      <Localisation>
+         <Latitude>42.940612793</Latitude>
+         <Longitude>2.27822399139</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 74 08 51</Téléphone>
+      <Email>coustaussa@mairie.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

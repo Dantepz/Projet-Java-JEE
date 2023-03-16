@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59524-01" codeInsee="59524" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainghin-en-Weppes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>59184</CodePostal>
+      <NomCommune>Sainghin-en-Weppes</NomCommune>
+      <Localisation>
+         <Latitude>50.5624959</Latitude>
+         <Longitude>2.8995413</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 58 17 58</Téléphone>
+      <Télécopie>+33 3 20 58 27 19</Télécopie>
+      <Email>mairie.sainghin@free.fr</Email>
+      <Url>http://ville-sainghin-en-weppes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

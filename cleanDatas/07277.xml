@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07277-01" codeInsee="07277" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Michel-de-Boulogne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>07200</CodePostal>
+      <NomCommune>Saint-Michel-de-Boulogne</NomCommune>
+      <Localisation>
+         <Latitude>44.6955070496</Latitude>
+         <Longitude>4.43388700485</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 87 11 15</Téléphone>
+      <Télécopie>+33 4 75 87 11 15</Télécopie>
+      <Email>st-michel-de-b.mairie0722@orange.fr</Email>
+      <Url>http://www.mairie-saintmicheldeboulogne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

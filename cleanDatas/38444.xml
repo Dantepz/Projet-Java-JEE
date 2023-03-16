@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38444-01" codeInsee="38444" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Pierre-de-Méaroz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>38350</CodePostal>
+      <NomCommune>Saint-Pierre-de-Méaroz</NomCommune>
+      <Localisation>
+         <Latitude>44.8747329712</Latitude>
+         <Longitude>5.82368707657</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 30 41 66</Téléphone>
+      <Télécopie>+33 4 76 30 41 66</Télécopie>
+      <Email>mairie.st-pierre-de-mearoz@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

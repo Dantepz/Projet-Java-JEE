@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59578-01" codeInsee="59578" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Steenbecque</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Jean-Ruyssen</Ligne>
+      <CodePostal>59189</CodePostal>
+      <NomCommune>Steenbecque</NomCommune>
+      <Localisation>
+         <Latitude>50.6737585</Latitude>
+         <Longitude>2.4853923</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 43 61 52</Téléphone>
+      <Télécopie>+33 3 28 42 10 06</Télécopie>
+      <Email>mairie.steenbecque@wanadoo.fr</Email>
+      <Url>http://www.steenbecque.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61051-01" codeInsee="61051" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boitron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61500</CodePostal>
+      <NomCommune>Boitron</NomCommune>
+      <Localisation>
+         <Latitude>48.5499000549</Latitude>
+         <Longitude>0.298135012388</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 27 45 21</Téléphone>
+      <Télécopie>+33 2 33 27 45 21</Télécopie>
+      <Email>boitron.orne@wanadoo.fr</Email>
+      <Url>http://www.boitron.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

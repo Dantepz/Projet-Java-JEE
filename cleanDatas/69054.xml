@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69054-01" codeInsee="69054" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chénelette</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>190 route de Lamure</Ligne>
+      <CodePostal>69430</CodePostal>
+      <NomCommune>Chénelette</NomCommune>
+      <Localisation>
+         <Latitude>46.1694984436</Latitude>
+         <Longitude>4.48736000061</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 03 62 01</Téléphone>
+      <Télécopie>+33 4 74 03 73 18</Télécopie>
+      <Email>mairie@chenelette.fr</Email>
+      <Url>http://www.chenelette.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

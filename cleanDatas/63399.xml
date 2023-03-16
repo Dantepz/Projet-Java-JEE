@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63399-01" codeInsee="63399" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sulpice</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63760</CodePostal>
+      <NomCommune>Saint-Sulpice</NomCommune>
+      <Localisation>
+         <Latitude>45.6429367065</Latitude>
+         <Longitude>2.62767696381</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 21 84 27</Téléphone>
+      <Télécopie>+33 4 73 21 84 93</Télécopie>
+      <Email>saintsulpice.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:45:00" fin="11:15:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="11:15:00"/>
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95054-01" codeInsee="95054" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bellay-en-Vexin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Charles-Debellay</Ligne>
+      <CodePostal>95750</CodePostal>
+      <NomCommune>Le Bellay-en-Vexin</NomCommune>
+      <Localisation>
+         <Latitude>49.1512489319</Latitude>
+         <Longitude>1.8866610527</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 67 42 75</Téléphone>
+      <Télécopie>+33 1 34 67 46 21</Télécopie>
+      <Email>mairie.bellay@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

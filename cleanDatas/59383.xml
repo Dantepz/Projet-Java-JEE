@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59383-01" codeInsee="59383" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Gabriel-Péri</Ligne>
+      <Ligne>BP 59582</Ligne>
+      <CodePostal>59770</CodePostal>
+      <NomCommune>Marly</NomCommune>
+      <Localisation>
+         <Latitude>50.3497009277</Latitude>
+         <Longitude>3.54359006882</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 23 99 00</Téléphone>
+      <Télécopie>+33 3 27 23 99 15</Télécopie>
+      <Email>mairie@marly.fr</Email>
+      <Url>http://www.marly.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil. Accueil ouvert de 10h à 12h en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert à partir de 8h30 en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

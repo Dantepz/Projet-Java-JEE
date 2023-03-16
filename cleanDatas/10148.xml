@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10148-01" codeInsee="10148" dateMiseAJour="2015-05-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ferreux-Quincey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 ruelle de la Mairie</Ligne>
+      <CodePostal>10400</CodePostal>
+      <NomCommune>Ferreux-Quincey</NomCommune>
+      <Localisation>
+         <Latitude>48.4498497</Latitude>
+         <Longitude>3.6112196</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 39 25 58</Téléphone>
+      <Télécopie>+33 3 25 39 25 58</Télécopie>
+      <Email>mairie.ferreux.quincey@wanadoo.fr</Email>
+      <Url>http://www.ferreux-quincey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="12:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="12:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

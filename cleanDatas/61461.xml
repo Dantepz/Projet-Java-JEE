@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61461-01" codeInsee="61461" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie du Sap-André</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61230</CodePostal>
+      <NomCommune>Le Sap-André</NomCommune>
+      <Localisation>
+         <Latitude>48.8316726685</Latitude>
+         <Longitude>0.380288988352</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 39 48 76</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85061-01" codeInsee="85061" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Château-Guibert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue du Jarc</Ligne>
+      <CodePostal>85320</CodePostal>
+      <NomCommune>Château-Guibert</NomCommune>
+      <Localisation>
+         <Latitude>46.5808982849</Latitude>
+         <Longitude>-1.23632001877</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 30 54 03</Téléphone>
+      <Télécopie>+33 2 51 28 23 62</Télécopie>
+      <Email>mairie.chateauguibert@wanadoo.fr</Email>
+      <Url>http://chateau.guibert.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

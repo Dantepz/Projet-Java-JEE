@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51100-01" codeInsee="51100" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Caure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue principale</Ligne>
+      <CodePostal>51270</CodePostal>
+      <NomCommune>LA CAURE</NomCommune>
+      <Localisation>
+         <Latitude>48.9125976562</Latitude>
+         <Longitude>3.79026007652</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 52 62 30</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:15:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:15:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

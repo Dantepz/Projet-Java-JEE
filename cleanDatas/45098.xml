@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45098-01" codeInsee="45098" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cléry-Saint-André</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>94, rue du Maréchal-Foch</Ligne>
+      <Ligne>BP 11</Ligne>
+      <CodePostal>45370</CodePostal>
+      <NomCommune>Cléry-Saint-André</NomCommune>
+      <Localisation>
+         <Latitude>47.820762</Latitude>
+         <Longitude>1.755924</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 46 98 98</Téléphone>
+      <Télécopie>+33 2 38 46 98 99</Télécopie>
+      <Email>accueil@clery-saint-andre.com</Email>
+      <Url>http://www.clery-saint-andre.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Horaires pendant les congés scolaires de 9h à 12h</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Horaires pendant les congés scolaires de 9h à 12h et de 15h à 17h sauf le mercredi après-midi</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16133-01" codeInsee="16133" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Etriac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16250</CodePostal>
+      <NomCommune>ETRIAC</NomCommune>
+      <Localisation>
+         <Latitude>45.5284996033</Latitude>
+         <Longitude>-0.0260630007833</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 66 37 53</Téléphone>
+      <Télécopie>+33 5 45 66 37 53</Télécopie>
+      <Email>mairie.etriac@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

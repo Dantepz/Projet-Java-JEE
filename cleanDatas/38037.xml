@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38037-01" codeInsee="38037" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bellegarde-Poussieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 place de la Mairie</Ligne>
+      <CodePostal>38270</CodePostal>
+      <NomCommune>Bellegarde-Poussieu</NomCommune>
+      <Localisation>
+         <Latitude>45.3754310608</Latitude>
+         <Longitude>4.95089578629</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 84 84 11</Téléphone>
+      <Télécopie>+33 4 74 79 80 33</Télécopie>
+      <Email>mairie.bellegarde-poussieu@territoire-de-beaurepaire.fr</Email>
+      <Url>http://www.bellegarde-poussieu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

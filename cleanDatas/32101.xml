@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32101-01" codeInsee="32101" dateMiseAJour="2011-05-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Céran</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Au village</Ligne>
+      <CodePostal>32500</CodePostal>
+      <NomCommune>CERAN</NomCommune>
+      <Localisation>
+         <Latitude>43.8179244995</Latitude>
+         <Longitude>0.687007009983</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 06 18 27</Téléphone>
+      <Télécopie>+33 5 62 06 18 27</Télécopie>
+      <Email>mairie.ceran@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

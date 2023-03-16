@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68120-01" codeInsee="68120" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hagenthal-le-Bas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue d'Oberdorf</Ligne>
+      <CodePostal>68220</CodePostal>
+      <NomCommune>Hagenthal-le-Bas</NomCommune>
+      <Localisation>
+         <Latitude>47.523601532</Latitude>
+         <Longitude>7.476749897</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 68 50 14</Téléphone>
+      <Télécopie>+33 3 89 68 10 57</Télécopie>
+      <Email>mairie@hagenthal-le-bas.com</Email>
+      <Url>https://www.hagenthal-le-bas.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

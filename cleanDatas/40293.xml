@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40293-01" codeInsee="40293" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saubusse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 place Eugénie-Desjobert</Ligne>
+      <CodePostal>40180</CodePostal>
+      <NomCommune>Saubusse</NomCommune>
+      <Localisation>
+         <Latitude>43.6563224792</Latitude>
+         <Longitude>-1.18692195415</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 57 70 38</Téléphone>
+      <Télécopie>+33 8 97 50 98 14</Télécopie>
+      <Email>mairie@saubusse.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

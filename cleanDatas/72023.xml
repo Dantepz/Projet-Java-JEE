@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72023-01" codeInsee="72023" dateMiseAJour="2016-02-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ballon-Saint Mars</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Espace François-Mitterrand</Ligne>
+      <CodePostal>72290</CodePostal>
+      <NomCommune>Ballon</NomCommune>
+      <Localisation>
+         <Latitude>48.1767158508</Latitude>
+         <Longitude>0.233823999763</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 27 30 21</Téléphone>
+      <Télécopie>+33 2 43 27 24 83</Télécopie>
+      <Email>mairie-de-ballon@wanadoo.fr</Email>
+      <Url>http://www.commune-de-ballon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="16:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert de 9h à 12h en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Ballon-Saint Mars  remplace les communes de Ballon et de Saint-Mars-sous-Ballon</Commentaire>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79313-01" codeInsee="79313" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sepvret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, rue du Champ-de-Foire</Ligne>
+      <CodePostal>79120</CodePostal>
+      <NomCommune>Sepvret</NomCommune>
+      <Localisation>
+         <Latitude>46.2877197266</Latitude>
+         <Longitude>-0.0882790014148</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 07 30 12</Téléphone>
+      <Télécopie>+33 5 49 07 31 65</Télécopie>
+      <Email>mairie-sepvret@paysmellois.org</Email>
+      <Url>http://www.sepvret.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

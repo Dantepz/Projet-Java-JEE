@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14604-01" codeInsee="14604" dateMiseAJour="2004-08-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de saint-Laurent-Du-Mont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>14340</CodePostal>
+      <NomCommune>ST LAURENT DU MONT</NomCommune>
+      <Localisation>
+         <Latitude>49.0928399</Latitude>
+         <Longitude>0.0803428</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

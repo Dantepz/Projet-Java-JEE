@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18021-01" codeInsee="18021" dateMiseAJour="2014-07-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bannegon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, rue de la Mairie</Ligne>
+      <CodePostal>18210</CodePostal>
+      <NomCommune>Bannegon</NomCommune>
+      <Localisation>
+         <Latitude>46.8600946</Latitude>
+         <Longitude>2.7045095</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 61 83 61</Téléphone>
+      <Télécopie>+33 2 48 61 85 42</Télécopie>
+      <Email>mairie.bannegon@wanadoo.fr</Email>
+      <Url>http://www.bannegon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

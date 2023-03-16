@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51133-01" codeInsee="51133" dateMiseAJour="2013-04-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Le Chatelier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>grande rue</Ligne>
+      <CodePostal>51330</CodePostal>
+      <NomCommune>Le Chatelier</NomCommune>
+      <Localisation>
+         <Latitude>48.9008609</Latitude>
+         <Longitude>4.9537388</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 92 25 08</Téléphone>
+      <Télécopie>+33 3 26 92 25 08</Télécopie>
+      <Email>le.chatelier.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52540-01" codeInsee="52540" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vitry en Montagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de l'eglise</Ligne>
+      <CodePostal>52160</CodePostal>
+      <NomCommune>VITRY EN MONTAGNE</NomCommune>
+      <Localisation>
+         <Latitude>48.2243498</Latitude>
+         <Longitude>5.0386832</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 87 58 02</Téléphone>
+      <Email>vitry-en-montagne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54583-01" codeInsee="54583" dateMiseAJour="2015-07-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villey-le-Sec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de l'Église</Ligne>
+      <CodePostal>54840</CodePostal>
+      <NomCommune>Villey-le-Sec</NomCommune>
+      <Localisation>
+         <Latitude>48.6597285</Latitude>
+         <Longitude>5.9772642</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 63 60 83</Téléphone>
+      <Télécopie>+33 3 83 63 62 36</Télécopie>
+      <Email>villeylesecmairie@wanadoo.fr</Email>
+      <Url>http://www.villey-le-sec.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+         <Note>Permanence du maire sans rendez-vous les mardis de 18h à 19h.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

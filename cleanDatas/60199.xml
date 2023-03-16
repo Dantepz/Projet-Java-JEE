@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60199-01" codeInsee="60199" dateMiseAJour="2015-04-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Domeliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>53 rue Principale</Ligne>
+      <CodePostal>60360</CodePostal>
+      <NomCommune>Domeliers</NomCommune>
+      <Localisation>
+         <Latitude>49.6328137</Latitude>
+         <Longitude>2.1650598</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 82 96 70</Téléphone>
+      <Télécopie>+33 3 44 82 96 70</Télécopie>
+      <Email>mairie.domeliers@wanadoo.fr</Email>
+      <Url>http://www.domeliers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

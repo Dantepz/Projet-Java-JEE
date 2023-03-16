@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60071-01" codeInsee="60071" dateMiseAJour="2007-12-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Biermont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>52 rue des Tilleuls</Ligne>
+      <CodePostal>60490</CodePostal>
+      <NomCommune>BIERMONT</NomCommune>
+      <Localisation>
+         <Latitude>49.5808982849</Latitude>
+         <Longitude>2.73335003853</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 85 08 63</Téléphone>
+      <Télécopie>+33 3 44 85 08 63</Télécopie>
+      <Email>mairie-de-biermont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

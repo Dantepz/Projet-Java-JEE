@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02088-01" codeInsee="02088" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bievres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de Festieux</Ligne>
+      <CodePostal>02860</CodePostal>
+      <NomCommune>BIEVRES</NomCommune>
+      <Localisation>
+         <Latitude>49.4930229187</Latitude>
+         <Longitude>3.713586092</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 24 76 86</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:45:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

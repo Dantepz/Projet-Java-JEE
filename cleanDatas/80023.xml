@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80023-01" codeInsee="80023" dateMiseAJour="2007-11-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Andechy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de l' ecole</Ligne>
+      <CodePostal>80700</CodePostal>
+      <NomCommune>ANDECHY</NomCommune>
+      <Localisation>
+         <Latitude>49.7151908875</Latitude>
+         <Longitude>2.70859098434</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 37 48 58</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

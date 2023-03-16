@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2B013-01" codeInsee="2B013" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Alzi</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>20212</CodePostal>
+      <NomCommune>Alzi</NomCommune>
+      <Localisation>
+         <Latitude>42.303088</Latitude>
+         <Longitude>9.300935</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 48 68 27</Téléphone>
+      <Télécopie>+33 4 95 48 68 27</Télécopie>
+      <Email>mairie.alzi@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

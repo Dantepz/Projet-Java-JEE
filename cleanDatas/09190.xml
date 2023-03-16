@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09190-01" codeInsee="09190" dateMiseAJour="2014-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mérigon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>09230</CodePostal>
+      <NomCommune>Mérigon</NomCommune>
+      <Localisation>
+         <Latitude>43.088494</Latitude>
+         <Longitude>1.196126</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 63 24 90 20</Téléphone>
+      <Télécopie>+33 5 61 96 05 28</Télécopie>
+      <Email>communedemerigon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

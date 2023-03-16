@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62537-01" codeInsee="62537" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Magnicourt-sur-Canche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue d'en Haut</Ligne>
+      <CodePostal>62270</CodePostal>
+      <NomCommune>Magnicourt-sur-Canche</NomCommune>
+      <Localisation>
+         <Latitude>50.3042116</Latitude>
+         <Longitude>2.4116119</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 47 19 30</Téléphone>
+      <Télécopie>+33 3 21 47 19 30</Télécopie>
+      <Email>mmairie@xilan.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

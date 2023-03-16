@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54456-01" codeInsee="54456" dateMiseAJour="2015-07-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Réméréville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue du Général-Mathis</Ligne>
+      <CodePostal>54110</CodePostal>
+      <NomCommune>Réméréville</NomCommune>
+      <Localisation>
+         <Latitude>48.7056446</Latitude>
+         <Longitude>6.3891803</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 61 07 16 32</Téléphone>
+      <Télécopie>+33 3 83 31 60 94</Télécopie>
+      <Email>remereville-mairie@wanadoo.fr</Email>
+      <Url>http://mairie.remereville.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

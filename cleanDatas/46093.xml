@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46093-01" codeInsee="46093" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Espagnac-Sainte-Eulalie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>46320</CodePostal>
+      <NomCommune>Espagnac-Sainte-Eulalie</NomCommune>
+      <Localisation>
+         <Latitude>44.5923156738</Latitude>
+         <Longitude>1.84073197842</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 40 09 17</Téléphone>
+      <Télécopie>+33 5 65 40 09 17</Télécopie>
+      <Email>mairie.espagnac@wanadoo.fr</Email>
+      <Url>http://www.espagnac-ste-eulalie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

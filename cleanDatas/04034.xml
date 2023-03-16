@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04034-01" codeInsee="04034" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Brillanne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Sainte-Agathe</Ligne>
+      <CodePostal>04700</CodePostal>
+      <NomCommune>La Brillanne</NomCommune>
+      <Localisation>
+         <Latitude>43.9303016663</Latitude>
+         <Longitude>5.89052009583</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 78 63 18</Téléphone>
+      <Télécopie>+33 4 92 79 95 73</Télécopie>
+      <Email>mairie.labrillanne04700@orange.fr</Email>
+      <Url>http://www.dlva.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

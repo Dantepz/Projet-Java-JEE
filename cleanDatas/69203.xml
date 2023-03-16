@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69203-01" codeInsee="69203" dateMiseAJour="2015-12-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Genis-l'Argentière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>69610</CodePostal>
+      <NomCommune>Saint-Genis-l'Argentière</NomCommune>
+      <Localisation>
+         <Latitude>45.7611999512</Latitude>
+         <Longitude>4.49983978271</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 70 04 83</Téléphone>
+      <Télécopie>+33 4 74 26 23 72</Télécopie>
+      <Email>mairie@saintgenislargentiere.fr</Email>
+      <Url>http://www.saintgenislargentiere.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

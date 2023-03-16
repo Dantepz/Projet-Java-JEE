@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54328-01" codeInsee="54328" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ludres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Ferri-de-Ludre</Ligne>
+      <Ligne>BP 90072</Ligne>
+      <CodePostal>54711</CodePostal>
+      <NomCommune>Ludres Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6229133606</Latitude>
+         <Longitude>6.16107416153</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 26 14 33</Téléphone>
+      <Télécopie>+33 3 83 26 10 58</Télécopie>
+      <Email>mairie@ludres.com</Email>
+      <Url>http://www.ludres.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

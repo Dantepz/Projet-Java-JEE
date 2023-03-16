@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02223-01" codeInsee="02223" dateMiseAJour="2014-12-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courboin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16, rue Principale</Ligne>
+      <CodePostal>02330</CodePostal>
+      <NomCommune>Courboin</NomCommune>
+      <Localisation>
+         <Latitude>48.9936471</Latitude>
+         <Longitude>3.5048229</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 82 41 17</Téléphone>
+      <Télécopie>+33 3 23 82 38 02</Télécopie>
+      <Email>mairiedecourboin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+         <Note>Accueil téléphonique uniquement de 14h à 18h30.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+         <Note>Accueil téléphonique uniquement de 9h à 12h et de 14h à 19h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

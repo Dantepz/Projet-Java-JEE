@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-64439-01" codeInsee="64439" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ousse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue des Pyrénées</Ligne>
+      <CodePostal>64320</CodePostal>
+      <NomCommune>Ousse</NomCommune>
+      <Localisation>
+         <Latitude>43.2779998779</Latitude>
+         <Longitude>-0.269674003124</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 81 74 24</Téléphone>
+      <Télécopie>+33 5 59 81 73 23</Télécopie>
+      <Email>mairie.ousse@wanadoo.fr</Email>
+      <Url>http://ousse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

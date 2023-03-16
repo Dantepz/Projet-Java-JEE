@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21025-01" codeInsee="21025" dateMiseAJour="2014-07-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arrans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 route Départementale</Ligne>
+      <CodePostal>21500</CodePostal>
+      <NomCommune>Arrans</NomCommune>
+      <Localisation>
+         <Latitude>47.697056</Latitude>
+         <Longitude>4.318287</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 92 43 62</Téléphone>
+      <Télécopie>+33 3 80 92 43 62</Télécopie>
+      <Email>mairie.arrans@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

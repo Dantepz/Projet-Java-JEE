@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61320-01" codeInsee="61320" dateMiseAJour="2004-09-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Orville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61120</CodePostal>
+      <NomCommune>ORVILLE</NomCommune>
+      <Localisation>
+         <Latitude>48.8895187378</Latitude>
+         <Longitude>0.271990001202</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 30 12 72</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

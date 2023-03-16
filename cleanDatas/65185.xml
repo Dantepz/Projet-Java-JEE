@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65185-01" codeInsee="65185" dateMiseAJour="2014-02-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gardères</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, place du Château</Ligne>
+      <CodePostal>65320</CodePostal>
+      <NomCommune>Gardères</NomCommune>
+      <Localisation>
+         <Latitude>43.2804641724</Latitude>
+         <Longitude>-0.11230699718</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 32 50 09</Téléphone>
+      <Télécopie>+33 5 62 32 59 88</Télécopie>
+      <Email>mairie.garderes@wanadoo.fr</Email>
+      <Url>http://www.garderes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="19:00:00" fin="21:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

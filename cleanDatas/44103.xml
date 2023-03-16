@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44103-01" codeInsee="44103" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montoir-de-Bretagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>65 rue Jean-Jaurès</Ligne>
+      <CodePostal>44550</CodePostal>
+      <NomCommune>Montoir-de-Bretagne</NomCommune>
+      <Localisation>
+         <Latitude>47.3265991211</Latitude>
+         <Longitude>-2.14998006821</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 45 45 00</Téléphone>
+      <Télécopie>+33 2 40 88 62 95</Télécopie>
+      <Email>contact@montoirdebretagne.fr</Email>
+      <Url>http://www.montoirdebretagne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

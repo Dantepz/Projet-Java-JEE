@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37116-01" codeInsee="37116" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Hermites</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Déportés</Ligne>
+      <CodePostal>37110</CodePostal>
+      <NomCommune>Les Hermites</NomCommune>
+      <Localisation>
+         <Latitude>47.6648565</Latitude>
+         <Longitude>0.7515785</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 56 31 18</Téléphone>
+      <Télécopie>+33 2 47 56 08 47</Télécopie>
+      <Email>mairie.les.hermites@wanadoo.fr</Email>
+      <Url>http://www.ville-leshermites.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

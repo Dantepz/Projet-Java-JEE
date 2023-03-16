@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86114-01" codeInsee="86114" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jardres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Raphaël-Guillon</Ligne>
+      <CodePostal>86800</CodePostal>
+      <NomCommune>Jardres</NomCommune>
+      <Localisation>
+         <Latitude>46.5704032</Latitude>
+         <Longitude>0.5650846</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 56 70 56</Téléphone>
+      <Télécopie>+33 5 49 01 04 02</Télécopie>
+      <Email>jardres@cg86.fr</Email>
+      <Url>http://www.jardres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

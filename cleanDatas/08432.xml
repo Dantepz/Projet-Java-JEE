@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08432-01" codeInsee="08432" dateMiseAJour="2011-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sury</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de l'Eglise</Ligne>
+      <CodePostal>08090</CodePostal>
+      <NomCommune>SURY</NomCommune>
+      <Localisation>
+         <Latitude>49.7352414</Latitude>
+         <Longitude>4.6364992</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 53 20 47</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

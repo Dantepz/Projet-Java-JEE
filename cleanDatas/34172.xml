@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34172-01" codeInsee="34172" dateMiseAJour="2015-10-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montpellier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Georges-Frêche</Ligne>
+      <CodePostal>34267</CodePostal>
+      <NomCommune>Montpellier Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>43.5994487</Latitude>
+         <Longitude>3.896091</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 34 70 00</Téléphone>
+      <Email>https://www.montpellier.fr/114-contacter-la-mairie.htm</Email>
+      <Url>http://www.montpellier.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

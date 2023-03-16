@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59314-01" codeInsee="59314" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hornaing</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 1</Ligne>
+      <Ligne>12 rue Jean-Jaurès</Ligne>
+      <CodePostal>59171</CodePostal>
+      <NomCommune>Hornaing</NomCommune>
+      <Localisation>
+         <Latitude>50.3655014038</Latitude>
+         <Longitude>3.33703994751</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 21 96 00</Téléphone>
+      <Télécopie>+33 3 27 21 96 07</Télécopie>
+      <Email>communication@hornaing.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert du lundi au vendredi de 9h à 12h et de 14h à 17h en juillet et aout,</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé pendant juillet et aout</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

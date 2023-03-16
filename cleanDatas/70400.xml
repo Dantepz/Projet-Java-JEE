@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70400-01" codeInsee="70400" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ouge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Laperrière</Ligne>
+      <CodePostal>70500</CodePostal>
+      <NomCommune>Ouges</NomCommune>
+      <Localisation>
+         <Latitude>47.7472991943</Latitude>
+         <Longitude>5.66442012787</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 68 55 04</Téléphone>
+      <Télécopie>+33 3 84 68 55 04</Télécopie>
+      <Email>mairie.ouge@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

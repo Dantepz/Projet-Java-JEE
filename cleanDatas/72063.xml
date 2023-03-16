@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72063-01" codeInsee="72063" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-Gaugain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place Didierjean</Ligne>
+      <CodePostal>72310</CodePostal>
+      <NomCommune>La Chapelle-Gaugain</NomCommune>
+      <Localisation>
+         <Latitude>47.7990913391</Latitude>
+         <Longitude>0.678946971893</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 35 35 17</Téléphone>
+      <Télécopie>+33 2 43 35 49 93</Télécopie>
+      <Email>mairie.lachapelle.gaugain@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

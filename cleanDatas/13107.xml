@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13107-01" codeInsee="13107" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Simiane-Collongue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <Ligne>Château de Simiane</Ligne>
+      <CodePostal>13109</CodePostal>
+      <NomCommune>Simiane-Collongue</NomCommune>
+      <Localisation>
+         <Latitude>43.4303195</Latitude>
+         <Longitude>5.4347154</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 94 91 91</Téléphone>
+      <Télécopie>+33 4 42 22 78 52</Télécopie>
+      <Email>secretariat-maire@simiane-collongue.fr</Email>
+      <Url>http://www.simiane-collongue.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

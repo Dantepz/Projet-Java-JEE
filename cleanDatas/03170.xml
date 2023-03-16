@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03170-01" codeInsee="03170" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Meillers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>03210</CodePostal>
+      <NomCommune>Meillers</NomCommune>
+      <Localisation>
+         <Latitude>46.5068016052</Latitude>
+         <Longitude>3.09248709679</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC">Travaux courant 2016</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 47 23 27</Téléphone>
+      <Télécopie>+33 4 70 47 30 35</Télécopie>
+      <Email>mairie-meillers@pays-allier.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

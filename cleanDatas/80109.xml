@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80109-01" codeInsee="80109" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Boisle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 route Nationale</Ligne>
+      <CodePostal>80150</CodePostal>
+      <NomCommune>Le Boisle</NomCommune>
+      <Localisation>
+         <Latitude>50.2643013</Latitude>
+         <Longitude>1.977429986</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 29 21 02</Téléphone>
+      <Télécopie>+33 3 22 29 21 02</Télécopie>
+      <Email>mairie.leboisle@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

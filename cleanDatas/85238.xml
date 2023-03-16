@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85238-01" codeInsee="85238" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-sur-Sèvre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>85290</CodePostal>
+      <NomCommune>Saint-Laurent-sur-Sèvre</NomCommune>
+      <Localisation>
+         <Latitude>46.9589996338</Latitude>
+         <Longitude>-0.886476993561</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 67 81 44</Téléphone>
+      <Télécopie>+33 2 51 67 81 41</Télécopie>
+      <Email>mairie@saintlaurentsursevre.fr</Email>
+      <Url>http://www.saintlaurentsursevre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

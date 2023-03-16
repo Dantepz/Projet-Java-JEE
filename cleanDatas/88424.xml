@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88424-01" codeInsee="88424" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Marguerite</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>239 rue d'Alsace</Ligne>
+      <CodePostal>88100</CodePostal>
+      <NomCommune>Sainte-Marguerite</NomCommune>
+      <Localisation>
+         <Latitude>48.2686473</Latitude>
+         <Longitude>6.9804059</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 56 19 75</Téléphone>
+      <Télécopie>+33 3 29 56 08 07</Télécopie>
+      <Email>mairie.sainte.marguerite@wanadoo.fr</Email>
+      <Url>http://www.ville-saintemarguerite.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

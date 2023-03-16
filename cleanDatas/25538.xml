@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25538-01" codeInsee="25538" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Séchin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, chemin d'Ougney</Ligne>
+      <Ligne>Chez M. Le Maire</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>Séchin</NomCommune>
+      <Localisation>
+         <Latitude>47.3357009888</Latitude>
+         <Longitude>6.28311014175</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 29 26</Téléphone>
+      <Email>roussy.p2@orange.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

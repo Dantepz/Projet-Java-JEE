@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25491-01" codeInsee="25491" dateMiseAJour="2009-11-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rignosot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Mairie</Ligne>
+      <CodePostal>25640</CodePostal>
+      <NomCommune>RIGNOSOT</NomCommune>
+      <Localisation>
+         <Latitude>47.3879013062</Latitude>
+         <Longitude>6.19521999359</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 04 12</Téléphone>
+      <Télécopie>+33 3 81 86 04 12</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

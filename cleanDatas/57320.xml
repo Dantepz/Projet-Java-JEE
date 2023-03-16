@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57320-01" codeInsee="57320" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hertzing</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Principale</Ligne>
+      <CodePostal>57830</CodePostal>
+      <NomCommune>Hertzing</NomCommune>
+      <Localisation>
+         <Latitude>48.7248001099</Latitude>
+         <Longitude>6.93127012253</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 25 00 12</Téléphone>
+      <Télécopie>+33 3 87 03 39 61</Télécopie>
+      <Email>mairie-de-hertzing@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+         <Note>Permanence semaine paire du 1er adjoint de 18h à 19h et permanence semaine impaire du 2e adjoint de 19h à 20h.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="19:30:00"/>
+         <Note>Permanence du maire de 18h30 à 19h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

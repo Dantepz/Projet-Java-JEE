@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07252-01" codeInsee="07252" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien-Boutières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>07310</CodePostal>
+      <NomCommune>Saint-Julien-Boutières</NomCommune>
+      <Localisation>
+         <Latitude>44.9741096497</Latitude>
+         <Longitude>4.35095787048</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 30 44 00</Téléphone>
+      <Télécopie>+33 4 75 30 44 00</Télécopie>
+      <Email>mairie.st.julien.boutieres@inforoutes-ardeche.fr</Email>
+      <Url>http://www.saint-julien-boutieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

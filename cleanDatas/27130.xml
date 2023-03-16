@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27130-01" codeInsee="27130" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Capelle-les-Grands</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place des Canadiens</Ligne>
+      <CodePostal>27270</CodePostal>
+      <NomCommune>Capelle-les-Grands</NomCommune>
+      <Localisation>
+         <Latitude>49.0463981628</Latitude>
+         <Longitude>0.473538011312</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 44 72 49</Téléphone>
+      <Télécopie>+33 2 32 45 12 48</Télécopie>
+      <Email>mairie-de-capelle-les-grands@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31459-01" codeInsee="31459" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Roquesérière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>2 rue de l'Église</Ligne>
+      <CodePostal>31380</CodePostal>
+      <NomCommune>Roquesérière</NomCommune>
+      <Localisation>
+         <Latitude>43.7336354</Latitude>
+         <Longitude>1.6374141</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>102 Grande rue Tolosane</Ligne>
+      <CodePostal>31380</CodePostal>
+      <NomCommune>Roquesérière</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 84 22 22</Téléphone>
+      <Télécopie>+33 5 61 84 66 74</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="16:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

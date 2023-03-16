@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60319-01" codeInsee="60319" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Houssoye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>93 rue de Jouy-sous-Thelle</Ligne>
+      <CodePostal>60390</CodePostal>
+      <NomCommune>La Houssoye</NomCommune>
+      <Localisation>
+         <Latitude>49.3522987366</Latitude>
+         <Longitude>1.95053994656</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 81 40 08</Téléphone>
+      <Télécopie>+33 3 44 81 26 58</Télécopie>
+      <Email>mairie-de-la-houssoye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence des élus le mardi de 18h à 19h30.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:30:00"/>
+         <Note>Permanence des élus uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

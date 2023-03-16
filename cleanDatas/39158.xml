@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39158-01" codeInsee="39158" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coisia</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>39240</CodePostal>
+      <NomCommune>Coisia</NomCommune>
+      <Localisation>
+         <Latitude>46.306102</Latitude>
+         <Longitude>5.580462</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 76 86 08</Téléphone>
+      <Télécopie>+33 4 74 76 86 08</Télécopie>
+      <Email>mairie-de-coisia@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:45:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65255-01" codeInsee="65255" dateMiseAJour="2011-01-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lançon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Au village</Ligne>
+      <CodePostal>65240</CodePostal>
+      <NomCommune>LANCON</NomCommune>
+      <Localisation>
+         <Latitude>42.8859664</Latitude>
+         <Longitude>0.3665734</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 65 64</Téléphone>
+      <Télécopie>+33 5 62 99 65 64</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

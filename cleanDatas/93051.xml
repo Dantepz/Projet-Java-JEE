@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-93051-01" codeInsee="93051" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noisy-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Libération</Ligne>
+      <Ligne>BP 49</Ligne>
+      <CodePostal>93161</CodePostal>
+      <NomCommune>Noisy-le-Grand  Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.848579</Latitude>
+         <Longitude>2.55261</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 92 75 75</Téléphone>
+      <Télécopie>+33 1 45 92 53 00</Télécopie>
+      <Url>http://www.noisylegrand.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Attention : fin de la prise en charge des demandes 15 minutes avant la fermeture.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

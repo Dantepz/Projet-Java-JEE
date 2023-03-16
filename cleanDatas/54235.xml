@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54235-01" codeInsee="54235" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Goviller</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de l'Abbé-Jean-Harmand</Ligne>
+      <CodePostal>54330</CodePostal>
+      <NomCommune>Goviller</NomCommune>
+      <Localisation>
+         <Latitude>48.497535</Latitude>
+         <Longitude>6.009661</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 52 88 96</Téléphone>
+      <Télécopie>+33 3 83 52 88 96</Télécopie>
+      <Email>mairiegovillersaintois54@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence de M. le Maire, le mercredi matin de 11h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

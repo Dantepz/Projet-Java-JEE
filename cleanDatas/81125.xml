@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81125-01" codeInsee="81125" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lacaze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Château</Ligne>
+      <CodePostal>81330</CodePostal>
+      <NomCommune>Lacaze</NomCommune>
+      <Localisation>
+         <Latitude>43.737286</Latitude>
+         <Longitude>2.520274</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 37 55 98</Téléphone>
+      <Télécopie>+33 5 63 37 18 04</Télécopie>
+      <Email>mairie.lacaze@orange.fr</Email>
+      <Url>http://www.lacaze-tarn.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24108-01" codeInsee="24108" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-Gonaguet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24350</CodePostal>
+      <NomCommune>La Chapelle-Gonaguet</NomCommune>
+      <Localisation>
+         <Latitude>45.2306391</Latitude>
+         <Longitude>0.6137288</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 03 52 80</Téléphone>
+      <Télécopie>+33 5 53 08 17 95</Télécopie>
+      <Email>mairie.lachapellegonaguet@wanadoo.fr</Email>
+      <Url>http://www.lachapellegonaguet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

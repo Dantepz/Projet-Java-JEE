@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80335-01" codeInsee="80335" dateMiseAJour="2013-08-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Foucaucourt-en-Santerre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, chaussée Brunehaut</Ligne>
+      <CodePostal>80340</CodePostal>
+      <NomCommune>Foucaucourt-en-Santerre</NomCommune>
+      <Localisation>
+         <Latitude>49.874209</Latitude>
+         <Longitude>2.774436</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 85 22 39</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

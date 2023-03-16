@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-64458-01" codeInsee="64458" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Préchacq-Josbaig</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 route de Josbaig</Ligne>
+      <CodePostal>64190</CodePostal>
+      <NomCommune>Préchacq-Josbaig</NomCommune>
+      <Localisation>
+         <Latitude>43.2402683</Latitude>
+         <Longitude>-0.6905463000000509</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 88 04 37</Téléphone>
+      <Télécopie>+33 5 59 88 04 37</Télécopie>
+      <Email>mairie.prechacq-josbaig@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

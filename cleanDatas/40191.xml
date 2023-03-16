@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40191-01" codeInsee="40191" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montaut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>155 rue Henri-II</Ligne>
+      <CodePostal>40500</CodePostal>
+      <NomCommune>Montaut</NomCommune>
+      <Localisation>
+         <Latitude>43.7405014038</Latitude>
+         <Longitude>-0.659058988094</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 76 05 13</Téléphone>
+      <Télécopie>+33 5 58 76 07 43</Télécopie>
+      <Email>montaut.mairie@wanadoo.fr</Email>
+      <Url>http://www.montaut.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

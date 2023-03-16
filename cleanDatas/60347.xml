@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60347-01" codeInsee="60347" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lannoy Cuillere</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue principale</Ligne>
+      <CodePostal>60220</CodePostal>
+      <NomCommune>Lannoy Cuillère</NomCommune>
+      <Localisation>
+         <Latitude>49.6977005005</Latitude>
+         <Longitude>1.763890028</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 04 22 01</Téléphone>
+      <Télécopie>+33 3 44 04 86 11</Télécopie>
+      <Email>mairie-lannoycuillere@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

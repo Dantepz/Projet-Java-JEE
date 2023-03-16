@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02269-01" codeInsee="02269" dateMiseAJour="2004-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dorengt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Calvaire</Ligne>
+      <CodePostal>02450</CodePostal>
+      <NomCommune>DORENGT</NomCommune>
+      <Localisation>
+         <Latitude>49.974773407</Latitude>
+         <Longitude>3.6791601181</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 60 05 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02390-01" codeInsee="02390" dateMiseAJour="2004-08-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jeancourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue d'Hargicourt</Ligne>
+      <CodePostal>02490</CodePostal>
+      <NomCommune>JEANCOURT</NomCommune>
+      <Localisation>
+         <Latitude>49.9612007141</Latitude>
+         <Longitude>3.21737003326</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 66 59 97</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

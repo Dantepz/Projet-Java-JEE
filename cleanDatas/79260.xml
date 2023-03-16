@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79260-01" codeInsee="79260" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jouin-de-Marnes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 route d'Airvault</Ligne>
+      <CodePostal>79600</CodePostal>
+      <NomCommune>Saint-Jouin-de-Marnes</NomCommune>
+      <Localisation>
+         <Latitude>46.8801994324</Latitude>
+         <Longitude>-0.0591790005565</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 67 40 12</Téléphone>
+      <Télécopie>+33 5 49 67 14 37</Télécopie>
+      <Email>mairie@mairie-stjouindemarnes.fr</Email>
+      <Url>http://www.saintjouindemarnes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

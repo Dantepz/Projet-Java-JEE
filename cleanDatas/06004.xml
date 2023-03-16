@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06004-01" codeInsee="06004" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Antibes-Juan-les-Pins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cours Massena</Ligne>
+      <Ligne>BP 2205</Ligne>
+      <CodePostal>06606</CodePostal>
+      <NomCommune>Antibes Cedex 6</NomCommune>
+      <Localisation>
+         <Latitude>43.5806503296</Latitude>
+         <Longitude>7.12767219543</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 90 50 00</Téléphone>
+      <Email>mairie@ville-antibes.fr</Email>
+      <Url>http://www.antibes-juanlespins.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

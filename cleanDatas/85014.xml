@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85014-01" codeInsee="85014" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bazoges-en-Pareds</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Maréchal-de-Lattre-de-Tassigny</Ligne>
+      <CodePostal>85390</CodePostal>
+      <NomCommune>Bazoges-en-Pareds</NomCommune>
+      <Localisation>
+         <Latitude>46.6563292897</Latitude>
+         <Longitude>-0.914525985718</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 51 25 19</Téléphone>
+      <Télécopie>+33 2 51 51 21 60</Télécopie>
+      <Email>mairie@bazoges-en-pareds.fr</Email>
+      <Url>http://www.bazoges-en-pareds.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

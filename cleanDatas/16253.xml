@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16253-01" codeInsee="16253" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Paizay-Naudouin-Embourie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16240</CodePostal>
+      <NomCommune>Paizay-Naudouin-Embourie</NomCommune>
+      <Localisation>
+         <Latitude>46.0306587219</Latitude>
+         <Longitude>-0.00355300004594</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 31 62 14</Téléphone>
+      <Télécopie>+33 5 45 29 57 48</Télécopie>
+      <Email>mairie.paizay-naudouin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Agence postale ouverte de 9h30 à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Agence postale ouverte de 9h30 à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Agence postale ouverte de 9h30 à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Agence postale ouverte de 9h30 à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Agence postale ouverte de 9h30 à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

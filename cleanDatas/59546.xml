@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59546-01" codeInsee="59546" dateMiseAJour="2015-08-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sylvestre-Cappel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route d'Hondeghem</Ligne>
+      <CodePostal>59114</CodePostal>
+      <NomCommune>Saint-Sylvestre-Cappel</NomCommune>
+      <Localisation>
+         <Latitude>50.7761958</Latitude>
+         <Longitude>2.5536387</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 40 15 97</Téléphone>
+      <Télécopie>+33 3 28 40 28 57</Télécopie>
+      <Email>mairie.st.sylvestre.cappel@wanadoo.fr</Email>
+      <Url>http://www.saint-sylvestre-cappel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

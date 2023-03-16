@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2B251-01" codeInsee="2B251" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Prunelli-di-Fiumorbo</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Abbazia</Ligne>
+      <Ligne>BP 45</Ligne>
+      <CodePostal>20243</CodePostal>
+      <NomCommune>Prunelli-di-Fiumorbo</NomCommune>
+      <Localisation>
+         <Latitude>42.005225</Latitude>
+         <Longitude>9.364731000000006</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 56 51 10</Téléphone>
+      <Télécopie>+33 4 95 56 51 15</Télécopie>
+      <Email>prunellidifiumorbu@orange.fr</Email>
+      <Url>http://www.prunellidifiumorbu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

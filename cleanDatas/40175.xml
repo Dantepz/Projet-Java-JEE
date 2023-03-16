@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40175-01" codeInsee="40175" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maurrin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>48 route de Grenade</Ligne>
+      <CodePostal>40270</CodePostal>
+      <NomCommune>Maurrin</NomCommune>
+      <Localisation>
+         <Latitude>43.8175010681</Latitude>
+         <Longitude>-0.380816012621</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 44 01 59</Téléphone>
+      <Télécopie>+33 5 58 44 01 59</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="13:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="13:30:00"/>
+         <Note>Accueil ouvert uniquement les 2e et 4e vendredis du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

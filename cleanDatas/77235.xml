@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77235-01" codeInsee="77235" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jaignes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue de l'Abbaye</Ligne>
+      <CodePostal>77440</CodePostal>
+      <NomCommune>Jaignes</NomCommune>
+      <Localisation>
+         <Latitude>48.9924659729</Latitude>
+         <Longitude>3.05250406265</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 01 13 34</Téléphone>
+      <Télécopie>+33 1 64 35 56 68</Télécopie>
+      <Email>mairiejaignes@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="18:00:00" fin="20:00:00"/>
+         <Note>Permanence téléphonique de 8h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique du lundi au jeudi de 8h à 15h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

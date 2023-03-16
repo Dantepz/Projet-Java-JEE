@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17215-01" codeInsee="17215" dateMiseAJour="2007-11-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lussac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>17500</CodePostal>
+      <NomCommune>LUSSAC</NomCommune>
+      <Localisation>
+         <Latitude>45.4938011169</Latitude>
+         <Longitude>-0.449185013771</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 48 17 29</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

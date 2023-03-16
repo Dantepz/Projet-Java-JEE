@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57495-01" codeInsee="57495" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Narbéfontaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue des Fermes</Ligne>
+      <CodePostal>57220</CodePostal>
+      <NomCommune>Narbéfontaine</NomCommune>
+      <Localisation>
+         <Latitude>49.1417617798</Latitude>
+         <Longitude>6.54595088959</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 79 30 74</Téléphone>
+      <Télécopie>+33 3 87 79 30 74</Télécopie>
+      <Email>mairie.narbefontaine@wanadoo.fr</Email>
+      <Url>http://www.narbefontaine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

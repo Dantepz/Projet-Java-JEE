@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03239-01" codeInsee="03239" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Léger-sur-Vouzance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 place de l'Église</Ligne>
+      <CodePostal>03130</CodePostal>
+      <NomCommune>Saint-Léger-sur-Vouzance</NomCommune>
+      <Localisation>
+         <Latitude>46.4104274</Latitude>
+         <Longitude>3.9375767</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe mais reste quelques travaux  courant mai 2016</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 55 61 79</Téléphone>
+      <Télécopie>+33 4 70 55 61 79</Télécopie>
+      <Email>mairie-saint-leger-sur-vouzance@wanadoo.fr</Email>
+      <Url>http://www.mairie-saint-leger-sur-vouzance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

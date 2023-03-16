@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31354-01" codeInsee="31354" dateMiseAJour="2007-07-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monestrol</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>31560</CodePostal>
+      <NomCommune>MONESTROL</NomCommune>
+      <Localisation>
+         <Latitude>43.3338127136</Latitude>
+         <Longitude>1.67147600651</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 81 32 86</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

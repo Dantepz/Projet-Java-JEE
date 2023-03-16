@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95012-01" codeInsee="95012" dateMiseAJour="2016-01-11"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Amenucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route Saint-Léger</Ligne>
+      <CodePostal>95510</CodePostal>
+      <NomCommune>Amenucourt</NomCommune>
+      <Localisation>
+         <Latitude>49.1063158</Latitude>
+         <Longitude>1.6418891</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 79 70 02</Téléphone>
+      <Télécopie>+33 1 34 79 73 84</Télécopie>
+      <Email>mairie.amenucourt@wanadoo.fr</Email>
+      <Url>http://www.mairie-amenucourt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

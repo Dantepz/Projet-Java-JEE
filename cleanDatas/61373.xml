@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61373-01" codeInsee="61373" dateMiseAJour="2015-09-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Céronne-lès-Mortagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Ancien Presbytère</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61380</CodePostal>
+      <NomCommune>Sainte-Céronne-lès-Mortagne</NomCommune>
+      <Localisation>
+         <Latitude>48.5734494</Latitude>
+         <Longitude>0.5343489</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 25 17 53</Téléphone>
+      <Télécopie>+33 9 70 06 80 24</Télécopie>
+      <Email>mairie-ste-ceronne@orange.fr</Email>
+      <Url>http://www.sainte-ceronne-les-mortagne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

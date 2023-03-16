@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55471-01" codeInsee="55471" dateMiseAJour="2015-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saulmory-et-Villefranche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de l'Église</Ligne>
+      <CodePostal>55110</CodePostal>
+      <NomCommune>Saulmory-et-Villefranche</NomCommune>
+      <Localisation>
+         <Latitude>49.4342419</Latitude>
+         <Longitude>5.1781572</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 80 94 46</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

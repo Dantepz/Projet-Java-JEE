@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77230-01" codeInsee="77230" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ichy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue d'Obsonville</Ligne>
+      <CodePostal>77890</CodePostal>
+      <NomCommune>Ichy</NomCommune>
+      <Localisation>
+         <Latitude>48.2043991089</Latitude>
+         <Longitude>2.54724001884</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 28 71 64</Téléphone>
+      <Télécopie>+33 1 64 28 71 64</Télécopie>
+      <Email>ichy.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement le 1er Samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

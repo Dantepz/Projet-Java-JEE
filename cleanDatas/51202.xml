@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51202-01" codeInsee="51202" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cumières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>79, rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>51480</CodePostal>
+      <NomCommune>Cumières</NomCommune>
+      <Localisation>
+         <Latitude>49.072101593</Latitude>
+         <Longitude>3.92604994774</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 55 32 07</Téléphone>
+      <Télécopie>+33 3 26 54 27 28</Télécopie>
+      <Email>mairie.cumiere@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

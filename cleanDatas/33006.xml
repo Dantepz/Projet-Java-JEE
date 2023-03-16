@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33006-01" codeInsee="33006" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Anglade</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place des Platanes</Ligne>
+      <CodePostal>33390</CodePostal>
+      <NomCommune>Anglade</NomCommune>
+      <Localisation>
+         <Latitude>45.211835</Latitude>
+         <Longitude>-0.636968</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 64 42 02</Téléphone>
+      <Télécopie>+33 5 57 64 40 90</Télécopie>
+      <Email>mairie.anglade@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

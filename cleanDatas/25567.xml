@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25567-01" codeInsee="25567" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tournans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de forges</Ligne>
+      <CodePostal>25680</CodePostal>
+      <NomCommune>TOURNANS</NomCommune>
+      <Localisation>
+         <Latitude>47.4146995544</Latitude>
+         <Longitude>6.32617998123</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 29 29</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="10:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

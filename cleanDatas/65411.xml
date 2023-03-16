@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65411-01" codeInsee="65411" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sassis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>65120</CodePostal>
+      <NomCommune>Sassis</NomCommune>
+      <Localisation>
+         <Latitude>42.8783760071</Latitude>
+         <Longitude>-0.0161499995738</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 92 98 30</Téléphone>
+      <Télécopie>+33 5 62 92 98 30</Télécopie>
+      <Email>mairiedesassis@orange.fr</Email>
+      <Url>http://www.sassis-pyrenees.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

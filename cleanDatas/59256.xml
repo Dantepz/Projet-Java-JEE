@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59256-01" codeInsee="59256" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fretin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Alfred-Cousin</Ligne>
+      <CodePostal>59273</CodePostal>
+      <NomCommune>Fretin</NomCommune>
+      <Localisation>
+         <Latitude>50.5593986511</Latitude>
+         <Longitude>3.13532996178</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 64 67 40</Téléphone>
+      <Télécopie>+33 3 20 64 67 59</Télécopie>
+      <Email>mairie-secretariat.fretin@wanadoo.fr</Email>
+      <Url>http://www.ville-fretin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

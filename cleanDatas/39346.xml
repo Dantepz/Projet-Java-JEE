@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39346-01" codeInsee="39346" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montagna-le-Reconduit</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 rue de l'École</Ligne>
+      <CodePostal>39160</CodePostal>
+      <NomCommune>Montagna-le-Reconduit</NomCommune>
+      <Localisation>
+         <Latitude>46.4592018127</Latitude>
+         <Longitude>5.38682985306</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 48 78 07</Téléphone>
+      <Télécopie>+33 3 84 48 78 07</Télécopie>
+      <Email>mairie.montagnalereconduit@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

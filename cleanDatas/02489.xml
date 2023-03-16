@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02489-01" codeInsee="02489" dateMiseAJour="2004-08-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Molinchart</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Catignet</Ligne>
+      <CodePostal>02000</CodePostal>
+      <NomCommune>MOLINCHART</NomCommune>
+      <Localisation>
+         <Latitude>49.5616531372</Latitude>
+         <Longitude>3.53922009468</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 23 36 33</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66157-01" codeInsee="66157" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Railleu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 carrer Llarg</Ligne>
+      <CodePostal>66360</CodePostal>
+      <NomCommune>Railleu</NomCommune>
+      <Localisation>
+         <Latitude>42.5855743</Latitude>
+         <Longitude>2.1805997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 97 04 00</Téléphone>
+      <Télécopie>+33 4 68 05 28 07</Télécopie>
+      <Email>mairie.railleu@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

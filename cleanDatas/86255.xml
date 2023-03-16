@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86255-01" codeInsee="86255" dateMiseAJour="2016-02-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Savigné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 route de Limoges</Ligne>
+      <CodePostal>86400</CodePostal>
+      <NomCommune>Savigné</NomCommune>
+      <Localisation>
+         <Latitude>46.1593017578</Latitude>
+         <Longitude>0.321368992329</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 87 06 25</Téléphone>
+      <Télécopie>+33 5 49 87 89 55</Télécopie>
+      <Email>savigne@cg86.fr</Email>
+      <Url>http://www.savigne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Fermé le jeudi</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Fermé le jeudi</Commentaire>
+</Organisme>

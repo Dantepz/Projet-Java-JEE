@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56012-01" codeInsee="56012" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beignon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 rue de Saint-Cyr-Coëtquidan</Ligne>
+      <CodePostal>56380</CodePostal>
+      <NomCommune>Beignon</NomCommune>
+      <Localisation>
+         <Latitude>47.9094009399</Latitude>
+         <Longitude>-2.19899988174</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 75 73 55</Téléphone>
+      <Télécopie>+33 2 97 75 79 76</Télécopie>
+      <Email>mairie.beignon@wanadoo.fr</Email>
+      <Url>http://www.beignon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

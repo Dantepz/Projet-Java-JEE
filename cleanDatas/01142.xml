@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01142-01" codeInsee="01142" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dagneux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>959 rue de Genève</Ligne>
+      <CodePostal>01120</CodePostal>
+      <NomCommune>Dagneux</NomCommune>
+      <Localisation>
+         <Latitude>45.8511009216</Latitude>
+         <Longitude>5.08031988144</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 72 25 11 80</Téléphone>
+      <Télécopie>+33 4 72 25 11 89</Télécopie>
+      <Email>info@ville-dagneux.fr</Email>
+      <Url>http://www.ville-dagneux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

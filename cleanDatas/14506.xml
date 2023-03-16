@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14506-01" codeInsee="14506" dateMiseAJour="2014-07-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Planquery</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Judée</Ligne>
+      <CodePostal>14490</CodePostal>
+      <NomCommune>Planquery</NomCommune>
+      <Localisation>
+         <Latitude>49.1581993103</Latitude>
+         <Longitude>-0.831803977489</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 21 63 88</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

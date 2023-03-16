@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21271-01" codeInsee="21271" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Flavigny-sur-Ozerain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de l'Église</Ligne>
+      <CodePostal>21150</CodePostal>
+      <NomCommune>Flavigny-sur-Ozerain</NomCommune>
+      <Localisation>
+         <Latitude>47.5120922</Latitude>
+         <Longitude>4.5312655</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">un agent peut aider l'usager à entrer</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 96 21 73</Téléphone>
+      <Télécopie>+33 3 80 96 21 73</Télécopie>
+      <Email>mairie.flavignysurozerain@wanadoo.fr</Email>
+      <Url>http://www.flavigny-sur-ozerain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55530-01" codeInsee="55530" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valbois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, rue des Fontaines</Ligne>
+      <CodePostal>55300</CodePostal>
+      <NomCommune>Valbois</NomCommune>
+      <Localisation>
+         <Latitude>48.9335327148</Latitude>
+         <Longitude>5.61656999588</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 89 09 38</Téléphone>
+      <Télécopie>+33 3 29 89 09 38</Télécopie>
+      <Email>commune.valbois@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

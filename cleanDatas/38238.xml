@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38238-01" codeInsee="38238" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Moidieu-Détourbe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>115 route du Vernéa</Ligne>
+      <CodePostal>38440</CodePostal>
+      <NomCommune>Moidieu-Détourbe</NomCommune>
+      <Localisation>
+         <Latitude>45.5122032166</Latitude>
+         <Longitude>5.01660919189</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 58 13 01</Téléphone>
+      <Télécopie>+33 4 74 58 16 84</Télécopie>
+      <Email>contact@moidieu-detourbe.fr</Email>
+      <Url>http://www.moidieu-detourbe.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:45:00"/>
+         <Note>Accueil ouvert uniquement les semaines paires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

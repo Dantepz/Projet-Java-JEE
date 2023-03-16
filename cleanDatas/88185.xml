@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88185-01" codeInsee="88185" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Frenelle-la-Grande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>65 rue de la Mairie</Ligne>
+      <CodePostal>88500</CodePostal>
+      <NomCommune>Frenelle-la-Grande</NomCommune>
+      <Localisation>
+         <Latitude>48.3568000793</Latitude>
+         <Longitude>6.08494997025</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 37 70 40</Téléphone>
+      <Télécopie>+33 3 29 37 70 40</Télécopie>
+      <Email>mairie-de-frenellelagrande@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

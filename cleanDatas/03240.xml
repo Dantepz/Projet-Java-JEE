@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03240-01" codeInsee="03240" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Léon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Conventionnel-Beauchamp</Ligne>
+      <CodePostal>03220</CodePostal>
+      <NomCommune>Saint-Léon</NomCommune>
+      <Localisation>
+         <Latitude>46.4024009705</Latitude>
+         <Longitude>3.68685007095</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 42 15 57</Téléphone>
+      <Télécopie>+33 4 70 42 11 74</Télécopie>
+      <Email>mairie.saint-leon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

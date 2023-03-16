@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67013-01" codeInsee="67013" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Asswiller</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue Durstel</Ligne>
+      <CodePostal>67320</CodePostal>
+      <NomCommune>Asswiller</NomCommune>
+      <Localisation>
+         <Latitude>48.8807598</Latitude>
+         <Longitude>7.2198637</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 01 70 44</Téléphone>
+      <Télécopie>+33 3 88 01 72 51</Télécopie>
+      <Email>mairieasswiller@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence du maire de 18h à 20h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

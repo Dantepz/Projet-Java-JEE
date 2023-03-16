@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63024-01" codeInsee="63024" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avèze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63690</CodePostal>
+      <NomCommune>Avèze</NomCommune>
+      <Localisation>
+         <Latitude>45.599395752</Latitude>
+         <Longitude>2.59916305542</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 21 11 80</Téléphone>
+      <Télécopie>+33 4 73 21 11 80</Télécopie>
+      <Email>commune_aveze@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

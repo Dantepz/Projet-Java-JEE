@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49092-01" codeInsee="49092" dateMiseAJour="2016-03-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chemillé-en-Anjou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de l'Arzillé</Ligne>
+      <CodePostal>49120</CodePostal>
+      <NomCommune>Chemillé-Melay</NomCommune>
+      <Localisation>
+         <Latitude>47.2143554688</Latitude>
+         <Longitude>-0.731696009636</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 30 35 17</Téléphone>
+      <Télécopie>+33 2 41 30 34 87</Télécopie>
+      <Email>accueil.mairie@chemille-melay.fr</Email>
+      <Url>http://www.cc-region-chemille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Chemillé-en-Anjou remplace les communes de Chanzeaux, de La Chapelle-Rousselin, de Chemillé-Melay, de Cossé-d'Anjou, de La Jumellière, de Neuvy-en-Mauges, de Sainte-Christine, de Saint-Georges-des-Gardes, de Saint-Lézin, de La Salle-de-Vihiers, de La Tourlandry et de Valanjou</Commentaire>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43160-01" codeInsee="43160" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rauret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rauret-Haut</Ligne>
+      <CodePostal>43340</CodePostal>
+      <NomCommune>Rauret</NomCommune>
+      <Localisation>
+         <Latitude>44.8177757263</Latitude>
+         <Longitude>3.79157805443</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC">Travaux courant été 2016</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 08 24 51</Téléphone>
+      <Télécopie>+33 4 71 01 23 97</Télécopie>
+      <Email>mairie@rauret.fr</Email>
+      <Url>http://www.rauret.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

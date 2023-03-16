@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27495-01" codeInsee="27495" dateMiseAJour="2011-12-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Roquette</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>27700</CodePostal>
+      <NomCommune>LA ROQUETTE</NomCommune>
+      <Localisation>
+         <Latitude>49.252253</Latitude>
+         <Longitude>1.344471</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 54 10 88</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+         <Note>1er vendredi du mois uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

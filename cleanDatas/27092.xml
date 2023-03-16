@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27092-01" codeInsee="27092" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bosguérard-de-Marcouville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Impasse de Marcouville</Ligne>
+      <CodePostal>27520</CodePostal>
+      <NomCommune>Bosguérard-de-Marcouville</NomCommune>
+      <Localisation>
+         <Latitude>49.2689704895</Latitude>
+         <Longitude>0.83410602808</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 87 62 00</Téléphone>
+      <Télécopie>+33 2 35 78 53 64</Télécopie>
+      <Email>mairie.bosguerardmarcouville@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

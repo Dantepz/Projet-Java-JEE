@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37100-01" codeInsee="37100" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Épeigné-les-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Saint-Vincent</Ligne>
+      <CodePostal>37150</CodePostal>
+      <NomCommune>Épeigné-les-Bois</NomCommune>
+      <Localisation>
+         <Latitude>47.3185005188</Latitude>
+         <Longitude>1.08738994598</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 23 92 88</Téléphone>
+      <Télécopie>+33 9 70 06 73 22</Télécopie>
+      <Email>maire.epeignelesbois@wanadoo.fr</Email>
+      <Url>http://epeigne-les-bois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

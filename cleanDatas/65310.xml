@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65310-01" codeInsee="65310" dateMiseAJour="2006-09-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mérilheu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue du pic de mérilheu</Ligne>
+      <CodePostal>65200</CodePostal>
+      <NomCommune>MERILHEU</NomCommune>
+      <Localisation>
+         <Latitude>43.0952682495</Latitude>
+         <Longitude>0.174906998873</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 91 29 90</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

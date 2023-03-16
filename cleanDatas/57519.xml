@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57519-01" codeInsee="57519" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Obervisse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Principale</Ligne>
+      <CodePostal>57220</CodePostal>
+      <NomCommune>Obervisse</NomCommune>
+      <Localisation>
+         <Latitude>49.1521335</Latitude>
+         <Longitude>6.58600079999997</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 57 35 75</Téléphone>
+      <Télécopie>+33 3 87 57 39 80</Télécopie>
+      <Email>mairie.obervisse@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+         <Note>Permanence du maire de 17h à 19h et également permanence du maire et des adjoints le vendredi de 11h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

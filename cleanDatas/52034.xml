@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52034-01" codeInsee="52034" dateMiseAJour="2006-09-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bailly aux Forges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42 rue grande</Ligne>
+      <CodePostal>52130</CodePostal>
+      <NomCommune>BAILLY AUX FORGES</NomCommune>
+      <Localisation>
+         <Latitude>48.4595985413</Latitude>
+         <Longitude>4.91523981094</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 55 72 89</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

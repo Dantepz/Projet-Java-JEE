@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72313-01" codeInsee="72313" dateMiseAJour="2015-09-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Pierre-des-Ormes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue du Chenevis</Ligne>
+      <CodePostal>72600</CodePostal>
+      <NomCommune>Saint-Pierre-des-Ormes</NomCommune>
+      <Localisation>
+         <Latitude>48.306623604250994</Latitude>
+         <Longitude>0.4214835879745351</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 97 79 35</Téléphone>
+      <Télécopie>+33 2 43 97 79 35</Télécopie>
+      <Email>mairie.st-pierre-des-ormes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

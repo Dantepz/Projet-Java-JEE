@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49123-01" codeInsee="49123" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Distré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de l'Église</Ligne>
+      <CodePostal>49400</CodePostal>
+      <NomCommune>Distré</NomCommune>
+      <Localisation>
+         <Latitude>47.2229995728</Latitude>
+         <Longitude>-0.113897003233</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 50 28 50</Téléphone>
+      <Télécopie>+33 2 41 50 76 80</Télécopie>
+      <Email>mairie-sg.distre@wanadoo.fr</Email>
+      <Url>http://www.mairie-distre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <Note>Accueil fermé le 2e et 4e samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

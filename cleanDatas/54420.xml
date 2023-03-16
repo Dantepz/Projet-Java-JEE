@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54420-01" codeInsee="54420" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Petit-Failly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Mairie</Ligne>
+      <CodePostal>54260</CodePostal>
+      <NomCommune>Petit-Failly</NomCommune>
+      <Localisation>
+         <Latitude>49.4574012756</Latitude>
+         <Longitude>5.55712985992</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 44 37 99</Téléphone>
+      <Télécopie>+33 3 82 44 37 99</Télécopie>
+      <Email>mairie54420pf@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+         <Note>Accueil du public.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+         <Note>Accueil du public.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

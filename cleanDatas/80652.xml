@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80652-01" codeInsee="80652" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie du Quesnel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue du 8-Mai-1945</Ligne>
+      <CodePostal>80118</CodePostal>
+      <NomCommune>Le Quesnel</NomCommune>
+      <Localisation>
+         <Latitude>49.817199707</Latitude>
+         <Longitude>2.64667010307</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 94 32 57</Téléphone>
+      <Télécopie>+33 3 22 94 30 36</Télécopie>
+      <Email>mairie.quesnel-en-santerre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

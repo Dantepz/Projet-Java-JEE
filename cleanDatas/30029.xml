@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30029-01" codeInsee="30029" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barjac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Château</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>30430</CodePostal>
+      <NomCommune>Barjac</NomCommune>
+      <Localisation>
+         <Latitude>44.3080441</Latitude>
+         <Longitude>4.3462123</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 24 50 09</Téléphone>
+      <Télécopie>+33 4 66 24 54 36</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+         <Note>Permanence du maire le mardi matin sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80243-01" codeInsee="80243" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Domesmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de Lanches</Ligne>
+      <CodePostal>80370</CodePostal>
+      <NomCommune>Domesmont</NomCommune>
+      <Localisation>
+         <Latitude>50.1175918579</Latitude>
+         <Longitude>2.14566397667</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">contacter la mairie avant de se déplacer</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 32 00 96</Téléphone>
+      <Télécopie>+33 3 22 32 00 96</Télécopie>
+      <Email>mairie.domesmont@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02467-01" codeInsee="02467" dateMiseAJour="2004-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marizy Saint Mard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>02470</CodePostal>
+      <NomCommune>MARIZY ST MARD</NomCommune>
+      <Localisation>
+         <Latitude>49.1789855957</Latitude>
+         <Longitude>3.22304797173</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65403-01" codeInsee="65403" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sanous</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 chemin du Lys</Ligne>
+      <CodePostal>65500</CodePostal>
+      <NomCommune>Sanous</NomCommune>
+      <Localisation>
+         <Latitude>43.3765289</Latitude>
+         <Longitude>0.0027993</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 96 82 02</Téléphone>
+      <Télécopie>+33 5 62 96 82 02</Télécopie>
+      <Email>sanous@vic-montaner.com</Email>
+      <Url>http://www.vic-montaner.com/fr/vic-montaner/territoire/communes/sanous</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

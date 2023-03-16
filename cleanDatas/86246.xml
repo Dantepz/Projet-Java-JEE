@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86246-01" codeInsee="86246" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Savin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 60015</Ligne>
+      <Ligne>2 place de la Libération</Ligne>
+      <CodePostal>86310</CodePostal>
+      <NomCommune>Saint-Savin</NomCommune>
+      <Localisation>
+         <Latitude>46.5646018982</Latitude>
+         <Longitude>0.864573001862</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 48 00 46</Téléphone>
+      <Email>saint-savin@cg86.fr</Email>
+      <Url>http://www.saintsavin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

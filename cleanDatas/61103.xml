@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61103-01" codeInsee="61103" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Hazé</Ligne>
+      <CodePostal>61230</CodePostal>
+      <NomCommune>Chaumont</NomCommune>
+      <Localisation>
+         <Latitude>48.8358001709</Latitude>
+         <Longitude>0.331710010767</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 35 53 58</Téléphone>
+      <Télécopie>+33 2 33 12 58 98</Télécopie>
+      <Email>mairie.chaumont@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:00:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

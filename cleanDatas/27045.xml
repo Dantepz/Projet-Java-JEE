@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27045-01" codeInsee="27045" dateMiseAJour="2013-07-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bazincourt-sur-Epte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue de la Mairie</Ligne>
+      <CodePostal>27140</CodePostal>
+      <NomCommune>Bazincourt-sur-Epte</NomCommune>
+      <Localisation>
+         <Latitude>49.3134994507</Latitude>
+         <Longitude>1.76670002937</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 55 21 10</Téléphone>
+      <Télécopie>+33 2 32 55 72 01</Télécopie>
+      <Email>bazincourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

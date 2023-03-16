@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41185-01" codeInsee="41185" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pruniers-en-Sologne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Anciens-Combattants</Ligne>
+      <CodePostal>41200</CodePostal>
+      <NomCommune>Pruniers-en-Sologne</NomCommune>
+      <Localisation>
+         <Latitude>47.322178</Latitude>
+         <Longitude>1.670707</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 96 60 53</Téléphone>
+      <Télécopie>+33 2 54 96 64 48</Télécopie>
+      <Email>mairie.pruniers-en-sologne@wanadoo.fr</Email>
+      <Url>http://pruniersensologne.chez.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence fermée le samedi en juillet-août</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

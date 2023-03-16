@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25595-01" codeInsee="25595" dateMiseAJour="2004-09-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vellerot Lès Belvoir</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>lieu dit Revireils</Ligne>
+      <CodePostal>25430</CodePostal>
+      <NomCommune>VELLEROT LES BELVOIR</NomCommune>
+      <Localisation>
+         <Latitude>47.3507041931</Latitude>
+         <Longitude>6.60120487213</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 32 42</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

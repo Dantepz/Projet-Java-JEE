@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59599-01" codeInsee="59599" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tourcoing</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place Victor-Hassebroucq</Ligne>
+      <CodePostal>59208</CodePostal>
+      <NomCommune>Tourcoing</NomCommune>
+      <Localisation>
+         <Latitude>50.723301</Latitude>
+         <Longitude>3.1610358</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 23 37 00</Téléphone>
+      <Télécopie>+33 3 20 23 37 99</Télécopie>
+      <Url>http://www.tourcoing.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

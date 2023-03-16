@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39468-01" codeInsee="39468" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rothonay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue Saint-Martin</Ligne>
+      <CodePostal>39270</CodePostal>
+      <NomCommune>Rothonay</NomCommune>
+      <Localisation>
+         <Latitude>46.5250015259</Latitude>
+         <Longitude>5.53233003616</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 35 53 45</Téléphone>
+      <Télécopie>+33 3 84 35 53 45</Télécopie>
+      <Email>communederothonay@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

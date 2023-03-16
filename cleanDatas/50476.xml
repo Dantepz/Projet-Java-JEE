@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50476-01" codeInsee="50476" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Germain-d'Elle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>50810</CodePostal>
+      <NomCommune>Saint-Germain-d'Elle</NomCommune>
+      <Localisation>
+         <Latitude>49.1222038269</Latitude>
+         <Longitude>-0.91900998354</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>09 65 31 78 72</Téléphone>
+      <Télécopie>+33 2 33 57 09 52</Télécopie>
+      <Email>mairie.st-germaindelle@orange.fr</Email>
+      <Url>http://www.saintgermaindelle.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="13:00:00"/>
+         <Note>Permanence le 1er jeudi de chaque mois à partir de 18h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

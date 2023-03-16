@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25465-01" codeInsee="25465" dateMiseAJour="2004-09-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pont Les Moulins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Trapelle</Ligne>
+      <Ligne>chez monsieur le Maire Mr THURIET André</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>PONT LES MOULINS</NomCommune>
+      <Localisation>
+         <Latitude>47.3254013062</Latitude>
+         <Longitude>6.36304998398</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 26 43</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

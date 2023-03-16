@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51472-01" codeInsee="51472" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Amand-sur-Fion</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28, rue du Nochet</Ligne>
+      <CodePostal>51300</CodePostal>
+      <NomCommune>Saint-Amand-sur-Fion</NomCommune>
+      <Localisation>
+         <Latitude>48.8125678</Latitude>
+         <Longitude>4.6030852</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 73 94 51</Téléphone>
+      <Télécopie>+33 3 26 73 94 51</Télécopie>
+      <Email>mairie.st-amand-sur-fion@wanadoo.fr</Email>
+      <Url>http://saintamandsurfion.monsite-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

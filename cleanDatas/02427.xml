@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02427-01" codeInsee="02427" dateMiseAJour="2004-08-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lhuys</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>02220</CodePostal>
+      <NomCommune>LHUYS</NomCommune>
+      <Localisation>
+         <Latitude>49.2814903259</Latitude>
+         <Longitude>3.55609989166</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

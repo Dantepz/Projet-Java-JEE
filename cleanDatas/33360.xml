@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33360-01" codeInsee="33360" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Roquille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 le Bourg</Ligne>
+      <CodePostal>33220</CodePostal>
+      <NomCommune>La Roquille</NomCommune>
+      <Localisation>
+         <Latitude>44.7906799316</Latitude>
+         <Longitude>0.231903001666</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 41 21 78</Téléphone>
+      <Télécopie>+33 5 57 41 21 78</Télécopie>
+      <Email>mairie.la-roquille@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

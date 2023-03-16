@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68108-01" codeInsee="68108" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Grentzingen-Illtal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>68 rue du Chemin-de-Fer</Ligne>
+      <CodePostal>68960</CodePostal>
+      <NomCommune>Illtal</NomCommune>
+      <Localisation>
+         <Latitude>47.5297012329</Latitude>
+         <Longitude>7.3416800499</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 25 80 07</Téléphone>
+      <Télécopie>+33 3 89 25 89 94</Télécopie>
+      <Email>secretariatgrentzingen@orange.fr</Email>
+      <Url>http://www.grentzingen.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

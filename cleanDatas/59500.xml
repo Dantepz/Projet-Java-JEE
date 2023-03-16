@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59500-01" codeInsee="59500" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ribécourt-la-Tour</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Michel-Sauvage</Ligne>
+      <CodePostal>59159</CodePostal>
+      <NomCommune>Ribécourt-la-Tour</NomCommune>
+      <Localisation>
+         <Latitude>50.1108016968</Latitude>
+         <Longitude>3.12264990807</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 37 53 32</Téléphone>
+      <Télécopie>+33 3 27 37 59 14</Télécopie>
+      <Email>mairieribecourtlatour@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="11:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

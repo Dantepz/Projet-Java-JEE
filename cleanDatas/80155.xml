@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80155-01" codeInsee="80155" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bussus-Bussuel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place René-le-Saché</Ligne>
+      <CodePostal>80135</CodePostal>
+      <NomCommune>Bussus-Bussuel</NomCommune>
+      <Localisation>
+         <Latitude>50.1102583</Latitude>
+         <Longitude>1.9992233</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 28 03 76</Téléphone>
+      <Télécopie>+33 3 22 28 03 76</Télécopie>
+      <Email>mairie@bussus-bussuel.fr</Email>
+      <Url>http://www.bussus-bussuel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

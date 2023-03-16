@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57237-01" codeInsee="57237" dateMiseAJour="2004-09-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fremestroff</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue des jarcins</Ligne>
+      <CodePostal>57660</CodePostal>
+      <NomCommune>FREMESTROFF</NomCommune>
+      <Localisation>
+         <Latitude>49.0344009399</Latitude>
+         <Longitude>6.74811983109</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 90 81 90</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

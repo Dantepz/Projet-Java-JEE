@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81140-01" codeInsee="81140" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lavaur</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-Sudre</Ligne>
+      <CodePostal>81500</CodePostal>
+      <NomCommune>Lavaur</NomCommune>
+      <Localisation>
+         <Latitude>43.6996002197</Latitude>
+         <Longitude>1.82070994377</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 83 12 20</Téléphone>
+      <Télécopie>+33 5 63 41 42 89</Télécopie>
+      <Email>mairie@ville-lavaur.fr</Email>
+      <Url>http://www.ville-lavaur.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

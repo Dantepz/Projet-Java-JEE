@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13115-01" codeInsee="13115" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vernègues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Esplanade de la Mairie</Ligne>
+      <CodePostal>13116</CodePostal>
+      <NomCommune>Vernègues</NomCommune>
+      <Localisation>
+         <Latitude>43.720199585</Latitude>
+         <Longitude>5.24510002136</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 59 36 07</Téléphone>
+      <Télécopie>+33 4 90 59 36 72</Télécopie>
+      <Email>mairie.vernegues@wanadoo.fr</Email>
+      <Url>http://www.vernegues.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

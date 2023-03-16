@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66044-01" codeInsee="66044" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Castelnou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Carrer de la Patora</Ligne>
+      <CodePostal>66300</CodePostal>
+      <NomCommune>Castelnou</NomCommune>
+      <Localisation>
+         <Latitude>42.6192016602</Latitude>
+         <Longitude>2.70353007317</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 53 45 72</Téléphone>
+      <Télécopie>+33 4 68 59 40 85</Télécopie>
+      <Email>communedecastelnou@wanadoo.fr</Email>
+      <Url>http://www.castelnou.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

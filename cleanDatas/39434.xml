@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39434-01" codeInsee="39434" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Poligny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>49 Grande rue</Ligne>
+      <CodePostal>39800</CodePostal>
+      <NomCommune>Poligny</NomCommune>
+      <Localisation>
+         <Latitude>46.8370018005</Latitude>
+         <Longitude>5.70907020569</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 73 71 71</Téléphone>
+      <Télécopie>+33 3 84 37 10 30</Télécopie>
+      <Email>villedepoligny.jura@wanadoo.fr</Email>
+      <Url>http://www.ville-poligny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66151-01" codeInsee="66151" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Prats-de-Sournia</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue Balcon-du-Fenouillèdes</Ligne>
+      <CodePostal>66730</CodePostal>
+      <NomCommune>Prats-de-Sournia</NomCommune>
+      <Localisation>
+         <Latitude>42.7443389893</Latitude>
+         <Longitude>2.46102905273</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 97 74 06</Téléphone>
+      <Télécopie>+33 4 68 97 70 06</Télécopie>
+      <Email>communedepratsdesournia@wanadoo.fr</Email>
+      <Url>http://www.pratsdesournia.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

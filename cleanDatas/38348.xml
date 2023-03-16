@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38348-01" codeInsee="38348" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ruy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>77 rue de la Salière</Ligne>
+      <CodePostal>38300</CodePostal>
+      <NomCommune>Ruy</NomCommune>
+      <Localisation>
+         <Latitude>45.5875015259</Latitude>
+         <Longitude>5.31924009323</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 43 57 45</Téléphone>
+      <Télécopie>+33 4 74 28 01 92</Télécopie>
+      <Email>mairie@ruy-montceau.fr</Email>
+      <Url>http://www.ruy-montceau.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

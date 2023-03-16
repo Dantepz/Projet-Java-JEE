@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73064-01" codeInsee="73064" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Challes-les-Eaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Charles-Pillet</Ligne>
+      <CodePostal>73190</CodePostal>
+      <NomCommune>Challes-les-Eaux</NomCommune>
+      <Localisation>
+         <Latitude>45.5483016968</Latitude>
+         <Longitude>5.98413991928</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 72 80 91</Téléphone>
+      <Télécopie>+33 4 79 72 58 50</Télécopie>
+      <Email>mairie.challes-les-eaux@wanadoo.fr</Email>
+      <Url>http://www.ville-challesleseaux.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Permanences physique et téléphonique.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

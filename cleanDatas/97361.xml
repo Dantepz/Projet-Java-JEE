@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97361-01" codeInsee="97361" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Awala</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Centre administratif</Ligne>
+      <CodePostal>97319</CodePostal>
+      <NomCommune>Awala Yalimapo</NomCommune>
+      <Localisation>
+         <Latitude>5.6910455</Latitude>
+         <Longitude>-53.9324048</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 34 76 76</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="07:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50535-01" codeInsee="50535" dateMiseAJour="2016-03-18"
+           pivotLocal="mairie">
+   <Nom>Mairie du Parc</Nom>
+   <EditeurSource/>
+   <Adresse type="géopostale">
+      <Ligne>La Rimberdière</Ligne>
+      <CodePostal>50870</CodePostal>
+      <NomCommune>Sainte-Pience</NomCommune>
+      <Localisation>
+         <Latitude>48.762991</Latitude>
+         <Longitude>-1.301692</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 48 15 41</Téléphone>
+      <Url>http://saintepience.sitego.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

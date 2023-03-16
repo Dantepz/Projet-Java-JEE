@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51132-01" codeInsee="51132" dateMiseAJour="2007-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Les Charmontois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place Louis Patizel</Ligne>
+      <CodePostal>51330</CodePostal>
+      <NomCommune>LES CHARMONTOIS</NomCommune>
+      <Localisation>
+         <Latitude>48.9662132263</Latitude>
+         <Longitude>4.99590587616</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 60 35 89</Téléphone>
+      <Télécopie>+33 3 26 60 35 89</Télécopie>
+      <Email>mairie-charmontois@wanadoo.fr</Email>
+      <Url>http://www.charmontois.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

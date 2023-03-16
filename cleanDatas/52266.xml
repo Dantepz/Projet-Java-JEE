@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52266-01" codeInsee="52266" dateMiseAJour="2013-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Laneuville-à-Rémy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du Château</Ligne>
+      <CodePostal>52220</CodePostal>
+      <NomCommune>Laneuville-à-Rémy</NomCommune>
+      <Localisation>
+         <Latitude>48.4733097</Latitude>
+         <Longitude>4.8829834</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 04 41 20</Téléphone>
+      <Télécopie>+33 3 25 04 41 20</Télécopie>
+      <Email>mairie.laneuvillearemy@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

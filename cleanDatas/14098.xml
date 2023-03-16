@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14098-01" codeInsee="14098" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bretteville-l'Orgueilleuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de Bayeux</Ligne>
+      <CodePostal>14740</CodePostal>
+      <NomCommune>Bretteville-l'Orgueilleuse</NomCommune>
+      <Localisation>
+         <Latitude>49.2113990784</Latitude>
+         <Longitude>-0.515133976936</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 80 78 25</Téléphone>
+      <Télécopie>+33 2 31 08 06 52</Télécopie>
+      <Email>mairie@brettevillelorg.fr</Email>
+      <Url>http://www.brettevillelorg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

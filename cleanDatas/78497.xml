@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78497-01" codeInsee="78497" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Poigny-la-Forêt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Maurice-Hude</Ligne>
+      <CodePostal>78125</CodePostal>
+      <NomCommune>Poigny-la-Forêt</NomCommune>
+      <Localisation>
+         <Latitude>48.6790008545</Latitude>
+         <Longitude>1.75411999226</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 84 71 20</Téléphone>
+      <Télécopie>+33 1 34 84 74 51</Télécopie>
+      <Email>mairie@poigny78.fr</Email>
+      <Url>http://www.poigny-la-foret.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

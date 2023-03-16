@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42323-01" codeInsee="42323" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Veauche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jacques-Raffin</Ligne>
+      <CodePostal>42340</CodePostal>
+      <NomCommune>Veauche</NomCommune>
+      <Localisation>
+         <Latitude>45.5616989136</Latitude>
+         <Longitude>4.27766990662</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 36 82 82</Téléphone>
+      <Télécopie>+33 4 77 36 82 83</Télécopie>
+      <Email>info@veauche.fr</Email>
+      <Url>http://www.ville-de-veauche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Permanence de l'état civil uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

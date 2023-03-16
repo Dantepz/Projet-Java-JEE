@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67322-01" codeInsee="67322" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neuwiller-lès-Saverne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue du Général-Koenig</Ligne>
+      <CodePostal>67330</CodePostal>
+      <NomCommune>Neuwiller-lès-Saverne</NomCommune>
+      <Localisation>
+         <Latitude>48.8241137</Latitude>
+         <Longitude>7.405272</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 70 00 18</Téléphone>
+      <Télécopie>+33 3 88 70 09 61</Télécopie>
+      <Email>mairie.neuwiller-saverne@wanadoo.fr</Email>
+      <Url>http://www.neuwillerlessaverne.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

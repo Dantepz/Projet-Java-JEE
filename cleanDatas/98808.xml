@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie_com-98808-01" codeInsee="98808" dateMiseAJour="2013-12-24"
+           pivotLocal="mairie_com">
+   <Nom>Mairie d'Houaïlou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lot 22, village</Ligne>
+      <CodePostal>98816</CodePostal>
+      <NomCommune>Houaïlou</NomCommune>
+      <Localisation>
+         <Latitude>-21.2773897</Latitude>
+         <Longitude>165.6263787</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+687 42 52 20</Téléphone>
+      <Télécopie>+687 42 60 70</Télécopie>
+      <Email>mairie-houailou@lagoon.nc</Email>
+   </CoordonnéesNum>
+</Organisme>

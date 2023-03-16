@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67371-01" codeInsee="67371" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Petite-Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 rue Principale</Ligne>
+      <Ligne>BP 13</Ligne>
+      <CodePostal>67290</CodePostal>
+      <NomCommune>La Petite-Pierre</NomCommune>
+      <Localisation>
+         <Latitude>48.8578725</Latitude>
+         <Longitude>7.3207525</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 01 47 00</Téléphone>
+      <Télécopie>+33 3 88 01 47 03</Télécopie>
+      <Email>mairielpp@wanadoo.fr</Email>
+      <Url>http://www.la-petite-pierre.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 4e samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

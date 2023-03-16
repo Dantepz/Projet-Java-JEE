@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A127-01" codeInsee="2A127" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Giuncheto</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>20100</CodePostal>
+      <NomCommune>Giuncheto</NomCommune>
+      <Localisation>
+         <Latitude>41.5866928101</Latitude>
+         <Longitude>8.95328426361</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">possibilité de les recevoir à la salle des fêtes</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 73 45 88</Téléphone>
+      <Télécopie>+33 4 95 73 46 05</Télécopie>
+      <Email>mairie.giuncheto@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

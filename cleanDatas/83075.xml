@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83075-01" codeInsee="83075" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Mayons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>83340</CodePostal>
+      <NomCommune>Les Mayons</NomCommune>
+      <Localisation>
+         <Latitude>43.3134182</Latitude>
+         <Longitude>6.3581471</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 60 00 93</Téléphone>
+      <Télécopie>+33 4 94 60 00 95</Télécopie>
+      <Email>mairielesmayons@wanadoo.fr</Email>
+      <Url>http://www.mairiedesmayons.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert de 8h à 12h du 6 juillet au 7 septembre 2015.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="16:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert de 8h à 14h30 du 6 juillet au 7 septembre 2015.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

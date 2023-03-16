@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38041-01" codeInsee="38041" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bessins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>145 B route du Village</Ligne>
+      <CodePostal>38160</CodePostal>
+      <NomCommune>BESSINS</NomCommune>
+      <Localisation>
+         <Latitude>45.2003974915</Latitude>
+         <Longitude>5.263712883</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 64 11 42</Téléphone>
+      <Télécopie>+33 4 76 64 11 42</Télécopie>
+      <Email>mairie.bessins@orange.fr</Email>
+      <Url>http://www.bessins.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

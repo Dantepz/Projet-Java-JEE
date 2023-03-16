@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70249-01" codeInsee="70249" dateMiseAJour="2004-08-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Francalmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>mairie</Ligne>
+      <CodePostal>70800</CodePostal>
+      <NomCommune>FRANCALMONT</NomCommune>
+      <Localisation>
+         <Latitude>47.8238983154</Latitude>
+         <Longitude>6.24772977829</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 49 86 67</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

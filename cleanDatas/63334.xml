@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63334-01" codeInsee="63334" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Dier-d'Auvergne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 rue de l'Octroi</Ligne>
+      <CodePostal>63520</CodePostal>
+      <NomCommune>Saint-Dier-d'Auvergne</NomCommune>
+      <Localisation>
+         <Latitude>45.6749191284</Latitude>
+         <Longitude>3.4820420742</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">possibilité d'accueil au rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 70 80 34</Téléphone>
+      <Télécopie>+33 4 73 70 79 76</Télécopie>
+      <Email>mairie-st-dier@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

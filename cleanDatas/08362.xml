@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08362-01" codeInsee="08362" dateMiseAJour="2015-12-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rethel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <Ligne>CS 75121</Ligne>
+      <CodePostal>08305</CodePostal>
+      <NomCommune>Rethel Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.5086163</Latitude>
+         <Longitude>4.3652946</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 39 51 40</Téléphone>
+      <Télécopie>+33 3 24 39 51 53</Télécopie>
+      <Email>contact@villederethel.fr</Email>
+      <Url>http://www.villederethel.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

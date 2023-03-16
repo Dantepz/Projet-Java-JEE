@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51572-01" codeInsee="51572" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tilloy-et-Bellay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25, route Nationale</Ligne>
+      <CodePostal>51460</CodePostal>
+      <NomCommune>Tilloy-et-Bellay</NomCommune>
+      <Localisation>
+         <Latitude>49.0175253</Latitude>
+         <Longitude>4.6127663</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 90 69</Téléphone>
+      <Télécopie>+33 3 26 66 90 69</Télécopie>
+      <Email>mairie.tilloyetbellay@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

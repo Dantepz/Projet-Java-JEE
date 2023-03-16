@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59214-01" codeInsee="59214" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Estrées</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Mairie</Ligne>
+      <CodePostal>59151</CodePostal>
+      <NomCommune>Estrées</NomCommune>
+      <Localisation>
+         <Latitude>50.3006895</Latitude>
+         <Longitude>3.070614</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 89 61 21</Téléphone>
+      <Télécopie>+33 3 27 89 64 83</Télécopie>
+      <Email>mairie@estrees.fr</Email>
+      <Url>http://www.estrees.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <Note>Accueil ouvert les semaines impaires uniquement. Pendant les mois de juillet et d'août, les horaires sont les suivants : lundi, mardi, jeudi, vendredi de 9h45 à 11h45 et de 13h30 à 16h30 et le mercredi de 9h45 à 11h45.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

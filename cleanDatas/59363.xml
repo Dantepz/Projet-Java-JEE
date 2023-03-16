@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59363-01" codeInsee="59363" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Louvignies-Quesnoy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>59530</CodePostal>
+      <NomCommune>Louvignies-Quesnoy</NomCommune>
+      <Localisation>
+         <Latitude>50.2252006531</Latitude>
+         <Longitude>3.64123010635</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 49 15 41</Téléphone>
+      <Télécopie>+33 3 27 49 27 31</Télécopie>
+      <Email>mairie.louvigniesquesnoy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert pendant les vacances scolaires uniquement de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="17:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert pendant les vacances scolaires uniquement de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="17:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert pendant les vacances scolaires uniquement de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Permanence des adjoints de 17h à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Permanence des adjoints hors vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

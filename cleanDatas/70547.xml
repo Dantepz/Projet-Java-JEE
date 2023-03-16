@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70547-01" codeInsee="70547" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verlans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue Nicolas-Lalouette</Ligne>
+      <CodePostal>70400</CodePostal>
+      <NomCommune>Verlans</NomCommune>
+      <Localisation>
+         <Latitude>47.5593986511</Latitude>
+         <Longitude>6.67604017258</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 46 01 04</Téléphone>
+      <Email>luc.boullee@orange.fr</Email>
+      <Url>http://www.mairie-verlans.ht.cx</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+         <Note>Permanence des élus</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

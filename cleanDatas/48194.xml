@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48194-01" codeInsee="48194" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vialas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Basse</Ligne>
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48220</CodePostal>
+      <NomCommune>Vialas</NomCommune>
+      <Localisation>
+         <Latitude>44.3341355</Latitude>
+         <Longitude>3.8968643</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 41 00 05</Téléphone>
+      <Télécopie>+33 4 66 41 03 38</Télécopie>
+      <Email>mairie.vialas@orange.fr</Email>
+      <Url>http://www.vialas-commune.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

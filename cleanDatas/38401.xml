@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38401-01" codeInsee="38401" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-de-Soudain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place des Anciens-Combattants</Ligne>
+      <CodePostal>38110</CodePostal>
+      <NomCommune>Saint-Jean-de-Soudain</NomCommune>
+      <Localisation>
+         <Latitude>49.557277</Latitude>
+         <Longitude>0.368473999999992</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 97 11 57</Téléphone>
+      <Télécopie>+33 4 74 97 88 65</Télécopie>
+      <Email>mairie.de.st.jean.soudain@wanadoo.fr</Email>
+      <Url>http://www.saintjeandesoudain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé au public du 1e Juillet au 31 Août le samedi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

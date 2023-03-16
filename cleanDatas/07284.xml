@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07284-01" codeInsee="07284" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Pierre-Saint-Jean</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Combe</Ligne>
+      <CodePostal>07140</CodePostal>
+      <NomCommune>Saint-Pierre-Saint-Jean</NomCommune>
+      <Localisation>
+         <Latitude>44.4468994141</Latitude>
+         <Longitude>4.06738996506</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 94 90 89</Téléphone>
+      <Télécopie>+33 4 75 94 90 89</Télécopie>
+      <Email>mairie.stpierrestjean@numeo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46033-01" codeInsee="46033" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie du Boulvé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>46800</CodePostal>
+      <NomCommune>Le Boulvé</NomCommune>
+      <Localisation>
+         <Latitude>44.4197616577</Latitude>
+         <Longitude>1.14728105068</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 31 96 65</Téléphone>
+      <Télécopie>+33 5 65 31 10 38</Télécopie>
+      <Email>le.boulve.mairie@wanadoo.fr</Email>
+      <Url>http://www.mairie-le-boulve.info46.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

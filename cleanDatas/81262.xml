@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81262-01" codeInsee="81262" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Marcel-Campes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Point-à-Pitre</Ligne>
+      <CodePostal>81170</CodePostal>
+      <NomCommune>Saint-Marcel-Campes</NomCommune>
+      <Localisation>
+         <Latitude>44.0705718994</Latitude>
+         <Longitude>1.98334097862</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 56 08 19</Téléphone>
+      <Télécopie>+33 5 63 56 08 19</Télécopie>
+      <Email>commune.st-marcel.campes.tarne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89144-01" codeInsee="89144" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Domats</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 place de l'Église</Ligne>
+      <CodePostal>89150</CodePostal>
+      <NomCommune>Domats</NomCommune>
+      <Localisation>
+         <Latitude>48.0942001343</Latitude>
+         <Longitude>3.12497997284</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">après avoir contacté la mairie, un rendez-vous est donné soit à domicile, soit dans une salle au rez-de-chaussée sur rendez-vous</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 86 31 90</Téléphone>
+      <Télécopie>+33 3 73 61 00 10</Télécopie>
+      <Email>mairiedomats@wanadoo.fr</Email>
+      <Url>http://www.domats.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Le service ne sera plus accessible au public le mercredi à partir du mois de mai.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="10:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

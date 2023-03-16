@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40009-01" codeInsee="40009" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arjuzanx</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>40110</CodePostal>
+      <NomCommune>Arjuzanx</NomCommune>
+      <Localisation>
+         <Latitude>44.0066589</Latitude>
+         <Longitude>-0.892516</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 07 83 17</Téléphone>
+      <Télécopie>+33 5 58 07 98 39</Télécopie>
+      <Email>mairie.arjuzanx@fr.oleane.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

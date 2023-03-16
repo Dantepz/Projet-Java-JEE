@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-29019-01" codeInsee="29019" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 63834</Ligne>
+      <Ligne>2 rue Frézier</Ligne>
+      <CodePostal>29238</CodePostal>
+      <NomCommune>Brest Cedex 2</NomCommune>
+      <Localisation>
+         <Latitude>48.3914794922</Latitude>
+         <Longitude>-4.48407793045</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 00 80 80</Téléphone>
+      <Télécopie>+33 2 98 00 81 08</Télécopie>
+      <Email>contact@mairie-brest.fr</Email>
+      <Url>http://www.brest.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert en juillet-août de 8h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

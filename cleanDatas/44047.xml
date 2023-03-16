@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44047-01" codeInsee="44047" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Couëron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 place Charles-de-Gaulle</Ligne>
+      <CodePostal>44220</CodePostal>
+      <NomCommune>Couëron</NomCommune>
+      <Localisation>
+         <Latitude>47.1942253</Latitude>
+         <Longitude>-1.7213091</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 38 51 00</Téléphone>
+      <Télécopie>+33 2 40 38 51 67</Télécopie>
+      <Email>contact@mairie-coueron.fr</Email>
+      <Url>http://www.ville-coueron.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

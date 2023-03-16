@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26360-01" codeInsee="26360" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valaurie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Alain-Blanc</Ligne>
+      <CodePostal>26230</CodePostal>
+      <NomCommune>Valaurie</NomCommune>
+      <Localisation>
+         <Latitude>44.4221687317</Latitude>
+         <Longitude>4.81277990341</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 98 51 28</Téléphone>
+      <Télécopie>+33 4 75 98 53 37</Télécopie>
+      <Email>valaurie.mairie@wanadoo.fr</Email>
+      <Url>http://www.mairie-valaurie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

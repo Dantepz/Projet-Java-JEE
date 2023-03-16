@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88285-01" codeInsee="88285" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mandres-sur-Vair</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>110 rue Machoit</Ligne>
+      <CodePostal>88800</CodePostal>
+      <NomCommune>Mandres-sur-Vair</NomCommune>
+      <Localisation>
+         <Latitude>48.2268981934</Latitude>
+         <Longitude>5.8937702179</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 08 91 40</Téléphone>
+      <Télécopie>+33 3 29 07 85 39</Télécopie>
+      <Email>mairie.mandres.sur.vair@orange.fr</Email>
+      <Url>http://www.mandressurvair.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

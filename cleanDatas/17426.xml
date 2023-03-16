@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17426-01" codeInsee="17426" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie du Seure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18, place de la Mairie</Ligne>
+      <CodePostal>17770</CodePostal>
+      <NomCommune>Le Seure</NomCommune>
+      <Localisation>
+         <Latitude>45.790042</Latitude>
+         <Longitude>-0.3636420000000271</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 94 91 44</Téléphone>
+      <Télécopie>+33 5 46 94 91 44</Télécopie>
+      <Email>le.seure@mairie17.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

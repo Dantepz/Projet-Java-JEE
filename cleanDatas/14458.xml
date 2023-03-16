@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14458-01" codeInsee="14458" dateMiseAJour="2014-07-11"
+           pivotLocal="mairie">
+   <Nom>Mairie des Moutiers-en-Cinglais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>71, rue de l'Église</Ligne>
+      <CodePostal>14220</CodePostal>
+      <NomCommune>Les Moutiers-en-Cinglais</NomCommune>
+      <Localisation>
+         <Latitude>49.0486984253</Latitude>
+         <Longitude>-0.486591011286</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 79 37 46</Téléphone>
+      <Télécopie>+33 2 31 79 37 46</Télécopie>
+      <Email>mairie.moutiersencinglais@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

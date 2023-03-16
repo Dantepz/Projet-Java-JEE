@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53147-01" codeInsee="53147" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mayenne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de Verdun</Ligne>
+      <Ligne>BP 111</Ligne>
+      <CodePostal>53103</CodePostal>
+      <NomCommune>Mayenne Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.3044356194</Latitude>
+         <Longitude>-0.617637634277</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 30 21 21</Téléphone>
+      <Télécopie>+33 2 43 30 21 10</Télécopie>
+      <Email>relations-public@mairie-mayenne.net</Email>
+      <Url>http://www.mairie-mayenne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août et la veille des jours de fêtes.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88431-01" codeInsee="88431" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Paul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>66, rue de l'Âtre</Ligne>
+      <CodePostal>88170</CodePostal>
+      <NomCommune>Saint-Paul</NomCommune>
+      <Localisation>
+         <Latitude>48.3261985779</Latitude>
+         <Longitude>5.88265991211</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 94 41 18</Téléphone>
+      <Télécopie>+33 3 29 94 41 18</Télécopie>
+      <Email>stpaul88@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

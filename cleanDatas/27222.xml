@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27222-01" codeInsee="27222" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Épreville-en-Lieuvin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1125, route de l'Église</Ligne>
+      <CodePostal>27560</CodePostal>
+      <NomCommune>Épreville-en-Lieuvin</NomCommune>
+      <Localisation>
+         <Latitude>49.202613</Latitude>
+         <Longitude>0.536203</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 45 44 19</Téléphone>
+      <Télécopie>+33 2 32 45 44 19</Télécopie>
+      <Email>ma.eprevilleenlieuvin@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

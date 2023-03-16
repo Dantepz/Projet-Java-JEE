@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50239-01" codeInsee="50239" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thèreval</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hébécrevon</Ligne>
+      <Ligne>13 rue Saint-Martin</Ligne>
+      <CodePostal>50180</CodePostal>
+      <NomCommune>Thèreval</NomCommune>
+      <Localisation>
+         <Latitude>49.1269416809</Latitude>
+         <Longitude>-1.16641795635</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 05 05 59</Téléphone>
+      <Télécopie>+33 2 33 05 32 42</Télécopie>
+      <Email>mairie@hebecrevon.fr</Email>
+      <Url>http://www.hebecrevon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

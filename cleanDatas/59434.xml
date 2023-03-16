@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59434-01" codeInsee="59434" dateMiseAJour="2004-10-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nivelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>220 rue du Rivage</Ligne>
+      <CodePostal>59230</CodePostal>
+      <NomCommune>NIVELLE</NomCommune>
+      <Localisation>
+         <Latitude>50.4723014832</Latitude>
+         <Longitude>3.46807003021</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 48 48 18</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

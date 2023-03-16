@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85024-01" codeInsee="85024" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bois-de-Céné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>35 rue de la Motte</Ligne>
+      <CodePostal>85710</CodePostal>
+      <NomCommune>Bois-de-Céné</NomCommune>
+      <Localisation>
+         <Latitude>46.9380989075</Latitude>
+         <Longitude>-1.88911998272</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 68 20 84</Téléphone>
+      <Télécopie>+33 2 51 49 10 94</Télécopie>
+      <Email>mairie.boisdecene@wanadoo.fr</Email>
+      <Url>http://www.boisdecene.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire uniquement sur rendez-vous.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Permanence du maire uniquement sur rendez-vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

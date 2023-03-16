@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85108-01" codeInsee="85108" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Herbergement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 place de l'Église</Ligne>
+      <CodePostal>85260</CodePostal>
+      <NomCommune>L'Herbergement</NomCommune>
+      <Localisation>
+         <Latitude>46.8964004517</Latitude>
+         <Longitude>-1.42458999157</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 42 81 74</Téléphone>
+      <Télécopie>+33 2 51 42 84 97</Télécopie>
+      <Email>mairie@lherbergement.fr</Email>
+      <Url>http://www.lherbergement.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

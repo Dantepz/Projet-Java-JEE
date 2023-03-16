@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55115-01" codeInsee="55115" dateMiseAJour="2015-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cierges-sous-Montfaucon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Vierge</Ligne>
+      <CodePostal>55270</CodePostal>
+      <NomCommune>Cierges-sous-Montfaucon</NomCommune>
+      <Localisation>
+         <Latitude>49.298274</Latitude>
+         <Longitude>5.092503</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 85 14 19</Téléphone>
+      <Email>mairie.cierges@altitudetelecom.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="10:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

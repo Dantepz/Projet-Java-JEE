@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26071-01" codeInsee="26071" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chanos-Curson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue de la République</Ligne>
+      <CodePostal>26600</CodePostal>
+      <NomCommune>Chanos-Curson</NomCommune>
+      <Localisation>
+         <Latitude>45.0604057312</Latitude>
+         <Longitude>4.91326093674</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 07 33 07</Téléphone>
+      <Télécopie>+33 4 75 07 32 99</Télécopie>
+      <Email>secretariat.mairiechanoscurson@orange.fr</Email>
+      <Url>http://mairie-chanoscurson.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="12:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="12:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="12:45:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35260-01" codeInsee="35260" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Christophe-des-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 rue de l'Église</Ligne>
+      <CodePostal>35210</CodePostal>
+      <NomCommune>Saint-Christophe-des-Bois</NomCommune>
+      <Localisation>
+         <Latitude>48.22687</Latitude>
+         <Longitude>-1.2471361</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 76 01 89</Téléphone>
+      <Télécopie>+33 2 99 49 11 03</Télécopie>
+      <Email>mairie.stchristophedesbois@wanadoo.fr</Email>
+      <Url>http://www.saintchristophedesbois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement un samedi sur deux.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

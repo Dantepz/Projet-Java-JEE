@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25005-01" codeInsee="25005" dateMiseAJour="2015-08-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Accolans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 Grande rue</Ligne>
+      <CodePostal>25250</CodePostal>
+      <NomCommune>Accolans</NomCommune>
+      <Localisation>
+         <Latitude>47.49494</Latitude>
+         <Longitude>6.5324653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 92 78 72</Téléphone>
+      <Télécopie>+33 3 81 92 78 72</Télécopie>
+      <Email>commune.accolans@gmail.com</Email>
+      <Url>http://www.accolans.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

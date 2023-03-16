@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21262-01" codeInsee="21262" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Faverolles-lès-Lucey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place du 14-Juillet</Ligne>
+      <CodePostal>21290</CodePostal>
+      <NomCommune>Faverolles-lès-Lucey</NomCommune>
+      <Localisation>
+         <Latitude>47.8255996704</Latitude>
+         <Longitude>4.92547988892</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 81 02 84</Téléphone>
+      <Télécopie>+33 3 80 81 02 84</Télécopie>
+      <Email>faverolles.les.lucey@wanadoo.fr</Email>
+      <Url>http://faverolles-les-lucey.a3w.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

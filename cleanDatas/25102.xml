@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25102-01" codeInsee="25102" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Burnevillers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue Chauvillers</Ligne>
+      <CodePostal>25470</CodePostal>
+      <NomCommune>Burnevillers</NomCommune>
+      <Localisation>
+         <Latitude>47.32287</Latitude>
+         <Longitude>6.987998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 44 45 82</Téléphone>
+      <Télécopie>+33 3 81 44 45 82</Télécopie>
+      <Email>mairie.burnevillers25@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

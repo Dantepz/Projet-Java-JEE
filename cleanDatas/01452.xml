@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01452-01" codeInsee="01452" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Virieu-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Honoré-d'Urfé</Ligne>
+      <CodePostal>01510</CodePostal>
+      <NomCommune>Virieu-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>45.8522387465</Latitude>
+         <Longitude>5.65263748169</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 87 81 37</Téléphone>
+      <Télécopie>+33 4 79 87 85 97</Télécopie>
+      <Email>mairie@virieulegrand.fr</Email>
+      <Url>http://www.virieulegrand.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Ouverture un samedi par mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21352-01" codeInsee="21352" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longeault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 route de la 1ere-Armée</Ligne>
+      <CodePostal>21110</CodePostal>
+      <NomCommune>Longeault</NomCommune>
+      <Localisation>
+         <Latitude>47.220062</Latitude>
+         <Longitude>5.251936</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 47 97 20</Téléphone>
+      <Télécopie>+33 3 80 47 97 21</Télécopie>
+      <Email>longeault@wanadoo.fr</Email>
+      <Url>http://www.mairie-longeault.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="14:00:00"/>
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

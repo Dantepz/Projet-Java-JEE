@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39314-01" codeInsee="39314" dateMiseAJour="2007-12-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marnezia</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue du Château</Ligne>
+      <CodePostal>39270</CodePostal>
+      <NomCommune>MARNEZIA</NomCommune>
+      <Localisation>
+         <Latitude>46.5583992004</Latitude>
+         <Longitude>5.6092300415</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 35 76 13</Téléphone>
+      <Télécopie>+33 3 84 35 76 13</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="10:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

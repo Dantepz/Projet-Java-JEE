@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89107-01" codeInsee="89107" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Vallées-de-la-Vanne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Guichet</Ligne>
+      <Ligne>Chigy</Ligne>
+      <CodePostal>89190</CodePostal>
+      <NomCommune>Les Vallées-de-la-Vanne</NomCommune>
+      <Localisation>
+         <Latitude>48.2008018494</Latitude>
+         <Longitude>3.47762989998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 88 28 03</Téléphone>
+      <Email>mairie@les-vallees-de-la-vanne.fr</Email>
+      <Url>http://www.chigy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="14:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

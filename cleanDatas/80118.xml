@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80118-01" codeInsee="80118" dateMiseAJour="2013-07-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boufflers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28, rue Principale</Ligne>
+      <CodePostal>80150</CodePostal>
+      <NomCommune>Boufflers</NomCommune>
+      <Localisation>
+         <Latitude>50.2540016174</Latitude>
+         <Longitude>2.05146002769</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 29 20 74</Téléphone>
+      <Email>mairiedeboufflers@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

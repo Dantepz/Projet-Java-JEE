@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26018-01" codeInsee="26018" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aulan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, rue de l'Église</Ligne>
+      <CodePostal>26570</CodePostal>
+      <NomCommune>Aulan</NomCommune>
+      <Localisation>
+         <Latitude>44.222287</Latitude>
+         <Longitude>5.428091</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 26 72 49</Téléphone>
+      <Email>mairiedaulan@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

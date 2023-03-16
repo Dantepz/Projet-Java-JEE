@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-29294-01" codeInsee="29294" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Tréhou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route des Monts-d'Arrée</Ligne>
+      <CodePostal>29450</CodePostal>
+      <NomCommune>Le Tréhou</NomCommune>
+      <Localisation>
+         <Latitude>48.4043006897</Latitude>
+         <Longitude>-4.07693004608</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 68 82 04</Téléphone>
+      <Télécopie>+33 2 98 24 13 16</Télécopie>
+      <Email>secretariat@mairie-letrehou.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34090-01" codeInsee="34090" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie du Crès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 8</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>34920</CodePostal>
+      <NomCommune>Le Crès</NomCommune>
+      <Localisation>
+         <Latitude>43.6497993469</Latitude>
+         <Longitude>3.93809008598</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 87 48 00</Téléphone>
+      <Télécopie>+33 4 67 87 48 10</Télécopie>
+      <Email>mairie@ville-lecres.eu</Email>
+      <Url>http://www.ville-lecres.eu</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60051-01" codeInsee="60051" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaudéduit</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de Grandvilliers</Ligne>
+      <CodePostal>60210</CodePostal>
+      <NomCommune>Beaudéduit</NomCommune>
+      <Localisation>
+         <Latitude>49.6753997803</Latitude>
+         <Longitude>2.05146002769</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 46 55 76</Téléphone>
+      <Télécopie>+33 3 44 46 55 76</Télécopie>
+      <Email>mairie.beaudeduit@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

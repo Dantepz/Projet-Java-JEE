@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80700-01" codeInsee="80700" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Blimont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de l'Église</Ligne>
+      <CodePostal>80960</CodePostal>
+      <NomCommune>Saint-Blimont</NomCommune>
+      <Localisation>
+         <Latitude>50.1199989319</Latitude>
+         <Longitude>1.56745004654</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 30 24 08</Téléphone>
+      <Télécopie>+33 3 22 60 77 35</Télécopie>
+      <Email>mairie.saint.blimont@akeonet.com</Email>
+      <Url>http://mairie.saint.blimont.akeonet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Permanence des élus et ouverture des différents services de 17h30 à 18h30</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Permanence des élus et ouverture des différents services de 17h30 à 18h30</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

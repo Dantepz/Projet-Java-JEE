@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67144-01" codeInsee="67144" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fouday</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45 rue Principale</Ligne>
+      <CodePostal>67130</CodePostal>
+      <NomCommune>Fouday</NomCommune>
+      <Localisation>
+         <Latitude>48.4211469</Latitude>
+         <Longitude>7.1862133</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 97 30 72</Téléphone>
+      <Télécopie>+33 3 88 97 30 72</Télécopie>
+      <Email>mairiefouday@wanadoo.fr</Email>
+      <Url>http://www.cc.valleedelabruche.frla-communaute-de-communes/item/fouda</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="10:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

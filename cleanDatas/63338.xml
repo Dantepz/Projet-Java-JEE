@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63338-01" codeInsee="63338" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Éloy-les-Mines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 39</Ligne>
+      <Ligne>Place Michel-Duval</Ligne>
+      <CodePostal>63700</CodePostal>
+      <NomCommune>Saint-Éloy-les-Mines</NomCommune>
+      <Localisation>
+         <Latitude>46.161138</Latitude>
+         <Longitude>2.835108</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 85 08 24</Téléphone>
+      <Télécopie>+33 4 73 85 07 75</Télécopie>
+      <Email>selm.maire@wanadoo.fr</Email>
+      <Url>http://www.sainteloylesmines.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

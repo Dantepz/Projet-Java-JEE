@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17437-01" codeInsee="17437" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Talmont-sur-Gironde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Priauté</Ligne>
+      <CodePostal>17120</CodePostal>
+      <NomCommune>Talmont-sur-Gironde</NomCommune>
+      <Localisation>
+         <Latitude>45.5346984863</Latitude>
+         <Longitude>-0.90792798996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 90 43 87</Téléphone>
+      <Télécopie>+33 5 46 74 37 08</Télécopie>
+      <Email>talmont.sur.gironde@mairie17.com</Email>
+      <Url>http://www.talmont-sur-gironde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

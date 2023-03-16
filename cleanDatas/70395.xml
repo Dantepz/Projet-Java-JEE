@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70395-01" codeInsee="70395" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Oppenans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>70110</CodePostal>
+      <NomCommune>Oppenans</NomCommune>
+      <Localisation>
+         <Latitude>47.5532989502</Latitude>
+         <Longitude>6.40825986862</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 78 76 32</Téléphone>
+      <Télécopie>+33 3 84 78 76 32</Télécopie>
+      <Email>mairie20@nordnet.fr</Email>
+      <Url>http://www.oppenans.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="11:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

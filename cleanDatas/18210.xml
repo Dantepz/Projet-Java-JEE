@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18210-01" codeInsee="18210" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Georges-sur-la-Prée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de Dampierre</Ligne>
+      <CodePostal>18100</CodePostal>
+      <NomCommune>Saint-Georges-sur-la-Prée</NomCommune>
+      <Localisation>
+         <Latitude>47.2229003906</Latitude>
+         <Longitude>1.94354999065</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 64 17 50 90</Téléphone>
+      <Télécopie>+33 9 70 62 44 86</Télécopie>
+      <Email>mairie.stgeorgessurlapree@wanadoo.fr</Email>
+      <Url>http://www.saint-georges-sur-la-pree.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

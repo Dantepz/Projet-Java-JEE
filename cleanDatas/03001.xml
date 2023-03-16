@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03001-01" codeInsee="03001" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Abrest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de Vichy</Ligne>
+      <Ligne>BP 1002</Ligne>
+      <CodePostal>03200</CodePostal>
+      <NomCommune>Abrest</NomCommune>
+      <Localisation>
+         <Latitude>46.1050987244</Latitude>
+         <Longitude>3.44409990311</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 98 69 12</Téléphone>
+      <Télécopie>+33 4 70 98 72 77</Télécopie>
+      <Email>mairie-abrest@wanadoo.fr</Email>
+      <Url>http://www.ville-abrest.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

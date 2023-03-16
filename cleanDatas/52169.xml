@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52169-01" codeInsee="52169" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Domblain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Saint-Bénigne</Ligne>
+      <CodePostal>52130</CodePostal>
+      <NomCommune>Domblain</NomCommune>
+      <Localisation>
+         <Latitude>48.4721946716</Latitude>
+         <Longitude>4.99235677719</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 55 39 39</Téléphone>
+      <Télécopie>+33 3 25 55 39 39</Télécopie>
+      <Email>mairie05269@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

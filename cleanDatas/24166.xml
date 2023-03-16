@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24166-01" codeInsee="24166" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eyliac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Allée du 16-Août-1944</Ligne>
+      <CodePostal>24330</CodePostal>
+      <NomCommune>Eyliac</NomCommune>
+      <Localisation>
+         <Latitude>45.1614303589</Latitude>
+         <Longitude>0.854731023312</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 07 56 08</Téléphone>
+      <Télécopie>+33 5 53 04 23 51</Télécopie>
+      <Email>commune.eyliac@wanadoo.fr</Email>
+      <Url>http://www.eyliac.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

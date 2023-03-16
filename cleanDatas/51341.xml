@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51341-01" codeInsee="51341" dateMiseAJour="2004-09-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Malmy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>grande rue</Ligne>
+      <CodePostal>51800</CodePostal>
+      <NomCommune>MALMY</NomCommune>
+      <Localisation>
+         <Latitude>49.1758873</Latitude>
+         <Longitude>4.8105313</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

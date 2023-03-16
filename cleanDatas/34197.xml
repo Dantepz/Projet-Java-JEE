@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34197-01" codeInsee="34197" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Péret</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Claude-Debussy</Ligne>
+      <CodePostal>34800</CodePostal>
+      <NomCommune>Péret</NomCommune>
+      <Localisation>
+         <Latitude>43.5751991272</Latitude>
+         <Longitude>3.39656996727</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 96 09 41</Téléphone>
+      <Télécopie>+33 4 67 96 31 33</Télécopie>
+      <Email>mairie-peret@orange.fr</Email>
+      <Url>http://www.mairie-peret.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

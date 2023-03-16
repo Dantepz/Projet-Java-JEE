@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79318-01" codeInsee="79318" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Soutiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1place de la mairie</Ligne>
+      <CodePostal>79310</CodePostal>
+      <NomCommune>Soutiers</NomCommune>
+      <Localisation>
+         <Latitude>46.5705108643</Latitude>
+         <Longitude>-0.280930012465</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 63 42 88</Téléphone>
+      <Télécopie>+33 5 49 94 05 38</Télécopie>
+      <Email>soutiers@ccsudgatine.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

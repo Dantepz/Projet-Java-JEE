@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61292-01" codeInsee="61292" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montsecret-Clairefougère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 Grande rue</Ligne>
+      <CodePostal>61800</CodePostal>
+      <NomCommune>Montsecret-Clairefougère</NomCommune>
+      <Localisation>
+         <Latitude>48.796753</Latitude>
+         <Longitude>-0.676877</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 66 51 28</Téléphone>
+      <Télécopie>+33 9 70 60 23 29</Télécopie>
+      <Email>mairie@monsecret-clairefougere.fr</Email>
+      <Url>http://www.monsecret-clairefougere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

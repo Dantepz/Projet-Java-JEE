@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86068-01" codeInsee="86068" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaunay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 Grande rue</Ligne>
+      <CodePostal>86510</CodePostal>
+      <NomCommune>Chaunay</NomCommune>
+      <Localisation>
+         <Latitude>46.2067985535</Latitude>
+         <Longitude>0.163181006908</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 59 25 05</Téléphone>
+      <Télécopie>+33 5 49 53 40 99</Télécopie>
+      <Email>chaunay@cg86.fr</Email>
+      <Url>http://www.chaunay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

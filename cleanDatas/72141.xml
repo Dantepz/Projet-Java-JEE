@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72141-01" codeInsee="72141" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gesnes-le-Gandelin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 Grande rue</Ligne>
+      <CodePostal>72130</CodePostal>
+      <NomCommune>Gesnes-le-Gandelin</NomCommune>
+      <Localisation>
+         <Latitude>48.3568000793</Latitude>
+         <Longitude>0.0218150001019</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 26 88 26</Téléphone>
+      <Télécopie>+33 2 33 32 22 29</Télécopie>
+      <Email>mairie.gesnes.le.gandelin@wanadoo.fr</Email>
+      <Url>http://www.cdc-portes-du-maine-normand.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

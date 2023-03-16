@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45034-01" codeInsee="45034" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boigny-sur-Bionne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de Verdun</Ligne>
+      <CodePostal>45760</CodePostal>
+      <NomCommune>Boigny-sur-Bionne</NomCommune>
+      <Localisation>
+         <Latitude>47.9222413</Latitude>
+         <Longitude>2.0095913</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 75 21 32</Téléphone>
+      <Télécopie>+33 2 38 75 28 01</Télécopie>
+      <Email>elus@boignysurbionne.fr</Email>
+      <Url>http://www.boignysurbionne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <Note>Fermé le samedi pendant les vacances scolaires</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

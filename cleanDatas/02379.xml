@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02379-01" codeInsee="02379" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Hérie-la-Viéville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Sains</Ligne>
+      <CodePostal>02120</CodePostal>
+      <NomCommune>Le Hérie-la-Viéville</NomCommune>
+      <Localisation>
+         <Latitude>49.8238983154</Latitude>
+         <Longitude>3.69919991493</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">utiliser la sonnette ou contacter l'accueil pour que les agents de mairie se déplacent au domicile des habitants</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 61 25 27</Téléphone>
+      <Télécopie>+33 3 23 61 25 27</Télécopie>
+      <Email>mairie.leherielavieville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

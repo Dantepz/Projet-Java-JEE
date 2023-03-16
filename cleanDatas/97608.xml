@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97608-01" codeInsee="97608" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dzaoudzi</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Labattoir</Ligne>
+      <Ligne>BP 93</Ligne>
+      <CodePostal>97610</CodePostal>
+      <NomCommune>Dzaoudzi</NomCommune>
+      <Localisation>
+         <Latitude>-12.7878822</Latitude>
+         <Longitude>45.270372</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+269 269 60 11 75</Téléphone>
+      <Télécopie>+269 269 60 04 36</Télécopie>
+      <Email>mairie@dzaoudzi-labattoir.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="07:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

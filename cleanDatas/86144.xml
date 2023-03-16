@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86144-01" codeInsee="86144" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maisonneuve</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 Grand'rue</Ligne>
+      <CodePostal>86170</CodePostal>
+      <NomCommune>Maisonneuve</NomCommune>
+      <Localisation>
+         <Latitude>46.7195014954</Latitude>
+         <Longitude>0.0554590001702</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 51 07 83</Téléphone>
+      <Télécopie>+33 9 70 06 14 73</Télécopie>
+      <Email>maisonneuve@cg86.fr</Email>
+      <Url>http://www.maisonneuve86.blogspot.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique uniquement de 8h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique uniquement de 8h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

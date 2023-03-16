@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61139-01" codeInsee="61139" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crouttes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61120</CodePostal>
+      <NomCommune>Crouttes</NomCommune>
+      <Localisation>
+         <Latitude>48.923403</Latitude>
+         <Longitude>0.138481</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 35 83 40</Téléphone>
+      <Télécopie>+33 2 33 36 01 69</Télécopie>
+      <Email>mairie.crouttes.orne@wanadoo.fr</Email>
+      <Url>http://www.mairie-crouttes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

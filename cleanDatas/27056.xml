@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27056-01" codeInsee="27056" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bernay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Gustave-Héon</Ligne>
+      <Ligne>BP 762</Ligne>
+      <CodePostal>27300</CodePostal>
+      <NomCommune>Bernay</NomCommune>
+      <Localisation>
+         <Latitude>49.0895996094</Latitude>
+         <Longitude>0.597890973091</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 46 63 00</Téléphone>
+      <Télécopie>+33 2 32 43 05 83</Télécopie>
+      <Email>etat.civil@bernay27.fr</Email>
+      <Url>http://www.ville-bernay27.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

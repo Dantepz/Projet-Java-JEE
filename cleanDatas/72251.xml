@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72251-01" codeInsee="72251" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de René</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 place de l'Église</Ligne>
+      <CodePostal>72260</CodePostal>
+      <NomCommune>René</NomCommune>
+      <Localisation>
+         <Latitude>48.2785987854</Latitude>
+         <Longitude>0.221383005381</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 97 09 19</Téléphone>
+      <Télécopie>+33 2 43 34 24 11</Télécopie>
+      <Email>mairie.rene@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63330-01" codeInsee="63330" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Cirgues-sur-Couze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 route de Tourzel</Ligne>
+      <CodePostal>63320</CodePostal>
+      <NomCommune>Saint-Cirgues-sur-Couze</NomCommune>
+      <Localisation>
+         <Latitude>45.5038986206</Latitude>
+         <Longitude>3.14615011215</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">le maire peut recevoir dans une salle au rez-de-chaussée sur demande</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 12 49</Téléphone>
+      <Télécopie>+33 4 73 71 14 36</Télécopie>
+      <Email>mairiestcirgues@orange.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

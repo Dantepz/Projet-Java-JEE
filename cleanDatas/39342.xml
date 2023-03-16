@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39342-01" codeInsee="39342" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Perraud</Ligne>
+      <CodePostal>39230</CodePostal>
+      <NomCommune>MONAY</NomCommune>
+      <Localisation>
+         <Latitude>46.8353996277</Latitude>
+         <Longitude>5.59500980377</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 51 91</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

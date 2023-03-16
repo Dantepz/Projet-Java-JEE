@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24313-01" codeInsee="24313" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Orliac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24170</CodePostal>
+      <NomCommune>Orliac</NomCommune>
+      <Localisation>
+         <Latitude>44.7165679932</Latitude>
+         <Longitude>1.06831896305</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 29 98 90</Téléphone>
+      <Télécopie>+33 5 53 29 98 90</Télécopie>
+      <Email>commune.dorliac@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Le maire reçoit sans rendez-vous le lundi après-midi aux heures d'ouverture, et sur rendez-vous les autres jours</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

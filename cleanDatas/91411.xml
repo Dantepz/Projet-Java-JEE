@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-91411-01" codeInsee="91411" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Molières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>91470</CodePostal>
+      <NomCommune>Les Molières</NomCommune>
+      <Localisation>
+         <Latitude>48.6724014282</Latitude>
+         <Longitude>2.06984996796</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 12 07 99</Téléphone>
+      <Télécopie>+33 1 60 12 75 89</Télécopie>
+      <Email>contact@lesmolieres.fr</Email>
+      <Url>http://www.lesmolieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

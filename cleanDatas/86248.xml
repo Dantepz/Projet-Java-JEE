@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86248-01" codeInsee="86248" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Secondin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 place de la Mairie</Ligne>
+      <CodePostal>86350</CodePostal>
+      <NomCommune>Saint-Secondin</NomCommune>
+      <Localisation>
+         <Latitude>46.3277829</Latitude>
+         <Longitude>0.49348699999995915</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 59 51 18</Téléphone>
+      <Télécopie>+33 5 49 53 36 11</Télécopie>
+      <Email>saint-secondin@cg86.fr</Email>
+      <Url>http://www.saint-secondin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

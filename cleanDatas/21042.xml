@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21042-01" codeInsee="21042" dateMiseAJour="2011-04-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bagnot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>21700</CodePostal>
+      <NomCommune>BAGNOT</NomCommune>
+      <Localisation>
+         <Latitude>47.0555000305</Latitude>
+         <Longitude>5.06958007812</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 26 90 07</Téléphone>
+      <Télécopie>+33 3 80 26 90 07</Télécopie>
+      <Email>mairiebagnot@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85127-01" codeInsee="85127" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longeville-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue De-Lattre-de-Tassigny</Ligne>
+      <CodePostal>85560</CodePostal>
+      <NomCommune>Longeville-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>46.4240989685</Latitude>
+         <Longitude>-1.4880900383</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 33 30 33</Téléphone>
+      <Télécopie>+33 2 51 33 30 09</Télécopie>
+      <Email>mairie-longeville-sur-mer@wanadoo.fr</Email>
+      <Url>http://www.mairie-longevillesurmer.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Horaires d'ouverture du 1er avril au 30 septembre.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Horaires d'ouverture du 1er octobre au 31 mars.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

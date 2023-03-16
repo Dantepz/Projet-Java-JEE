@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80455-01" codeInsee="80455" dateMiseAJour="2011-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-sous-Poix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>80290</CodePostal>
+      <NomCommune>LA CHAPELLE SOUS POIX</NomCommune>
+      <Localisation>
+         <Latitude>49.7660827637</Latitude>
+         <Longitude>1.95618903637</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 90 07 90</Téléphone>
+      <Email>dewalle.famille@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

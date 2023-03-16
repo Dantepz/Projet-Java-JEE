@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09266-01" codeInsee="09266" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien-de-Gras-Capou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>09500</CodePostal>
+      <NomCommune>Saint-Julien-de-Gras-Capou</NomCommune>
+      <Localisation>
+         <Latitude>43.036935</Latitude>
+         <Longitude>1.85482400000001</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 68 18 54</Téléphone>
+      <Télécopie>+33 5 61 68 18 54</Télécopie>
+      <Email>mairie.st.julien.grascapou@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="10:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="10:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

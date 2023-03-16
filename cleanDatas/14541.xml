@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14541-01" codeInsee="14541" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Roque-Baignard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>14340</CodePostal>
+      <NomCommune>La Roque-Baignard</NomCommune>
+      <Localisation>
+         <Latitude>49.1789879</Latitude>
+         <Longitude>0.100047</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 63 08 91</Téléphone>
+      <Télécopie>+33 2 31 63 08 91</Télécopie>
+      <Email>mairielaroque@wanadoo.fr</Email>
+      <Url>http://www.la-roque-baignard.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

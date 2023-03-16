@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60376-01" codeInsee="60376" dateMiseAJour="2006-09-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maisoncelle Saint Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue de la Mairie</Ligne>
+      <CodePostal>60112</CodePostal>
+      <NomCommune>MAISONCELLE ST PIERRE</NomCommune>
+      <Localisation>
+         <Latitude>49.5019989014</Latitude>
+         <Longitude>2.09657001495</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 81 74 15</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:45:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

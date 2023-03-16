@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25385-01" codeInsee="25385" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montagney-Servigney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Moulin</Ligne>
+      <CodePostal>25680</CodePostal>
+      <NomCommune>Montagney-Servigney</NomCommune>
+      <Localisation>
+         <Latitude>47.4816678</Latitude>
+         <Longitude>6.30685500000004</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 92 90</Téléphone>
+      <Télécopie>+33 3 81 86 06 81</Télécopie>
+      <Email>karine@cc-paysrougement.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Contacter le maire pour obtenir les horaires d'ouverture de la mairie.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

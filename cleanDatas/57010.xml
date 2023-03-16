@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57010-01" codeInsee="57010" dateMiseAJour="2007-11-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Alaincourt La Côte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue du moulin</Ligne>
+      <CodePostal>57590</CodePostal>
+      <NomCommune>ALAINCOURT LA COTE</NomCommune>
+      <Localisation>
+         <Latitude>48.8983622</Latitude>
+         <Longitude>6.3402267</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 05 90 60</Téléphone>
+      <Email>malaincourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04184-01" codeInsee="04184" dateMiseAJour="2016-03-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jurs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>04410</CodePostal>
+      <NomCommune>Saint-Jurs</NomCommune>
+      <Localisation>
+         <Latitude>43.898109436</Latitude>
+         <Longitude>6.19984722137</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 74 48 25</Téléphone>
+      <Télécopie>+33 4 92 74 48 25</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

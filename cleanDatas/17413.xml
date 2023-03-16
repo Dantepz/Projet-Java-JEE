@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17413-01" codeInsee="17413" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Vivien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>17220</CodePostal>
+      <NomCommune>Saint-Vivien</NomCommune>
+      <Localisation>
+         <Latitude>46.0792007446</Latitude>
+         <Longitude>-1.05315005779</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 56 13 90</Téléphone>
+      <Télécopie>+33 5 46 56 77 45</Télécopie>
+      <Email>mairie@saint-vivien17.fr</Email>
+      <Url>http://www.saint-vivien17.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="18:00:00" fin="19:00:00"/>
+         <Note>Accueil ouvert à partir de 9h pendant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accueil ouvert à partir de 9h pendant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accueil ouvert à partir de 9h pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

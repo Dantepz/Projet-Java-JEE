@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65091-01" codeInsee="65091" dateMiseAJour="2006-08-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bettes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>BETTES</NomCommune>
+      <Localisation>
+         <Latitude>43.0799674988</Latitude>
+         <Longitude>0.212681993842</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 91 28 21</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

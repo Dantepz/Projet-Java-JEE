@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03022-01" codeInsee="03022" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bellenaves</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 Grande rue</Ligne>
+      <CodePostal>33330</CodePostal>
+      <NomCommune>Bellenaves</NomCommune>
+      <Localisation>
+         <Latitude>46.1993432</Latitude>
+         <Longitude>3.0788903</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 58 30 32</Téléphone>
+      <Télécopie>+33 4 70 58 37 59</Télécopie>
+      <Email>mairie-bellenaves@wanadoo.fr</Email>
+      <Url>http://mairie-bellenaves.planet-allier.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

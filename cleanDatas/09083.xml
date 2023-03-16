@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09083-01" codeInsee="09083" dateMiseAJour="2004-08-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Casteras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>09130</CodePostal>
+      <NomCommune>CASTERAS</NomCommune>
+      <Localisation>
+         <Latitude>43.129234314</Latitude>
+         <Longitude>1.3997579813</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

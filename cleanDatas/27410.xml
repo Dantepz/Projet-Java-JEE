@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27410-01" codeInsee="27410" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Miserey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue des Aérostiers</Ligne>
+      <CodePostal>27930</CodePostal>
+      <NomCommune>Miserey</NomCommune>
+      <Localisation>
+         <Latitude>49.0204857</Latitude>
+         <Longitude>1.2674278</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 67 01 10</Téléphone>
+      <Télécopie>+33 2 32 34 53 31</Télécopie>
+      <Email>mairie.miserey@wanadoo.fr</Email>
+      <Url>http://miserey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

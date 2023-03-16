@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77359-01" codeInsee="77359" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Perthes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Melun</Ligne>
+      <CodePostal>77930</CodePostal>
+      <NomCommune>Perthes</NomCommune>
+      <Localisation>
+         <Latitude>48.4645996094</Latitude>
+         <Longitude>2.53586006165</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 66 10 23</Téléphone>
+      <Télécopie>+33 1 60 66 02 09</Télécopie>
+      <Email>mairie.perthes77@wanadoo.fr</Email>
+      <Url>http://www.perthes-en-gatinais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le samedi les veilles de fêtes.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

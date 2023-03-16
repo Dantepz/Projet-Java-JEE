@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34304-01" codeInsee="34304" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Soubès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Terral</Ligne>
+      <CodePostal>34700</CodePostal>
+      <NomCommune>Soubès</NomCommune>
+      <Localisation>
+         <Latitude>43.766672</Latitude>
+         <Longitude>3.346123</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">appeler la mairie avant de se déplacer</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 44 05 79</Téléphone>
+      <Télécopie>+33 4 67 44 22 04</Télécopie>
+      <Email>mairie.soubes@lodevoisetlarzac.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

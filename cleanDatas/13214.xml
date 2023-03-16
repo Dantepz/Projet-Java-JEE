@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13214-01" codeInsee="13214" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marseille - secteur des 13e et 14e arrondissements</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>72 rue Paul-Coxe</Ligne>
+      <CodePostal>13014</CodePostal>
+      <NomCommune>Marseille</NomCommune>
+      <Localisation>
+         <Latitude>43.3469963074</Latitude>
+         <Longitude>5.37811899185</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 55 42 02</Téléphone>
+      <Télécopie>+33 4 91 55 42 85</Télécopie>
+      <Email>http://www.mairie-marseille1314.com/contact.html</Email>
+      <Url>http://www.mairie-marseille1314.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <Note>Déclarations de décès et de naissances.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Démarches dans les mairies de secteur : mariage, déclaration de naissance, etc. Tout usager marseillais peut se rendre dans un bureau de proximité quel que soit son domicile pour les démarches suivantes : établir une carte nationale d’identité, un passeport.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

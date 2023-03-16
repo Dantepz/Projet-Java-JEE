@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86090-01" codeInsee="86090" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Curçay-sur-Dive</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 place d'Aumetz</Ligne>
+      <CodePostal>86120</CodePostal>
+      <NomCommune>Curçay-sur-Dive</NomCommune>
+      <Localisation>
+         <Latitude>47.0121278</Latitude>
+         <Longitude>-0.0562282</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 98 56 04</Téléphone>
+      <Télécopie>+33 5 49 98 16 04</Télécopie>
+      <Email>curcay-sur-dive@cg86.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:15:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:15:00" fin="12:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

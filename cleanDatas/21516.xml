@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21516-01" codeInsee="21516" dateMiseAJour="2007-11-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quincerot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>21500</CodePostal>
+      <NomCommune>QUINCEROT</NomCommune>
+      <Localisation>
+         <Latitude>47.6118202209</Latitude>
+         <Longitude>4.26492786407</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 96 75 76</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

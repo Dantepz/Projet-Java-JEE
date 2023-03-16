@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66221-01" codeInsee="66221" dateMiseAJour="2011-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valmanya</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Carrer de l'Ajuntament</Ligne>
+      <CodePostal>66320</CodePostal>
+      <NomCommune>VALMANYA</NomCommune>
+      <Localisation>
+         <Latitude>42.5377426147</Latitude>
+         <Longitude>2.53408002853</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 05 86 38</Téléphone>
+      <Url>http://pagesperso-orange.fr/mairie.valmanya</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

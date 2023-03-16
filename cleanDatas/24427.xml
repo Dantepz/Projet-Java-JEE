@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24427-01" codeInsee="24427" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-d'Eyraud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24140</CodePostal>
+      <NomCommune>Saint-Jean-d'Eyraud</NomCommune>
+      <Localisation>
+         <Latitude>44.95556</Latitude>
+         <Longitude>0.453363</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 80 11 83</Téléphone>
+      <Télécopie>+33 5 53 80 11 83</Télécopie>
+      <Email>mairie.stjeandeyraud@wanadoo.fr</Email>
+      <Url>http://www.pays-de-bergerac.com/mairie/st-jean-d-eyraud/index.asp</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="12:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

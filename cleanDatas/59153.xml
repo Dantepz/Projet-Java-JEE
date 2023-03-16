@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59153-01" codeInsee="59153" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Condé-sur-l'Escaut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Pierre-Delcourt</Ligne>
+      <CodePostal>59163</CodePostal>
+      <NomCommune>Condé-sur-l'Escaut</NomCommune>
+      <Localisation>
+         <Latitude>50.4483164</Latitude>
+         <Longitude>3.5933187</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 20 36 40</Téléphone>
+      <Télécopie>+33 3 27 20 36 41</Télécopie>
+      <Email>j.mairie@conde59.fr</Email>
+      <Url>http://www.conde59.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et service du personnel.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

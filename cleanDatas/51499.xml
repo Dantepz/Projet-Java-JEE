@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51499-01" codeInsee="51499" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Mard-lès-Rouffy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 rue de Champagne</Ligne>
+      <CodePostal>51130</CodePostal>
+      <NomCommune>Saint-Mard-lès-Rouffy</NomCommune>
+      <Localisation>
+         <Latitude>48.9276008606</Latitude>
+         <Longitude>4.11000013351</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 68 94 85</Téléphone>
+      <Télécopie>+33 3 26 68 94 85</Télécopie>
+      <Email>mairiestmardlesrouffy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

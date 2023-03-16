@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44018-01" codeInsee="44018" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouaye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue de Pornic</Ligne>
+      <CodePostal>44830</CodePostal>
+      <NomCommune>Bouaye</NomCommune>
+      <Localisation>
+         <Latitude>47.1437339783</Latitude>
+         <Longitude>-1.69436597824</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 70 55 55</Téléphone>
+      <Télécopie>+33 2 40326749</Télécopie>
+      <Email>accueil@bouaye.fr</Email>
+      <Url>http://www.bouaye.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="18:30:00"/>
+         <Note>Fermeture à 17h30 en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

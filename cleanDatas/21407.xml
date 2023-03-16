@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21407-01" codeInsee="21407" dateMiseAJour="2015-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Messanges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>21220</CodePostal>
+      <NomCommune>Messanges</NomCommune>
+      <Localisation>
+         <Latitude>47.1637429</Latitude>
+         <Longitude>4.8714579</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 61 41 55</Téléphone>
+      <Télécopie>+33 3 80 61 41 55</Télécopie>
+      <Email>mairiemessanges@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27026-01" codeInsee="27026" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Authevernes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de l'Église</Ligne>
+      <CodePostal>27420</CodePostal>
+      <NomCommune>Authevernes</NomCommune>
+      <Localisation>
+         <Latitude>49.2383422852</Latitude>
+         <Longitude>1.65807700157</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 55 61 31</Téléphone>
+      <Télécopie>+33 2 32 55 61 31</Télécopie>
+      <Email>mairie.authevernes@wanadoo.fr</Email>
+      <Url>http://www.authevernes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+         <Note>Permanence des élus uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

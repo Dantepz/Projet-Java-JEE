@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37159-01" codeInsee="37159" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monts</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Maurice-Ravel</Ligne>
+      <CodePostal>37260</CodePostal>
+      <NomCommune>Monts</NomCommune>
+      <Localisation>
+         <Latitude>47.2764015198</Latitude>
+         <Longitude>0.642422020435</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 34 11 80</Téléphone>
+      <Télécopie>+33 2 47 73 05 42</Télécopie>
+      <Email>mairie@monts.fr</Email>
+      <Url>http://www.monts.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

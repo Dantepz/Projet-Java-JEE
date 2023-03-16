@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14633-01" codeInsee="14633" dateMiseAJour="2004-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-du-Mesnil-Oury</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Parc Roi</Ligne>
+      <CodePostal>14140</CodePostal>
+      <NomCommune>ST MARTIN DU MESNIL OURY</NomCommune>
+      <Localisation>
+         <Latitude>49.0261993408</Latitude>
+         <Longitude>0.121262997389</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 13 63 60 13</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

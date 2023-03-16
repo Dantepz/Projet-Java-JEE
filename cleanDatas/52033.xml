@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52033-01" codeInsee="52033" dateMiseAJour="2013-01-03"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avrecourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>52140</CodePostal>
+      <NomCommune>Avrecourt</NomCommune>
+      <Localisation>
+         <Latitude>47.962553</Latitude>
+         <Longitude>5.538271</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 88 05 53</Téléphone>
+      <Email>mairie3@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="09:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

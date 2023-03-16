@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25251-01" codeInsee="25251" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fourbanne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de la Planchotte</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>Fourbanne</NomCommune>
+      <Localisation>
+         <Latitude>47.3323936462</Latitude>
+         <Longitude>6.30521392822</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 37 67</Téléphone>
+      <Télécopie>+33 3 81 84 37 67</Télécopie>
+      <Email>mairie.fourbanne25@orange.fr</Email>
+      <Url>http://www.fourbanne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les semaines paires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

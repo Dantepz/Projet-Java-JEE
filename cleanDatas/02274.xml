@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02274-01" codeInsee="02274" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ébouleau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, place de l'Église</Ligne>
+      <CodePostal>02350</CodePostal>
+      <NomCommune>Ébouleau</NomCommune>
+      <Localisation>
+         <Latitude>49.6719068</Latitude>
+         <Longitude>3.8751335</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 22 96 67</Téléphone>
+      <Télécopie>+33 3 23 22 96 67</Télécopie>
+      <Email>commune.ebouleau@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

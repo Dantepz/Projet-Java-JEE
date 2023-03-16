@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59234-01" codeInsee="59234" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Flers-en-Escrebieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Henri-Barbusse</Ligne>
+      <CodePostal>59128</CodePostal>
+      <NomCommune>Flers-en-Escrebieux</NomCommune>
+      <Localisation>
+         <Latitude>50.4003982544</Latitude>
+         <Longitude>3.05743002892</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 93 36 00</Téléphone>
+      <Télécopie>+33 3 27 88 03 85</Télécopie>
+      <Email>service.etat.civil@ville-flers-en-escrebieux.fr</Email>
+      <Url>http://www.ville-flers-en-escrebieux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert jusqu'à 18h pour l'état civil et la police.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71336-01" codeInsee="71336" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ouroux-sur-Saône</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>71370</CodePostal>
+      <NomCommune>Ouroux-sur-Saône</NomCommune>
+      <Localisation>
+         <Latitude>46.7220001221</Latitude>
+         <Longitude>4.95357990265</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 80105</Ligne>
+      <CodePostal>71327</CodePostal>
+      <NomCommune>Chalon-sur-Saône</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 42 79 00</Téléphone>
+      <Télécopie>+33 3 85 96 81 94</Télécopie>
+      <Email>mairie-douroux-sur-saone2@wanadoo.fr</Email>
+      <Url>http://www.ouroux-sur-saone.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

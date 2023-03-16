@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95424-01" codeInsee="95424" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montigny-lès-Cormeilles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>3 avenue Aristide-Maillol</Ligne>
+      <CodePostal>95370</CodePostal>
+      <NomCommune>Montigny-lès-Cormeilles</NomCommune>
+      <Localisation>
+         <Latitude>48.987412</Latitude>
+         <Longitude>2.187929</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 90237</Ligne>
+      <Ligne>14 rue Fortuné-Charlot</Ligne>
+      <CodePostal>95370</CodePostal>
+      <NomCommune>Montigny-lès-Cormeilles</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 26 30 26</Téléphone>
+      <Télécopie>+33 1 30 26 30 29</Télécopie>
+      <Url>http://www.montigny95.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="19:45:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28346-01" codeInsee="28346" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Lubin-de-Cravant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue des Marnières</Ligne>
+      <CodePostal>28270</CodePostal>
+      <NomCommune>Saint-Lubin-de-Cravant</NomCommune>
+      <Localisation>
+         <Latitude>48.7119789124</Latitude>
+         <Longitude>1.08812105656</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 48 37 70</Téléphone>
+      <Télécopie>+33 2 37 48 37 70</Télécopie>
+      <Email>mairie-stlubindecravant@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A160-01" codeInsee="2A160" dateMiseAJour="2014-08-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Moca-Croce</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Pozzo</Ligne>
+      <CodePostal>20140</CodePostal>
+      <NomCommune>Moca-Croce</NomCommune>
+      <Localisation>
+         <Latitude>41.8087043762</Latitude>
+         <Longitude>9.01196289062</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 24 32 21</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

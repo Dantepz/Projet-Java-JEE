@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63152-01" codeInsee="63152" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Espinasse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63390</CodePostal>
+      <NomCommune>Espinasse</NomCommune>
+      <Localisation>
+         <Latitude>46.039152</Latitude>
+         <Longitude>2.710363</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 85 72 60</Téléphone>
+      <Télécopie>+33 9 71 70 34 54</Télécopie>
+      <Email>mairie-espinasse.63@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

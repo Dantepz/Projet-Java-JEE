@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49278-01" codeInsee="49278" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Gemmes-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de la Mairie</Ligne>
+      <CodePostal>49130</CodePostal>
+      <NomCommune>Sainte-Gemmes-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.4225006104</Latitude>
+         <Longitude>-0.556716024876</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 66 75 52</Téléphone>
+      <Télécopie>+33 2 41 66 74 00</Télécopie>
+      <Email>mairie@ville-sainte-gemmes-sur-loire.fr</Email>
+      <Url>http://www.ville-sainte-gemmes-sur-loire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:15:00"/>
+         <PlageH début="13:45:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le samedi pendant la période estivale, excepté le premier samedi du mois d'août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

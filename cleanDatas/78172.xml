@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78172-01" codeInsee="78172" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Conflans-Sainte-Honorine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>63 rue Maurice-Berteaux</Ligne>
+      <Ligne>BP 350</Ligne>
+      <CodePostal>78703</CodePostal>
+      <NomCommune>Conflans-Sainte-Honorine</NomCommune>
+      <Localisation>
+         <Latitude>49.000275</Latitude>
+         <Longitude>2.09554600716</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 90 89 89</Téléphone>
+      <Télécopie>+33 1 34 90 89 19</Télécopie>
+      <Email>ville@mairie-conflans.fr</Email>
+      <Url>http://www.conflans-sainte-honorine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="19:00:00"/>
+         <Note>Tous les services sont fermés de 8h30 à 12h15 hormis l'accueil.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71310-01" codeInsee="71310" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montchanin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>101 avenue de la République</Ligne>
+      <CodePostal>71210</CodePostal>
+      <NomCommune>Montchanin</NomCommune>
+      <Localisation>
+         <Latitude>46.7493057251</Latitude>
+         <Longitude>4.46884298325</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 55 67 52 13</Téléphone>
+      <Télécopie>+33 9 58 60 49 53</Télécopie>
+      <Email>mairie@mairie-montchanin.org</Email>
+      <Url>http://www.montchanin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

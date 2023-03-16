@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66059-01" codeInsee="66059" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Corneilla-del-Vercol</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Tonkin</Ligne>
+      <Ligne>BP 2</Ligne>
+      <CodePostal>66200</CodePostal>
+      <NomCommune>Corneilla-del-Vercol</NomCommune>
+      <Localisation>
+         <Latitude>42.6263999939</Latitude>
+         <Longitude>2.94828009605</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 22 12 62</Téléphone>
+      <Télécopie>+33 4 68 22 82 92</Télécopie>
+      <Email>mairie.corneilla.vercol@orange.fr</Email>
+      <Url>http://www.corneilla-del-vercol.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

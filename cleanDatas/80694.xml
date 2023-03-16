@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80694-01" codeInsee="80694" dateMiseAJour="2011-10-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sailly-le-Sec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue du Maréchal Leclerc</Ligne>
+      <CodePostal>80800</CodePostal>
+      <NomCommune>SAILLY LE SEC</NomCommune>
+      <Localisation>
+         <Latitude>49.9213981628</Latitude>
+         <Longitude>2.57916998863</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 76 53 29</Téléphone>
+      <Télécopie>+33 3 22 75 49 70</Télécopie>
+      <Email>saillylesec@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+         <Note>Permanence du maire uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+         <Note>Permanence des adjoints uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+         <Note>Uniquement Secrétariat.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-94043-01" codeInsee="94043" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Kremlin-Bicêtre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Jaurès</Ligne>
+      <CodePostal>94276</CodePostal>
+      <NomCommune>Le Kremlin-Bicêtre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8126564026</Latitude>
+         <Longitude>2.35664010048</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 15 55 55</Téléphone>
+      <Email>contact@ville-kremlin-bicetre.fr</Email>
+      <Url>http://www.kremlinbicetre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="19:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture des différents services.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture des différents services.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

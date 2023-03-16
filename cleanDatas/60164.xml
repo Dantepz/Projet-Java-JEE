@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60164-01" codeInsee="60164" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie du Coudray-Saint-Germer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Paul-Dubois</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>60850</CodePostal>
+      <NomCommune>Le Coudray-Saint-Germer</NomCommune>
+      <Localisation>
+         <Latitude>49.4114112854</Latitude>
+         <Longitude>1.83733797073</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 81 62 12</Téléphone>
+      <Télécopie>+33 3 44 81 71 32</Télécopie>
+      <Email>mairie.coudray.st.germer@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52350-01" codeInsee="52350" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neuvelle-lès-Voisey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Vernois</Ligne>
+      <CodePostal>52400</CodePostal>
+      <NomCommune>Neuvelle-lès-Voisey</NomCommune>
+      <Localisation>
+         <Latitude>47.8661994934</Latitude>
+         <Longitude>5.79304981232</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 90 76 40</Téléphone>
+      <Télécopie>+33 3 25 90 76 40</Télécopie>
+      <Email>mairieneuvelle@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

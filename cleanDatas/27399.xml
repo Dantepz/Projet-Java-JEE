@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27399-01" codeInsee="27399" dateMiseAJour="2016-04-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mercey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>27950</CodePostal>
+      <NomCommune>MERCEY</NomCommune>
+      <Localisation>
+         <Latitude>49.1087188721</Latitude>
+         <Longitude>1.4364759922</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

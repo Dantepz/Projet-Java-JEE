@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77532-01" codeInsee="77532" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vulaines-lès-Provins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route départementale 619</Ligne>
+      <CodePostal>77160</CodePostal>
+      <NomCommune>Vulaines-lès-Provins</NomCommune>
+      <Localisation>
+         <Latitude>48.560117</Latitude>
+         <Longitude>3.218781</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 67 63 46</Téléphone>
+      <Télécopie>+33 1 60 67 63 46</Télécopie>
+      <Email>mairie.vulaineslesprovins@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="14:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

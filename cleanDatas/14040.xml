@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14040-01" codeInsee="14040" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barbeville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Vaucelles</Ligne>
+      <CodePostal>14400</CodePostal>
+      <NomCommune>Barbeville</NomCommune>
+      <Localisation>
+         <Latitude>49.2748288</Latitude>
+         <Longitude>-0.748426</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 21 36 13</Téléphone>
+      <Télécopie>+33 2 31 21 36 13</Télécopie>
+      <Email>mairie.barbeville@orange.fr</Email>
+      <Url>http://www.barbeville.eu</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

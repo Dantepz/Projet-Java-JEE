@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09138-01" codeInsee="09138" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Herm</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>09000</CodePostal>
+      <NomCommune>L'Herm</NomCommune>
+      <Localisation>
+         <Latitude>42.9855995178</Latitude>
+         <Longitude>1.60631000996</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 65 58 52</Téléphone>
+      <Télécopie>+33 5 61 02 62 24</Télécopie>
+      <Email>commune.herm@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

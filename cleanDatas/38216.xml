@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38216-01" codeInsee="38216" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Malleval-en-Vercors</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>41 rue Georges-Glénat</Ligne>
+      <CodePostal>38470</CodePostal>
+      <NomCommune>Malleval-en-Vercors</NomCommune>
+      <Localisation>
+         <Latitude>45.1691017151</Latitude>
+         <Longitude>5.41418981552</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 38 45 12</Téléphone>
+      <Télécopie>+33 4 76 64 18 97</Télécopie>
+      <Email>malleval.mairie@wanadoo.fr</Email>
+      <Url>http://www.malleval-en-vercors.sud-gresivaudan.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

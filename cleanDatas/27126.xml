@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27126-01" codeInsee="27126" dateMiseAJour="2015-02-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Campigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place de la Pelouse</Ligne>
+      <CodePostal>27500</CodePostal>
+      <NomCommune>Campigny</NomCommune>
+      <Localisation>
+         <Latitude>49.3106997</Latitude>
+         <Longitude>0.5540389</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 41 02 52</Téléphone>
+      <Télécopie>+33 2 32 41 22 64</Télécopie>
+      <Email>mairie@campigny27.fr</Email>
+      <Url>http://www.campigny27.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

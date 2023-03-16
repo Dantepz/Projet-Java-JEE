@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06087-01" codeInsee="06087" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie des Mujouls</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Noël-Rainéro</Ligne>
+      <CodePostal>06910</CodePostal>
+      <NomCommune>Les Mujouls</NomCommune>
+      <Localisation>
+         <Latitude>43.883556366</Latitude>
+         <Longitude>6.86236381531</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 05 80 62</Téléphone>
+      <Télécopie>+33 4 93 05 80 62</Télécopie>
+      <Email>mairie-de-les-mujouls@alsatis.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

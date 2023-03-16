@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71304-01" codeInsee="71304" dateMiseAJour="2014-07-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montagny-sur-Grosne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71520</CodePostal>
+      <NomCommune>Montagny-sur-Grosne</NomCommune>
+      <Localisation>
+         <Latitude>46.3557662964</Latitude>
+         <Longitude>4.55053091049</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 50 48 58</Téléphone>
+      <Télécopie>+33 3 85 50 48 58</Télécopie>
+      <Email>maire-montagny-grosne@orange.fr</Email>
+      <Url>http://www.montagnysurgrosne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

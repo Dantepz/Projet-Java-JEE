@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43214-01" codeInsee="43214" dateMiseAJour="2014-04-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Pal-de-Senouire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43160</CodePostal>
+      <NomCommune>Saint-Pal-de-Senouire</NomCommune>
+      <Localisation>
+         <Latitude>45.2585487366</Latitude>
+         <Longitude>3.65074491501</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 00 91 93</Téléphone>
+      <Télécopie>+33 4 71 00 11 17</Télécopie>
+      <Email>mairie-stpaldesenouire@wanadoo.fr</Email>
+      <Url>http://www.saint-pal-de-senouire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

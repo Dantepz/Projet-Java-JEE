@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-90053-01" codeInsee="90053" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Grandvillars</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue Kléber</Ligne>
+      <Ligne>BP 22</Ligne>
+      <CodePostal>90600</CodePostal>
+      <NomCommune>Grandvillars</NomCommune>
+      <Localisation>
+         <Latitude>47.5381011963</Latitude>
+         <Longitude>6.96892976761</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 27 80 34</Téléphone>
+      <Télécopie>+33 3 84 23 59 95</Télécopie>
+      <Email>mairie@grandvillars.fr</Email>
+      <Url>http://www.grandvillars.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Horaires pendant les congés d'été scolaires lundi au vendredi de 10h-12h / 16h-18h</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le samedi pendant les vacances scolaires d'été</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

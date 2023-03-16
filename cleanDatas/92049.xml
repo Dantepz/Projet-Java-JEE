@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-92049-01" codeInsee="92049" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montrouge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>4, rue Edmond-Champeaud</Ligne>
+      <CodePostal>92120</CodePostal>
+      <NomCommune>Montrouge</NomCommune>
+      <Localisation>
+         <Latitude>48.8188055</Latitude>
+         <Longitude>2.3209638</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>43, avenue de la République</Ligne>
+      <CodePostal>92120</CodePostal>
+      <NomCommune>Montrouge</NomCommune>
+      <Localisation>
+         <Latitude>48.8187519</Latitude>
+         <Longitude>2.3196572</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 46 12 76 76</Téléphone>
+      <Télécopie>+33 1 46 12 75 01</Télécopie>
+      <Email>webmontrouge@ville-montrouge.fr</Email>
+      <Url>http://www.ville-montrouge.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

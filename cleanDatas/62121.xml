@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62121-01" codeInsee="62121" dateMiseAJour="2013-05-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beugnâtre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue de la Mairie</Ligne>
+      <CodePostal>62450</CodePostal>
+      <NomCommune>Beugnâtre</NomCommune>
+      <Localisation>
+         <Latitude>50.1114006042</Latitude>
+         <Longitude>2.90156006813</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 55 82 93</Téléphone>
+      <Télécopie>+33 3 21 24 91 86</Télécopie>
+      <Email>commune-beugnatre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

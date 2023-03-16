@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62510-01" codeInsee="62510" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Liévin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45 rue Édouard-Vaillant</Ligne>
+      <Ligne>CS 30049</Ligne>
+      <CodePostal>62801</CodePostal>
+      <NomCommune>Liévin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.4216003418</Latitude>
+         <Longitude>2.78478002548</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 44 89 89</Téléphone>
+      <Télécopie>+33 3 21 44 24 93</Télécopie>
+      <Email>contact@lievin.fr</Email>
+      <Url>http://www.lievin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour les décès et les naissances.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

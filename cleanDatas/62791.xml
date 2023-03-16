@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62791-01" codeInsee="62791" dateMiseAJour="2004-10-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Séricourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de la Mairie</Ligne>
+      <CodePostal>62270</CodePostal>
+      <NomCommune>SERICOURT</NomCommune>
+      <Localisation>
+         <Latitude>50.2947998047</Latitude>
+         <Longitude>2.31378006935</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

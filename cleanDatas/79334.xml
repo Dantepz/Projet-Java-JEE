@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79334-01" codeInsee="79334" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Usseau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Pierre-Rousseau</Ligne>
+      <CodePostal>79210</CodePostal>
+      <NomCommune>Usseau</NomCommune>
+      <Localisation>
+         <Latitude>46.1735992432</Latitude>
+         <Longitude>-0.579155027866</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 04 85 16</Téléphone>
+      <Télécopie>+33 5 49 04 98 21</Télécopie>
+      <Email>secretariat@mairie-usseau.fr</Email>
+      <Url>http://www.usseau.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 9h à 12h et de 14h à 17h sauf jeudi après-midi.</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

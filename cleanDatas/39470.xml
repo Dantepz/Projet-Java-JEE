@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39470-01" codeInsee="39470" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie des Rousses</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>281 rue Pasteur</Ligne>
+      <CodePostal>39220</CodePostal>
+      <NomCommune>Les Rousses</NomCommune>
+      <Localisation>
+         <Latitude>46.5180015564</Latitude>
+         <Longitude>6.02297019958</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 60 01 52</Téléphone>
+      <Télécopie>+33 3 84 60 07 55</Télécopie>
+      <Email>contact@mairielesrousses.fr</Email>
+      <Url>http://www.mairielesrousses.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

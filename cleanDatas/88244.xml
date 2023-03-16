@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88244-01" codeInsee="88244" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Houssière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>71, route Grande-Houssière</Ligne>
+      <CodePostal>88430</CodePostal>
+      <NomCommune>La Houssière</NomCommune>
+      <Localisation>
+         <Latitude>48.1879005432</Latitude>
+         <Longitude>6.86612987518</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">secrétariat de mairie à l'étage</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 50 67 90</Téléphone>
+      <Télécopie>+33 3 29 50 68 26</Télécopie>
+      <Email>mairie-lahoussiere@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07323-01" codeInsee="07323" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Toulaud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>85 rue du Moulin-de-l'Aure</Ligne>
+      <CodePostal>07130</CodePostal>
+      <NomCommune>Toulaud</NomCommune>
+      <Localisation>
+         <Latitude>44.896553</Latitude>
+         <Longitude>4.8185225</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 60 49 52</Téléphone>
+      <Télécopie>+33 4 75 40 27 85</Télécopie>
+      <Email>mairie@toulaud.fr</Email>
+      <Url>http://www.toulaud.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-29188-01" codeInsee="29188" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Plougasnou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue François-Charles</Ligne>
+      <Ligne>BP 19</Ligne>
+      <CodePostal>29630</CodePostal>
+      <NomCommune>Plougasnou</NomCommune>
+      <Localisation>
+         <Latitude>48.6952018738</Latitude>
+         <Longitude>-3.79006004333</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 98 67 30 06</Téléphone>
+      <Télécopie>+33 2 98 67 82 79</Télécopie>
+      <Email>mairie-plougasnou@wanadoo.fr</Email>
+      <Url>http://www.mairie-plougasnou.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

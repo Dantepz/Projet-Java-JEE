@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80165-01" codeInsee="80165" dateMiseAJour="2007-12-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Camps en Amiénois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de Molliens</Ligne>
+      <CodePostal>80540</CodePostal>
+      <NomCommune>CAMPS EN AMIENOIS</NomCommune>
+      <Localisation>
+         <Latitude>49.8805999756</Latitude>
+         <Longitude>1.97169005871</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 90 21 54</Téléphone>
+      <Télécopie>+33 3 22 90 21 54</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

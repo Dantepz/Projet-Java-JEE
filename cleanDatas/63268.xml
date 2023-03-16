@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63268-01" codeInsee="63268" dateMiseAJour="2004-09-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pardines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63500</CodePostal>
+      <NomCommune>PARDINES</NomCommune>
+      <Localisation>
+         <Latitude>45.5628166199</Latitude>
+         <Longitude>3.17302107811</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 15 17</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61315-01" codeInsee="61315" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Omméel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenelle</Ligne>
+      <CodePostal>61160</CodePostal>
+      <NomCommune>Omméel</NomCommune>
+      <Localisation>
+         <Latitude>48.805393</Latitude>
+         <Longitude>0.145985</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 36 83 45</Téléphone>
+      <Télécopie>+33 2 33 36 83 45</Télécopie>
+      <Email>mairiedeommeel@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <Note>Accueil téléphonique le vendredi de 9h30 à 16h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

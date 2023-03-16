@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60054-01" codeInsee="60054" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaumont-les-Nonains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>60390</CodePostal>
+      <NomCommune>Beaumont-les-Nonains</NomCommune>
+      <Localisation>
+         <Latitude>49.2891998291</Latitude>
+         <Longitude>1.96322000027</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">il y a une porte à pousser mais l'usager peut demander à un agent de l'aider s'il n'y arrive pas</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 47 73 09</Téléphone>
+      <Télécopie>+33 3 44 47 71 58</Télécopie>
+      <Email>communebeaumontlesnonains@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

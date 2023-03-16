@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A117-01" codeInsee="2A117" dateMiseAJour="2004-08-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Forciolo</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Valdo</Ligne>
+      <CodePostal>20190</CodePostal>
+      <NomCommune>FORCIOLO</NomCommune>
+      <Localisation>
+         <Latitude>41.8536643982</Latitude>
+         <Longitude>9.01018619537</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 53 61 15</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

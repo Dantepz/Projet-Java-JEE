@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26310-01" codeInsee="26310" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-d'Onay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>26350</CodePostal>
+      <NomCommune>Saint-Laurent-d'Onay</NomCommune>
+      <Localisation>
+         <Latitude>45.182429</Latitude>
+         <Longitude>5.101081</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 71 72 18</Téléphone>
+      <Télécopie>+33 4 75 71 72 18</Télécopie>
+      <Email>st.laurent.onay@cc-pi-romans.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

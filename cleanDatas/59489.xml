@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59489-01" codeInsee="59489" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Raimbeaucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>59283</CodePostal>
+      <NomCommune>Raimbeaucourt</NomCommune>
+      <Localisation>
+         <Latitude>50.440028</Latitude>
+         <Longitude>3.100906</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 20946</Ligne>
+      <Ligne>Mairie de Raimbeaucourt</Ligne>
+      <CodePostal>59509</CodePostal>
+      <NomCommune>Douai Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 80 18 18</Téléphone>
+      <Télécopie>+33 3 27 80 30 42</Télécopie>
+      <Email>contact@mairie-raimbeaucourt.fr</Email>
+      <Url>http://www.raimbeaucourt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

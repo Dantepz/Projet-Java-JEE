@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50554-01" codeInsee="50554" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Senier-sous-Avranches</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>59 rue de l'Église</Ligne>
+      <CodePostal>50300</CodePostal>
+      <NomCommune>Saint-Senier-sous-Avranches</NomCommune>
+      <Localisation>
+         <Latitude>48.6851005554</Latitude>
+         <Longitude>-1.34242999554</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 58 73 42</Téléphone>
+      <Télécopie>+33 2 33 58 73 43</Télécopie>
+      <Email>mairie-st-senier@wanadoo.fr</Email>
+      <Url>http://www.saintsenier.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

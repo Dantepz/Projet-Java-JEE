@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84097-01" codeInsee="84097" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Richerenches</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue de la Rabasse</Ligne>
+      <CodePostal>84600</CodePostal>
+      <NomCommune>Richerenches</NomCommune>
+      <Localisation>
+         <Latitude>44.3596000671</Latitude>
+         <Longitude>4.91188001633</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 28 02 00</Téléphone>
+      <Télécopie>+33 4 90 28 02 41</Télécopie>
+      <Email>mairie.richerenches@orange.fr</Email>
+      <Url>http://www.richerenches-info-mairie.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

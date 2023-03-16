@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66191-01" codeInsee="66191" dateMiseAJour="2006-09-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sansa</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>66360</CodePostal>
+      <NomCommune>SANSA</NomCommune>
+      <Localisation>
+         <Latitude>42.6016235352</Latitude>
+         <Longitude>2.17311310768</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 97 02 68</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

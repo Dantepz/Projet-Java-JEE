@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60570-01" codeInsee="60570" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Commune nouvelle de Saint-Crépin-Ibouvillers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>53 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>60149</CodePostal>
+      <NomCommune>Saint-Crépin-Ibouvillers</NomCommune>
+      <Localisation>
+         <Latitude>49.2594741</Latitude>
+         <Longitude>2.0728728</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 08 70 09</Téléphone>
+      <Télécopie>+33 3 44 08 91 37</Télécopie>
+      <Email>mairie.stcrepin.ibouvillers@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="07:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14320-01" codeInsee="14320" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Grimbosq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin du Buisson-Noé</Ligne>
+      <CodePostal>14220</CodePostal>
+      <NomCommune>Grimbosq</NomCommune>
+      <Localisation>
+         <Latitude>49.0437278748</Latitude>
+         <Longitude>-0.449487000704</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 79 33 08</Téléphone>
+      <Télécopie>+33 2 31 39 62 28</Télécopie>
+      <Email>mairie.grimbosq@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

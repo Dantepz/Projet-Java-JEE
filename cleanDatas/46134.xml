@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46134-01" codeInsee="46134" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie des Junies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, place Johanis</Ligne>
+      <CodePostal>46150</CodePostal>
+      <NomCommune>Les Junies</NomCommune>
+      <Localisation>
+         <Latitude>44.5383</Latitude>
+         <Longitude>1.23516</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 36 22 21</Téléphone>
+      <Télécopie>+33 5 65 21 48 41</Télécopie>
+      <Email>mairie.les.junies@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

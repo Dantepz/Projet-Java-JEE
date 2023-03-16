@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37184-01" codeInsee="37184" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Petit-Pressigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du 19-Mars-1962</Ligne>
+      <CodePostal>37350</CodePostal>
+      <NomCommune>Le Petit-Pressigny</NomCommune>
+      <Localisation>
+         <Latitude>46.922559</Latitude>
+         <Longitude>0.91913599999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 94 93 59</Téléphone>
+      <Télécopie>+33 2 47 91 05 94</Télécopie>
+      <Email>mairie.le.petit.pressigny@wanadoo.fr</Email>
+      <Url>http://lepetitpressigny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

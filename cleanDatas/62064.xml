@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62064-01" codeInsee="62064" dateMiseAJour="2004-10-07"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avesnes-lès-Bapaume</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21, rue Mairie</Ligne>
+      <CodePostal>62450</CodePostal>
+      <NomCommune>Avesnes-lès-Bapaume</NomCommune>
+      <Localisation>
+         <Latitude>50.5453987122</Latitude>
+         <Longitude>1.99190998077</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 24 85 23</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

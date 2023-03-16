@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26232-01" codeInsee="26232" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Peyrus</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 Grande rue</Ligne>
+      <CodePostal>26120</CodePostal>
+      <NomCommune>Peyrus</NomCommune>
+      <Localisation>
+         <Latitude>44.9132575989</Latitude>
+         <Longitude>5.10557079315</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 59 81 82</Téléphone>
+      <Télécopie>+33 4 75 59 84 22</Télécopie>
+      <Email>mairie.peyrus@wanadoo.fr</Email>
+      <Url>http://www.peyrus.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

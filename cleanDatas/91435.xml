@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-91435-01" codeInsee="91435" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Morsang-sur-Seine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 Grande rue</Ligne>
+      <CodePostal>91250</CodePostal>
+      <NomCommune>Morsang-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>48.570649</Latitude>
+         <Longitude>2.493202</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 75 20 18</Téléphone>
+      <Télécopie>+33 1 60 75 48 96</Télécopie>
+      <Email>secretariat.mairie@mairie-morsangsurseine.fr</Email>
+      <Url>http://www.mairie-morsangsurseine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

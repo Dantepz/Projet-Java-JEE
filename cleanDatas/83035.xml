@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83035-01" codeInsee="83035" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Castellet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Champ-de-Bataille</Ligne>
+      <CodePostal>83330</CodePostal>
+      <NomCommune>Le Castellet</NomCommune>
+      <Localisation>
+         <Latitude>43.2033996582</Latitude>
+         <Longitude>5.77639007568</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">l'usager doit sonner pour qu'un agent descende lui ouvrir</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 98 57 90</Téléphone>
+      <Télécopie>+33 4 94 98 57 98</Télécopie>
+      <Email>dgs@ville-lecastellet.fr</Email>
+      <Url>http://www.ville-lecastellet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

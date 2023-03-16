@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63066-01" codeInsee="63066" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Celles-sur-Durolle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63250</CodePostal>
+      <NomCommune>Celles-sur-Durolle</NomCommune>
+      <Localisation>
+         <Latitude>45.8694992065</Latitude>
+         <Longitude>3.60491991043</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 51 50 16</Téléphone>
+      <Télécopie>+33 4 73 51 56 40</Télécopie>
+      <Email>celles@wanadoo.fr</Email>
+      <Url>http://www.cellessurdurolle.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

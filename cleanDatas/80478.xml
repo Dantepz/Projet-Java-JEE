@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80478-01" codeInsee="80478" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lignières-les-Roye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue Guerbigny</Ligne>
+      <CodePostal>80500</CodePostal>
+      <NomCommune>LIGNIERES LES ROYE</NomCommune>
+      <Localisation>
+         <Latitude>49.679599762</Latitude>
+         <Longitude>2.65144991875</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 78 48 15</Téléphone>
+      <Télécopie>+33 3 22 78 48 15</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

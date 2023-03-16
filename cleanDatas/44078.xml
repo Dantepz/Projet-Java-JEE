@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44078-01" codeInsee="44078" dateMiseAJour="2015-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Juigné-des-Moutiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue de la Mairie</Ligne>
+      <CodePostal>44670</CodePostal>
+      <NomCommune>Juigné-des-Moutiers</NomCommune>
+      <Localisation>
+         <Latitude>47.6425018311</Latitude>
+         <Longitude>-1.24125003815</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 55 51 06</Téléphone>
+      <Télécopie>+33 2 40 55 51 06</Télécopie>
+      <Email>mairie.juignelesmoutiers@wanadoo.fr</Email>
+      <Url>http://www.juignedesmoutiers.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

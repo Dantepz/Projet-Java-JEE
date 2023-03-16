@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27220-01" codeInsee="27220" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Epieds</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place Henry 4</Ligne>
+      <CodePostal>27730</CodePostal>
+      <NomCommune>EPIEDS</NomCommune>
+      <Localisation>
+         <Latitude>48.935459137</Latitude>
+         <Longitude>1.39662003517</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 26 32 84</Téléphone>
+      <Télécopie>+33 2 32 26 32 84</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

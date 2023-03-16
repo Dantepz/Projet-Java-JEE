@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26108-01" codeInsee="26108" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crest</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Docteur-Maurice-Rozier</Ligne>
+      <CodePostal>26400</CodePostal>
+      <NomCommune>Crest</NomCommune>
+      <Localisation>
+         <Latitude>44.728775</Latitude>
+         <Longitude>5.023815</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 76 61 10</Téléphone>
+      <Télécopie>+33 4 75 25 00 63</Télécopie>
+      <Email>admin@mairie-crest.fr</Email>
+      <Url>http://www.mairie-crest.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+         <Note>Permanence de M. le maire lundi après-midi uniquement sur rendez-vous.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14110-01" codeInsee="14110" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1627 route de Dozulé</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>14160</CodePostal>
+      <NomCommune>Brucourt</NomCommune>
+      <Localisation>
+         <Latitude>49.2486204</Latitude>
+         <Longitude>-0.1029305</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 24 67 75</Téléphone>
+      <Télécopie>+33 9 71 70 37 21</Télécopie>
+      <Email>mairie.brucourt@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

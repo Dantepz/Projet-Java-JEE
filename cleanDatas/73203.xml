@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73203-01" codeInsee="73203" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pontamafrey-Montpascal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>470, rue du Pont-Levant</Ligne>
+      <CodePostal>73300</CodePostal>
+      <NomCommune>Pontamafrey-Montpascal</NomCommune>
+      <Localisation>
+         <Latitude>45.3539009094</Latitude>
+         <Longitude>6.30728006363</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 83 40 03</Téléphone>
+      <Télécopie>+33 4 79 83 41 82</Télécopie>
+      <Email>mairie.pontamafrey@wanadoo.fr</Email>
+      <Url>http://www.pontamafrey-montpascal.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

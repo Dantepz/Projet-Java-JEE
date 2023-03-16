@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62514-01" codeInsee="62514" dateMiseAJour="2004-10-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ligny Saint Flochel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Rietz</Ligne>
+      <CodePostal>62127</CodePostal>
+      <NomCommune>LIGNY ST FLOCHEL</NomCommune>
+      <Localisation>
+         <Latitude>50.358215332</Latitude>
+         <Longitude>2.42649197578</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 47 37 13</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

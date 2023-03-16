@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53207-01" codeInsee="53207" dateMiseAJour="2016-01-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Christophe-du-Luat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, rue de la Mairie</Ligne>
+      <CodePostal>53150</CodePostal>
+      <NomCommune>Saint-Christophe-du-Luat</NomCommune>
+      <Localisation>
+         <Latitude>48.1334609985</Latitude>
+         <Longitude>-0.460265994072</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 60 51 82 21</Téléphone>
+      <Télécopie>+33 9 71 70 23 63</Télécopie>
+      <Email>mairie.saintchristopheduluat@wanadoo.fr</Email>
+      <Url>http://www.saintchristopheduluat.Mairie53.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:15:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01426-01" codeInsee="01426" dateMiseAJour="2016-03-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Val-Revermont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place Marie-Collet</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>01370</CodePostal>
+      <NomCommune>Treffort-Cuisiat</NomCommune>
+      <Localisation>
+         <Latitude>46.2904014587</Latitude>
+         <Longitude>5.29700994492</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 42 38 00</Téléphone>
+      <Télécopie>+33 4 74 42 38 01</Télécopie>
+      <Email>mairie@treffort-cuisiat.fr</Email>
+      <Url>http://www.treffort-cuisiat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Val-Revermont  remplace les communes Pressiat et de Treffort-Cuisiat</Commentaire>
+</Organisme>

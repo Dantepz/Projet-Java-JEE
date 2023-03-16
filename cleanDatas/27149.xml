@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27149-01" codeInsee="27149" dateMiseAJour="2007-12-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle Hareng</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>27230</CodePostal>
+      <NomCommune>LA CHAPELLE HARENG</NomCommune>
+      <Localisation>
+         <Latitude>49.1143379211</Latitude>
+         <Longitude>0.4138700068</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 46 83 44</Téléphone>
+      <Email>mairie.lachapellehareng@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

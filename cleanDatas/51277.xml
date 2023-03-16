@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51277-01" codeInsee="51277" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Marie-du-Lac-Nuisement</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue de Nuisement</Ligne>
+      <CodePostal>51290</CodePostal>
+      <NomCommune>Sainte-Marie-du-Lac-Nuisement</NomCommune>
+      <Localisation>
+         <Latitude>48.6063995361</Latitude>
+         <Longitude>4.77384996414</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 72 37 34</Téléphone>
+      <Télécopie>+33 3 26 72 37 34</Télécopie>
+      <Email>mairiestemariedulac@wanadoo.fr</Email>
+      <Url>http://www.saintemariedulac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

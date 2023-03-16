@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02533-01" codeInsee="02533" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Muret-et-Crouttes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Château</Ligne>
+      <CodePostal>02210</CodePostal>
+      <NomCommune>Muret-et-Crouttes</NomCommune>
+      <Localisation>
+         <Latitude>49.2834854126</Latitude>
+         <Longitude>3.41490411758</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 91 76</Téléphone>
+      <Télécopie>+33 3 23 55 91 76</Télécopie>
+      <Email>mairie-muret-et-crouttes@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

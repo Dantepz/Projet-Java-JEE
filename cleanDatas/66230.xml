@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66230-01" codeInsee="66230" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vinça</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>66320</CodePostal>
+      <NomCommune>Vinça</NomCommune>
+      <Localisation>
+         <Latitude>42.6447982788</Latitude>
+         <Longitude>2.52406001091</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 05 82 13</Téléphone>
+      <Télécopie>+33 4 68 05 94 69</Télécopie>
+      <Email>mairie@ville-vinca.fr</Email>
+      <Url>http://www.ville-vinca.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

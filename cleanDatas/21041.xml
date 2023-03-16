@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21041-01" codeInsee="21041" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue de Travot</Ligne>
+      <CodePostal>21580</CodePostal>
+      <NomCommune>Avot</NomCommune>
+      <Localisation>
+         <Latitude>47.6184005737</Latitude>
+         <Longitude>5.01294994354</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 75 62 98</Téléphone>
+      <Email>mairie.avot@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="14:30:00"/>
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Uniquement les samedis des semaines paires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56197-01" codeInsee="56197" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Val-d'Oust</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Nationale</Ligne>
+      <CodePostal>56460</CodePostal>
+      <NomCommune>Val-d'Oust</NomCommune>
+      <Localisation>
+         <Latitude>47.8648986816</Latitude>
+         <Longitude>-2.44748997688</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 74 93 53</Téléphone>
+      <Télécopie>+33 2 97 74 70 73</Télécopie>
+      <Email>mairie.roc@wanadoo.fr</Email>
+      <Url>http://www.ville-roc-saint-andre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

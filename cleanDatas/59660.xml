@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59660-01" codeInsee="59660" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Willems</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Victor-Provo</Ligne>
+      <Ligne>Maison communale</Ligne>
+      <CodePostal>59780</CodePostal>
+      <NomCommune>Willems</NomCommune>
+      <Localisation>
+         <Latitude>50.63073349</Latitude>
+         <Longitude>3.23711800575</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 37 00 60</Téléphone>
+      <Télécopie>+33 3 28 37 00 69</Télécopie>
+      <Email>secretariat.mairie@willems.fr</Email>
+      <Url>http://www.willems.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

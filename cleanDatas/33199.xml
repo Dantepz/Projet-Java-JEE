@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33199-01" codeInsee="33199" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gujan-Mestras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du Général-de-Gaulle</Ligne>
+      <CodePostal>33470</CodePostal>
+      <NomCommune>Gujan-Mestras</NomCommune>
+      <Localisation>
+         <Latitude>44.6361999512</Latitude>
+         <Longitude>-1.07112002373</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 52 57 52</Téléphone>
+      <Télécopie>+33 5 57 52 57 53</Télécopie>
+      <Email>bal.mairie@ville-gujanmestras.fr</Email>
+      <Url>http://www.ville-gujanmestras.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Le service urbanisme fermé l'après-midi.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et le service urbanisme.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

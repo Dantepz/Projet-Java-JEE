@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53211-01" codeInsee="53211" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Denis-de-Gastines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Bretagne</Ligne>
+      <CodePostal>53500</CodePostal>
+      <NomCommune>Saint-Denis-de-Gastines</NomCommune>
+      <Localisation>
+         <Latitude>48.3422012329</Latitude>
+         <Longitude>-0.859247028828</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 00 52 14</Téléphone>
+      <Télécopie>+33 2 43 00 58 48</Télécopie>
+      <Email>mairie.saintdenisdegastines@wanadoo.fr</Email>
+      <Url>http://www.st-denis-de-gastines.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14261-01" codeInsee="14261" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Faulq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>52 route de l'Usine</Ligne>
+      <Ligne>Ancien Presbytère</Ligne>
+      <CodePostal>14130</CodePostal>
+      <NomCommune>Le Faulq</NomCommune>
+      <Localisation>
+         <Latitude>49.2281723022</Latitude>
+         <Longitude>0.320156008005</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 64 68 40</Téléphone>
+      <Télécopie>+33 2 31 64 77 60</Télécopie>
+      <Email>mairie-le-faulq@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

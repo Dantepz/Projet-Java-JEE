@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31046-01" codeInsee="31046" dateMiseAJour="2004-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Baren</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>31440</CodePostal>
+      <NomCommune>BAREN</NomCommune>
+      <Localisation>
+         <Latitude>42.8688240051</Latitude>
+         <Longitude>0.618752002716</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 79 71 03</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

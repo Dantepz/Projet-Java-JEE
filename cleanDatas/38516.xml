@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38516-01" codeInsee="38516" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Tronche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>74 Grande rue</Ligne>
+      <CodePostal>38700</CodePostal>
+      <NomCommune>La Tronche</NomCommune>
+      <Localisation>
+         <Latitude>45.2051200867</Latitude>
+         <Longitude>5.73841190338</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">entrée adaptée par le service état civil sur le côté</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 63 77 00</Téléphone>
+      <Télécopie>+33 4 76 51 32 68</Télécopie>
+      <Email>contact@ville-latronche.fr</Email>
+      <Url>http://www.ville-latronche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

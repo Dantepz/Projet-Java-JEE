@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45251-01" codeInsee="45251" dateMiseAJour="2015-10-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pierrefitte-ès-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place du Monument</Ligne>
+      <CodePostal>45360</CodePostal>
+      <NomCommune>Pierrefitte-ès-Bois</NomCommune>
+      <Localisation>
+         <Latitude>47.5071966</Latitude>
+         <Longitude>2.7162544</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 31 47 09</Téléphone>
+      <Télécopie>+33 2 38 31 05 02</Télécopie>
+      <Email>mairie.pierrefitteesbois@orange.fr</Email>
+      <Url>http://www.pierrefitte-es-bois.fr.</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

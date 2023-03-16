@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55410-01" codeInsee="55410" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quincy-Landzécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 Grande rue</Ligne>
+      <CodePostal>55600</CodePostal>
+      <NomCommune>Quincy-Landzécourt</NomCommune>
+      <Localisation>
+         <Latitude>49.5261001587</Latitude>
+         <Longitude>5.35119009018</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 80 13 16</Téléphone>
+      <Télécopie>+33 3 29 80 13 16</Télécopie>
+      <Email>mairie.de.quincy.landzecourt@luxinet.fr</Email>
+      <Url>http://www.quincyland.canalblog.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

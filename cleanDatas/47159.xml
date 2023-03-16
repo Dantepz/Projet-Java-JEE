@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47159-01" codeInsee="47159" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie du Mas-d'Agenais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place d'Alsace</Ligne>
+      <CodePostal>47430</CodePostal>
+      <NomCommune>Le Mas-d'Agenais</NomCommune>
+      <Localisation>
+         <Latitude>44.4095878601</Latitude>
+         <Longitude>0.218941003084</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 89 50 37</Téléphone>
+      <Télécopie>+33 5 53 89 50 81</Télécopie>
+      <Email>communedumasdagenais.47@wanadoo.fr</Email>
+      <Url>http://www.lemasdagenais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

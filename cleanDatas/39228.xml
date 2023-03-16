@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39228-01" codeInsee="39228" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Foncine-le-Haut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58 Grande rue</Ligne>
+      <CodePostal>39460</CodePostal>
+      <NomCommune>Foncine-le-Haut</NomCommune>
+      <Localisation>
+         <Latitude>46.6595535278</Latitude>
+         <Longitude>6.07337379456</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 51 90 77</Téléphone>
+      <Télécopie>+33 3 84 51 94 52</Télécopie>
+      <Email>mairie.foncinelehaut@wanadoo.fr</Email>
+      <Url>http://www.jura-foncine.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

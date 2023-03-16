@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01122-01" codeInsee="01122" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cormaranche-en-Bugey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>01110</CodePostal>
+      <NomCommune>Cormaranche-en-Bugey</NomCommune>
+      <Localisation>
+         <Latitude>45.9541015625</Latitude>
+         <Longitude>5.61253023148</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 35 33 19</Téléphone>
+      <Télécopie>+33 4 74 35 15 82</Télécopie>
+      <Email>cormarancheenbugey@wanadoo.fr</Email>
+      <Url>http://www.cormaranche-en-bugey.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

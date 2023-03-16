@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34154-01" codeInsee="34154" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mauguio</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Libération</Ligne>
+      <Ligne>BP 20</Ligne>
+      <CodePostal>34132</CodePostal>
+      <NomCommune>Mauguio Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6165243</Latitude>
+         <Longitude>4.0095535</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 29 05 00</Téléphone>
+      <Télécopie>+33 4 67 29 24 97</Télécopie>
+      <Email>mairie@mauguio-carnon.com</Email>
+      <Url>http://www.mauguio-carnon.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Les différents services sont ouverts du lundi au vendredi de 8h à 12h et de 13h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

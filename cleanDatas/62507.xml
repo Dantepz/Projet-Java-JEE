@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62507-01" codeInsee="62507" dateMiseAJour="2016-01-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Liencourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue 8 mai-1945</Ligne>
+      <CodePostal>62810</CodePostal>
+      <NomCommune>Liencourt</NomCommune>
+      <Localisation>
+         <Latitude>50.269793</Latitude>
+         <Longitude>2.455081</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 48 16 70</Téléphone>
+      <Email>mairie.liencourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

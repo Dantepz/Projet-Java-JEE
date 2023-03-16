@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59629-01" codeInsee="59629" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vred</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>153 place Charles-de-Gaulle</Ligne>
+      <CodePostal>59870</CodePostal>
+      <NomCommune>Vred</NomCommune>
+      <Localisation>
+         <Latitude>50.393972</Latitude>
+         <Longitude>3.230963</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 90 51 33</Téléphone>
+      <Télécopie>+33 3 27 91 23 26</Télécopie>
+      <Email>hotel-de-ville-vred@orange.fr</Email>
+      <Url>http://www.mairie-vred.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

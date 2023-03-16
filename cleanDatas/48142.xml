@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48142-01" codeInsee="48142" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Colombe-de-Peyre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48130</CodePostal>
+      <NomCommune>Sainte-Colombe-de-Peyre</NomCommune>
+      <Localisation>
+         <Latitude>44.6905593872</Latitude>
+         <Longitude>3.23961210251</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 42 83 08</Téléphone>
+      <Télécopie>+33 4 66 42 87 72</Télécopie>
+      <Email>mairie.stecolombepeyre@orange.fr</Email>
+      <Url>http://www.stecolombedepeyre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

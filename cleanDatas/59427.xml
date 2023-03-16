@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59427-01" codeInsee="59427" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Neuville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>50 rue du Général-de-Gaulle</Ligne>
+      <CodePostal>59239</CodePostal>
+      <NomCommune>La Neuville</NomCommune>
+      <Localisation>
+         <Latitude>50.4939994812</Latitude>
+         <Longitude>3.04733991623</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 86 97 67</Téléphone>
+      <Télécopie>+33 3 20 86 97 67</Télécopie>
+      <Email>laneuville.mairie@orange.fr</Email>
+      <Url>http://www.mairiedelaneuville.eklablog.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38225-01" codeInsee="38225" dateMiseAJour="2016-02-18"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Autrans-Méaudre en Vercors</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>38112</CodePostal>
+      <NomCommune>Méaudre</NomCommune>
+      <Localisation>
+         <Latitude>45.126750946</Latitude>
+         <Longitude>5.52756118774</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 95 20 16</Téléphone>
+      <Télécopie>+33 4 76 95 26 25</Télécopie>
+      <Email>mairiemeaudre@wanadoo.fr</Email>
+      <Url>http://www.meaudre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil dans les locaux de l'agence postale.</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle d'Autrans-Méaudre en Vercors  remplace les communes d'Autrans et de Méaudre</Commentaire>
+</Organisme>

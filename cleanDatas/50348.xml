@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50348-01" codeInsee="50348" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montmartin-en-Graignes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 route de l'Abbé-Bihel</Ligne>
+      <CodePostal>50620</CodePostal>
+      <NomCommune>Montmartin-en-Graignes</NomCommune>
+      <Localisation>
+         <Latitude>49.2752696</Latitude>
+         <Longitude>-1.1461632</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 56 81 76</Téléphone>
+      <Télécopie>+33 2 33 56 81 76</Télécopie>
+      <Email>mairie.montmartinengraignes@wanadoo.fr</Email>
+      <Url>http://www.montmartin-en-graignes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

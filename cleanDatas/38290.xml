@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38290-01" codeInsee="38290" dateMiseAJour="2015-11-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pact</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>274 Grande rue</Ligne>
+      <CodePostal>38270</CodePostal>
+      <NomCommune>Pact</NomCommune>
+      <Localisation>
+         <Latitude>45.3528022766</Latitude>
+         <Longitude>4.98971796036</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 84 87 60</Téléphone>
+      <Télécopie>+33 4 74 84 82 01</Télécopie>
+      <Email>mairie.pact@territoire-de-beaurepaire.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48180-01" codeInsee="48180" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Rome-de-Dolan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>48500</CodePostal>
+      <NomCommune>Saint-Rome-de-Dolan</NomCommune>
+      <Localisation>
+         <Latitude>44.27368927</Latitude>
+         <Longitude>3.21562695503</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 48 83 59</Téléphone>
+      <Télécopie>+33 4 66 48 87 46</Télécopie>
+      <Email>mairie.stromededolan@wanadoo.fr</Email>
+      <Url>http://www.saint-rome-de-dolan.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

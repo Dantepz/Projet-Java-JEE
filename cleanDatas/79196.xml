@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79196-01" codeInsee="79196" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Oiron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place René-Cassin</Ligne>
+      <CodePostal>79100</CodePostal>
+      <NomCommune>Oiron</NomCommune>
+      <Localisation>
+         <Latitude>46.9509010315</Latitude>
+         <Longitude>-0.0803930014372</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 96 51 26</Téléphone>
+      <Télécopie>+33 5 49 96 55 05</Télécopie>
+      <Email>mairie.oiron@wanadoo.fr</Email>
+      <Url>http://www.oiron.eu</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

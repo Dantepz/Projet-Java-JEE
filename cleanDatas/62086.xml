@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62086-01" codeInsee="62086" dateMiseAJour="2011-10-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bavincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>62158</CodePostal>
+      <NomCommune>BAVINCOURT</NomCommune>
+      <Localisation>
+         <Latitude>50.2265815735</Latitude>
+         <Longitude>2.56934189796</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 48 27 13</Téléphone>
+      <Télécopie>+33 3 21 48 27 13</Télécopie>
+      <Email>mairiebavincourt@wanadoo.fr</Email>
+      <Url>http://bavincourtlarbret.pagesperso-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

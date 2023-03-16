@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57457-01" codeInsee="57457" dateMiseAJour="2004-09-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Menskirch</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du lavoir</Ligne>
+      <CodePostal>57320</CodePostal>
+      <NomCommune>MENSKIRCH</NomCommune>
+      <Localisation>
+         <Latitude>49.3186264038</Latitude>
+         <Longitude>6.4255900383</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 64 97 17</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

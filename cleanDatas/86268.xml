@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86268-01" codeInsee="86268" dateMiseAJour="2015-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tercé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 route de Chauvigny</Ligne>
+      <CodePostal>86800</CodePostal>
+      <NomCommune>Tercé</NomCommune>
+      <Localisation>
+         <Latitude>46.5180008</Latitude>
+         <Longitude>0.5649192</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 56 84 13</Téléphone>
+      <Télécopie>+33 5 49 45 22 33</Télécopie>
+      <Email>terce@cg86.fr</Email>
+      <Url>http://terce.vienne-mouliere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les samedis pairs.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

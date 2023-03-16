@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81024-01" codeInsee="81024" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauvais-sur-Tescou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>211 rue de la Mairie</Ligne>
+      <CodePostal>81630</CodePostal>
+      <NomCommune>Beauvais-sur-Tescou</NomCommune>
+      <Localisation>
+         <Latitude>43.9131713</Latitude>
+         <Longitude>1.5686488</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 40 58 74</Téléphone>
+      <Télécopie>+33 5 63 33 53 96</Télécopie>
+      <Email>mairie.beauvais.tescou@wanadoo.fr</Email>
+      <Url>http://www.mairie-beauvaissurtescou.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

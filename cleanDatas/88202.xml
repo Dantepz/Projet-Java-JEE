@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88202-01" codeInsee="88202" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gircourt-lès-Viéville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>143, rue de la Mairie</Ligne>
+      <CodePostal>88500</CodePostal>
+      <NomCommune>Gircourt-lès-Viéville</NomCommune>
+      <Localisation>
+         <Latitude>48.3417015076</Latitude>
+         <Longitude>6.19331979752</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 38 88 42</Téléphone>
+      <Télécopie>+33 3 29 38 88 42</Télécopie>
+      <Email>mairie-gircourt@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

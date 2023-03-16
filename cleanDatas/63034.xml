@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63034-01" codeInsee="63034" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauregard-l’Évêque</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>64 Grande rue</Ligne>
+      <CodePostal>63116</CodePostal>
+      <NomCommune>Beauregard-l'Évêque</NomCommune>
+      <Localisation>
+         <Latitude>45.8112363</Latitude>
+         <Longitude>3.2996195</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 68 16 03</Téléphone>
+      <Télécopie>+33 4 73 68 07 10</Télécopie>
+      <Email>mairie.beauregard.leveque@wanadoo.fr</Email>
+      <Url>http://www.beauregardleveque.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15084-01" codeInsee="15084" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Labesserette</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>15120</CodePostal>
+      <NomCommune>Labesserette</NomCommune>
+      <Localisation>
+         <Latitude>44.74269104</Latitude>
+         <Longitude>2.46008992195</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 49 22 07</Téléphone>
+      <Télécopie>+33 4 71 49 22 07</Télécopie>
+      <Email>mairie.labesserette@wanadoo.fr</Email>
+      <Url>http://www.labesserette.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

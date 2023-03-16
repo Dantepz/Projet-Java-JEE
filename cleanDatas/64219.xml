@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-64219-01" codeInsee="64219" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Estialescq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>70 route de Saget</Ligne>
+      <CodePostal>64290</CodePostal>
+      <NomCommune>Estialescq</NomCommune>
+      <Localisation>
+         <Latitude>43.2197647095</Latitude>
+         <Longitude>-0.554010987282</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 59 39 69 52</Téléphone>
+      <Télécopie>+33 5 59 36 19 43</Télécopie>
+      <Email>estialescq@wanadoo.fr</Email>
+      <Url>http://www.estialescq.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

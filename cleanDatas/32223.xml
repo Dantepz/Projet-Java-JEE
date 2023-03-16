@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32223-01" codeInsee="32223" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Magnas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Lau</Ligne>
+      <CodePostal>32380</CodePostal>
+      <NomCommune>Magnas</NomCommune>
+      <Localisation>
+         <Latitude>43.8928108215</Latitude>
+         <Longitude>0.728911995888</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 06 63 63</Téléphone>
+      <Télécopie>+33 5 62 06 63 63</Télécopie>
+      <Email>mairie.magnas@alsatis.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

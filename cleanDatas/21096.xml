@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21096-01" codeInsee="21096" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boussenois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>38 Grande rue</Ligne>
+      <CodePostal>21260</CodePostal>
+      <NomCommune>Boussenois</NomCommune>
+      <Localisation>
+         <Latitude>47.6291313171</Latitude>
+         <Longitude>5.20971918106</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 75 50 45</Téléphone>
+      <Télécopie>+33 3 80 75 50 45</Télécopie>
+      <Email>mairie.boussenois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

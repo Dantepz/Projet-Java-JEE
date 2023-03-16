@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07342-01" codeInsee="07342" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villevocance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>07690</CodePostal>
+      <NomCommune>Villevocance</NomCommune>
+      <Localisation>
+         <Latitude>45.2252998352</Latitude>
+         <Longitude>4.58945989609</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 34 60 05</Téléphone>
+      <Télécopie>+33 4 75 34 75 58</Télécopie>
+      <Email>mairie.villevocance@inforoutes-ardeche.fr</Email>
+      <Url>http://www.cc-bassin-annonay.fr/Villevocance.html</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

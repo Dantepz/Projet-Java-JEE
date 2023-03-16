@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59533-01" codeInsee="59533" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hilaire-lez-Cambrai</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place Jean-Jaurès</Ligne>
+      <CodePostal>59292</CodePostal>
+      <NomCommune>Saint-Hilaire-lez-Cambrai</NomCommune>
+      <Localisation>
+         <Latitude>50.1821769</Latitude>
+         <Longitude>3.4138522</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 37 14 12</Téléphone>
+      <Télécopie>+33 3 27 37 19 58</Télécopie>
+      <Email>mairie.sainthilairelezcambrai@wanadoo.fr</Email>
+      <Url>http://www.saint-hilaire-lez-cambrai.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50255-01" codeInsee="50255" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quettreville-sur-Sienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de la Girardière</Ligne>
+      <Ligne>Hyenville</Ligne>
+      <CodePostal>50660</CodePostal>
+      <NomCommune>Quettreville-sur-Sienne</NomCommune>
+      <Localisation>
+         <Latitude>48.9943524</Latitude>
+         <Longitude>-1.4682214</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 46 79 43</Téléphone>
+      <Email>mairie-hyenville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:15:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

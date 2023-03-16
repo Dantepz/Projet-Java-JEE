@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25418-01" codeInsee="25418" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nancray</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>25360</CodePostal>
+      <NomCommune>Nancray</NomCommune>
+      <Localisation>
+         <Latitude>47.2486343384</Latitude>
+         <Longitude>6.23736619949</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 55 21 66</Téléphone>
+      <Télécopie>+33 3 81 60 10 56</Télécopie>
+      <Email>contact@mairie-nancray25.fr</Email>
+      <Url>http://www.nancray.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire et ses adjoints</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

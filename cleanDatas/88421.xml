@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88421-01" codeInsee="88421" dateMiseAJour="2004-08-25"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint Julien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>105 grande rue</Ligne>
+      <CodePostal>88410</CodePostal>
+      <NomCommune>ST JULIEN</NomCommune>
+      <Localisation>
+         <Latitude>48.0194015503</Latitude>
+         <Longitude>5.8968501091</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 07 92 22</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

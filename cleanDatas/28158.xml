@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28158-01" codeInsee="28158" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontenay-sur-Eure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>66, rue Noël-Ballay</Ligne>
+      <CodePostal>28630</CodePostal>
+      <NomCommune>Fontenay-sur-Eure</NomCommune>
+      <Localisation>
+         <Latitude>48.3897018433</Latitude>
+         <Longitude>1.44491004944</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 25 87 49</Téléphone>
+      <Télécopie>+33 2 37 25 82 56</Télécopie>
+      <Email>mairie.fontenaysureure@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

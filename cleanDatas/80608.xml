@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80608-01" codeInsee="80608" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Omiécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, route Nationale</Ligne>
+      <CodePostal>80320</CodePostal>
+      <NomCommune>Omiécourt</NomCommune>
+      <Localisation>
+         <Latitude>49.8096733093</Latitude>
+         <Longitude>2.84677004814</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 83 94 90</Téléphone>
+      <Email>mairie.omiecourt@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

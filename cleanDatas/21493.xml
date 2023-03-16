@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21493-01" codeInsee="21493" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Poncey-lès-Athée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Saint-Médard</Ligne>
+      <CodePostal>21130</CodePostal>
+      <NomCommune>Poncey-lès-Athée</NomCommune>
+      <Localisation>
+         <Latitude>47.2409963</Latitude>
+         <Longitude>5.3863824</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 47 16 79</Téléphone>
+      <Télécopie>+33 3 80 47 16 79</Télécopie>
+      <Email>mairie.poncey-les-athee@wanadoo.fr</Email>
+      <Url>http://www.mairie-poncey-les-athee.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

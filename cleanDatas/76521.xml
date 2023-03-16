@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-76521-01" codeInsee="76521" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rebets</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue de l'Église</Ligne>
+      <CodePostal>76750</CodePostal>
+      <NomCommune>Rebets</NomCommune>
+      <Localisation>
+         <Latitude>49.511516571</Latitude>
+         <Longitude>1.39091598988</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 34 07 11</Téléphone>
+      <Télécopie>+33 2 35 34 86 14</Télécopie>
+      <Email>mairiederebets@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

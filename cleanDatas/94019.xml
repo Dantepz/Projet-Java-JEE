@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-94019-01" codeInsee="94019" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chennevières-sur-Marne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 avenue du Maréchal-Leclerc</Ligne>
+      <CodePostal>94430</CodePostal>
+      <NomCommune>Chennevières-sur-Marne</NomCommune>
+      <Localisation>
+         <Latitude>48.7962989807</Latitude>
+         <Longitude>2.53309988976</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 45 94 74 74</Téléphone>
+      <Télécopie>+33 1 45 94 78 40</Télécopie>
+      <Email>webmestre@villechennevieres.fr</Email>
+      <Url>http://www.chennevieres.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

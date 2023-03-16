@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66068-01" codeInsee="66068" dateMiseAJour="2007-11-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Escaro</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Saint Martin</Ligne>
+      <CodePostal>66360</CodePostal>
+      <NomCommune>ESCARO</NomCommune>
+      <Localisation>
+         <Latitude>42.5374412537</Latitude>
+         <Longitude>2.31552600861</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 97 02 43</Téléphone>
+      <Télécopie>+33 4 68 97 02 43</Télécopie>
+      <Email>mairie.escaro@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

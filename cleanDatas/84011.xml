@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84011-01" codeInsee="84011" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie du Beaucet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, rue Coste-Chaude</Ligne>
+      <CodePostal>84210</CodePostal>
+      <NomCommune>Le Beaucet</NomCommune>
+      <Localisation>
+         <Latitude>43.983464</Latitude>
+         <Longitude>5.119532</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 66 00 23</Téléphone>
+      <Télécopie>+33 4 90 66 17 77</Télécopie>
+      <Email>mairie.beaucet@wanadoo.fr</Email>
+      <Url>http://www.lebeaucet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="15:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49014-01" codeInsee="49014" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aviré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 rue d'Anjou</Ligne>
+      <CodePostal>49500</CodePostal>
+      <NomCommune>Aviré</NomCommune>
+      <Localisation>
+         <Latitude>47.7503013611</Latitude>
+         <Longitude>-0.79771900177</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 61 30 35</Téléphone>
+      <Télécopie>+33 2 41 92 51 38</Télécopie>
+      <Email>mairie-avire49@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Fermeture le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

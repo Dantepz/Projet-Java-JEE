@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31070-01" codeInsee="31070" dateMiseAJour="2004-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blajan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>31350</CodePostal>
+      <NomCommune>BLAJAN</NomCommune>
+      <Localisation>
+         <Latitude>43.2590522766</Latitude>
+         <Longitude>0.642916023731</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 6 85 07 03 38</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

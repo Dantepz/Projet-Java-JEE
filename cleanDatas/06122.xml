@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06122-01" codeInsee="06122" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jeannet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, rue du Château</Ligne>
+      <CodePostal>06640</CodePostal>
+      <NomCommune>Saint-Jeannet</NomCommune>
+      <Localisation>
+         <Latitude>43.7477989197</Latitude>
+         <Longitude>7.1433300972</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 59 49 45</Téléphone>
+      <Télécopie>+33 4 93 59 49 41</Télécopie>
+      <Email>accueil@saintjeannet.com</Email>
+      <Url>http://www.saintjeannet.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

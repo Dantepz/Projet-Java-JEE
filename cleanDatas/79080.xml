@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79080-01" codeInsee="79080" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châtillon-sur-Thouet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 boulevard du Thouet</Ligne>
+      <CodePostal>79200</CodePostal>
+      <NomCommune>Châtillon-sur-Thouet</NomCommune>
+      <Localisation>
+         <Latitude>46.6600418091</Latitude>
+         <Longitude>-0.239189997315</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 95 07 84</Téléphone>
+      <Télécopie>+33 5 49 95 07 21</Télécopie>
+      <Email>mairie_chatillon@cc-parthenay-gatine.fr</Email>
+      <Url>http://www.cc-parthenay-gatine.fr/chatillon</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:30:00"/>
+         <Note>Accueil téléphonique de 9h à 12h et de 13h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

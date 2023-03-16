@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-22157-01" codeInsee="22157" dateMiseAJour="2015-09-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Le Moustoir</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>le Bourg</Ligne>
+      <CodePostal>22340</CodePostal>
+      <NomCommune>LE MOUSTOIR</NomCommune>
+      <Localisation>
+         <Latitude>48.2670474</Latitude>
+         <Longitude>-3.5075835000000097</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 93 08 47</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

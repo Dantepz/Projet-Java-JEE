@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14742-01" codeInsee="14742" dateMiseAJour="2011-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vicque</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>14170</CodePostal>
+      <NomCommune>VICQUES</NomCommune>
+      <Localisation>
+         <Latitude>48.9911994934</Latitude>
+         <Longitude>-0.0755089968443</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

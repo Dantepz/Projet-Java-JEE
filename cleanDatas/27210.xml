@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27210-01" codeInsee="27210" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie d'&#144;Écardenville-la-Campagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 A, rue de la Forge</Ligne>
+      <Ligne>BP 40</Ligne>
+      <CodePostal>27170</CodePostal>
+      <NomCommune>Écardenville-la-Campagne</NomCommune>
+      <Localisation>
+         <Latitude>49.1196504</Latitude>
+         <Longitude>0.8464408</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 35 05 67</Téléphone>
+      <Télécopie>+33 2 78 98 50 02</Télécopie>
+      <Email>mairiecardenville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+         <Note>Accueil fermé en juillet-août</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

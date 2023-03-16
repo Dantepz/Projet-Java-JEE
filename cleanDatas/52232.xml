@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52232-01" codeInsee="52232" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Guindrecourt-sur-Blaise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, Grande rue</Ligne>
+      <CodePostal>52330</CodePostal>
+      <NomCommune>Guindrecourt-sur-Blaise</NomCommune>
+      <Localisation>
+         <Latitude>48.2767982483</Latitude>
+         <Longitude>4.9508600235</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 01 14 52</Téléphone>
+      <Télécopie>+33 3 25 01 14 52</Télécopie>
+      <Email>commune.guindrecourtsurblaise@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil ouvert les semaines paires</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

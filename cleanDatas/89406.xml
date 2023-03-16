@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89406-01" codeInsee="89406" dateMiseAJour="2014-07-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Talcy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, Grande rue</Ligne>
+      <CodePostal>89420</CodePostal>
+      <NomCommune>Talcy</NomCommune>
+      <Localisation>
+         <Latitude>47.5648002625</Latitude>
+         <Longitude>4.10987997055</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 32 14 11</Téléphone>
+      <Email>mairie-talcy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

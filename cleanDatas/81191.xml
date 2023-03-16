@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81191-01" codeInsee="81191" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mouzieys-Panens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mouzieys</Ligne>
+      <CodePostal>81170</CodePostal>
+      <NomCommune>Mouzieys-Panens</NomCommune>
+      <Localisation>
+         <Latitude>44.0918807983</Latitude>
+         <Longitude>1.93261897564</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 56 12 07</Téléphone>
+      <Télécopie>+33 5 63 56 12 07</Télécopie>
+      <Email>mairiemzp@mouzieys-panens.fr</Email>
+      <Url>http://mouzieys-panens.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

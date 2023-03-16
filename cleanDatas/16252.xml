@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16252-01" codeInsee="16252" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Orival</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16210</CodePostal>
+      <NomCommune>Orival</NomCommune>
+      <Localisation>
+         <Latitude>45.2767448425</Latitude>
+         <Longitude>0.071891002357</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 98 24 32</Téléphone>
+      <Télécopie>+33 5 45 98 24 32</Télécopie>
+      <Email>mairie.orival@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01431-01" codeInsee="01431" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vaux-en-Bugey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 route de Lagnieu</Ligne>
+      <CodePostal>01150</CodePostal>
+      <NomCommune>Vaux-en-Bugey</NomCommune>
+      <Localisation>
+         <Latitude>45.9252285</Latitude>
+         <Longitude>5.351587</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 35 72 30</Téléphone>
+      <Télécopie>+33 4 74 35 77 01</Télécopie>
+      <Email>mairie.vaux@wanadoo.fr</Email>
+      <Url>http://www.vauxenbugey.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31541-01" codeInsee="31541" dateMiseAJour="2016-02-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Seilh</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Roaldes-du-Bourg</Ligne>
+      <CodePostal>31840</CodePostal>
+      <NomCommune>Seilh</NomCommune>
+      <Localisation>
+         <Latitude>43.694998</Latitude>
+         <Longitude>1.3535294</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 59 90 13</Téléphone>
+      <Télécopie>+33 5 61 59 56 34</Télécopie>
+      <Email>accueil@mairie-seilh.fr</Email>
+      <Url>http://www.mairie-seilh.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

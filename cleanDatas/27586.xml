@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27586-01" codeInsee="27586" dateMiseAJour="2011-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Philbert-sur-Boissey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>27520</CodePostal>
+      <NomCommune>SAINT PHILBERT SUR BOISSEY</NomCommune>
+      <Localisation>
+         <Latitude>49.2711410522</Latitude>
+         <Longitude>0.782521009445</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 68 83</Téléphone>
+      <Email>saint-philbert-sur-boissey@cegetel.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

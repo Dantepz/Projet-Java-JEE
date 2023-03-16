@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10114-01" codeInsee="10114" dateMiseAJour="2011-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crancey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 rue de Faverolles</Ligne>
+      <CodePostal>10100</CodePostal>
+      <NomCommune>CRANCEY</NomCommune>
+      <Localisation>
+         <Latitude>48.5166015625</Latitude>
+         <Longitude>3.64317011833</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 24 28 69</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

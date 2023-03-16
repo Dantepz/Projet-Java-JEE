@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80687-01" codeInsee="80687" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rubescourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue Saint Martin</Ligne>
+      <CodePostal>80500</CodePostal>
+      <NomCommune>RUBESCOURT</NomCommune>
+      <Localisation>
+         <Latitude>49.6052017212</Latitude>
+         <Longitude>2.57224011421</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 78 85 07</Téléphone>
+      <Télécopie>+33 3 22 78 85 07</Télécopie>
+      <Email>mairie.rubescourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

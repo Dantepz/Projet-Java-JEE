@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25376-01" codeInsee="25376" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mérey-Vieilley</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue des Fontaines-Lavoirs</Ligne>
+      <CodePostal>25870</CodePostal>
+      <NomCommune>Mérey-Vieilley</NomCommune>
+      <Localisation>
+         <Latitude>47.3329378</Latitude>
+         <Longitude>6.0622777</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 57 87 51</Téléphone>
+      <Télécopie>+33 3 81 57 87 51</Télécopie>
+      <Email>mairiedemerey@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

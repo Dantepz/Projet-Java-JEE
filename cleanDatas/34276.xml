@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34276-01" codeInsee="34276" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Mathieu-de-Tréviers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Écoles</Ligne>
+      <Ligne>BP 29</Ligne>
+      <CodePostal>34270</CodePostal>
+      <NomCommune>Saint-Mathieu-de-Tréviers</NomCommune>
+      <Localisation>
+         <Latitude>43.7706</Latitude>
+         <Longitude>3.8694</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 55 20 28</Téléphone>
+      <Télécopie>+33 4 67 92 10 50</Télécopie>
+      <Email>accueil@villesmdt.fr</Email>
+      <Url>http://www.ville-saint-mathieu-de-treviers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

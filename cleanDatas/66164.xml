@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66164-01" codeInsee="66164" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rivesaltes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Europe</Ligne>
+      <Ligne>BP 102</Ligne>
+      <CodePostal>66602</CodePostal>
+      <NomCommune>Rivesaltes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>42.7670533</Latitude>
+         <Longitude>2.8691498</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 38 59 59</Téléphone>
+      <Télécopie>+33 4 68 64 94 22</Télécopie>
+      <Email>mairie@rivesaltes.fr</Email>
+      <Url>http://www.mairie-rivesaltes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

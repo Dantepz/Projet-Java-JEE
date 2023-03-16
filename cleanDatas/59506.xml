@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59506-01" codeInsee="59506" dateMiseAJour="2015-11-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Romeries</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Quesnoy</Ligne>
+      <CodePostal>59730</CodePostal>
+      <NomCommune>Romeries</NomCommune>
+      <Localisation>
+         <Latitude>50.2025901</Latitude>
+         <Longitude>3.5325188</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 37 34 43</Téléphone>
+      <Télécopie>+33 3 27 79 31 60</Télécopie>
+      <Email>mairiederomeries@wanadoo.fr</Email>
+      <Url>http://mairie.romeries.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86135-01" codeInsee="86135" dateMiseAJour="2015-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Liniers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue des Linarois</Ligne>
+      <CodePostal>86800</CodePostal>
+      <NomCommune>Liniers</NomCommune>
+      <Localisation>
+         <Latitude>46.6123278</Latitude>
+         <Longitude>0.5376416</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 56 64 12</Téléphone>
+      <Télécopie>+33 5 49 56 37 97</Télécopie>
+      <Email>liniers@cg86.fr</Email>
+      <Url>http://liniers.vienne-mouliere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

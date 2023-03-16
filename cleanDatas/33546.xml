@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33546-01" codeInsee="33546" dateMiseAJour="2015-01-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vignonet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 Dartus</Ligne>
+      <CodePostal>33330</CodePostal>
+      <NomCommune>Vignonet</NomCommune>
+      <Localisation>
+         <Latitude>44.844641</Latitude>
+         <Longitude>-0.161706</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 84 53 12</Téléphone>
+      <Télécopie>+33 5 57 55 14 21</Télécopie>
+      <Email>mairie.vignonet@wanadoo.fr</Email>
+      <Url>http://www.communedevignonet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

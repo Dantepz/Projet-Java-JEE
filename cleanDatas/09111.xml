@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09111-01" codeInsee="09111" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Engomer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier du Trech</Ligne>
+      <CodePostal>09800</CodePostal>
+      <NomCommune>Engomer</NomCommune>
+      <Localisation>
+         <Latitude>42.9468269348</Latitude>
+         <Longitude>1.05944097042</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 96 82 50</Téléphone>
+      <Télécopie>+33 5 61 96 14 68</Télécopie>
+      <Email>mairie-engomer@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28070-01" codeInsee="28070" dateMiseAJour="2015-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Champhol</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue de la Mairie</Ligne>
+      <CodePostal>28300</CodePostal>
+      <NomCommune>Champhol</NomCommune>
+      <Localisation>
+         <Latitude>48.4690351</Latitude>
+         <Longitude>1.4999036</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 21 61 65</Téléphone>
+      <Télécopie>+33 2 37 21 78 64</Télécopie>
+      <Email>mairie.champhol@wanadoo.fr</Email>
+      <Url>http://www.ville-champhol.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

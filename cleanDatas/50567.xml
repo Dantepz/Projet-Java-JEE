@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50567-01" codeInsee="50567" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saussemesnil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 Maison-Guerotte</Ligne>
+      <CodePostal>50700</CodePostal>
+      <NomCommune>Saussemesnil</NomCommune>
+      <Localisation>
+         <Latitude>49.573135376</Latitude>
+         <Longitude>-1.4626840353</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 40 09 92</Téléphone>
+      <Télécopie>+33 2 33 40 23 81</Télécopie>
+      <Email>contact@sauxmesnil.fr</Email>
+      <Url>http://sauxmesnil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert tous les premiers samedi du mois.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

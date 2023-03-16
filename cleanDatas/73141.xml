@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73141-01" codeInsee="73141" dateMiseAJour="2016-01-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Laissaud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>110, place du 19-Mars-1962</Ligne>
+      <CodePostal>73800</CodePostal>
+      <NomCommune>Laissaud</NomCommune>
+      <Localisation>
+         <Latitude>45.447177887</Latitude>
+         <Longitude>6.03717184067</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 28 92 94</Téléphone>
+      <Télécopie>+33 4 79 28 91 89</Télécopie>
+      <Email>mairielaissaud@wanadoo.fr</Email>
+      <Url>http://www.mairie-laissaud.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25507-01" codeInsee="25507" dateMiseAJour="2013-04-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rouhe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, chemin de l'École</Ligne>
+      <CodePostal>25440</CodePostal>
+      <NomCommune>Rouhe</NomCommune>
+      <Localisation>
+         <Latitude>47.0849996</Latitude>
+         <Longitude>5.96644790000005</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 63 89 47</Téléphone>
+      <Télécopie>+33 3 81 63 89 47</Télécopie>
+      <Email>communerouhe@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+         <Note>Uniquement le 1er et le 3e jeudi du mois</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

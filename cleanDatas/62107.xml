@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62107-01" codeInsee="62107" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bénifontaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Pasteur</Ligne>
+      <CodePostal>62410</CodePostal>
+      <NomCommune>Bénifontaine</NomCommune>
+      <Localisation>
+         <Latitude>50.484679</Latitude>
+         <Longitude>2.829042</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 40 30 08</Téléphone>
+      <Télécopie>+33 3 21 37 23 42</Télécopie>
+      <Email>mairie.benifontaine@wanadoo.fr</Email>
+      <Url>http://www.benifontaine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

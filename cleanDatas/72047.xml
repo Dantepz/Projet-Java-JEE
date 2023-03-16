@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72047-01" codeInsee="72047" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brette-les-Pins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>100 place des Acacias</Ligne>
+      <CodePostal>72250</CodePostal>
+      <NomCommune>Brette-les-Pins</NomCommune>
+      <Localisation>
+         <Latitude>47.9128990173</Latitude>
+         <Longitude>0.337940007448</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 75 83 08</Téléphone>
+      <Télécopie>+33 2 43 75 26 61</Télécopie>
+      <Email>mairie.brettelespins@wanadoo.fr</Email>
+      <Url>http://www.brettelespins.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80412-01" codeInsee="80412" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hamelet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>47 rue François-Deroussen</Ligne>
+      <CodePostal>80800</CodePostal>
+      <NomCommune>Hamelet</NomCommune>
+      <Localisation>
+         <Latitude>49.9067993164</Latitude>
+         <Longitude>2.53012990952</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 96 97 56</Téléphone>
+      <Télécopie>+33 3 22 96 97 56</Télécopie>
+      <Email>mairie.hamelet@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>Permanence du 3e adjoint le vendredi de 18h à 19h uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>Permanence du 1er adjoint le mercredi de 18h30 à 19h30 uniquement. Permanence du 2e adjoint le jeudi de 18h30 à 19h30 uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

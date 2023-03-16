@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51031-01" codeInsee="51031" dateMiseAJour="2007-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Baconnes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Gloye</Ligne>
+      <CodePostal>51400</CodePostal>
+      <NomCommune>BACONNES</NomCommune>
+      <Localisation>
+         <Latitude>49.1595458984</Latitude>
+         <Longitude>4.33844518661</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 11 97</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

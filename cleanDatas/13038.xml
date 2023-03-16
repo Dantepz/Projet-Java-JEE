@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13038-01" codeInsee="13038" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontvieille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Marcel-Honorat</Ligne>
+      <CodePostal>13990</CodePostal>
+      <NomCommune>Fontvieille</NomCommune>
+      <Localisation>
+         <Latitude>43.7248001099</Latitude>
+         <Longitude>4.71061992645</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC">mairie annexe accessible aux personnes a mobilité réduite.</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 54 79 02</Téléphone>
+      <Télécopie>+33 4 90 54 64 87</Télécopie>
+      <Email>mairie@fontvieille.fr</Email>
+      <Url>http://www.fontvieille-provence.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>La mairie sera exceptionnellement fermée les vendredis après-midi jusqu'au 28 août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

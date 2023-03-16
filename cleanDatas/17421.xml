@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17421-01" codeInsee="17421" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saujon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Gaston-Balande</Ligne>
+      <Ligne>BP 108</Ligne>
+      <CodePostal>17600</CodePostal>
+      <NomCommune>Saujon</NomCommune>
+      <Localisation>
+         <Latitude>45.6721992493</Latitude>
+         <Longitude>-0.926602005959</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">accès par l'arrière de la mairie</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 02 80 07</Téléphone>
+      <Télécopie>+33 5 46 02 91 92</Télécopie>
+      <Email>contact@mairie-saujon.fr</Email>
+      <Url>http://www.mairie-saujon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

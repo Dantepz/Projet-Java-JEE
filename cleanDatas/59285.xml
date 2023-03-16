@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59285-01" codeInsee="59285" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Haspres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue Jean-Jaurès</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>59198</CodePostal>
+      <NomCommune>Haspres</NomCommune>
+      <Localisation>
+         <Latitude>50.2578010559</Latitude>
+         <Longitude>3.4162800312</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 25 66 38</Téléphone>
+      <Télécopie>+33 3 27 25 74 67</Télécopie>
+      <Email>ville.haspres@wanadoo.fr</Email>
+      <Url>http://www.ville-haspres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38549-01" codeInsee="38549" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villard Notre Dame</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place Paganon</Ligne>
+      <CodePostal>38520</CodePostal>
+      <NomCommune>VILLARD NOTRE DAME</NomCommune>
+      <Localisation>
+         <Latitude>45.0184936523</Latitude>
+         <Longitude>6.04211091995</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 80 02 33</Téléphone>
+      <Télécopie>+33 4 76 80 02 33</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

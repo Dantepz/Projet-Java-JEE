@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08331-01" codeInsee="08331" dateMiseAJour="2014-07-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noyers-Pont-Maugis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Tilleuls</Ligne>
+      <CodePostal>08350</CodePostal>
+      <NomCommune>Noyers-Pont-Maugis</NomCommune>
+      <Localisation>
+         <Latitude>49.707692</Latitude>
+         <Longitude>4.947398</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 27 22 64</Téléphone>
+      <Télécopie>+33 3 24 27 05 61</Télécopie>
+      <Email>noyers@cegetel.net</Email>
+      <Url>http://www.noyers-pont-maugis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

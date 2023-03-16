@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16375-01" codeInsee="16375" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Suaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16260</CodePostal>
+      <NomCommune>Suaux</NomCommune>
+      <Localisation>
+         <Latitude>45.8504562378</Latitude>
+         <Longitude>0.506772994995</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 71 25 18</Téléphone>
+      <Télécopie>+33 5 45 71 73 93</Télécopie>
+      <Email>mairie@suaux.fr</Email>
+      <Url>http://www.suaux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <Note>Agence postale ouverte de 9h à 12h20</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

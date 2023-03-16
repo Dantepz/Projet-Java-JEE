@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14086-01" codeInsee="14086" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bonneville-sur-Touques</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 chemin du Calvaire</Ligne>
+      <CodePostal>14800</CodePostal>
+      <NomCommune>Bonneville-sur-Touques</NomCommune>
+      <Localisation>
+         <Latitude>49.3486999</Latitude>
+         <Longitude>0.10972259999994094</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 88 01 75</Téléphone>
+      <Email>mairie.bonnevillesurtouques@wanadoo.fr</Email>
+      <Url>http://www.bonnevillesurtouques.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

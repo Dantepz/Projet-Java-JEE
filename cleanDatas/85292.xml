@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85292-01" codeInsee="85292" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thouarsais-Bouildroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 rue du Centre</Ligne>
+      <CodePostal>85410</CodePostal>
+      <NomCommune>Thouarsais-Bouildroux</NomCommune>
+      <Localisation>
+         <Latitude>46.6198005676</Latitude>
+         <Longitude>-0.879188001156</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 51 54 94</Téléphone>
+      <Télécopie>+33 2 51 51 33 28</Télécopie>
+      <Email>mairiethouarsais@wanadoo.fr</Email>
+      <Url>http://www.thouarsais-bouildroux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

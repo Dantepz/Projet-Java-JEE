@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14002-01" codeInsee="14002" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Acqueville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>14220</CodePostal>
+      <NomCommune>Acqueville</NomCommune>
+      <Localisation>
+         <Latitude>49.0102996826</Latitude>
+         <Longitude>-0.350997000933</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 78 30 67</Téléphone>
+      <Télécopie>+33 2 31 78 61 40</Télécopie>
+      <Email>synd.mixte.cbh@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62198-01" codeInsee="62198" dateMiseAJour="2011-10-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cambligneul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>120 rue Principale</Ligne>
+      <CodePostal>62690</CodePostal>
+      <NomCommune>CAMBLIGNEUL</NomCommune>
+      <Localisation>
+         <Latitude>50.3793983459</Latitude>
+         <Longitude>2.61413002014</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 59 03 07</Téléphone>
+      <Télécopie>+33 3 21 55 25 31</Télécopie>
+      <Email>mairie.cambligneul@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

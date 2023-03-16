@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35267-01" codeInsee="35267" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Étienne-en-Coglès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 place de l'Église</Ligne>
+      <CodePostal>35460</CodePostal>
+      <NomCommune>Saint-Étienne-en-Coglès</NomCommune>
+      <Localisation>
+         <Latitude>48.4024009705</Latitude>
+         <Longitude>-1.3249900341</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 98 63 20</Téléphone>
+      <Télécopie>+33 2 99 97 74 75</Télécopie>
+      <Email>st.etienne.en.cogles@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

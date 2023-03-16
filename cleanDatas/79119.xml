@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79119-01" codeInsee="79119" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fenioux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, rue de Parthenay</Ligne>
+      <CodePostal>79160</CodePostal>
+      <NomCommune>Fenioux</NomCommune>
+      <Localisation>
+         <Latitude>46.5404014587</Latitude>
+         <Longitude>-0.497108995914</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 75 21 72</Téléphone>
+      <Télécopie>+33 5 49 75 56 75</Télécopie>
+      <Email>mairie-fenioux@wanadoo.fr</Email>
+      <Url>http://www.mairie-fenioux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

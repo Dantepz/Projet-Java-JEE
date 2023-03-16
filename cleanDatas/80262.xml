@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80262-01" codeInsee="80262" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eaucourt-sur-Somme</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Pont</Ligne>
+      <CodePostal>80580</CodePostal>
+      <NomCommune>Eaucourt-sur-Somme</NomCommune>
+      <Localisation>
+         <Latitude>50.0630071</Latitude>
+         <Longitude>1.882078</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">de plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 27 17 22</Téléphone>
+      <Email>eaucourt.commune@orange.fr</Email>
+      <Url>http://eaucourtsursomme.pagesperso-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="20:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:30:00" fin="20:30:00"/>
+      </PlageJ>
+      <PlageJ début="dimanche" fin="dimanche">
+         <PlageH début="11:00:00" fin="12:30:00"/>
+         <Note>Permanence du maire uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

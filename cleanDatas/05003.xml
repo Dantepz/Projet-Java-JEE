@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05003-01" codeInsee="05003" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aiguilles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Léa</Ligne>
+      <CodePostal>05470</CodePostal>
+      <NomCommune>Aiguilles</NomCommune>
+      <Localisation>
+         <Latitude>44.7819196</Latitude>
+         <Longitude>6.8691012</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 46 70 17</Téléphone>
+      <Télécopie>+33 4 92 46 89 20</Télécopie>
+      <Email>infos@mairie-aiguilles.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

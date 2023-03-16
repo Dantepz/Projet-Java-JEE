@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05006-01" codeInsee="05006" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Argentière-la-Bessée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 avenue Charles-de-Gaulle</Ligne>
+      <Ligne>BP 14</Ligne>
+      <CodePostal>05120</CodePostal>
+      <NomCommune>L'Argentière-la-Bessée</NomCommune>
+      <Localisation>
+         <Latitude>44.7929954529</Latitude>
+         <Longitude>6.55882120132</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 23 10 03</Téléphone>
+      <Télécopie>+33 4 92 23 02 99</Télécopie>
+      <Email>mairie@ville-argentiere.fr</Email>
+      <Url>http://www.ville-argentiere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

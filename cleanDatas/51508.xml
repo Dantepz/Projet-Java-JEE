@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51508-01" codeInsee="51508" dateMiseAJour="2004-09-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint Ouen Domprot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>grande rue</Ligne>
+      <CodePostal>51320</CodePostal>
+      <NomCommune>ST OUEN DOMPROT</NomCommune>
+      <Localisation>
+         <Latitude>48.5786933899</Latitude>
+         <Longitude>4.4039440155</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 73 31 34</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02174-01" codeInsee="02174" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chavignon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Haïphong</Ligne>
+      <CodePostal>02000</CodePostal>
+      <NomCommune>Chavignon</NomCommune>
+      <Localisation>
+         <Latitude>49.4793014526</Latitude>
+         <Longitude>3.52107000351</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 21 60 98</Téléphone>
+      <Télécopie>+33 3 23 21 70 33</Télécopie>
+      <Email>chavignon.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:15:00" fin="11:15:00"/>
+         <Note>Permanence du maire le jeudi à partir de 18h30.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:15:00" fin="11:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

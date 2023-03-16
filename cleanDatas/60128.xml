@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60128-01" codeInsee="60128" dateMiseAJour="2006-08-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Canny Sur Therain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Principale</Ligne>
+      <CodePostal>60220</CodePostal>
+      <NomCommune>CANNY SUR THERAIN</NomCommune>
+      <Localisation>
+         <Latitude>49.5556983948</Latitude>
+         <Longitude>1.73464000225</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 82 41 02</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63197-01" codeInsee="63197" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lisseuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Villatte</Ligne>
+      <CodePostal>63440</CodePostal>
+      <NomCommune>Lisseuil</NomCommune>
+      <Localisation>
+         <Latitude>46.0558013916</Latitude>
+         <Longitude>2.9479598999</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 97 40 76</Téléphone>
+      <Télécopie>+33 4 73 97 40 76</Télécopie>
+      <Email>mairie.de.lisseuil@wanadoo.fr</Email>
+      <Url>http://www.lisseuil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

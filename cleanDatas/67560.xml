@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67560-01" codeInsee="67560" dateMiseAJour="2014-08-25"
+           pivotLocal="mairie">
+   <Nom>Mairie de Zoebersdorf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Principale</Ligne>
+      <CodePostal>67270</CodePostal>
+      <NomCommune>Zœbersdorf</NomCommune>
+      <Localisation>
+         <Latitude>48.7939351</Latitude>
+         <Longitude>7.5245513</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 89 01 46</Téléphone>
+      <Télécopie>+33 3 88 89 01 46</Télécopie>
+      <Email>mairie.zoebersdorf@payszorn.com</Email>
+      <Url>http://zoebersdorf.payszorn.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

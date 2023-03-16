@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27336-01" codeInsee="27336" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Heunière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Vieux-Puit</Ligne>
+      <CodePostal>27950</CodePostal>
+      <NomCommune>La Heunière</NomCommune>
+      <Localisation>
+         <Latitude>49.1087188721</Latitude>
+         <Longitude>1.4364759922</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 52 71 45</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80300-01" codeInsee="80300" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Falvy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du Trou-Picard</Ligne>
+      <CodePostal>80190</CodePostal>
+      <NomCommune>Falvy</NomCommune>
+      <Localisation>
+         <Latitude>49.8242835999</Latitude>
+         <Longitude>2.95947694778</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">il y a un escalier mais l'usager peut demander à un agent de l'aider</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 88 36 50</Téléphone>
+      <Télécopie>+33 3 22 88 36 50</Télécopie>
+      <Email>mairie.falvy@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

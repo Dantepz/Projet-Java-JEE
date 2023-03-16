@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78437-01" codeInsee="78437" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mousseaux-sur-Seine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>81 bis, Grande rue</Ligne>
+      <CodePostal>78270</CodePostal>
+      <NomCommune>Mousseaux-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>49.0433006287</Latitude>
+         <Longitude>1.64908003807</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 79 31 73</Téléphone>
+      <Télécopie>+33 1 34 79 31 78</Télécopie>
+      <Email>mairie.mousseaux@wanadoo.fr</Email>
+      <Url>http://www.mousseaux-sur-seine.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

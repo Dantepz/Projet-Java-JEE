@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65099-01" codeInsee="65099" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bordères-Louron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route des Cols</Ligne>
+      <CodePostal>65590</CodePostal>
+      <NomCommune>Bordères-Louron</NomCommune>
+      <Localisation>
+         <Latitude>42.8727718871387</Latitude>
+         <Longitude>0.396108627319336</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 92 20</Téléphone>
+      <Télécopie>+33 5 62 99 92 34</Télécopie>
+      <Email>commune-borderes-louron@orange.fr</Email>
+      <Url>http://www.borderes-louron-ilhan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Ouvert un samedi sur deux les semaines impaires.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

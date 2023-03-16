@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15259-01" codeInsee="15259" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vieillespesse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Allée des Tilleuls</Ligne>
+      <CodePostal>15500</CodePostal>
+      <NomCommune>Vieillespesse</NomCommune>
+      <Localisation>
+         <Latitude>45.1271095276</Latitude>
+         <Longitude>3.15119409561</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 73 14 69</Téléphone>
+      <Télécopie>+33 4 71 73 14 69</Télécopie>
+      <Email>mairie.vieillespesse@voila.fr</Email>
+      <Url>http://www.vieillespesse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51302-01" codeInsee="51302" dateMiseAJour="2011-01-24"
+           pivotLocal="mairie">
+   <Nom>Mairie des Istres-et-Bury</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Rivière</Ligne>
+      <CodePostal>51190</CodePostal>
+      <NomCommune>LES ISTRES ET BURY</NomCommune>
+      <Localisation>
+         <Latitude>48.9844609</Latitude>
+         <Longitude>4.0900792</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 51 05 88</Téléphone>
+      <Télécopie>+33 3 26 51 05 88</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

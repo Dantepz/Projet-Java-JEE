@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38025-01" codeInsee="38025" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Balbins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 chemin du Planot</Ligne>
+      <CodePostal>38260</CodePostal>
+      <NomCommune>Balbins</NomCommune>
+      <Localisation>
+         <Latitude>45.3978996277</Latitude>
+         <Longitude>5.21273994446</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 20 55 50</Téléphone>
+      <Télécopie>+33 4 74 79 43 73</Télécopie>
+      <Email>communedebalbins@wanadoo.fr</Email>
+      <Url>http://www.communedebalbins.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

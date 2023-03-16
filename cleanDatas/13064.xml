@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13064-01" codeInsee="13064" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mollégès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>13940</CodePostal>
+      <NomCommune>Mollégès</NomCommune>
+      <Localisation>
+         <Latitude>43.8059997559</Latitude>
+         <Longitude>4.94824981689</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 95 03 51</Téléphone>
+      <Télécopie>+33 4 90 95 10 81</Télécopie>
+      <Email>mairie-molleges@wanadoo.fr</Email>
+      <Url>http://www.mairie-molleges.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42257-01" codeInsee="42257" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-d'Estreaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>42620</CodePostal>
+      <NomCommune>Saint-Martin-d'Estreaux</NomCommune>
+      <Localisation>
+         <Latitude>46.1758003235</Latitude>
+         <Longitude>3.8670399189</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 64 00 08</Téléphone>
+      <Télécopie>+33 4 77 64 03 81</Télécopie>
+      <Email>mairie.estreaux@orange.fr</Email>
+      <Url>http://www.st-martin-destreaux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39485-01" codeInsee="39485" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>39320</CodePostal>
+      <NomCommune>Saint-Julien</NomCommune>
+      <Localisation>
+         <Latitude>46.3907246</Latitude>
+         <Longitude>5.4524532</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 42 37</Téléphone>
+      <Télécopie>+33 3 84 35 23 90</Télécopie>
+      <Email>st.julien.mairie@wanadoo.fr</Email>
+      <Url>http://saintjuliensuran.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

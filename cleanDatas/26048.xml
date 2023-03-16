@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26048-01" codeInsee="26048" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bénivay-Ollon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Molière</Ligne>
+      <CodePostal>26170</CodePostal>
+      <NomCommune>Bénivay-Ollon</NomCommune>
+      <Localisation>
+         <Latitude>44.3143997192</Latitude>
+         <Longitude>5.18922805786</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 28 13 06</Téléphone>
+      <Télécopie>+33 4 75 28 10 12</Télécopie>
+      <Email>commune-de-benivay-ollon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

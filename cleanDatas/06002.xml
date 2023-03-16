@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06002-01" codeInsee="06002" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Amirat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue de la Mairie</Ligne>
+      <CodePostal>06910</CodePostal>
+      <NomCommune>Amirat</NomCommune>
+      <Localisation>
+         <Latitude>43.8906402588</Latitude>
+         <Longitude>6.82753896713</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 05 80 55</Téléphone>
+      <Télécopie>+33 4 93 05 68 54</Télécopie>
+      <Email>mairie.amirat@nordnet.fr</Email>
+      <Url>http://www.ville-amirat.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27204-01" codeInsee="27204" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Doudeauville-en-Vexin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue Saint-Aubin</Ligne>
+      <CodePostal>27150</CodePostal>
+      <NomCommune>Doudeauville-en-Vexin</NomCommune>
+      <Localisation>
+         <Latitude>49.3271446228</Latitude>
+         <Longitude>1.58987903595</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">accès par l'arrière de la mairie</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 55 09 03</Téléphone>
+      <Télécopie>+33 2 32 55 09 03</Télécopie>
+      <Email>mairie-doudeauvillevexin@orange.fr</Email>
+      <Url>http://www.doudeauville27.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50154-01" codeInsee="50154" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Croix-Avranchin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue Saint-Jacques-de-Compostelle</Ligne>
+      <CodePostal>50240</CodePostal>
+      <NomCommune>La Croix-Avranchin</NomCommune>
+      <Localisation>
+         <Latitude>48.54506</Latitude>
+         <Longitude>-1.381299</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 48 33 17</Téléphone>
+      <Email>mairielacroixavranchin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81036-01" codeInsee="81036" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bout-du-Pont-de-Larn</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue de la Mairie</Ligne>
+      <CodePostal>81660</CodePostal>
+      <NomCommune>Bout-du-Pont-de-Larn</NomCommune>
+      <Localisation>
+         <Latitude>43.5013999939</Latitude>
+         <Longitude>2.40615010262</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 97 55 60</Téléphone>
+      <Télécopie>+33 5 63 97 55 64</Télécopie>
+      <Email>commune-du-bout-du-pont@wanadoo.fr</Email>
+      <Url>http://www.boutdupontdelarn.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

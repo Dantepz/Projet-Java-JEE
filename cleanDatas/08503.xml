@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08503-01" codeInsee="08503" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Yvernaumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Moyer</Ligne>
+      <CodePostal>08430</CodePostal>
+      <NomCommune>Yvernaumont</NomCommune>
+      <Localisation>
+         <Latitude>49.678527832</Latitude>
+         <Longitude>4.65946006775</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 32 71 80</Téléphone>
+      <Télécopie>+33 3 24 32 71 80</Télécopie>
+      <Email>mairie.yvernaumont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

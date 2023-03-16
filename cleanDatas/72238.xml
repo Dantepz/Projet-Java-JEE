@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72238-01" codeInsee="72238" dateMiseAJour="2015-11-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pizieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>72600</CodePostal>
+      <NomCommune>Pizieux</NomCommune>
+      <Localisation>
+         <Latitude>48.3224205</Latitude>
+         <Longitude>0.3316718</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 97 69 68</Téléphone>
+      <Télécopie>+33 2 43 97 69 68</Télécopie>
+      <Email>mairie.pizieux@ozone.net</Email>
+   </CoordonnéesNum>
+</Organisme>

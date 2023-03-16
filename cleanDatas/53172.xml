@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53172-01" codeInsee="53172" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Origné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue d'Anjou</Ligne>
+      <CodePostal>53360</CodePostal>
+      <NomCommune>Origné</NomCommune>
+      <Localisation>
+         <Latitude>47.9140167236</Latitude>
+         <Longitude>-0.736483991146</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 75 84 59 20</Téléphone>
+      <Télécopie>+33 2 43 98 10 44</Télécopie>
+      <Email>commune.origne@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

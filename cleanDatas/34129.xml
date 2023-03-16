@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34129-01" codeInsee="34129" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lattes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 11010</Ligne>
+      <Ligne>Avenue de Montpellier</Ligne>
+      <CodePostal>34973</CodePostal>
+      <NomCommune>Lattes Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.570098877</Latitude>
+         <Longitude>3.89875006676</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 99 77 77</Téléphone>
+      <Télécopie>+33 4 67 99 77 78</Télécopie>
+      <Email>mairie@ville-lattes.fr</Email>
+      <Url>http://www.ville-lattes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

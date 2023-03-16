@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09215-01" codeInsee="09215" dateMiseAJour="2014-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nalzen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>09300</CodePostal>
+      <NomCommune>Nalzen</NomCommune>
+      <Localisation>
+         <Latitude>42.917266</Latitude>
+         <Longitude>1.75815999999998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 01 41 74</Téléphone>
+      <Télécopie>+33 5 61 01 41 74</Télécopie>
+      <Email>mairienalzen@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

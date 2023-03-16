@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27268-01" codeInsee="27268" dateMiseAJour="2011-12-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Fresne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Eglise</Ligne>
+      <CodePostal>27190</CodePostal>
+      <NomCommune>LE FRESNE</NomCommune>
+      <Localisation>
+         <Latitude>48.9508324</Latitude>
+         <Longitude>0.9749841</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 30 22 39</Téléphone>
+      <Télécopie>+33 2 32 58 10 35</Télécopie>
+      <Email>mairielefresne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

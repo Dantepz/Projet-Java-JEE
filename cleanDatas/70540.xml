@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70540-01" codeInsee="70540" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Velloreille-lès-Choye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, Grande rue</Ligne>
+      <CodePostal>70700</CodePostal>
+      <NomCommune>Velloreille-lès-Choye</NomCommune>
+      <Localisation>
+         <Latitude>47.3917793</Latitude>
+         <Longitude>5.7602847</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 32 91 11</Téléphone>
+      <Télécopie>+33 3 84 32 91 11</Télécopie>
+      <Email>mairie.velloreilleleschoye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

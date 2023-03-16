@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88206-01" codeInsee="88206" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gironcourt-sur-Vraine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Henri-de-la-Vaulx</Ligne>
+      <Ligne>BP 5</Ligne>
+      <CodePostal>88170</CodePostal>
+      <NomCommune>Gironcourt-sur-Vraine</NomCommune>
+      <Localisation>
+         <Latitude>48.3129005432</Latitude>
+         <Longitude>5.93313980103</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 94 41 84</Téléphone>
+      <Télécopie>+33 3 29 94 44 28</Télécopie>
+      <Email>mairie-gironcourt-sur-vraine@wanadoo.fr</Email>
+      <Url>http://www.ma-mairie.com/mairie-88-gironcourtsurvraine.awp</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

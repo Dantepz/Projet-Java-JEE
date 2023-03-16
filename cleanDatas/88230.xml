@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88230-01" codeInsee="88230" dateMiseAJour="2007-11-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hardancourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de la Mairie</Ligne>
+      <CodePostal>88700</CodePostal>
+      <NomCommune>HARDANCOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.3783187866</Latitude>
+         <Longitude>6.56867599487</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 65 49 04</Téléphone>
+      <Télécopie>+33 3 29 65 49 04</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61296-01" codeInsee="61296" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longny-les-Villages</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Moulicent</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61290</CodePostal>
+      <NomCommune>Longny-les-Villages</NomCommune>
+      <Localisation>
+         <Latitude>48.5630177</Latitude>
+         <Longitude>0.75909</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 73 65 86</Téléphone>
+      <Télécopie>+33 2 33 73 65 86</Télécopie>
+      <Email>mairie.moulicent@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

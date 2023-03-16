@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60258-01" codeInsee="60258" dateMiseAJour="2006-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fresnieres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue Principale</Ligne>
+      <CodePostal>60310</CodePostal>
+      <NomCommune>FRESNIERES</NomCommune>
+      <Localisation>
+         <Latitude>49.6222953796</Latitude>
+         <Longitude>2.81401610374</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 43 66 09</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

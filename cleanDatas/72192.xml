@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72192-01" codeInsee="72192" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Mées</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>72260</CodePostal>
+      <NomCommune>Les Mées</NomCommune>
+      <Localisation>
+         <Latitude>48.3152313232</Latitude>
+         <Longitude>0.234585002065</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 97 54 27</Téléphone>
+      <Télécopie>+33 2 43 97 54 27</Télécopie>
+      <Email>mairie.les.mees@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

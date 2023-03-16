@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24246-01" codeInsee="24246" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lunas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24130</CodePostal>
+      <NomCommune>Lunas</NomCommune>
+      <Localisation>
+         <Latitude>44.9176216125</Latitude>
+         <Longitude>0.403007000685</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe et guichet adapté</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 63 19 72</Téléphone>
+      <Télécopie>+33 5 53 22 89 81</Télécopie>
+      <Email>mairie.lunas@wanadoo.fr</Email>
+      <Url>http://www.pays-de-bergerac.com/mairie/lunas</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Fermeture le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

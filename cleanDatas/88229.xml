@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88229-01" codeInsee="88229" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Harchéchamp</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Vignes</Ligne>
+      <CodePostal>88300</CodePostal>
+      <NomCommune>Harchéchamp</NomCommune>
+      <Localisation>
+         <Latitude>48.388999939</Latitude>
+         <Longitude>5.78151988983</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 06 96 82</Téléphone>
+      <Télécopie>+33 3 29 06 96 82</Télécopie>
+      <Email>mairie.harchechamp@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

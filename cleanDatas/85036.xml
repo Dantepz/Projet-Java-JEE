@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85036-01" codeInsee="85036" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bretonnière-la-Claye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Église</Ligne>
+      <CodePostal>85320</CodePostal>
+      <NomCommune>La Bretonnière-la-Claye</NomCommune>
+      <Localisation>
+         <Latitude>46.5026016235</Latitude>
+         <Longitude>-1.22184002399</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 97 73 81</Téléphone>
+      <Télécopie>+33 2 51 97 76 62</Télécopie>
+      <Email>mairie-de-la-bretonniere-la-claye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

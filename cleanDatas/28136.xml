@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28136-01" codeInsee="28136" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Écluzelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue Étienne-Malessis</Ligne>
+      <CodePostal>28500</CodePostal>
+      <NomCommune>Écluzelles</NomCommune>
+      <Localisation>
+         <Latitude>48.7096229</Latitude>
+         <Longitude>1.4245097</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 43 80 73</Téléphone>
+      <Télécopie>+33 2 37 43 41 54</Télécopie>
+      <Email>mairie.ecluzelles@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Uniquement le 1er samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

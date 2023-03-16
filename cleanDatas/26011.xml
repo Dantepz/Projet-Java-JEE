@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26011-01" codeInsee="26011" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aouste-sur-Sye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 5</Ligne>
+      <Ligne>Avenue Amédée-Terrail</Ligne>
+      <CodePostal>26400</CodePostal>
+      <NomCommune>Aouste-sur-Sye</NomCommune>
+      <Localisation>
+         <Latitude>44.7136001587</Latitude>
+         <Longitude>5.05548000336</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 25 04 20</Téléphone>
+      <Télécopie>+33 4 75 25 25 85</Télécopie>
+      <Email>mairie@mairie-aouste-sur-sye.fr</Email>
+      <Url>http://www.mairie-aouste-sur-sye.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

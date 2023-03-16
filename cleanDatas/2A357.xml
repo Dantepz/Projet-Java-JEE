@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A357-01" codeInsee="2A357" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Zérubia</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>20116</CodePostal>
+      <NomCommune>Zérubia</NomCommune>
+      <Localisation>
+         <Latitude>41.7533988953</Latitude>
+         <Longitude>9.07557296753</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 78 60 65</Téléphone>
+      <Télécopie>+33 4 95 78 71 88</Télécopie>
+      <Email>mairiezerubia@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous le lundi, le mardi, le mercredi et le samedi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

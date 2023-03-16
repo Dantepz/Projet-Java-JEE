@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83136-01" codeInsee="83136" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Thoronet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 Place Sadi-Carnot</Ligne>
+      <CodePostal>83340</CodePostal>
+      <NomCommune>Le Thoronet</NomCommune>
+      <Localisation>
+         <Latitude>43.4501113892</Latitude>
+         <Longitude>6.30808877945</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 73 87 11</Téléphone>
+      <Télécopie>+33 4 94 60 10 57</Télécopie>
+      <Email>mairie-le-thoronet@wanadoo.fr</Email>
+      <Url>http://lethoronet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

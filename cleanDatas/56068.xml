@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56068-01" codeInsee="56068" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Grée-Saint-Laurent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de la Mairie</Ligne>
+      <CodePostal>56120</CodePostal>
+      <NomCommune>La Grée-Saint-Laurent</NomCommune>
+      <Localisation>
+         <Latitude>48.05293289999999</Latitude>
+         <Longitude>-2.525920199999973</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">plain-pied</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 75 51 37</Téléphone>
+      <Télécopie>+33 2 97 75 50 51</Télécopie>
+      <Email>mairielagreestlaurent@wanadoo.fr</Email>
+      <Url>http://www.lagreesaintlaurent.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

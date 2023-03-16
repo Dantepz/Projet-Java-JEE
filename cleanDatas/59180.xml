@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59180-01" codeInsee="59180" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie du Doulieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, la Place</Ligne>
+      <CodePostal>59940</CodePostal>
+      <NomCommune>Le Doulieu</NomCommune>
+      <Localisation>
+         <Latitude>50.6598678</Latitude>
+         <Longitude>2.6711129</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 48 85 21</Téléphone>
+      <Télécopie>+33 3 28 48 55 21</Télécopie>
+      <Email>mairie.doulieu@orange.fr</Email>
+      <Url>http://communeledoulieu.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique de 9h à 12h et de 13h30 à 17h30 les lundis, mardis, jeudis et vendredis.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

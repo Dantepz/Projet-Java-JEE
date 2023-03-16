@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80102-01" codeInsee="80102" dateMiseAJour="2007-11-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de BIACHES</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Lucin Boubert</Ligne>
+      <CodePostal>80200</CodePostal>
+      <NomCommune>BIACHES</NomCommune>
+      <Localisation>
+         <Latitude>49.9239006042</Latitude>
+         <Longitude>2.9066400528</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 84 27 35</Téléphone>
+      <Télécopie>+33 3 22 84 27 35</Télécopie>
+      <Email>mairie.biaches@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

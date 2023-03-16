@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06143-01" codeInsee="06143" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Touët-sur-Var</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4300 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>06710</CodePostal>
+      <NomCommune>Touët-sur-Var</NomCommune>
+      <Localisation>
+         <Latitude>43.9477005005</Latitude>
+         <Longitude>7.00611019135</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 05 75 57</Téléphone>
+      <Télécopie>+33 4 93 05 75 70</Télécopie>
+      <Email>mairie.touet-sur-var@wanadoo.fr</Email>
+      <Url>http://touetsurvar.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

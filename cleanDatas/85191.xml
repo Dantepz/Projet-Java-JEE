@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85191-01" codeInsee="85191" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Roche-sur-Yon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>Place Napoléon</Ligne>
+      <Ligne>BP 829</Ligne>
+      <CodePostal>85021</CodePostal>
+      <NomCommune>La Roche-sur-Yon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.6711349487</Latitude>
+         <Longitude>-1.42694997787</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 47 47 47</Téléphone>
+      <Télécopie>+33 2 51 37 48 71</Télécopie>
+      <Email>mairie@ville-larochesuryon.fr</Email>
+      <Url>http://www.ville-larochesuryon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

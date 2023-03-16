@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57318-01" codeInsee="57318" dateMiseAJour="2011-08-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hermelange</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue de l'église</Ligne>
+      <CodePostal>57790</CodePostal>
+      <NomCommune>HERMELANGE</NomCommune>
+      <Localisation>
+         <Latitude>48.6957015991</Latitude>
+         <Longitude>7.04850006104</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 24 88 98</Téléphone>
+      <Télécopie>+33 3 87 24 88 98</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

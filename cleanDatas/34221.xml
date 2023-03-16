@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34221-01" codeInsee="34221" dateMiseAJour="2011-05-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Puéchabon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>route de Montpellier</Ligne>
+      <CodePostal>34150</CodePostal>
+      <NomCommune>PUECHABON</NomCommune>
+      <Localisation>
+         <Latitude>43.7144012451</Latitude>
+         <Longitude>3.61934995651</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 57 40 74</Téléphone>
+      <Télécopie>+33 4 67 57 40 74</Télécopie>
+      <Email>communedepuechabon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

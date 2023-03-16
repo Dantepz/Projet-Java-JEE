@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25108-01" codeInsee="25108" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cernay-l'Église</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue Cuenin</Ligne>
+      <CodePostal>25120</CodePostal>
+      <NomCommune>Cernay-l'Église</NomCommune>
+      <Localisation>
+         <Latitude>47.2538986206</Latitude>
+         <Longitude>6.830930233</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 64 27 44</Téléphone>
+      <Télécopie>+33 3 81 64 22 46</Télécopie>
+      <Email>mairie-cernayleglise@wanadoo.fr</Email>
+      <Url>http://www.cernayleglise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

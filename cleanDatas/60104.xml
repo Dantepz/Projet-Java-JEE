@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60104-01" codeInsee="60104" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Breteuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Raoul-Huchez</Ligne>
+      <Ligne>BP 70168</Ligne>
+      <CodePostal>60121</CodePostal>
+      <NomCommune>Breteuil</NomCommune>
+      <Localisation>
+         <Latitude>49.6343994141</Latitude>
+         <Longitude>2.29627990723</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 80 24 24</Téléphone>
+      <Télécopie>+33 3 44 80 16 33</Télécopie>
+      <Email>ville@mairie-breteuil.fr</Email>
+      <Url>http://www.ville-breteuil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Permanence ouverte également avec les élus.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

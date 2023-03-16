@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80015-01" codeInsee="80015" dateMiseAJour="2012-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aizecourt-le-Haut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>80200</CodePostal>
+      <NomCommune>Aizecourt-le-Haut</NomCommune>
+      <Localisation>
+         <Latitude>49.9646606445</Latitude>
+         <Longitude>2.98529791832</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:15:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

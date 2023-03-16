@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44119-01" codeInsee="44119" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Paulx</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>47 Grand'rue</Ligne>
+      <CodePostal>44270</CodePostal>
+      <NomCommune>Paulx</NomCommune>
+      <Localisation>
+         <Latitude>46.9627124</Latitude>
+         <Longitude>-1.7535864</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 26 02 18</Téléphone>
+      <Télécopie>+33 2 40 26 03 38</Télécopie>
+      <Email>mairiedepaulx@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27475-01" codeInsee="27475" dateMiseAJour="2007-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Poterie Mathieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>route Départementale 810</Ligne>
+      <CodePostal>27560</CodePostal>
+      <NomCommune>LA POTERIE MATHIEU</NomCommune>
+      <Localisation>
+         <Latitude>49.2602958679</Latitude>
+         <Longitude>0.530211985111</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 57 97 72</Téléphone>
+      <Télécopie>+33 2 32 57 97 72</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

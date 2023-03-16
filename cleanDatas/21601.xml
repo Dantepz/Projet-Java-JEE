@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21601-01" codeInsee="21601" dateMiseAJour="2004-09-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Semezanges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>21220</CodePostal>
+      <NomCommune>SEMEZANGES</NomCommune>
+      <Localisation>
+         <Latitude>47.2143592834</Latitude>
+         <Longitude>4.85835313797</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 61 45 83</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

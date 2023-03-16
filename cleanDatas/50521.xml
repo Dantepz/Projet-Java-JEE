@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50521-01" codeInsee="50521" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Maur-des-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 route des Moulins</Ligne>
+      <CodePostal>50800</CodePostal>
+      <NomCommune>Saint-Maur-des-Bois</NomCommune>
+      <Localisation>
+         <Latitude>48.8226634</Latitude>
+         <Longitude>-1.1558229</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 50 82 89</Téléphone>
+      <Télécopie>+33 2 33 50 82 89</Télécopie>
+      <Email>mairie.stmaurdesbois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56059-01" codeInsee="56059" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Forges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 place de la Mairie</Ligne>
+      <CodePostal>56120</CodePostal>
+      <NomCommune>Les Forges</NomCommune>
+      <Localisation>
+         <Latitude>47.9571809</Latitude>
+         <Longitude>-2.6517055</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 75 31 73</Téléphone>
+      <Télécopie>+33 2 97 75 48 08</Télécopie>
+      <Email>mairiedesforges@wanadoo.fr</Email>
+      <Url>http://www.lesforges56.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

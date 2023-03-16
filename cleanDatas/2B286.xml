@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2B286-01" codeInsee="2B286" dateMiseAJour="2015-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sorbo-Ocagnano</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Sorbo</Ligne>
+      <CodePostal>20213</CodePostal>
+      <NomCommune>Sorbo-Ocagnano</NomCommune>
+      <Localisation>
+         <Latitude>42.475549</Latitude>
+         <Longitude>9.456989</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 36 71 49</Téléphone>
+      <Télécopie>+33 4 95 36 41 63</Télécopie>
+      <Email>mairie.sorbo@mic.fr</Email>
+      <Url>http://www.sorbo-ocagnano.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

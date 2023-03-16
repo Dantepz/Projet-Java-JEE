@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70533-01" codeInsee="70533" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vellefrey-et-Vellefrange</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue du Lavoir</Ligne>
+      <CodePostal>70700</CodePostal>
+      <NomCommune>Vellefrey-et-Vellefrange</NomCommune>
+      <Localisation>
+         <Latitude>47.4234008789</Latitude>
+         <Longitude>5.84252977371</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 32 93 00</Téléphone>
+      <Télécopie>+33 3 84 32 85 98</Télécopie>
+      <Email>mairie-vellefrey-70@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41041-01" codeInsee="41041" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-Vicomtesse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 rue Saint-Michel</Ligne>
+      <CodePostal>41270</CodePostal>
+      <NomCommune>La Chapelle-Vicomtesse</NomCommune>
+      <Localisation>
+         <Latitude>47.9911499023</Latitude>
+         <Longitude>1.03611004353</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 80 52 12</Téléphone>
+      <Télécopie>+33 2 54 80 52 12</Télécopie>
+      <Email>mairiechapellevicomtesse@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54546-01" codeInsee="54546" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vandières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Abbé-Mamias</Ligne>
+      <CodePostal>54121</CodePostal>
+      <NomCommune>Vandières</NomCommune>
+      <Localisation>
+         <Latitude>48.9542007446</Latitude>
+         <Longitude>6.03329992294</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 81 71 65</Téléphone>
+      <Télécopie>+33 3 83 82 64 32</Télécopie>
+      <Email>mairie.vandieres54@wanadoo.fr</Email>
+      <Url>http://www.vandieres54.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

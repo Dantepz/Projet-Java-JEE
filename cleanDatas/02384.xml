@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02384-01" codeInsee="02384" dateMiseAJour="2004-08-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Houry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Brune</Ligne>
+      <CodePostal>02140</CodePostal>
+      <NomCommune>HOURY</NomCommune>
+      <Localisation>
+         <Latitude>49.7793998718</Latitude>
+         <Longitude>3.86315989494</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 90 02 60</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

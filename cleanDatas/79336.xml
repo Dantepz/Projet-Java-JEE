@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79336-01" codeInsee="79336" dateMiseAJour="2015-10-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vançais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue des Saulniers</Ligne>
+      <CodePostal>79120</CodePostal>
+      <NomCommune>Vançais</NomCommune>
+      <Localisation>
+         <Latitude>46.299587</Latitude>
+         <Longitude>0.054064</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 29 43 73</Téléphone>
+      <Email>vancais-mairie@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

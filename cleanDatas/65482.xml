@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65482-01" codeInsee="65482" dateMiseAJour="2015-10-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cantaous</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>65150</CodePostal>
+      <NomCommune>Cantaous</NomCommune>
+      <Localisation>
+         <Latitude>43.101318</Latitude>
+         <Longitude>0.4417759</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 98 92 90</Téléphone>
+      <Télécopie>+33 5 62 98 92 90</Télécopie>
+      <Email>cantaous.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

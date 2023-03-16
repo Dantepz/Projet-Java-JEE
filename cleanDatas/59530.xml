@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59530-01" codeInsee="59530" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aybert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 bis, rue de l'Église</Ligne>
+      <CodePostal>59163</CodePostal>
+      <NomCommune>Saint-Aybert</NomCommune>
+      <Localisation>
+         <Latitude>50.448869</Latitude>
+         <Longitude>3.656273</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 45 42 89</Téléphone>
+      <Télécopie>+33 3 27 26 26 17</Télécopie>
+      <Email>intranet-saintaybert@orange.fr</Email>
+      <Url>http://www.saintaybert.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Fermeture à 17h pendant les congés scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Fermeture à 17h pendant les congés scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

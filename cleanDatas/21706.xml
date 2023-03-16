@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21706-01" codeInsee="21706" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villotte-sur-Ource</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Haute</Ligne>
+      <CodePostal>21400</CodePostal>
+      <NomCommune>Villotte-sur-Ource</NomCommune>
+      <Localisation>
+         <Latitude>47.86251</Latitude>
+         <Longitude>4.680127</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 91 07 71</Téléphone>
+      <Télécopie>+33 3 80 91 07 71</Télécopie>
+      <Email>villote.surource@wanadoo.fr</Email>
+      <Url>http://villotte.ource.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

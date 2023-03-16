@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18029-01" codeInsee="18029" dateMiseAJour="2014-07-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bessais-le-Fromental</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, route Nationale</Ligne>
+      <CodePostal>18210</CodePostal>
+      <NomCommune>Bessais-le-Fromental</NomCommune>
+      <Localisation>
+         <Latitude>46.7458000183</Latitude>
+         <Longitude>2.76244997978</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 60 71 89</Téléphone>
+      <Télécopie>+33 2 48 60 74 08</Télécopie>
+      <Email>mairie.bessais@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

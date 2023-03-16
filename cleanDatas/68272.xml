@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68272-01" codeInsee="68272" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Riedwihr</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Église</Ligne>
+      <Ligne>Riedwihr</Ligne>
+      <CodePostal>68320</CodePostal>
+      <NomCommune>Porte-du-Ried</NomCommune>
+      <Localisation>
+         <Latitude>48.1273994446</Latitude>
+         <Longitude>7.44518995285</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">la secrétaire de mairie descend au besoin</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 71 62 35</Téléphone>
+      <Télécopie>+33 3 89 49 19 11</Télécopie>
+      <Email>mairie@riedwihr.fr</Email>
+      <Url>http://www.riedwihr.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

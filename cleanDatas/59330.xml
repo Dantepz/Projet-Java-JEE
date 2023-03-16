@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59330-01" codeInsee="59330" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Landas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>75, rue de Général-de-Gaulle</Ligne>
+      <CodePostal>59310</CodePostal>
+      <NomCommune>Landas</NomCommune>
+      <Localisation>
+         <Latitude>50.4741951</Latitude>
+         <Longitude>3.3003459</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 61 52 19</Téléphone>
+      <Télécopie>+33 3 20 79 15 70</Télécopie>
+      <Email>commune-de-landas@wanadoo.fr</Email>
+      <Url>http://www.mairie-landas.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="9:00:00" fin="12:00:00"/>
+         <PlageH début="15:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="9:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

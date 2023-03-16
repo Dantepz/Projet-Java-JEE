@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09051-01" codeInsee="09051" dateMiseAJour="2014-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bénaix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Village</Ligne>
+      <CodePostal>09300</CodePostal>
+      <NomCommune>Bénaix</NomCommune>
+      <Localisation>
+         <Latitude>42.9069442749</Latitude>
+         <Longitude>1.85657501221</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 01 92 04</Téléphone>
+      <Télécopie>+33 5 61 65 26 80</Télécopie>
+      <Email>commune-benaix@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

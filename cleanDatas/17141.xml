@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17141-01" codeInsee="17141" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dompierre-sur-Charente</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>162 rue des Gabariers</Ligne>
+      <CodePostal>17610</CodePostal>
+      <NomCommune>Dompierre-sur-Charente</NomCommune>
+      <Localisation>
+         <Latitude>45.6999015808</Latitude>
+         <Longitude>-0.488301992416</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 91 01 05</Téléphone>
+      <Télécopie>+33 5 46 91 18 98</Télécopie>
+      <Email>mairie.dompierresurcharente@wanadoo.fr</Email>
+      <Url>http://dompierre-sur-charente.a3w.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

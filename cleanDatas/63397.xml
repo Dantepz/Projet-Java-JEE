@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63397-01" codeInsee="63397" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sauves-d'Auvergne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Henri-Pourrat</Ligne>
+      <CodePostal>63950</CodePostal>
+      <NomCommune>Saint-Sauves-d'Auvergne</NomCommune>
+      <Localisation>
+         <Latitude>45.588682</Latitude>
+         <Longitude>2.747795999999994</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 81 10 55</Téléphone>
+      <Télécopie>+33 4 73 81 20 93</Télécopie>
+      <Email>mairiedesaint-sauves@wanadoo.fr</Email>
+      <Url>http://www.saint-sauves-auvergne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:45:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

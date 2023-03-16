@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44109-01" codeInsee="44109" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nantes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>44094</CodePostal>
+      <NomCommune>Nantes Cedex 1</NomCommune>
+      <Localisation>
+         <Latitude>47.2187538147</Latitude>
+         <Longitude>-1.55357503891</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 41 90 00</Téléphone>
+      <Télécopie>+33 2 40 41 92 39</Télécopie>
+      <Email>contact@mairie-nantes.fr</Email>
+      <Url>http://www.nantes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65178-01" codeInsee="65178" dateMiseAJour="2006-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fréchède</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65220</CodePostal>
+      <NomCommune>FRECHEDE</NomCommune>
+      <Localisation>
+         <Latitude>43.3646736145</Latitude>
+         <Longitude>0.25840601325</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 69 33</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

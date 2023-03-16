@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85162-01" codeInsee="85162" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nieul-sur-l'Autise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue Aliénor-d'Aquitaine</Ligne>
+      <CodePostal>85240</CodePostal>
+      <NomCommune>Nieul-sur-l'Autise</NomCommune>
+      <Localisation>
+         <Latitude>46.424698</Latitude>
+         <Longitude>-0.6790241</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 52 40 12</Téléphone>
+      <Télécopie>+33 2 51 52 43 04</Télécopie>
+      <Email>mairie@nieul-sur-lautise.fr</Email>
+      <Url>http://www.nieul-sur-lautise.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

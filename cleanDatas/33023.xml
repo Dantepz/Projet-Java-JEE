@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33023-01" codeInsee="33023" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ayguemorte-les-Graves</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>33640</CodePostal>
+      <NomCommune>Ayguemorte-les-Graves</NomCommune>
+      <Localisation>
+         <Latitude>44.7095985413</Latitude>
+         <Longitude>-0.482172012329</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 67 10 15</Téléphone>
+      <Télécopie>+33 5 56 67 04 05</Télécopie>
+      <Email>mairie-ayguemortelesgraves@wanadoo.fr</Email>
+      <Url>http://www.ayguemortelesgraves.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:15:00" fin="12:00:00"/>
+         <PlageH début="14:15:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:15:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:15:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:15:00" fin="12:00:00"/>
+         <PlageH début="14:15:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:15:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

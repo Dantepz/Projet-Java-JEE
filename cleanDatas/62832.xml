@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62832-01" codeInsee="62832" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tubersent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>130 rue Jean-Dubuffet</Ligne>
+      <CodePostal>62630</CodePostal>
+      <NomCommune>Tubersent</NomCommune>
+      <Localisation>
+         <Latitude>50.5196912</Latitude>
+         <Longitude>1.7047294</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 86 74 37</Téléphone>
+      <Télécopie>+33 3 21 86 74 37</Télécopie>
+      <Email>mairie.de.tubersent@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="12:45:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

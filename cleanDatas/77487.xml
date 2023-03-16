@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77487-01" codeInsee="77487" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vaux-le-Pénil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue des Carouges</Ligne>
+      <CodePostal>77000</CodePostal>
+      <NomCommune>Vaux-le-Pénil</NomCommune>
+      <Localisation>
+         <Latitude>48.5257882</Latitude>
+         <Longitude>2.6835638</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 71 51 00</Téléphone>
+      <Télécopie>+33 1 64 71 51 44</Télécopie>
+      <Email>secretariat.du.maire@mairie-vaux-le-penil.fr</Email>
+      <Url>http://www.mairie-vaux-le-penil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour les cartes d'identité.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

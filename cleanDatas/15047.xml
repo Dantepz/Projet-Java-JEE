@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15047-01" codeInsee="15047" dateMiseAJour="2015-12-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chavagnac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>15300</CodePostal>
+      <NomCommune>Chavagnac</NomCommune>
+      <Localisation>
+         <Latitude>45.153753</Latitude>
+         <Longitude>2.8800941</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 20 10 19</Téléphone>
+      <Télécopie>+33 4 71 20 18 29</Télécopie>
+      <Email>chavagnac15-mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

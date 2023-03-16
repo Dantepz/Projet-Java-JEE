@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17406-01" codeInsee="17406" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sornin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Saint-Saturnin</Ligne>
+      <CodePostal>17600</CodePostal>
+      <NomCommune>Saint-Sornin</NomCommune>
+      <Localisation>
+         <Latitude>45.7679100037</Latitude>
+         <Longitude>-0.978168010712</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 85 11 40</Téléphone>
+      <Télécopie>+33 5 46 75 62 88</Télécopie>
+      <Email>mairie.stsornin911@orange.fr</Email>
+      <Url>http://www.st-sornin.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

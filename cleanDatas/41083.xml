@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41083-01" codeInsee="41083" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Ferté-Beauharnais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>375 rue du Général-Alexandre-de-Beauharnais</Ligne>
+      <CodePostal>41210</CodePostal>
+      <NomCommune>La Ferté-Beauharnais</NomCommune>
+      <Localisation>
+         <Latitude>47.5425605774</Latitude>
+         <Longitude>1.84922504425</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 83 60 74</Téléphone>
+      <Télécopie>+33 2 54 83 66 93</Télécopie>
+      <Email>lafertebeauharnais@orange.fr</Email>
+      <Url>http://www.la-ferte-beauharnais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

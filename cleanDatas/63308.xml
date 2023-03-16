@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63308-01" codeInsee="63308" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Royat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 boulevard Barrieu</Ligne>
+      <CodePostal>63130</CodePostal>
+      <NomCommune>Royat</NomCommune>
+      <Localisation>
+         <Latitude>45.7663002014</Latitude>
+         <Longitude>3.05712008476</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe extérieure et ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 29 50 80</Téléphone>
+      <Télécopie>+33 4 73 29 50 85</Télécopie>
+      <Email>mairie@royat.fr</Email>
+      <Url>http://www.royat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil. Contacter l'accueil pour s'assurer qu'il n'y a pas de fermeture exceptionnelle.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

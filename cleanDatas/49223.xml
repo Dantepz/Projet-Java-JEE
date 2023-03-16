@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49223-01" codeInsee="49223" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mûrs-Erigné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 80015</Ligne>
+      <Ligne>5 chemin de Bellevue</Ligne>
+      <CodePostal>49610</CodePostal>
+      <NomCommune>Mûrs-Erigné</NomCommune>
+      <Localisation>
+         <Latitude>47.3992996216</Latitude>
+         <Longitude>-0.537496984005</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 79 78 77</Téléphone>
+      <Télécopie>+33 2 41 45 95 08</Télécopie>
+      <Email>info@ville-murs-erigne.fr</Email>
+      <Url>http://www.murs-erigne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

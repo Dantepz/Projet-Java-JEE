@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51454-01" codeInsee="51454" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Reims</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Hôtel-de-ville</Ligne>
+      <Ligne>CS 80036</Ligne>
+      <CodePostal>51722</CodePostal>
+      <NomCommune>Reims Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.2577105</Latitude>
+         <Longitude>4.0320233</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 77 78 79</Téléphone>
+      <Télécopie>+33 3 26 77 94 33</Télécopie>
+      <Email>accueil@reims-contact.fr</Email>
+      <Url>http://www.reims.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:00:00" fin="19:00:00"/>
+         <Note>Horaires d'ouverture du Service administratif : du lundi au vendredi de 8h30 à 12h et de 13h à 17h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

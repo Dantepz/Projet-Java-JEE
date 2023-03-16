@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14762-01" codeInsee="14762" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vire-Normandie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue Deslongrais</Ligne>
+      <Ligne>BP 70076</Ligne>
+      <CodePostal>14500</CodePostal>
+      <NomCommune>Vire-Normandie</NomCommune>
+      <Localisation>
+         <Latitude>48.8378119</Latitude>
+         <Longitude>-0.8884466</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 66 60 00</Téléphone>
+      <Télécopie>+33 2 31 68 89 66</Télécopie>
+      <Email>cabinet.maire@ville-vire.fr</Email>
+      <Url>http://www.ville-vire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

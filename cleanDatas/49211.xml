@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49211-01" codeInsee="49211" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montilliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place du Comte-Hector</Ligne>
+      <CodePostal>49310</CodePostal>
+      <NomCommune>Montilliers</NomCommune>
+      <Localisation>
+         <Latitude>47.1458015442</Latitude>
+         <Longitude>-0.533137023449</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 75 81 54</Téléphone>
+      <Télécopie>+33 2 41 56 16 83</Télécopie>
+      <Email>mairie.montilliers@wanadoo.fr</Email>
+      <Url>http://www.montilliers49.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

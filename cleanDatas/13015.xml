@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13015-01" codeInsee="13015" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouc-Bel-Air</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>13320</CodePostal>
+      <NomCommune>Bouc-Bel-Air</NomCommune>
+      <Localisation>
+         <Latitude>43.4303016663</Latitude>
+         <Longitude>5.43471002579</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 94 93 93</Téléphone>
+      <Télécopie>+33 4 42 22 54 34</Télécopie>
+      <Url>http://www.boucbelair.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.Fermé la veille des jours fériés et en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

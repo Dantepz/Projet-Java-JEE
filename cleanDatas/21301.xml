@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21301-01" codeInsee="21301" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Glanon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>21250</CodePostal>
+      <NomCommune>Glanon</NomCommune>
+      <Localisation>
+         <Latitude>47.0555000305</Latitude>
+         <Longitude>5.06958007812</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 26 96 80</Téléphone>
+      <Télécopie>+33 3 80 26 96 80</Télécopie>
+      <Email>mairie.glanon@wanadoo.fr</Email>
+      <Url>http://glanon.monsite.orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77358-01" codeInsee="77358" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Penchard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>77124</CodePostal>
+      <NomCommune>Penchard</NomCommune>
+      <Localisation>
+         <Latitude>48.9865989685</Latitude>
+         <Longitude>2.85963010788</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 34 10 86</Téléphone>
+      <Télécopie>+33 1 64 34 56 14</Télécopie>
+      <Email>mairie@penchard.fr</Email>
+      <Url>http://www.mairiedepenchard.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Contacter l'accueil pour les horaires des vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour les horaires des vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Contacter l'accueil pour les horaires des vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour les horaires des vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert le 1er samedi du mois uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

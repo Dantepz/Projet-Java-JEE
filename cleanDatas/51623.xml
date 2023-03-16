@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51623-01" codeInsee="51623" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ville-en-Selve</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <CodePostal>51500</CodePostal>
+      <NomCommune>Ville-en-Selve</NomCommune>
+      <Localisation>
+         <Latitude>49.1255161</Latitude>
+         <Longitude>4.0816624</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 61 11 94</Téléphone>
+      <Télécopie>+33 3 26 61 11 94</Télécopie>
+      <Email>commune-de-ville-en-selve@orange.fr</Email>
+      <Url>http://www.ville-en-selve.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

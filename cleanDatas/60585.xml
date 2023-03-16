@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60585-01" codeInsee="60585" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-aux-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>543 rue de l'Abbaye</Ligne>
+      <CodePostal>60420</CodePostal>
+      <NomCommune>Saint-Martin-aux-Bois</NomCommune>
+      <Localisation>
+         <Latitude>49.5009994507</Latitude>
+         <Longitude>2.57894992828</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 51 03 55</Téléphone>
+      <Télécopie>+33 3 44 51 03 55</Télécopie>
+      <Email>saint-martin60@wanadoo.fr</Email>
+      <Url>http://www.mairie-saint-martin-aux-bois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

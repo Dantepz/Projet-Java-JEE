@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86023-01" codeInsee="86023" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Berthegon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue Daniel-de-La-Touche</Ligne>
+      <CodePostal>86420</CodePostal>
+      <NomCommune>Berthegon</NomCommune>
+      <Localisation>
+         <Latitude>46.8979454041</Latitude>
+         <Longitude>0.264622986317</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 22 80 64</Téléphone>
+      <Télécopie>+33 5 49 22 54 66</Télécopie>
+      <Email>berthegon@cg86.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique le mardi uniquement de 8h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

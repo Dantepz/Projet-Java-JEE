@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26127-01" codeInsee="26127" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eygaliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>26170</CodePostal>
+      <NomCommune>Eygaliers</NomCommune>
+      <Localisation>
+         <Latitude>44.2400779724</Latitude>
+         <Longitude>5.28006982803</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 28 15 40</Téléphone>
+      <Email>mairie.eygaliers@orange.fr</Email>
+      <Url>http://www.eygaliers.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

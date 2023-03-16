@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89270-01" codeInsee="89270" dateMiseAJour="2015-05-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mouffy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue Marets</Ligne>
+      <CodePostal>89560</CodePostal>
+      <NomCommune>Mouffy</NomCommune>
+      <Localisation>
+         <Latitude>47.6520332</Latitude>
+         <Longitude>3.5145938</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 41 73 22</Téléphone>
+      <Email>mairie-mouffy@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

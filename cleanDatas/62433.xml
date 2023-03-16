@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62433-01" codeInsee="62433" dateMiseAJour="2010-12-23"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Héricourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Mairie</Ligne>
+      <CodePostal>62130</CodePostal>
+      <NomCommune>HERICOURT</NomCommune>
+      <Localisation>
+         <Latitude>50.3823013306</Latitude>
+         <Longitude>2.27870988846</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

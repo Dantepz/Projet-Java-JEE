@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02457-01" codeInsee="02457" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marchais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 Grande rue</Ligne>
+      <CodePostal>02350</CodePostal>
+      <NomCommune>Marchais</NomCommune>
+      <Localisation>
+         <Latitude>49.5855</Latitude>
+         <Longitude>3.815741</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 22 21 23</Téléphone>
+      <Télécopie>+33 3 23 22 14 56</Télécopie>
+      <Email>mairie.marchais@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement de 11h à 12h en juillet et août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

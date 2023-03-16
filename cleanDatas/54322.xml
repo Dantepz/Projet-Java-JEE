@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54322-01" codeInsee="54322" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Longuyon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>54260</CodePostal>
+      <NomCommune>Longuyon</NomCommune>
+      <Localisation>
+         <Latitude>49.4459889</Latitude>
+         <Longitude>5.60082399999999</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 44 55 00</Téléphone>
+      <Télécopie>+33 3 59 81 80 67</Télécopie>
+      <Email>ville.longuyon@longuyon.fr</Email>
+      <Url>http://www.longuyon.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Le samedi : permanence des élus et accueil ouvert uniquement le 1er samedi de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

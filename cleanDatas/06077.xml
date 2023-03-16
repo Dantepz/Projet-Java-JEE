@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06077-01" codeInsee="06077" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lucéram</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, place Adrien-Barralis</Ligne>
+      <CodePostal>06440</CodePostal>
+      <NomCommune>Lucéram</NomCommune>
+      <Localisation>
+         <Latitude>43.8842010498</Latitude>
+         <Longitude>7.36069011688</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 91 60 50</Téléphone>
+      <Télécopie>+33 4 93 91 60 51</Télécopie>
+      <Email>commune-de-luceram@wanadoo.fr</Email>
+      <Url>http://www.luceram.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28216-01" codeInsee="28216" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Louvilliers-en-Drouais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Acacias</Ligne>
+      <CodePostal>28500</CodePostal>
+      <NomCommune>Louvilliers-en-Drouais</NomCommune>
+      <Localisation>
+         <Latitude>48.7319946289</Latitude>
+         <Longitude>1.28448200226</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 82 80 31</Téléphone>
+      <Télécopie>+33 2 37 82 80 31</Télécopie>
+      <Email>mairie.louvilliers28500@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Permanence des élus</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31283-01" codeInsee="31283" dateMiseAJour="2013-04-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lautignac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>200, place du Village</Ligne>
+      <CodePostal>31370</CodePostal>
+      <NomCommune>Lautignac</NomCommune>
+      <Localisation>
+         <Latitude>43.390578888</Latitude>
+         <Longitude>1.05091094971</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 91 81 81</Téléphone>
+      <Email>mairie.lautignac@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

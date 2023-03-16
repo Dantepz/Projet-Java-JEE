@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88218-01" codeInsee="88218" dateMiseAJour="2016-02-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de  Granges-Aumontzey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de Lattre-de-Tassigny</Ligne>
+      <CodePostal>88640</CodePostal>
+      <NomCommune>Granges-sur-Vologne</NomCommune>
+      <Localisation>
+         <Latitude>48.0708007812</Latitude>
+         <Longitude>6.86860990524</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 51 41 09</Téléphone>
+      <Télécopie>+33 3 29 57 54 94</Télécopie>
+      <Email>granges.sur.vologne@wanadoo.fr</Email>
+      <Url>http://www.granges-sur-vologne.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de  Granges-Aumontzey  remplace les communes de Granges-sur-Vologne et d'Aumontzey</Commentaire>
+</Organisme>

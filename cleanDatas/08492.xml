@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08492-01" codeInsee="08492" dateMiseAJour="2014-07-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vrigne-Meuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, chemin de Mézières</Ligne>
+      <CodePostal>08350</CodePostal>
+      <NomCommune>Vrigne-Meuse</NomCommune>
+      <Localisation>
+         <Latitude>49.7348709106</Latitude>
+         <Longitude>4.84642219543</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 65 25 94 24</Téléphone>
+      <Télécopie>+33 3 24 27 63 13</Télécopie>
+      <Email>mairie-vrigne-meuse@wanadoo.fr</Email>
+      <Url>http://www.mairie-vrigne-mairie-meuse.e-monsite.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

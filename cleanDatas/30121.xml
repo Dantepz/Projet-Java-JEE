@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30121-01" codeInsee="30121" dateMiseAJour="2007-11-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gailhan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de l'Abrivado</Ligne>
+      <CodePostal>30260</CodePostal>
+      <NomCommune>GAILHAN</NomCommune>
+      <Localisation>
+         <Latitude>43.8436355591</Latitude>
+         <Longitude>4.03176021576</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 80 12 50</Téléphone>
+      <Télécopie>+33 4 66 80 12 50</Télécopie>
+      <Email>gailhan@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

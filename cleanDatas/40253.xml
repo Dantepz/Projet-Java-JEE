@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40253-01" codeInsee="40253" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Cricq-Chalosse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>59 allée du Château</Ligne>
+      <CodePostal>40700</CodePostal>
+      <NomCommune>Saint-Cricq-Chalosse</NomCommune>
+      <Localisation>
+         <Latitude>43.6534996033</Latitude>
+         <Longitude>-0.683888971806</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 79 38 86</Téléphone>
+      <Télécopie>+33 5 58 79 87 73</Télécopie>
+      <Email>mairie.stcricqchalosse@wanadoo.fr</Email>
+      <Url>http://www.saintcricqchalosse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

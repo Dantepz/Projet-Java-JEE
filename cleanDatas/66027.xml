@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66027-01" codeInsee="66027" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Cabanasse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, avenue Lax</Ligne>
+      <CodePostal>66210</CodePostal>
+      <NomCommune>La Cabanasse</NomCommune>
+      <Localisation>
+         <Latitude>42.5019989014</Latitude>
+         <Longitude>2.11536002159</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 04 23 74</Téléphone>
+      <Télécopie>+33 4 68 04 14 02</Télécopie>
+      <Email>mairie@lacabanasse.fr</Email>
+      <Url>http://www.lacabanasse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

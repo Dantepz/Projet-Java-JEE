@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65443-01" codeInsee="65443" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thuy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>140, rue des Pyrénées</Ligne>
+      <CodePostal>65350</CodePostal>
+      <NomCommune>Thuy</NomCommune>
+      <Localisation>
+         <Latitude>43.257646</Latitude>
+         <Longitude>0.244018</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 93 88 80</Téléphone>
+      <Email>mairie.thuy@orange.fr</Email>
+   </CoordonnéesNum>
+   <Commentaire>Uniquement sur rendez-vous.</Commentaire>
+</Organisme>

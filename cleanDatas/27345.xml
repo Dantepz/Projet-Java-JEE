@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27345-01" codeInsee="27345" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Houssaye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Romilly</Ligne>
+      <CodePostal>27410</CodePostal>
+      <NomCommune>La Houssaye</NomCommune>
+      <Localisation>
+         <Latitude>48.9871902466</Latitude>
+         <Longitude>0.793058991432</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 30 98 10</Téléphone>
+      <Télécopie>+33 2 32 30 98 10</Télécopie>
+      <Email>mairie.lahoussaye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

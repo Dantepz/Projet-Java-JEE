@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26373-01" codeInsee="26373" dateMiseAJour="2015-03-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vesc</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Étienne-de-Vesc</Ligne>
+      <CodePostal>26220</CodePostal>
+      <NomCommune>Vesc</NomCommune>
+      <Localisation>
+         <Latitude>44.521591</Latitude>
+         <Longitude>5.1514939</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 46 42 24</Téléphone>
+      <Télécopie>+33 4 75 46 42 24</Télécopie>
+      <Email>mairievesc@yahoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

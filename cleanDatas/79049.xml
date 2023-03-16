@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79049-01" codeInsee="79049" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bressuire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, place de l'Hôtel-de-Ville</Ligne>
+      <Ligne>CS 20080</Ligne>
+      <CodePostal>79302</CodePostal>
+      <NomCommune>Bressuire Cedex</NomCommune>
+      <Localisation>
+         <Latitude>46.8418006897</Latitude>
+         <Longitude>-0.492965996265</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 80 49 80</Téléphone>
+      <Télécopie>+33 5 49 74 16 35</Télécopie>
+      <Email>mairie@ville-bressuire.fr</Email>
+      <Url>http://www.ville-bressuire.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

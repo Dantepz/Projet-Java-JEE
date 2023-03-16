@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60134-01" codeInsee="60134" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cauffry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>123 route de Mouy</Ligne>
+      <CodePostal>60290</CodePostal>
+      <NomCommune>Cauffry</NomCommune>
+      <Localisation>
+         <Latitude>49.320098877</Latitude>
+         <Longitude>2.4324400425</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 73 30 67</Téléphone>
+      <Télécopie>+33 3 44 73 58 79</Télécopie>
+      <Email>mairiecauffry@orange.fr</Email>
+      <Url>http://www.mairie-cauffry.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

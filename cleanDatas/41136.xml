@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41136-01" codeInsee="41136" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route Nationale</Ligne>
+      <CodePostal>41500</CodePostal>
+      <NomCommune>Mer</NomCommune>
+      <Localisation>
+         <Latitude>47.6570014954</Latitude>
+         <Longitude>1.49381995201</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 81 40 80</Téléphone>
+      <Télécopie>+33 2 54 81 40 89</Télécopie>
+      <Email>contact@ville-de-mer.com</Email>
+      <Url>http://www.ville-de-mer.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61172-01" codeInsee="61172" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontenai-les-Louvets</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Savatte</Ligne>
+      <CodePostal>61420</CodePostal>
+      <NomCommune>Fontenai-les-Louvets</NomCommune>
+      <Localisation>
+         <Latitude>48.528857</Latitude>
+         <Longitude>-0.0031939</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 27 02 13</Téléphone>
+      <Télécopie>+33 2 33 27 02 13</Télécopie>
+      <Email>mairie.fontenayleslouvets@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les 3 premiers samedis de chaque mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

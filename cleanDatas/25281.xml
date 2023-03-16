@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25281-01" codeInsee="25281" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Goux-lès-Dambelin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'Église</Ligne>
+      <CodePostal>25150</CodePostal>
+      <NomCommune>Goux-lès-Dambelin</NomCommune>
+      <Localisation>
+         <Latitude>47.4254989624</Latitude>
+         <Longitude>6.73162984848</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 96 03 80</Téléphone>
+      <Télécopie>+33 3 81 96 03 80</Télécopie>
+      <Email>mairie.gouxlesdambelin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="13:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

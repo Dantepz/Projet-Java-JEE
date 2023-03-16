@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88348-01" codeInsee="88348" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pierrepont-sur-l'Arentèle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 le Village</Ligne>
+      <CodePostal>88600</CodePostal>
+      <NomCommune>Pierrepont-sur-l'Arentèle</NomCommune>
+      <Localisation>
+         <Latitude>48.2639769</Latitude>
+         <Longitude>6.648568</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">rampe d'accès et sonnette d'appel</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 65 85 14</Téléphone>
+      <Email>pierrepont88@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

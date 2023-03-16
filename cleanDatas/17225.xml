@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17225-01" codeInsee="17225" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie des Mathes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 rue de la Sablière</Ligne>
+      <Ligne>CS 60013</Ligne>
+      <CodePostal>17570</CodePostal>
+      <NomCommune>Les Mathes</NomCommune>
+      <Localisation>
+         <Latitude>45.7165985107</Latitude>
+         <Longitude>-1.14426994324</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 22 48 72</Téléphone>
+      <Télécopie>+33 5 46 22 49 23</Télécopie>
+      <Email>info@mairie-lesmathes-palmyre.fr</Email>
+      <Url>http://www.mairie-lesmatheslapalmyre.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Horaires susceptibles de modifications à partir du mois de septembre.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Horaires susceptibles de modifications à partir du mois de septembre.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

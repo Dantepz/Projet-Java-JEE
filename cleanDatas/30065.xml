@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30065-01" codeInsee="30065" dateMiseAJour="2015-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Canaules-et-Argentières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>68 place de la Mairie</Ligne>
+      <CodePostal>30350</CodePostal>
+      <NomCommune>Canaules-et-Argentières</NomCommune>
+      <Localisation>
+         <Latitude>43.9898439</Latitude>
+         <Longitude>4.1072396</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 77 31 04</Téléphone>
+      <Télécopie>+33 4 66 93 76 48</Télécopie>
+      <Email>canaules.argentieres@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

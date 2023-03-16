@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57247-01" codeInsee="57247" dateMiseAJour="2004-09-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gerbecourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue principale</Ligne>
+      <CodePostal>57170</CodePostal>
+      <NomCommune>GERBECOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.8153991699</Latitude>
+         <Longitude>6.54704999924</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

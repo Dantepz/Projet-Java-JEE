@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54333-01" codeInsee="54333" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mailly-sur-Seille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 quartier du Roy</Ligne>
+      <CodePostal>54610</CodePostal>
+      <NomCommune>Mailly-sur-Seille</NomCommune>
+      <Localisation>
+         <Latitude>48.9103008</Latitude>
+         <Longitude>6.24693590000004</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 31 41 94</Téléphone>
+      <Télécopie>+33 3 83 31 20 99</Télécopie>
+      <Email>mairie.mailly@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

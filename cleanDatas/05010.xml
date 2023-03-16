@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05010-01" codeInsee="05010" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aspres-sur-Buëch</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grand'rue</Ligne>
+      <CodePostal>05140</CodePostal>
+      <NomCommune>Aspres-sur-Buëch</NomCommune>
+      <Localisation>
+         <Latitude>44.5220985413</Latitude>
+         <Longitude>5.75262022018</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 58 60 34</Téléphone>
+      <Télécopie>+33 4 92 58 68 71</Télécopie>
+      <Email>mairie.aspres-sur-buech@wanadoo.fr</Email>
+      <Url>http://www.aspres-sur-buech.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

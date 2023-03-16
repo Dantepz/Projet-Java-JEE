@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88433-01" codeInsee="88433" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Prancher</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>329, rue de la Ville</Ligne>
+      <CodePostal>88500</CodePostal>
+      <NomCommune>Saint-Prancher</NomCommune>
+      <Localisation>
+         <Latitude>48.3446578979</Latitude>
+         <Longitude>5.95859193802</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 65 66 41</Téléphone>
+      <Télécopie>+33 3 29 65 66 41</Télécopie>
+      <Email>mairie.stprancher@packsurfwifi.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

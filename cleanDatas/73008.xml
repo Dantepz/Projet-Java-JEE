@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73008-01" codeInsee="73008" dateMiseAJour="2016-01-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aix-les-Bains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Maurice-Mollard</Ligne>
+      <Ligne>BP 348</Ligne>
+      <CodePostal>73100</CodePostal>
+      <NomCommune>Aix-les-Bains</NomCommune>
+      <Localisation>
+         <Latitude>45.688374</Latitude>
+         <Longitude>5.915667</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 35 07 95</Téléphone>
+      <Télécopie>+33 4 79 35 02 20</Télécopie>
+      <Email>mairie@aixlesbains.fr</Email>
+      <Url>http://www.aixlesbains.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Service des titres d'identité 4 rue Jean Monard 73100 Aix-les-Bains 
+Téléphone : 04 79 35 78 93 E-mail : cni@aixlesbains.fr Permanences : Du 
+lundi au vendredi 8h30 à 12h00 et de 13h30 à 17h00. Pour les cartes 
+d'identité seulement (à partir du 6 février 2016) : accueil sur rendez-vous 
+dans les locaux de l'état-civil à l'Hôtel de Ville le samedi de 9h30 à 
+11h30.</Commentaire>
+</Organisme>

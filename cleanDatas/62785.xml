@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62785-01" codeInsee="62785" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Savy-Berlette</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27 C rue des Écoles</Ligne>
+      <CodePostal>62690</CodePostal>
+      <NomCommune>Savy-Berlette</NomCommune>
+      <Localisation>
+         <Latitude>50.3522987366</Latitude>
+         <Longitude>2.5616300106</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 22 00 94</Téléphone>
+      <Télécopie>+33 3 21 73 38 33</Télécopie>
+      <Email>savy-berlette@cc-atrebatie.fr</Email>
+      <Url>http://www.savy-berlette.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

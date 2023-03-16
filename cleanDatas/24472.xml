@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24472-01" codeInsee="24472" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Nexans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>200 route du Bourg</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24520</CodePostal>
+      <NomCommune>Saint-Nexans</NomCommune>
+      <Localisation>
+         <Latitude>44.804347</Latitude>
+         <Longitude>0.547653</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 24 33 52</Téléphone>
+      <Télécopie>+33 5 53 22 67 40</Télécopie>
+      <Email>mairie.saint-nexans@wanadoo.fr</Email>
+      <Url>http://www.pays-de-bergerac.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

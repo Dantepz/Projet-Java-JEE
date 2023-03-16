@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66022-01" codeInsee="66022" dateMiseAJour="2006-08-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boule d'Amont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>El Montado</Ligne>
+      <CodePostal>66130</CodePostal>
+      <NomCommune>BOULE D AMONT</NomCommune>
+      <Localisation>
+         <Latitude>42.5759811401</Latitude>
+         <Longitude>2.59707999229</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 84 87 87</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

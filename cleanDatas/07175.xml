@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-07175-01" codeInsee="07175" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie du Plagnal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>07590</CodePostal>
+      <NomCommune>Le Plagnal</NomCommune>
+      <Localisation>
+         <Latitude>44.6997041</Latitude>
+         <Longitude>3.9446839</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 69 36 06</Téléphone>
+      <Télécopie>+33 4 66 69 36 06</Télécopie>
+      <Email>mairie-plagnal@nordnet.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

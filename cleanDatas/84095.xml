@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84095-01" codeInsee="84095" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Puyvert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue des Écoles</Ligne>
+      <CodePostal>84160</CodePostal>
+      <NomCommune>Puyvert</NomCommune>
+      <Localisation>
+         <Latitude>43.7593994141</Latitude>
+         <Longitude>5.34287977219</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 08 38 24</Téléphone>
+      <Télécopie>+33 4 90 08 40 97</Télécopie>
+      <Email>mairie@puyvert.fr</Email>
+      <Url>http://www.puyvert.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

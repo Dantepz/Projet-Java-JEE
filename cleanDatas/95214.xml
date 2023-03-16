@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95214-01" codeInsee="95214" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Épinay-Champlâtreux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route nationale 52</Ligne>
+      <Ligne>Parc du Château</Ligne>
+      <CodePostal>95270</CodePostal>
+      <NomCommune>Épinay-Champlâtreux</NomCommune>
+      <Localisation>
+         <Latitude>49.08507</Latitude>
+         <Longitude>2.414001</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 71 00 44</Téléphone>
+      <Télécopie>+33 9 58 94 86 30</Télécopie>
+      <Email>mairie@epinaychamplatreux.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

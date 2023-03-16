@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28030-01" codeInsee="28030" dateMiseAJour="2016-02-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de Beaumarchais</Ligne>
+      <CodePostal>28270</CodePostal>
+      <NomCommune>Beauche</NomCommune>
+      <Localisation>
+         <Latitude>48.684299469</Latitude>
+         <Longitude>0.967975974083</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 62 41 42</Téléphone>
+      <Télécopie>+33 2 37 62 41 42</Télécopie>
+      <Email>mairie-beauche@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

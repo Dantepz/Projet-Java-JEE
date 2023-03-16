@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05035-01" codeInsee="05035" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châteauneuf-d'Oze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>05400</CodePostal>
+      <NomCommune>Châteauneuf-d'Oze</NomCommune>
+      <Localisation>
+         <Latitude>44.5120353699</Latitude>
+         <Longitude>5.86455392838</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 57 11 89</Téléphone>
+      <Télécopie>+33 4 92 57 11 89</Télécopie>
+      <Email>mairie.chateauneufdoze.1@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

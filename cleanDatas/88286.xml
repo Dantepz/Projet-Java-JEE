@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88286-01" codeInsee="88286" dateMiseAJour="2009-01-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marainville sur Madon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue du mont</Ligne>
+      <CodePostal>88130</CodePostal>
+      <NomCommune>MARAINVILLE SUR MADON</NomCommune>
+      <Localisation>
+         <Latitude>48.3983192444</Latitude>
+         <Longitude>6.16848278046</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 68 04 31</Téléphone>
+      <Email>mairie.marainville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

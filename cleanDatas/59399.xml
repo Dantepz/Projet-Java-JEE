@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59399-01" codeInsee="59399" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Merris</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 place de l'Église</Ligne>
+      <CodePostal>59270</CodePostal>
+      <NomCommune>Merris</NomCommune>
+      <Localisation>
+         <Latitude>50.7344017029</Latitude>
+         <Longitude>2.60478997231</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 42 70 10</Téléphone>
+      <Télécopie>+33 3 28 42 73 91</Télécopie>
+      <Email>commune-de-merris@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

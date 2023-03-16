@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73132-01" codeInsee="73132" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hauteluce</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>154 rue de la Voûte</Ligne>
+      <CodePostal>73620</CodePostal>
+      <NomCommune>Hauteluce</NomCommune>
+      <Localisation>
+         <Latitude>45.716067</Latitude>
+         <Longitude>6.573308</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 38 80 31</Téléphone>
+      <Télécopie>+33 4 79 38 83 50</Télécopie>
+      <Email>contact@mairie-hauteluce.fr</Email>
+      <Url>http://www.mairie-hauteluce.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

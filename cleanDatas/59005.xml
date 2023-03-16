@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59005-01" codeInsee="59005" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Allennes-les-Marais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26 rue Franche</Ligne>
+      <CodePostal>59251</CodePostal>
+      <NomCommune>Allennes-les-Marais</NomCommune>
+      <Localisation>
+         <Latitude>50.537399292</Latitude>
+         <Longitude>2.95199990273</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 62 92 40</Téléphone>
+      <Télécopie>+33 3 20 62 92 41</Télécopie>
+      <Email>mairie@ville-allennes-les-marais.fr</Email>
+      <Url>http://www.ville-allennes-les-marais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

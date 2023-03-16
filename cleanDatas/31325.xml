@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31325-01" codeInsee="31325" dateMiseAJour="2004-11-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mascarville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>31460</CodePostal>
+      <NomCommune>MASCARVILLE</NomCommune>
+      <Localisation>
+         <Latitude>43.5531463623</Latitude>
+         <Longitude>1.75772500038</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 6 61 83 25 40</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31062-01" codeInsee="31062" dateMiseAJour="2014-05-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bellesserre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>31480</CodePostal>
+      <NomCommune>Bellesserre</NomCommune>
+      <Localisation>
+         <Latitude>43.7906951904</Latitude>
+         <Longitude>1.10839998722</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 85 85 15</Téléphone>
+      <Email>commune-de-bellesserre@alsatis.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:15:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

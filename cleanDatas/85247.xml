@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85247-01" codeInsee="85247" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-des-Tilleuls</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Glycines</Ligne>
+      <CodePostal>85130</CodePostal>
+      <NomCommune>Saint-Martin-des-Tilleuls</NomCommune>
+      <Localisation>
+         <Latitude>46.9721984863</Latitude>
+         <Longitude>-1.04895997047</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 65 61 27</Téléphone>
+      <Télécopie>+33 2 51 65 67 66</Télécopie>
+      <Email>mairie.st-martin.til@wanadoo.fr</Email>
+      <Url>http://www.cc-canton-mortagne-sur-sevre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

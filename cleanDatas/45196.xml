@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45196-01" codeInsee="45196" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mareau-aux-Prés</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>385 rue Saint-Fiacre</Ligne>
+      <CodePostal>45370</CodePostal>
+      <NomCommune>Mareau-aux-Prés</NomCommune>
+      <Localisation>
+         <Latitude>47.8453865051</Latitude>
+         <Longitude>1.79813098907</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 45 61 09</Téléphone>
+      <Télécopie>+33 2 38 45 66 10</Télécopie>
+      <Email>mairie@mareauauxpres.com</Email>
+      <Url>http://www.mareauauxpres.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:30:00" fin="17:30:00"/>
+         <Note>Accueil fermé les après-midis pendant les vacances scolaires sauf le jeudi de 15h30 à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

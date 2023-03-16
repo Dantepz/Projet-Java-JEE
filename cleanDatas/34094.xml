@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34094-01" codeInsee="34094" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Espondeilhan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>81 avenue du Château</Ligne>
+      <CodePostal>34290</CodePostal>
+      <NomCommune>Espondeilhan</NomCommune>
+      <Localisation>
+         <Latitude>43.4375991821</Latitude>
+         <Longitude>3.25987005234</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 39 11 77</Téléphone>
+      <Télécopie>+33 4 67 39 11 54</Télécopie>
+      <Email>espondeilhan-accueil@wanadoo.fr</Email>
+      <Url>http://www.mairie-espondeilhan.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

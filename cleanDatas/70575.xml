@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70575-01" codeInsee="70575" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Voray-sur-l'Ognon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, place du Général-Bétant</Ligne>
+      <CodePostal>70190</CodePostal>
+      <NomCommune>Voray-sur-l'Ognon</NomCommune>
+      <Localisation>
+         <Latitude>47.3470001221</Latitude>
+         <Longitude>6.03613996506</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 56 81 23</Téléphone>
+      <Télécopie>+33 3 81 56 97 73</Télécopie>
+      <Email>mairie.voray.ognon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

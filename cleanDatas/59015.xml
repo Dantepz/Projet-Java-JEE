@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59015-01" codeInsee="59015" dateMiseAJour="2013-07-01"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arleux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>59151</CodePostal>
+      <NomCommune>Arleux</NomCommune>
+      <Localisation>
+         <Latitude>50.2999992371</Latitude>
+         <Longitude>3.07048010826</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 94 37 37</Téléphone>
+      <Télécopie>+33 3 27 94 37 38</Télécopie>
+      <Email>mairie@arleux.com</Email>
+      <Url>http://www.arleux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert jusqu'à 12h et permanence pour les passeports jusqu'à 11h30</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

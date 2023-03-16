@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66147-01" codeInsee="66147" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Porté-Puymorens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>66760</CodePostal>
+      <NomCommune>Porté-Puymorens</NomCommune>
+      <Localisation>
+         <Latitude>42.5480422974</Latitude>
+         <Longitude>1.8303450346</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 04 82 20</Téléphone>
+      <Télécopie>+33 4 68 04 94 57</Télécopie>
+      <Email>mairie.porte@wanadoo.fr</Email>
+      <Url>http://www.puymorens.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

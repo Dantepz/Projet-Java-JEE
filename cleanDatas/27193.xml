@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27193-01" codeInsee="27193" dateMiseAJour="2015-05-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Croth</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>27530</CodePostal>
+      <NomCommune>Croth</NomCommune>
+      <Localisation>
+         <Latitude>48.8456001282</Latitude>
+         <Longitude>1.37599003315</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 41 80 07</Téléphone>
+      <Télécopie>+33 9 70 29 22 99</Télécopie>
+      <Email>mairie-croth@wanadoo.fr</Email>
+      <Url>http://www.mairie-croth.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement un samedi par mois</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Ouverture le 1er samedi de chaque mois uniquement. Fermeture le jeudi.</Commentaire>
+</Organisme>

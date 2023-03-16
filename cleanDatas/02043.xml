@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02043-01" codeInsee="02043" dateMiseAJour="2007-12-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bagneux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue principale</Ligne>
+      <CodePostal>02290</CodePostal>
+      <NomCommune>BAGNEUX</NomCommune>
+      <Localisation>
+         <Latitude>49.461492</Latitude>
+         <Longitude>3.1048549</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 26 98</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

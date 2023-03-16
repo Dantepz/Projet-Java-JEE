@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65216-01" codeInsee="65216" dateMiseAJour="2007-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Hauban</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>65200</CodePostal>
+      <NomCommune>HAUBAN</NomCommune>
+      <Localisation>
+         <Latitude>43.094745636</Latitude>
+         <Longitude>0.16239400208</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 95 44 15</Téléphone>
+      <Télécopie>+33 5 62 91 08 79</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="20:30:00" fin="22:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61463-01" codeInsee="61463" dateMiseAJour="2016-01-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Les Monts d'Andaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 route de Bellou</Ligne>
+      <CodePostal>61600</CodePostal>
+      <NomCommune>La Sauvagère</NomCommune>
+      <Localisation>
+         <Latitude>48.6232795715</Latitude>
+         <Longitude>-0.416022986174</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 37 21 81</Téléphone>
+      <Télécopie>+33 2 33 37 37 13</Télécopie>
+      <Email>mairielasauvagere@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016 la commune Les Monts d'Andaine remplace les communes de Saint-Maurice-du-Désert et de La Sauvagère</Commentaire>
+</Organisme>

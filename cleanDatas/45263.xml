@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45263-01" codeInsee="45263" dateMiseAJour="2004-09-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rouvres Saint Jean</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15 rue d'Ansonville</Ligne>
+      <CodePostal>45300</CodePostal>
+      <NomCommune>ROUVRES ST JEAN</NomCommune>
+      <Localisation>
+         <Latitude>48.3250999451</Latitude>
+         <Longitude>2.21817994118</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 39 76 43</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

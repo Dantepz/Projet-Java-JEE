@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97309-01" codeInsee="97309" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Remire-Montjoly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue Jean-Michotte</Ligne>
+      <Ligne>BP 147</Ligne>
+      <CodePostal>97354</CodePostal>
+      <NomCommune>Remire-Montjoly Cedex</NomCommune>
+      <Localisation>
+         <Latitude>4.905</Latitude>
+         <Longitude>-52.2767</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+594 5 94 35 90 00</Téléphone>
+      <Télécopie>+594 5 94 37 80 15</Télécopie>
+      <Email>hdv.secretariat.maire@orange.fr</Email>
+      <Url>http://www.remire-montjoly.mairies-guyane.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:15:00" fin="13:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:45:00"/>
+         <PlageH début="14:45:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:15:00" fin="12:45:00"/>
+         <PlageH début="14:45:00" fin="16:15:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:15:00" fin="13:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="13:45:00"/>
+         <Note>Ouverture le samedi pour les mariages uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

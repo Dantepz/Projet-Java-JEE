@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26083-01" codeInsee="26083" dateMiseAJour="2015-11-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châteauneuf-de-Galaure</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 place de la Mairie</Ligne>
+      <Ligne>BP 14</Ligne>
+      <CodePostal>26330</CodePostal>
+      <NomCommune>Châteauneuf-de-Galaure</NomCommune>
+      <Localisation>
+         <Latitude>45.2327853</Latitude>
+         <Longitude>4.9561151</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 68 62 20</Téléphone>
+      <Télécopie>+33 4 75 68 60 37</Télécopie>
+      <Email>mairie@chateauneufdegalaure.fr</Email>
+      <Url>http://www.porte-de-dromardeche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

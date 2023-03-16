@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02443-01" codeInsee="02443" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lucy-le-Bocage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, route de Marigny</Ligne>
+      <CodePostal>02400</CodePostal>
+      <NomCommune>Lucy-le-Bocage</NomCommune>
+      <Localisation>
+         <Latitude>49.0573997498</Latitude>
+         <Longitude>3.27647995949</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 70 16 23</Téléphone>
+      <Télécopie>+33 3 23 85 20 01</Télécopie>
+      <Email>mairielucylebocage@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

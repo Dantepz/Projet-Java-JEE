@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55510-01" codeInsee="55510" dateMiseAJour="2015-12-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thonne-les-Près</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue des Roses</Ligne>
+      <CodePostal>55600</CodePostal>
+      <NomCommune>Thonne-les-Près</NomCommune>
+      <Localisation>
+         <Latitude>49.5268482</Latitude>
+         <Longitude>5.3508644</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 80 05 13</Téléphone>
+      <Télécopie>+33 3 29 80 05 13</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:45:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

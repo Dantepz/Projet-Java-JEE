@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86208-01" codeInsee="86208" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Rochereau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Moulins</Ligne>
+      <CodePostal>86170</CodePostal>
+      <NomCommune>Le Rochereau</NomCommune>
+      <Localisation>
+         <Latitude>46.70470047</Latitude>
+         <Longitude>0.150414004922</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 54 61 40</Téléphone>
+      <Télécopie>+33 5 49 54 16 86</Télécopie>
+      <Email>le-rochereau@cg86.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour le secrétariat le 1er samedi du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

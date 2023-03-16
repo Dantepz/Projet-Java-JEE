@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04061-01" codeInsee="04061" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Colmars</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Joseph-Jirieud</Ligne>
+      <CodePostal>04370</CodePostal>
+      <NomCommune>Colmars</NomCommune>
+      <Localisation>
+         <Latitude>44.182011</Latitude>
+         <Longitude>6.627112</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">contacter la mairie avant de se déplacer</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 83 43 21</Téléphone>
+      <Télécopie>+33 4 92 83 54 84</Télécopie>
+      <Email>mairie.colmars-les-alpes@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

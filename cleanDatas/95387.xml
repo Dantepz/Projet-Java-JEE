@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95387-01" codeInsee="95387" dateMiseAJour="2004-09-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Menouville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 rue de la Mairie</Ligne>
+      <CodePostal>95810</CodePostal>
+      <NomCommune>MENOUVILLE</NomCommune>
+      <Localisation>
+         <Latitude>49.1817016602</Latitude>
+         <Longitude>2.11142992973</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 66 53 82</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

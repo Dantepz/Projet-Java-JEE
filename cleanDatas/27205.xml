@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27205-01" codeInsee="27205" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Douville-sur-Andelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20, rue du Cardinal-Amette</Ligne>
+      <CodePostal>27380</CodePostal>
+      <NomCommune>Douville-sur-Andelle</NomCommune>
+      <Localisation>
+         <Latitude>49.3387985229</Latitude>
+         <Longitude>1.30028998852</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 49 99 67</Téléphone>
+      <Télécopie>+33 2 32 49 99 67</Télécopie>
+      <Email>mairie.douville.sur.andelle@wanadoo.fr</Email>
+      <Url>http://www.douville-sur-andelle.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="10:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

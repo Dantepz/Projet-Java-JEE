@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74014-01" codeInsee="74014" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arâches-la-Frasse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>64 route de Frévuard</Ligne>
+      <CodePostal>74300</CodePostal>
+      <NomCommune>Arâches-la-Frasse</NomCommune>
+      <Localisation>
+         <Latitude>46.0411987305</Latitude>
+         <Longitude>6.63601016998</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">l'usager doit prévenir la mairie avant son arrivée pour qu'on puisse l'aider à franchir le trottoir et ouvrir les portes, ou venir accompagné</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 90 03 40</Téléphone>
+      <Télécopie>+33 4 50 90 07 63</Télécopie>
+      <Email>secretariat@mairielescarroz.com</Email>
+      <Url>http://www.araches-la-frasse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="09:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

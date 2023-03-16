@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60633-01" codeInsee="60633" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thieuloy-Saint-Antoine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Ferdinand-Buisson</Ligne>
+      <CodePostal>60210</CodePostal>
+      <NomCommune>Thieuloy-Saint-Antoine</NomCommune>
+      <Localisation>
+         <Latitude>49.6334991455</Latitude>
+         <Longitude>1.94413995743</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 46 77 91</Téléphone>
+      <Télécopie>+33 3 44 46 77 91</Télécopie>
+      <Email>mairiethieuloystantoine@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

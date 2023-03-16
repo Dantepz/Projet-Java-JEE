@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25531-01" codeInsee="25531" dateMiseAJour="2004-09-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Santoche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue St Ermenfroi</Ligne>
+      <CodePostal>25340</CodePostal>
+      <NomCommune>SANTOCHE</NomCommune>
+      <Localisation>
+         <Latitude>47.4041366577</Latitude>
+         <Longitude>6.50731182098</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 93 88 92</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

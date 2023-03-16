@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02442-01" codeInsee="02442" dateMiseAJour="2004-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Loupeigne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Poule</Ligne>
+      <CodePostal>02130</CodePostal>
+      <NomCommune>LOUPEIGNE</NomCommune>
+      <Localisation>
+         <Latitude>49.2505226135</Latitude>
+         <Longitude>3.53558897972</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 82 38 82</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

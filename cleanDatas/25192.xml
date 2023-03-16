@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25192-01" codeInsee="25192" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dampjoux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Montoille</Ligne>
+      <CodePostal>25190</CodePostal>
+      <NomCommune>Dampjoux</NomCommune>
+      <Localisation>
+         <Latitude>47.3437004089</Latitude>
+         <Longitude>6.75811004639</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 92 29 21</Téléphone>
+      <Télécopie>+33 3 81 96 95 77</Télécopie>
+      <Email>mairie.dampjoux@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="14:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+         <Note>Permanence des élus uniquement</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

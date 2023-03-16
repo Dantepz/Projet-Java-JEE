@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33008-01" codeInsee="33008" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arbis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>844 le Bourg</Ligne>
+      <CodePostal>33760</CodePostal>
+      <NomCommune>Arbis</NomCommune>
+      <Localisation>
+         <Latitude>44.677453</Latitude>
+         <Longitude>-0.246031</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 23 62 30</Téléphone>
+      <Télécopie>+33 9 70 06 63 67</Télécopie>
+      <Email>mairie.arbis@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

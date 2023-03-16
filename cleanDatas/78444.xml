@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78444-01" codeInsee="78444" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neauphlette</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Loges</Ligne>
+      <CodePostal>78980</CodePostal>
+      <NomCommune>Neauphlette</NomCommune>
+      <Localisation>
+         <Latitude>48.9347991943</Latitude>
+         <Longitude>1.52265000343</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 78 34 91</Téléphone>
+      <Télécopie>+33 1 34 78 00 60</Télécopie>
+      <Email>neauphlette.mairie@wanadoo.fr</Email>
+      <Url>http://www.neauphlette.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+         <Note>Accueil fermé pour l'état civil le samedi.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

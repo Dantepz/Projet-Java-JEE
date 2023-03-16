@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32078-01" codeInsee="32078" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Castelnau-d'Arbieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>32500</CodePostal>
+      <NomCommune>Castelnau-d'Arbieu</NomCommune>
+      <Localisation>
+         <Latitude>43.8830528259</Latitude>
+         <Longitude>0.704719007015</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 06 20 71</Téléphone>
+      <Télécopie>+33 5 62 06 20 71</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+         <PlageH début="13:45:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-91421-01" codeInsee="91421" dateMiseAJour="2016-03-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montgeron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>112 bis avenue de la République</Ligne>
+      <CodePostal>91230</CodePostal>
+      <NomCommune>Montgeron</NomCommune>
+      <Localisation>
+         <Latitude>48.7040316</Latitude>
+         <Longitude>2.4602221</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">accès par le parking</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 69 83 69 00</Téléphone>
+      <Télécopie>+33 1 69 03 55 23</Télécopie>
+      <Email>montgeron@montgeron.fr</Email>
+      <Url>http://www.montgeron.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="19:00:00"/>
+         <Note>fermeture à 17h30 pendant les vacances scolaires</Note>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

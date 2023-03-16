@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60179-01" codeInsee="60179" dateMiseAJour="2007-11-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crevecoeur Le Petit</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 grande rue</Ligne>
+      <CodePostal>60420</CodePostal>
+      <NomCommune>CREVECOEUR LE PETIT</NomCommune>
+      <Localisation>
+         <Latitude>49.5895996094</Latitude>
+         <Longitude>2.51752996445</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 51 20 54</Téléphone>
+      <Email>mairie.crevecoeur-le-petit@aliceadsl.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

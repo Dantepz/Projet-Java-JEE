@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17276-01" codeInsee="17276" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie du Pin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chez Renaud</Ligne>
+      <CodePostal>17210</CodePostal>
+      <NomCommune>Le Pin</NomCommune>
+      <Localisation>
+         <Latitude>45.316556</Latitude>
+         <Longitude>-0.29554</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 70 62 80</Téléphone>
+      <Email>mairie.lepin@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80684-01" codeInsee="80684" dateMiseAJour="2007-11-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de ROUY-LE-PETIT</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>80190</CodePostal>
+      <NomCommune>ROUY LE PETIT</NomCommune>
+      <Localisation>
+         <Latitude>49.773399353</Latitude>
+         <Longitude>2.94935011864</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 88 20 87</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65289-01" codeInsee="65289" dateMiseAJour="2007-12-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Luby Betmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>65220</CodePostal>
+      <NomCommune>LUBY BETMONT</NomCommune>
+      <Localisation>
+         <Latitude>43.2958717346</Latitude>
+         <Longitude>0.291693001986</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 59 66</Téléphone>
+      <Télécopie>+33 5 62 35 59 66</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

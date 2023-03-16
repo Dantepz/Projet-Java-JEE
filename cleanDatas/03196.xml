@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03196-01" codeInsee="03196" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neuilly-en-Donjon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>03130</CodePostal>
+      <NomCommune>Neuilly-en-Donjon</NomCommune>
+      <Localisation>
+         <Latitude>46.3449114</Latitude>
+         <Longitude>3.8816789</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 55 30 55</Téléphone>
+      <Télécopie>+33 4 70 55 30 55</Télécopie>
+      <Email>mairie-neuilly-en-donjon@wanadoo.fr</Email>
+      <Url>http://www.mairie-neuilly-en-donjon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

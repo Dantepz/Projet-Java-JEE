@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-92078-01" codeInsee="92078" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villeneuve-la-Garenne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>28 avenue de Verdun</Ligne>
+      <CodePostal>92390</CodePostal>
+      <NomCommune>Villeneuve-la-Garenne</NomCommune>
+      <Localisation>
+         <Latitude>48.9356002808</Latitude>
+         <Longitude>2.33300995827</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 40 85 57 00</Téléphone>
+      <Télécopie>+33 1 47 98 86 56</Télécopie>
+      <Url>http://www.villeneuve92.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:15:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:45:00"/>
+         <Note>Accueil ouvert pour l'état civil, les cartes d'identité et les passeports.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

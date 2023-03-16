@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41005-01" codeInsee="41005" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, allée de la Commanderie</Ligne>
+      <CodePostal>41170</CodePostal>
+      <NomCommune>Arville</NomCommune>
+      <Localisation>
+         <Latitude>48.0635108948</Latitude>
+         <Longitude>0.947062015533</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 80 86 38</Téléphone>
+      <Télécopie>+33 2 54 80 86 01</Télécopie>
+      <Email>mairie.arville@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

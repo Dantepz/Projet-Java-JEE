@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55586-01" codeInsee="55586" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Xivray-et-Marvoisin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue Principale</Ligne>
+      <CodePostal>55300</CodePostal>
+      <NomCommune>Xivray-et-Marvoisin</NomCommune>
+      <Localisation>
+         <Latitude>48.8652992249</Latitude>
+         <Longitude>5.74602985382</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 90 42 23</Téléphone>
+      <Télécopie>+33 3 29 90 42 23</Télécopie>
+      <Email>mairie.xivray@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Possibilité de rendez-vous en contactant le standard téléphonique.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

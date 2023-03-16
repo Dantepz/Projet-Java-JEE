@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31056-01" codeInsee="31056" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beauzelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 90218</Ligne>
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>31705</CodePostal>
+      <NomCommune>Beauzelle Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.6683006287</Latitude>
+         <Longitude>1.37925994396</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 21 32 50</Téléphone>
+      <Télécopie>+33 5 62 21 32 51</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

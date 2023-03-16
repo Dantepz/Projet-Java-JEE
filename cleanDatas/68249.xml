@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68249-01" codeInsee="68249" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d’Orbey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>48 rue Charles-de-Gaulle</Ligne>
+      <CodePostal>68370</CodePostal>
+      <NomCommune>Orbey</NomCommune>
+      <Localisation>
+         <Latitude>48.1263766</Latitude>
+         <Longitude>7.1601048</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 71 20 07</Téléphone>
+      <Télécopie>+33 3 89 71 35 96</Télécopie>
+      <Email>mairie@orbey.fr</Email>
+      <Url>http://www.orbey.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

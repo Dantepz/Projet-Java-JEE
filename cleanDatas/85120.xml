@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85120-01" codeInsee="85120" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Landevieille</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Presbytère</Ligne>
+      <CodePostal>85220</CodePostal>
+      <NomCommune>Landevieille</NomCommune>
+      <Localisation>
+         <Latitude>46.6018981934</Latitude>
+         <Longitude>-1.75622999668</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 22 49 22</Téléphone>
+      <Télécopie>+33 2 51 22 91 12</Télécopie>
+      <Email>mairie.landevieille@wanadoo.fr</Email>
+      <Url>http://www.mairie-landevieille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

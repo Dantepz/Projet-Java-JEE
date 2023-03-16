@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45069-01" codeInsee="45069" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chambon-la-Forêt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue du Cardinal-de-la-Luzerne</Ligne>
+      <CodePostal>45340</CodePostal>
+      <NomCommune>Chambon-la-Forêt</NomCommune>
+      <Localisation>
+         <Latitude>48.0616989136</Latitude>
+         <Longitude>2.28892993927</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 32 28 55</Téléphone>
+      <Télécopie>+33 2 38 32 28 91</Télécopie>
+      <Email>mairie.chambonlaforet@wanadoo.fr</Email>
+      <Url>http://www.ccbeaunois45.fr/2-159-Chambon-la-Foret.php</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

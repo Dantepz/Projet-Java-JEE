@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65312-01" codeInsee="65312" dateMiseAJour="2007-11-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Molère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le village</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>MOLERE</NomCommune>
+      <Localisation>
+         <Latitude>43.097681</Latitude>
+         <Longitude>0.295951</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 39 01 88</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

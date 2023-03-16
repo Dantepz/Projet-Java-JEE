@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26064-01" codeInsee="26064" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chabeuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Génissieu</Ligne>
+      <CodePostal>26120</CodePostal>
+      <NomCommune>Chabeuil</NomCommune>
+      <Localisation>
+         <Latitude>44.9000015259</Latitude>
+         <Longitude>5.01930999756</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 59 01 70</Téléphone>
+      <Télécopie>+33 4 75 59 27 05</Télécopie>
+      <Email>mairie-chabeuil@wanadoo.fr</Email>
+      <Url>http://www.mairie-chabeuil.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62533-01" codeInsee="62533" dateMiseAJour="2016-02-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lugy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue de la Mairie</Ligne>
+      <CodePostal>62310</CodePostal>
+      <NomCommune>LUGY</NomCommune>
+      <Localisation>
+         <Latitude>50.5447998047</Latitude>
+         <Longitude>2.16478991508</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 04 44 09</Téléphone>
+      <Télécopie>+33 3 21 04 44 09</Télécopie>
+      <Email>mairie.lugy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

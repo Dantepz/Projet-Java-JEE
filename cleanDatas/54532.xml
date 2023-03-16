@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54532-01" codeInsee="54532" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tremblecourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue de la Mairie</Ligne>
+      <CodePostal>54385</CodePostal>
+      <NomCommune>Tremblecourt</NomCommune>
+      <Localisation>
+         <Latitude>48.805431366</Latitude>
+         <Longitude>5.94063901901</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">prendre rendez-vous par téléphone</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 23 17 28</Téléphone>
+      <Télécopie>+33 3 83 23 17 28</Télécopie>
+      <Email>mairietremblecourt@wanadoo.fr</Email>
+      <Url>http://www.tremblecourt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

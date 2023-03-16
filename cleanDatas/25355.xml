@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25355-01" codeInsee="25355" dateMiseAJour="2004-09-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Magny Châtelard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 Grande Rue</Ligne>
+      <CodePostal>25360</CodePostal>
+      <NomCommune>MAGNY CHATELARD</NomCommune>
+      <Localisation>
+         <Latitude>47.2365989685</Latitude>
+         <Longitude>6.35880994797</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 63 01 87</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

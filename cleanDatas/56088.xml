@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56088-01" codeInsee="56088" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Île-d'Arz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Prieuré</Ligne>
+      <CodePostal>56840</CodePostal>
+      <NomCommune>Île-d'Arz</NomCommune>
+      <Localisation>
+         <Latitude>47.5891990662</Latitude>
+         <Longitude>-2.80426001549</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 44 31 14</Téléphone>
+      <Télécopie>+33 2 97 44 30 79</Télécopie>
+      <Email>secretariat@mairie-iledarz.fr</Email>
+      <Url>http://www.iledarz.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

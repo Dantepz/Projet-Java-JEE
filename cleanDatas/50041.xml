@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50041-01" codeInsee="50041" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaumont-Hague</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de la Mairie</Ligne>
+      <Ligne>BP 126</Ligne>
+      <CodePostal>50441</CodePostal>
+      <NomCommune>Beaumont-Hague Cedex</NomCommune>
+      <Localisation>
+         <Latitude>49.6628683</Latitude>
+         <Longitude>-1.837726900000007</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 01 57 20</Téléphone>
+      <Télécopie>+33 2 33 52 06 77</Télécopie>
+      <Email>contact@beaumont-hague.fr</Email>
+      <Url>http://www.beaumont-hague.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <Note>Accueil permanence.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

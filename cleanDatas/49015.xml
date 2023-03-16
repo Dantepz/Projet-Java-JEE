@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49015-01" codeInsee="49015" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avrillé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 esplanade de l'Hôtel-de-Ville</Ligne>
+      <Ligne>CS 50109</Ligne>
+      <CodePostal>49240</CodePostal>
+      <NomCommune>Avrillé Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.5068312</Latitude>
+         <Longitude>-0.5897386</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 37 41 00</Téléphone>
+      <Télécopie>+33 2 41 69 66 41</Télécopie>
+      <Email>mairie@ville-avrille.fr</Email>
+      <Url>http://www.ville-avrille.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et fermé pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

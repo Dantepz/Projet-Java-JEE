@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31509-01" codeInsee="31509" dateMiseAJour="2013-04-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Pé-d'Ardet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>31510</CodePostal>
+      <NomCommune>Saint-Pé-d'Ardet</NomCommune>
+      <Localisation>
+         <Latitude>42.9838943481</Latitude>
+         <Longitude>0.670976996422</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 79 68 31</Téléphone>
+      <Télécopie>+33 5 61 79 68 31</Télécopie>
+      <Email>mairie-saintpedardet@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

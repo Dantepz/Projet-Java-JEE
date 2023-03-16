@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-87133-01" codeInsee="87133" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Amand-Magnazeix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 le Bourg</Ligne>
+      <CodePostal>87290</CodePostal>
+      <NomCommune>Saint-Amand-Magnazeix</NomCommune>
+      <Localisation>
+         <Latitude>46.1738815308</Latitude>
+         <Longitude>1.35483300686</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 76 00 87</Téléphone>
+      <Télécopie>+33 5 55 76 10 94</Télécopie>
+      <Email>mairie.st.amand.magnx@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

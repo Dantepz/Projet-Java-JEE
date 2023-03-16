@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88314-01" codeInsee="88314" dateMiseAJour="2004-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Morizécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>mairie</Ligne>
+      <CodePostal>88320</CodePostal>
+      <NomCommune>MORIZECOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.0700836182</Latitude>
+         <Longitude>5.86037302017</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 09 54 83</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

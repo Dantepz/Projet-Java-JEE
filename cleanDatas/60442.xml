@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60442-01" codeInsee="60442" dateMiseAJour="2009-11-09"
+           pivotLocal="mairie">
+   <Nom>Mairie de Muidorge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 bis rue Marcel Dassault</Ligne>
+      <CodePostal>60480</CodePostal>
+      <NomCommune>MUIDORGE</NomCommune>
+      <Localisation>
+         <Latitude>49.5349006653</Latitude>
+         <Longitude>2.13372993469</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 81 71 44</Téléphone>
+      <Email>mairiedemuidorge@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

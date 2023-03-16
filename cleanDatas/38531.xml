@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38531-01" codeInsee="38531" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Velanne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, place de la Mairie</Ligne>
+      <CodePostal>38620</CodePostal>
+      <NomCommune>Velanne</NomCommune>
+      <Localisation>
+         <Latitude>49.1517259</Latitude>
+         <Longitude>1.787148</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 07 61 15</Téléphone>
+      <Télécopie>+33 4 76 07 18 16</Télécopie>
+      <Email>mairie.velanne@wanadoo.fr</Email>
+      <Url>http://www.mairie-velanne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence urbanisme le mardi de 8h à 10h.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence urbanisme le mardi de 8h à 10h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

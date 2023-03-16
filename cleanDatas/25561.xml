@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25561-01" codeInsee="25561" dateMiseAJour="2011-01-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thoraise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de Surotte</Ligne>
+      <CodePostal>25320</CodePostal>
+      <NomCommune>THORAISE</NomCommune>
+      <Localisation>
+         <Latitude>47.1742591858</Latitude>
+         <Longitude>5.90103816986</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 56 61 64</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

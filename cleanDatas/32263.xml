@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32263-01" codeInsee="32263" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Moncassin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>32300</CodePostal>
+      <NomCommune>Moncassin</NomCommune>
+      <Localisation>
+         <Latitude>43.4538154602</Latitude>
+         <Longitude>0.478944987059</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 66 76 40</Téléphone>
+      <Télécopie>+33 5 62 66 76 40</Télécopie>
+      <Email>mairie.moncassin@wanadoo.fr</Email>
+      <Url>http://www.vva-gers.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="14:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

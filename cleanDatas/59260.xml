@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59260-01" codeInsee="59260" dateMiseAJour="2016-03-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ghyvelde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>145 bis rue Nationale</Ligne>
+      <CodePostal>59254</CodePostal>
+      <NomCommune>Ghyvelde</NomCommune>
+      <Localisation>
+         <Latitude>51.0507011414</Latitude>
+         <Longitude>2.5271499157</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 26 69 00</Téléphone>
+      <Télécopie>+33 3 28 26 63 32</Télécopie>
+      <Email>mairieghyvelde@wanadoo.fr</Email>
+      <Url>http://www.ville-ghyvelde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Ghyvelde  remplace les communes Ghyvelde et des Moëres</Commentaire>
+</Organisme>

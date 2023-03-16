@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51103-01" codeInsee="51103" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Celle-sous-Chantemerle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Anciens-Combattants</Ligne>
+      <CodePostal>51260</CodePostal>
+      <NomCommune>La Celle-sous-Chantemerle</NomCommune>
+      <Localisation>
+         <Latitude>48.5694999695</Latitude>
+         <Longitude>3.73185992241</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 80 25 83</Téléphone>
+      <Télécopie>+33 3 26 80 25 83</Télécopie>
+      <Email>mairie.lacellesouschantemerle@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

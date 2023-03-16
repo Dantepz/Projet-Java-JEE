@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52371-01" codeInsee="52371" dateMiseAJour="2009-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Oudincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 rue du château</Ligne>
+      <CodePostal>52310</CodePostal>
+      <NomCommune>OUDINCOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.1999015808</Latitude>
+         <Longitude>5.04045009613</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 01 48 30</Téléphone>
+      <Télécopie>+33 3 25 01 48 30</Télécopie>
+      <Email>mairie.oudincourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

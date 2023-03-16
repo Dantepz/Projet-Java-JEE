@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27696-01" codeInsee="27696" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villiers-en-Désœuvre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, Grand'rue</Ligne>
+      <CodePostal>27640</CodePostal>
+      <NomCommune>Villiers-en-Désœuvre</NomCommune>
+      <Localisation>
+         <Latitude>48.9474469</Latitude>
+         <Longitude>1.486344</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 36 37 47</Téléphone>
+      <Télécopie>+33 2 32 26 08 84</Télécopie>
+      <Email>mairie.villiersendesoeuvre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

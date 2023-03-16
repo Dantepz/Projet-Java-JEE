@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80225-01" codeInsee="80225" dateMiseAJour="2007-12-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Creuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue principale</Ligne>
+      <CodePostal>80480</CodePostal>
+      <NomCommune>CREUSE</NomCommune>
+      <Localisation>
+         <Latitude>49.8395004272</Latitude>
+         <Longitude>2.1661400795</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 38 93 70</Téléphone>
+      <Télécopie>+33 3 22 38 93 70</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

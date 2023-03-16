@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01116-01" codeInsee="01116" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Contrevoz</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>159, route des Alpes</Ligne>
+      <CodePostal>01300</CodePostal>
+      <NomCommune>Contrevoz</NomCommune>
+      <Localisation>
+         <Latitude>45.8061065674</Latitude>
+         <Longitude>5.62774085999</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 81 82 11</Téléphone>
+      <Télécopie>+33 4 79 81 85 05</Télécopie>
+      <Email>contrevozmairie@orange.fr</Email>
+      <Url>http://www.contrevoz.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

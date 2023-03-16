@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-92048-01" codeInsee="92048" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Meudon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, avenue Le-Corbeiller</Ligne>
+      <CodePostal>92195</CodePostal>
+      <NomCommune>Meudon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.8125</Latitude>
+         <Longitude>2.23875403404</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">ascenseur</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 41 14 80 00</Téléphone>
+      <Télécopie>+33 1 41 14 82 00</Télécopie>
+      <Email>accueil@mairie-meudon.fr</Email>
+      <Url>http://www.ville-meudon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

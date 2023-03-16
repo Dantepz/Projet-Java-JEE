@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60016-01" codeInsee="60016" dateMiseAJour="2014-12-16"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ansacq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue Bertrand</Ligne>
+      <CodePostal>60250</CodePostal>
+      <NomCommune>Ansacq</NomCommune>
+      <Localisation>
+         <Latitude>49.3445892334</Latitude>
+         <Longitude>2.35991692543</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 26 36 97</Téléphone>
+      <Email>ansacqmairie@hotmail.fr</Email>
+      <Url>http://www.ansacq.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

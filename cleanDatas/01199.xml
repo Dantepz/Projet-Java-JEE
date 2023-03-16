@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01199-01" codeInsee="01199" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jujurieux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>01640</CodePostal>
+      <NomCommune>Jujurieux</NomCommune>
+      <Localisation>
+         <Latitude>46.0564994812</Latitude>
+         <Longitude>5.35858011246</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 36 82 66</Téléphone>
+      <Télécopie>+33 4 74 36 93 93</Télécopie>
+      <Email>mairiejujurieux@orange.fr</Email>
+      <Url>http://www.jujurieux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

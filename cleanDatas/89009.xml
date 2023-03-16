@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89009-01" codeInsee="89009" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Annay-la-Côte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue Saint-Marcel</Ligne>
+      <CodePostal>89200</CodePostal>
+      <NomCommune>Annay-la-Côte</NomCommune>
+      <Localisation>
+         <Latitude>47.5349006653</Latitude>
+         <Longitude>3.88603997231</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 31 05 45</Téléphone>
+      <Télécopie>+33 3 86 31 05 45</Télécopie>
+      <Email>mairie-annay-la-cote@orange.fr</Email>
+      <Url>http://www.annay-la-cote.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

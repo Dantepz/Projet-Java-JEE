@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11155-01" codeInsee="11155" dateMiseAJour="2006-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fourtou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le village</Ligne>
+      <CodePostal>11190</CodePostal>
+      <NomCommune>FOURTOU</NomCommune>
+      <Localisation>
+         <Latitude>42.907749176</Latitude>
+         <Longitude>2.42928195</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 69 89 43</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

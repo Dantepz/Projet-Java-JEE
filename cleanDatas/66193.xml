@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66193-01" codeInsee="66193" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Serdinya</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, route nationale 116</Ligne>
+      <CodePostal>66360</CodePostal>
+      <NomCommune>Serdinya</NomCommune>
+      <Localisation>
+         <Latitude>42.5667152405</Latitude>
+         <Longitude>2.32093691826</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 97 04 67</Téléphone>
+      <Télécopie>+33 4 68 97 01 98</Télécopie>
+      <Email>mairie.serdinya@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

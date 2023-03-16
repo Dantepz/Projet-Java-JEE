@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14761-01" codeInsee="14761" dateMiseAJour="2007-11-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vimont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>chemin de Béneauville</Ligne>
+      <CodePostal>14370</CodePostal>
+      <NomCommune>VIMONT</NomCommune>
+      <Localisation>
+         <Latitude>49.1212997437</Latitude>
+         <Longitude>-0.199865996838</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 13 23 01 08</Téléphone>
+      <Télécopie>+33 2 13 23 08 70</Télécopie>
+      <Email>mairievimont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

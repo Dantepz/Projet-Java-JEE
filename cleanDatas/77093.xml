@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77093-01" codeInsee="77093" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-Moutils</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue des Tilleuls</Ligne>
+      <CodePostal>77320</CodePostal>
+      <NomCommune>La Chapelle-Moutils</NomCommune>
+      <Localisation>
+         <Latitude>48.775188446</Latitude>
+         <Longitude>3.39037799835</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 20 20 94</Téléphone>
+      <Télécopie>+33 1 64 20 20 94</Télécopie>
+      <Email>mairie.chapellemoutils@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

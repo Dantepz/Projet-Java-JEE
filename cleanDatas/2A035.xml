@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A035-01" codeInsee="2A035" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Belvédère-Campomoro</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>20110</CodePostal>
+      <NomCommune>Belvédère-Campomoro</NomCommune>
+      <Localisation>
+         <Latitude>41.6290893555</Latitude>
+         <Longitude>8.81599712372</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 74 20 27</Téléphone>
+      <Télécopie>+33 4 95 74 22 87</Télécopie>
+      <Email>mairiebelvederecampomoro@wanadoo.fr</Email>
+      <Url>http://www.mairie-belvederecampomoro.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 8h30 à 16h sauf le vendredi après-midi</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80229-01" codeInsee="80229" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crouy-Saint-Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de la Croix</Ligne>
+      <CodePostal>80310</CodePostal>
+      <NomCommune>Crouy-Saint-Pierre</NomCommune>
+      <Localisation>
+         <Latitude>49.9687995911</Latitude>
+         <Longitude>2.08648991585</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 51 10 97</Téléphone>
+      <Télécopie>+33 3 22 51 10 97</Télécopie>
+      <Email>mairie.crouysaintpierre@wanadoo.fr</Email>
+      <Url>https://sites.google.com/site/crouysaintpierre/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Permanence du maire de 18h à 19h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+         <Note>Permanence du maire de 18h à 19h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

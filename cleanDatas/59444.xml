@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59444-01" codeInsee="59444" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Odomez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>570 rue Pierre-Delcourt</Ligne>
+      <CodePostal>59970</CodePostal>
+      <NomCommune>Odomez</NomCommune>
+      <Localisation>
+         <Latitude>50.4558982849</Latitude>
+         <Longitude>3.53628993034</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 34 14 25</Téléphone>
+      <Télécopie>+33 3 27 34 14 25</Télécopie>
+      <Email>mairie@odomez.fr</Email>
+      <Url>http://www.odomez.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

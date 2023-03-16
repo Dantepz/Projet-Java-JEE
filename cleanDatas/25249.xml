@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25249-01" codeInsee="25249" dateMiseAJour="2004-09-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontenotte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Principale</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>FONTENOTTE</NomCommune>
+      <Localisation>
+         <Latitude>47.3824996948</Latitude>
+         <Longitude>6.34825992584</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 33 96</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

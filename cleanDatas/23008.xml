@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-23008-01" codeInsee="23008" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aubusson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>50 Grande rue</Ligne>
+      <CodePostal>23200</CodePostal>
+      <NomCommune>Aubusson</NomCommune>
+      <Localisation>
+         <Latitude>45.9545898438</Latitude>
+         <Longitude>2.16747498512</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 83 08 00</Téléphone>
+      <Télécopie>+33 5 55 66 12 20</Télécopie>
+      <Email>secretariatmaire@aubusson.fr</Email>
+      <Url>http://www.aubusson.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

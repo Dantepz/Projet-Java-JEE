@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88267-01" codeInsee="88267" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lerrain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11, rue de l'Église</Ligne>
+      <CodePostal>88260</CodePostal>
+      <NomCommune>Lerrain</NomCommune>
+      <Localisation>
+         <Latitude>48.1459999084</Latitude>
+         <Longitude>6.15123987198</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 07 50 97</Téléphone>
+      <Télécopie>+33 3 29 07 81 99</Télécopie>
+      <Email>lerrain@wanadoo.fr</Email>
+      <Url>http://www.communedelerrain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

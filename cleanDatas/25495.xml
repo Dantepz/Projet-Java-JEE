@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25495-01" codeInsee="25495" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Roche-Lez-Beaupré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Gare</Ligne>
+      <CodePostal>25220</CodePostal>
+      <NomCommune>Roche-lez-Beaupré</NomCommune>
+      <Localisation>
+         <Latitude>47.27626</Latitude>
+         <Longitude>6.112188</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 60 52 99</Téléphone>
+      <Télécopie>+33 3 81 55 68 92</Télécopie>
+      <Email>mairie@roche-lez-beaupre.fr</Email>
+      <Url>http://www.roche-lez-beaupre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

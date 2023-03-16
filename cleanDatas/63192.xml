@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63192-01" codeInsee="63192" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Tour-d'Auvergne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Docteur-Godonnèche</Ligne>
+      <CodePostal>63680</CodePostal>
+      <NomCommune>La Tour-d'Auvergne</NomCommune>
+      <Localisation>
+         <Latitude>45.533494</Latitude>
+         <Longitude>2.69142</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 21 50 12</Téléphone>
+      <Télécopie>+33 4 73 21 56 14</Télécopie>
+      <Email>latourauvergne.mairie@orange.fr</Email>
+      <Url>http://www.latourdauvergne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

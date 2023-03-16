@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16242-01" codeInsee="16242" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nanteuil-en-Vallée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue Farèze</Ligne>
+      <CodePostal>16700</CodePostal>
+      <NomCommune>Nanteuil-en-Vallée</NomCommune>
+      <Localisation>
+         <Latitude>46.0008010864</Latitude>
+         <Longitude>0.321363985538</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 31 82 67</Téléphone>
+      <Télécopie>+33 5 45 30 08 52</Télécopie>
+      <Email>nanteuil-en-vallee.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

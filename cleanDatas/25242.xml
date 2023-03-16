@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25242-01" codeInsee="25242" dateMiseAJour="2007-11-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Flagey Rigney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue de la Mairie</Ligne>
+      <CodePostal>25640</CodePostal>
+      <NomCommune>FLAGEY RIGNEY</NomCommune>
+      <Localisation>
+         <Latitude>47.3879013062</Latitude>
+         <Longitude>6.19521999359</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 06 96</Téléphone>
+      <Télécopie>+33 3 81 86 06 96</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

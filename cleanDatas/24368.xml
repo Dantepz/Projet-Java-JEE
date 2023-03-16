@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24368-01" codeInsee="24368" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Antoine-Cumond</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24410</CodePostal>
+      <NomCommune>Saint-Antoine-Cumond</NomCommune>
+      <Localisation>
+         <Latitude>45.255401</Latitude>
+         <Longitude>0.199743</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 91 22 01</Téléphone>
+      <Télécopie>+33 5 53 91 22 01</Télécopie>
+      <Email>mairie.stantoine-cumond@wanadoo.fr</Email>
+      <Url>http://www.saint-antoine-cumond.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Permanence des élus lundi, mercredi, jeudi et vendredi matin de 10h à 12h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27694-01" codeInsee="27694" dateMiseAJour="2007-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villez sous Bailleul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>25 rue du Val Saintouen</Ligne>
+      <CodePostal>27950</CodePostal>
+      <NomCommune>VILLEZ SOUS BAILLEUL</NomCommune>
+      <Localisation>
+         <Latitude>49.1111984253</Latitude>
+         <Longitude>1.37841999531</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 52 43 21</Téléphone>
+      <Télécopie>+33 2 32 52 43 21</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

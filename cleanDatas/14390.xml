@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14390-01" codeInsee="14390" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maisoncelles-sur-Ajon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 route du Bourg</Ligne>
+      <CodePostal>14210</CodePostal>
+      <NomCommune>Maisoncelles-sur-Ajon</NomCommune>
+      <Localisation>
+         <Latitude>49.052783</Latitude>
+         <Longitude>-0.539351</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 77 22 61</Téléphone>
+      <Email>mairie.maisoncelles.ajon@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+         <Note>Accueil ouvert uniquement du 22 septembre au 19 mars de 16h30 à 18h30</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

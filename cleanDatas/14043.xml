@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14043-01" codeInsee="14043" dateMiseAJour="2004-08-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barou-en-Auge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la mairie</Ligne>
+      <CodePostal>14620</CodePostal>
+      <NomCommune>BAROU EN AUGE</NomCommune>
+      <Localisation>
+         <Latitude>48.9324989319</Latitude>
+         <Longitude>-0.0427009984851</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

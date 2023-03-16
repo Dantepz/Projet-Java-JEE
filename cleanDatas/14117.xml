@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14117-01" codeInsee="14117" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cabourg</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Bruno-Coquatrix</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>14390</CodePostal>
+      <NomCommune>Cabourg</NomCommune>
+      <Localisation>
+         <Latitude>49.2879593</Latitude>
+         <Longitude>-0.11611819999995987</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 28 88 88</Téléphone>
+      <Télécopie>+33 2 31 28 88 98</Télécopie>
+      <Url>http://www.cabourg.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

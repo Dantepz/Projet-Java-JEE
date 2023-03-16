@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02182-01" codeInsee="02182" dateMiseAJour="2004-08-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chevennes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de la Mairie</Ligne>
+      <CodePostal>02250</CodePostal>
+      <NomCommune>CHEVENNES</NomCommune>
+      <Localisation>
+         <Latitude>49.8151016235</Latitude>
+         <Longitude>3.73333001137</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 60 93 72</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81236-01" codeInsee="81236" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Agnan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de la Mairie</Ligne>
+      <CodePostal>81500</CodePostal>
+      <NomCommune>Saint-Agnan</NomCommune>
+      <Localisation>
+         <Latitude>43.6952415</Latitude>
+         <Longitude>1.7342537</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 41 47 04</Téléphone>
+      <Télécopie>+33 5 63 41 47 05</Télécopie>
+      <Email>stagnan.mairie@wanadoo.fr</Email>
+      <Url>http://saint-agnan-tarn.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+         <Note>Permanence uniquement de M. le maire de 17h30 à 18h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

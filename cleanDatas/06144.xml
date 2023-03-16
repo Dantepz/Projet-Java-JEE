@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06144-01" codeInsee="06144" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Tour</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grand'place</Ligne>
+      <CodePostal>06420</CodePostal>
+      <NomCommune>La Tour</NomCommune>
+      <Localisation>
+         <Latitude>43.946172</Latitude>
+         <Longitude>7.184039</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 02 05 27</Téléphone>
+      <Télécopie>+33 4 93 02 05 66</Télécopie>
+      <Email>mairie.latoursurtinee@orange.fr</Email>
+      <Url>http://www.latoursurtinee.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

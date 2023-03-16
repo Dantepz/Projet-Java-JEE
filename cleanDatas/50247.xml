@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50247-01" codeInsee="50247" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Hocquigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village Duvane</Ligne>
+      <CodePostal>50320</CodePostal>
+      <NomCommune>Hocquigny</NomCommune>
+      <Localisation>
+         <Latitude>48.8138237</Latitude>
+         <Longitude>-1.40829205513</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 61 59 20</Téléphone>
+      <Télécopie>+33 2 33 61 59 20</Télécopie>
+      <Email>mairie.hocquigny@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

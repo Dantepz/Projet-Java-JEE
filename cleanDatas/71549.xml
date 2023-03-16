@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71549-01" codeInsee="71549" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Truchère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Darbonnay</Ligne>
+      <CodePostal>71290</CodePostal>
+      <NomCommune>La Truchère</NomCommune>
+      <Localisation>
+         <Latitude>46.5170754</Latitude>
+         <Longitude>4.9515885</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 51 15 85</Téléphone>
+      <Télécopie>+33 3 85 51 15 85</Télécopie>
+      <Email>mairie.latruchere@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

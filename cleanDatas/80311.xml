@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80311-01" codeInsee="80311" dateMiseAJour="2004-10-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fignières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Cence</Ligne>
+      <CodePostal>80500</CodePostal>
+      <NomCommune>FIGNIERES</NomCommune>
+      <Localisation>
+         <Latitude>49.6851768494</Latitude>
+         <Longitude>2.58740592003</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 78 11 80</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

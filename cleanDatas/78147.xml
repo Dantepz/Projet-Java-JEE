@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78147-01" codeInsee="78147" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaufour-lès-Bonnières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13, rue de la Mairie</Ligne>
+      <CodePostal>78270</CodePostal>
+      <NomCommune>Chaufour-lès-Bonnières</NomCommune>
+      <Localisation>
+         <Latitude>49.0157012939</Latitude>
+         <Longitude>1.48324000835</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 76 11 70</Téléphone>
+      <Télécopie>+33 1 34 76 02 65</Télécopie>
+      <Email>chaufour.mairie@wanadoo.fr</Email>
+      <Url>http://www.chaufourlesbonnieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

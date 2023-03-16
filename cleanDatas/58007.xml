@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-58007-01" codeInsee="58007" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Annay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>58450</CodePostal>
+      <NomCommune>Annay</NomCommune>
+      <Localisation>
+         <Latitude>47.5360870361</Latitude>
+         <Longitude>2.93295502663</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 39 22 65</Téléphone>
+      <Télécopie>+33 3 86 39 61 45</Télécopie>
+      <Email>annay@orange.fr</Email>
+      <Url>http://annayautrement.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

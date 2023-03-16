@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86034-01" codeInsee="86034" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouresse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue des Halles</Ligne>
+      <CodePostal>86410</CodePostal>
+      <NomCommune>Bouresse</NomCommune>
+      <Localisation>
+         <Latitude>46.3611984253</Latitude>
+         <Longitude>0.609031975269</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 42 73 10</Téléphone>
+      <Télécopie>+33 5 49 42 76 34</Télécopie>
+      <Email>bouresse@cg86.fr</Email>
+      <Url>http://www.commune-bouresse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

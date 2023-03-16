@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-58170-01" codeInsee="58170" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monceaux-le-Comte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de la Mairie</Ligne>
+      <CodePostal>58190</CodePostal>
+      <NomCommune>Monceaux-le-Comte</NomCommune>
+      <Localisation>
+         <Latitude>47.32970047</Latitude>
+         <Longitude>3.66044998169</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 62 13 91 86</Téléphone>
+      <Télécopie>+33 3 86 22 06 95</Télécopie>
+      <Email>mairie.monceaux-le-comte@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Agence postale ouverte aux mêmes horaires que ceux de la mairie.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:15:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

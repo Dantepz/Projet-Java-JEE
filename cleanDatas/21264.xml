@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21264-01" codeInsee="21264" dateMiseAJour="2004-09-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Le Fête</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>21230</CodePostal>
+      <NomCommune>LE FETE</NomCommune>
+      <Localisation>
+         <Latitude>47.1773490906</Latitude>
+         <Longitude>4.51877593994</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 90 03 01</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

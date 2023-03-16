@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57423-01" codeInsee="57423" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lubécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue Principale</Ligne>
+      <CodePostal>57170</CodePostal>
+      <NomCommune>Lubécourt</NomCommune>
+      <Localisation>
+         <Latitude>48.8432006836</Latitude>
+         <Longitude>6.51609992981</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 05 29 69</Téléphone>
+      <Télécopie>+33 3 87 05 29 69</Télécopie>
+      <Email>mairie-lubecourt@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

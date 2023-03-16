@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04176-01" codeInsee="04176" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Croix-du-Verdon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>04500</CodePostal>
+      <NomCommune>Sainte-Croix-du-Verdon</NomCommune>
+      <Localisation>
+         <Latitude>43.7595329285</Latitude>
+         <Longitude>6.15182113647</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 77 84 10</Téléphone>
+      <Télécopie>+33 4 92 77 76 23</Télécopie>
+      <Email>mairie.saintecroixduverdon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique uniquement 8h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

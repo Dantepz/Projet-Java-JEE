@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26131-01" codeInsee="26131" dateMiseAJour="2015-09-03"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eyzahut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>26160</CodePostal>
+      <NomCommune>Eyzahut</NomCommune>
+      <Localisation>
+         <Latitude>44.564573</Latitude>
+         <Longitude>5.011623</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 90 16 35</Téléphone>
+      <Télécopie>+33 4 75 90 16 35</Télécopie>
+      <Email>mairie.eyzahut@orange.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

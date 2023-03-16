@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45321-01" codeInsee="45321" dateMiseAJour="2007-11-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thimory</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33 rue de Montargis</Ligne>
+      <CodePostal>45260</CodePostal>
+      <NomCommune>THIMORY</NomCommune>
+      <Localisation>
+         <Latitude>47.9482002258</Latitude>
+         <Longitude>2.54505991936</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 96 25 70</Téléphone>
+      <Télécopie>+33 2 38 96 25 70</Télécopie>
+      <Email>mairiethimory@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>sur rendez-vous avec Monsieur le Maire</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

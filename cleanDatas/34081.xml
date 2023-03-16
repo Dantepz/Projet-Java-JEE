@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34081-01" codeInsee="34081" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Colombiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Carrefour des Droits-de-l'Homme</Ligne>
+      <CodePostal>34440</CodePostal>
+      <NomCommune>Colombiers</NomCommune>
+      <Localisation>
+         <Latitude>43.3148035</Latitude>
+         <Longitude>3.1382932</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 11 86 00</Téléphone>
+      <Télécopie>+33 4 67 11 86 01</Télécopie>
+      <Email>infos@colombiers.com</Email>
+      <Url>http://www.colombiers.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

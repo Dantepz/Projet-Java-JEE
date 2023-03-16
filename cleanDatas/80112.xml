@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80112-01" codeInsee="80112" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bonnay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31 Grande rue</Ligne>
+      <CodePostal>80800</CodePostal>
+      <NomCommune>Bonnay</NomCommune>
+      <Localisation>
+         <Latitude>49.9099006653</Latitude>
+         <Longitude>2.48729991913</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 48 12 82</Téléphone>
+      <Télécopie>+33 3 22 48 12 82</Télécopie>
+      <Email>mairie.bonnay@wanadoo.fr</Email>
+      <Url>http://www.commune-bonnay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

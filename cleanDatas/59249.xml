@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59249-01" codeInsee="59249" dateMiseAJour="2015-12-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fourmies</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 50100</Ligne>
+      <Ligne>3 place de Verdun</Ligne>
+      <CodePostal>59611</CodePostal>
+      <NomCommune>Fourmies Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.018194</Latitude>
+         <Longitude>4.0465225</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 59 69 79</Téléphone>
+      <Télécopie>+33 3 27 60 21 41</Télécopie>
+      <Email>http://www.mairie-fourmies.fr/pages/contact.html</Email>
+      <Url>http://www.mairie-fourmies.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17353-01" codeInsee="17353" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-de-la-Prée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>131 rue de la Croix-des-Joncs</Ligne>
+      <CodePostal>17450</CodePostal>
+      <NomCommune>Saint-Laurent-de-la-Prée</NomCommune>
+      <Localisation>
+         <Latitude>45.9800987244</Latitude>
+         <Longitude>-1.04157996178</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 84 00 35</Téléphone>
+      <Télécopie>+33 5 46 84 18 40</Télécopie>
+      <Email>st.laurent.de.la.pree@mairie17.com</Email>
+      <Url>http://saint-laurent.over-blog.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="12:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

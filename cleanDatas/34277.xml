@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34277-01" codeInsee="34277" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Maurice-Navacelles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>34520</CodePostal>
+      <NomCommune>Saint-Maurice-Navacelles</NomCommune>
+      <Localisation>
+         <Latitude>43.846622467</Latitude>
+         <Longitude>3.51829195023</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 44 61 62</Téléphone>
+      <Télécopie>+33 4 67 44 62 63</Télécopie>
+      <Email>mairie.stmauricenavacelles@lodevoisetlarzac.fr</Email>
+      <Url>http://www.stmauricenavacelles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil ouvert un vendredi sur deux.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

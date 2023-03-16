@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81112-01" codeInsee="81112" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Labastide-de-Lévis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place du Pioche</Ligne>
+      <CodePostal>81150</CodePostal>
+      <NomCommune>Labastide-de-Lévis</NomCommune>
+      <Localisation>
+         <Latitude>43.9267730713</Latitude>
+         <Longitude>2.0082089901</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 53 72 60</Téléphone>
+      <Télécopie>+33 5 63 53 72 61</Télécopie>
+      <Email>labastide-de-levis@wanadoo.fr</Email>
+      <Url>http://www.labastide-de-levis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

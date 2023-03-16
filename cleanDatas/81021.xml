@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81021-01" codeInsee="81021" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aussillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="physique">
+      <Ligne>Boulevard de la Mairie</Ligne>
+      <CodePostal>81200</CodePostal>
+      <NomCommune>Aussillon</NomCommune>
+      <Localisation>
+         <Latitude>43.497289</Latitude>
+         <Longitude>2.366436</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <Adresse type="postale">
+      <Ligne>BP 500 41</Ligne>
+      <Ligne>Boulevard de la Mairie</Ligne>
+      <CodePostal>81208</CodePostal>
+      <NomCommune>Mazamet Cedex</NomCommune>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 97 71 80</Téléphone>
+      <Télécopie>+33 5 63 98 95 43</Télécopie>
+      <Email>m.arnaud@ville-aussillon.fr</Email>
+      <Url>http://www.ville-aussillon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

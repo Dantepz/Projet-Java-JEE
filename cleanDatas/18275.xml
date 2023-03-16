@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18275-01" codeInsee="18275" dateMiseAJour="2014-07-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vereaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, route de Sancoins</Ligne>
+      <CodePostal>18600</CodePostal>
+      <NomCommune>Vereaux</NomCommune>
+      <Localisation>
+         <Latitude>46.8423995972</Latitude>
+         <Longitude>2.91293001175</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 74 01 05</Téléphone>
+      <Télécopie>+33 2 48 74 01 05</Télécopie>
+      <Email>mairieverreaux@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

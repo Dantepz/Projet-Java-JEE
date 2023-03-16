@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14183-01" codeInsee="14183" dateMiseAJour="2004-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cossesseville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>14690</CodePostal>
+      <NomCommune>COSSESSEVILLE</NomCommune>
+      <Localisation>
+         <Latitude>48.8783988953</Latitude>
+         <Longitude>-0.386278986931</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 69 39 75</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

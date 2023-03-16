@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60449-01" codeInsee="60449" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neufvy-sur-Aronde</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>60190</CodePostal>
+      <NomCommune>Neufvy-sur-Aronde</NomCommune>
+      <Localisation>
+         <Latitude>49.5021018982</Latitude>
+         <Longitude>2.61679005623</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 42 34 58</Téléphone>
+      <Télécopie>+33 3 44 42 34 58</Télécopie>
+      <Email>neufvy.mairie@wanadoo.fr</Email>
+      <Url>http://www.neufvysuraronde.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

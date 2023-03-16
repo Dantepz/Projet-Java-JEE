@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-56151-01" codeInsee="56151" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noyal-Pontivy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Manoir</Ligne>
+      <CodePostal>56920</CodePostal>
+      <NomCommune>Noyal-Pontivy</NomCommune>
+      <Localisation>
+         <Latitude>48.0673044</Latitude>
+         <Longitude>-2.8814959</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 97 38 30 66</Téléphone>
+      <Télécopie>+33 2 97 38 27 67</Télécopie>
+      <Email>c.hersant@noyal-pontivy.fr</Email>
+      <Url>http://www.noyal-pontivy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

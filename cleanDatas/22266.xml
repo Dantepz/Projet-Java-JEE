@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-22266-01" codeInsee="22266" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rostrenen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cité administrative</Ligne>
+      <Ligne>6 rue Joseph-Pennec</Ligne>
+      <CodePostal>22110</CodePostal>
+      <NomCommune>Rostrenen</NomCommune>
+      <Localisation>
+         <Latitude>48.2360992432</Latitude>
+         <Longitude>-3.32037997246</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 57 42 00</Téléphone>
+      <Télécopie>+33 2 96 29 08 25</Télécopie>
+      <Email>mairie@rostrenen.com</Email>
+      <Url>http://www.rostrenen.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août et en période de fêtes.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

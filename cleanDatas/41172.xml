@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41172-01" codeInsee="41172" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ouzouer-le-Doyen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Moulin-à-Vent</Ligne>
+      <CodePostal>41160</CodePostal>
+      <NomCommune>Ouzouer-le-Doyen</NomCommune>
+      <Localisation>
+         <Latitude>47.9408988953</Latitude>
+         <Longitude>1.34340000153</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 80 49 03</Téléphone>
+      <Télécopie>+33 2 54 80 49 03</Télécopie>
+      <Email>commune.ouzouerledoyen@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

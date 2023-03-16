@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05073-01" codeInsee="05073" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lazer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>05300</CodePostal>
+      <NomCommune>Lazer</NomCommune>
+      <Localisation>
+         <Latitude>44.3482475281</Latitude>
+         <Longitude>5.8372502327</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 65 06 30</Téléphone>
+      <Télécopie>+33 4 92 65 08 71</Télécopie>
+      <Email>mairie.lazer@wanadoo.fr</Email>
+      <Url>http://www.mairielazer.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

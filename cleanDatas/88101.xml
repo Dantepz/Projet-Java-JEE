@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88101-01" codeInsee="88101" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cheniménil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 Grande rue</Ligne>
+      <CodePostal>88460</CodePostal>
+      <NomCommune>Cheniménil</NomCommune>
+      <Localisation>
+         <Latitude>48.1394996643</Latitude>
+         <Longitude>6.60270023346</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 33 20 23</Téléphone>
+      <Télécopie>+33 3 29 66 20 46</Télécopie>
+      <Email>mairie-chenimenil@wanadoo.fr</Email>
+      <Url>http://chenimenil.pagesperso-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <PlageH début="16:00:00" fin="17:00:00"/>
+         <Note>Accueil fermé l'après-midi pendant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <PlageH début="16:00:00" fin="17:00:00"/>
+         <Note>Accueil fermé l'après-midi pendant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="samedi">
+         <PlageH début="09:45:00" fin="11:45:00"/>
+         <Note>Accueil fermé le samedi pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

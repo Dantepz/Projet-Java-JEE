@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01001-01" codeInsee="01001" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Abergement-Clémenciat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>01400</CodePostal>
+      <NomCommune>L'Abergement-Clémenciat</NomCommune>
+      <Localisation>
+         <Latitude>46.151676178</Latitude>
+         <Longitude>4.92007112503</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 24 03 08</Téléphone>
+      <Télécopie>+33 4 74 24 05 64</Télécopie>
+      <Email>mairieabergementclemenciat@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:45:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

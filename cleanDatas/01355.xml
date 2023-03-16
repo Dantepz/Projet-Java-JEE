@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01355-01" codeInsee="01355" dateMiseAJour="2015-01-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Genis-sur-Menthon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>01380</CodePostal>
+      <NomCommune>Saint-Genis-sur-Menthon</NomCommune>
+      <Localisation>
+         <Latitude>46.282216</Latitude>
+         <Longitude>5.008745</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 51 91 19</Téléphone>
+      <Télécopie>+33 3 85 51 98 48</Télécopie>
+      <Email>mairiesaintgenissurmenthon@gmail.com</Email>
+      <Url>http://www.saint-genis-sur-menthon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

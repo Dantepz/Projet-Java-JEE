@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13037-01" codeInsee="13037" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Fare-les-Oliviers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Camille-Pelletan</Ligne>
+      <Ligne>BP 39</Ligne>
+      <CodePostal>13580</CodePostal>
+      <NomCommune>La Fare-les-Oliviers</NomCommune>
+      <Localisation>
+         <Latitude>43.5510559082</Latitude>
+         <Longitude>5.1959028244</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 45 46 00</Téléphone>
+      <Télécopie>+33 4 90 45 46 01</Télécopie>
+      <Email>communication@lafarelesoliviers.fr</Email>
+      <Url>http://www.lafarelesoliviers.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les 1er et 3e samedis du mois.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

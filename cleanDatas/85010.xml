@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85010-01" codeInsee="85010" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avrillé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>85440</CodePostal>
+      <NomCommune>Avrillé</NomCommune>
+      <Localisation>
+         <Latitude>46.4697564</Latitude>
+         <Longitude>-1.4950001</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 22 32 22</Téléphone>
+      <Télécopie>+33 2 51 22 35 93</Télécopie>
+      <Email>mairie.avrille85@wanadoo.fr</Email>
+      <Url>http://www.avrille85.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21665-01" codeInsee="21665" dateMiseAJour="2004-09-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vernois lès Vesvres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>21260</CodePostal>
+      <NomCommune>VERNOIS LES VESVRES</NomCommune>
+      <Localisation>
+         <Latitude>47.6426734924</Latitude>
+         <Longitude>5.14561605453</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 79 51 75</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

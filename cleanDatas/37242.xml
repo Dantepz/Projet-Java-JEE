@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37242-01" codeInsee="37242" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Savigny-en-Véron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>37420</CodePostal>
+      <NomCommune>Savigny-en-Véron</NomCommune>
+      <Localisation>
+         <Latitude>47.2006988525</Latitude>
+         <Longitude>0.144130006433</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 58 81 12</Téléphone>
+      <Télécopie>+33 2 47 58 83 97</Télécopie>
+      <Email>mairie.savigny-en-veron@wanadoo.fr</Email>
+      <Url>http://www.mairie-savignyenveron.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:30:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

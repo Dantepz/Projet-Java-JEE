@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72267-01" codeInsee="72267" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aubin-des-Coudrais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, place de l'Église</Ligne>
+      <CodePostal>72400</CodePostal>
+      <NomCommune>Saint-Aubin-des-Coudrais</NomCommune>
+      <Localisation>
+         <Latitude>48.1492004395</Latitude>
+         <Longitude>0.595956981182</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 93 20 47</Téléphone>
+      <Télécopie>+33 2 43 71 13 47</Télécopie>
+      <Email>mairie.saintaubindescoudrais@wanadoo.fr</Email>
+      <Url>http://www.saintaubindescoudrais.mairie72.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

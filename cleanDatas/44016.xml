@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44016-01" codeInsee="44016" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Boissière-du-Doré</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 place de la Mairie</Ligne>
+      <CodePostal>44430</CodePostal>
+      <NomCommune>La Boissière-du-Doré</NomCommune>
+      <Localisation>
+         <Latitude>47.2318000793</Latitude>
+         <Longitude>-1.21807003021</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 33 70 16</Téléphone>
+      <Télécopie>+33 2 40 33 72 18</Télécopie>
+      <Email>accueil@mairie-laboissieredudore.fr</Email>
+      <Url>http://www.mairie-laboissieredudore.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="10:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

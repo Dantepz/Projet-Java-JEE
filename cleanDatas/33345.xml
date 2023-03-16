@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33345-01" codeInsee="33345" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Puy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 Bordepaille-Sud</Ligne>
+      <CodePostal>33580</CodePostal>
+      <NomCommune>Le Puy</NomCommune>
+      <Localisation>
+         <Latitude>44.6612510681</Latitude>
+         <Longitude>0.0728989988565</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 61 60 95</Téléphone>
+      <Télécopie>+33 5 56 61 60 95</Télécopie>
+      <Email>mairie.lepuy@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

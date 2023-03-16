@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28331-01" codeInsee="28331" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Denis-d'Authou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Principale</Ligne>
+      <CodePostal>28480</CodePostal>
+      <NomCommune>Saint-Denis-d'Authou</NomCommune>
+      <Localisation>
+         <Latitude>48.3451172</Latitude>
+         <Longitude>0.9849778</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 49 40 43</Téléphone>
+      <Télécopie>+33 2 37 49 45 63</Télécopie>
+      <Email>mairiestdenisdauthou@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

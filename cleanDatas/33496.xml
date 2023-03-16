@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33496-01" codeInsee="33496" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sallebœuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 avenue de la Tour</Ligne>
+      <CodePostal>33370</CodePostal>
+      <NomCommune>Sallebœuf</NomCommune>
+      <Localisation>
+         <Latitude>44.8427638</Latitude>
+         <Longitude>-0.3967259</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 21 21 33</Téléphone>
+      <Télécopie>+33 5 56 68 33 70</Télécopie>
+      <Email>mairiedesalleboeuf@wanadoo.fr</Email>
+      <Url>http://www.salleboeuf.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:15:00"/>
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

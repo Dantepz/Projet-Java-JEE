@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21248-01" codeInsee="21248" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Éringes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, Grande rue</Ligne>
+      <CodePostal>21500</CodePostal>
+      <NomCommune>Éringes</NomCommune>
+      <Localisation>
+         <Latitude>47.5918388367</Latitude>
+         <Longitude>4.46398210526</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 96 97 27</Téléphone>
+      <Télécopie>+33 3 80 96 97 27</Télécopie>
+      <Email>mairie.eringes@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

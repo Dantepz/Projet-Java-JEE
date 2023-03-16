@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51373-01" codeInsee="51373" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Moncetz-l'Abbaye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, place de la Mairie</Ligne>
+      <CodePostal>51290</CodePostal>
+      <NomCommune>Moncetz-l'Abbaye</NomCommune>
+      <Localisation>
+         <Latitude>48.6484133</Latitude>
+         <Longitude>4.6564959</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 72 58 74</Téléphone>
+      <Télécopie>+33 3 26 72 58 74</Télécopie>
+      <Email>mairiemoncetzlabbaye@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

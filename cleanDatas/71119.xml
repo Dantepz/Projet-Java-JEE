@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71119-01" codeInsee="71119" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaudenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Tigny</Ligne>
+      <CodePostal>71150</CodePostal>
+      <NomCommune>Chaudenay</NomCommune>
+      <Localisation>
+         <Latitude>46.9155006409</Latitude>
+         <Longitude>4.79569005966</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 87 21 21</Téléphone>
+      <Télécopie>+33 3 85 87 16 35</Télécopie>
+      <Email>mairie-de-chaudenay@wanadoo.fr</Email>
+      <Url>http://www.chaudenay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:30:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement un samedi sur deux.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

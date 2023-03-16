@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67002-01" codeInsee="67002" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Adamswiller</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>44 rue principale</Ligne>
+      <CodePostal>67320</CodePostal>
+      <NomCommune>ADAMSWILLER</NomCommune>
+      <Localisation>
+         <Latitude>48.8866996765</Latitude>
+         <Longitude>7.18172979355</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 01 70 12</Téléphone>
+      <Télécopie>+33 3 88 01 73 67</Télécopie>
+      <Email>mairie.adamswiller@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="19:30:00" fin="21:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="19:30:00" fin="21:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

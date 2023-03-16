@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27523-01" codeInsee="27523" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Clair-d'Arcey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>90, rue de la Mairie</Ligne>
+      <CodePostal>27300</CodePostal>
+      <NomCommune>Saint-Clair-d'Arcey</NomCommune>
+      <Localisation>
+         <Latitude>49.0642502495</Latitude>
+         <Longitude>0.663385391235</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 43 18 54</Téléphone>
+      <Télécopie>+33 2 32 43 18 54</Télécopie>
+      <Email>mairie.stclairdarcey@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

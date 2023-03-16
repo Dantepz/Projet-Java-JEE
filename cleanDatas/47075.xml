@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47075-01" codeInsee="47075" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Croix-Blanche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>886 avenue des Pyrénées</Ligne>
+      <CodePostal>47340</CodePostal>
+      <NomCommune>La Croix-Blanche</NomCommune>
+      <Localisation>
+         <Latitude>44.294044</Latitude>
+         <Longitude>0.692257</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 68 81 25</Téléphone>
+      <Télécopie>+33 5 53 68 79 28</Télécopie>
+      <Email>commune.la.croix.blanche@wanadoo.fr</Email>
+      <Url>http://www.lacroixblanche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+         <Note>Permanence des élus uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

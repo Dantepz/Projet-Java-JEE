@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A209-01" codeInsee="2A209" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Peri</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lotissement Salasca</Ligne>
+      <Ligne>Chiosso-Novo</Ligne>
+      <CodePostal>20167</CodePostal>
+      <NomCommune>Peri</NomCommune>
+      <Localisation>
+         <Latitude>42.0040283203</Latitude>
+         <Longitude>8.92095756531</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 25 63 53</Téléphone>
+      <Télécopie>+33 4 95 25 74 96</Télécopie>
+      <Email>mairie.peri@wanadoo.fr</Email>
+      <Url>http://www.peri-village.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

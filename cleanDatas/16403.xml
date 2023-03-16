@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16403-01" codeInsee="16403" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie du Vieux-Cérier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>16350</CodePostal>
+      <NomCommune>Le Vieux-Cérier</NomCommune>
+      <Localisation>
+         <Latitude>45.9656448364</Latitude>
+         <Longitude>0.44515401125</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 31 82 91</Téléphone>
+      <Télécopie>+33 5 45 31 89 31</Télécopie>
+      <Email>mairie-vxcerier@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

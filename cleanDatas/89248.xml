@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89248-01" codeInsee="89248" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Menades</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, place Saint-Nicolas</Ligne>
+      <CodePostal>89450</CodePostal>
+      <NomCommune>Menades</NomCommune>
+      <Localisation>
+         <Latitude>47.4444541931</Latitude>
+         <Longitude>3.82332897186</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 33 33 80</Téléphone>
+      <Télécopie>+33 3 86 33 33 80</Télécopie>
+      <Email>maire.menades@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

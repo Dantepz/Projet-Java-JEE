@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02027-01" codeInsee="02027" dateMiseAJour="2011-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Assis-sur-Serre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Paul Claudel</Ligne>
+      <CodePostal>02270</CodePostal>
+      <NomCommune>ASSIS SUR SERRE</NomCommune>
+      <Localisation>
+         <Latitude>49.6879997253</Latitude>
+         <Longitude>3.55857992172</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 80 69 81</Téléphone>
+      <Télécopie>+33 3 23 80 69 81</Télécopie>
+      <Email>mairie.assissurserre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

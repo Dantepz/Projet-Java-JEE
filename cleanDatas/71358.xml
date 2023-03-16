@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71358-01" codeInsee="71358" dateMiseAJour="2007-11-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pressy sous Dondin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>71220</CodePostal>
+      <NomCommune>PRESSY SOUS DONDIN</NomCommune>
+      <Localisation>
+         <Latitude>46.5043983459</Latitude>
+         <Longitude>4.55618000031</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 24 75 44</Téléphone>
+      <Télécopie>+33 3 85 24 75 44</Télécopie>
+      <Email>mairie.pressy.sous.dondin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39224-01" codeInsee="39224" dateMiseAJour="2013-03-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fetigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>route de sarrogna</Ligne>
+      <CodePostal>39240</CodePostal>
+      <NomCommune>Fetigny</NomCommune>
+      <Localisation>
+         <Latitude>46.4423675537</Latitude>
+         <Longitude>5.60007095337</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 68 38 43 34</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

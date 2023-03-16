@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-01221-01" codeInsee="01221" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lompnieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>233 rue Principale</Ligne>
+      <CodePostal>01260</CodePostal>
+      <NomCommune>Lompnieu</NomCommune>
+      <Localisation>
+         <Latitude>45.9617042542</Latitude>
+         <Longitude>5.6602191925</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 87 70 81</Téléphone>
+      <Télécopie>+33 9 70 62 01 06</Télécopie>
+      <Email>mairie.lompnieu@orange.fr</Email>
+      <Url>http://www.lompnieu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

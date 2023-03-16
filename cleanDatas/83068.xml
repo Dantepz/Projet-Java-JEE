@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83068-01" codeInsee="83068" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Grimaud</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Cabro-d'Or</Ligne>
+      <Ligne>BP A</Ligne>
+      <CodePostal>83316</CodePostal>
+      <NomCommune>Grimaud Cedex</NomCommune>
+      <Localisation>
+         <Latitude>43.2761993408</Latitude>
+         <Longitude>6.52204990387</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 55 69 00</Téléphone>
+      <Télécopie>+33 4 94 55 69 44</Télécopie>
+      <Email>dir-general@mairie-grimaud.fr</Email>
+      <Url>http://www.mairie-grimaud.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26340-01" codeInsee="26340" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Séderon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>46 Grande rue</Ligne>
+      <CodePostal>26560</CodePostal>
+      <NomCommune>Séderon</NomCommune>
+      <Localisation>
+         <Latitude>44.2055740356</Latitude>
+         <Longitude>5.5369720459</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 28 50 95</Téléphone>
+      <Télécopie>+33 4 75 28 53 24</Télécopie>
+      <Email>mairie.sederon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Accueil téléphonique uniquement du lundi au jeudi de 8h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

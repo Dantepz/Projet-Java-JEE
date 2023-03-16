@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33335-01" codeInsee="33335" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie du Pout</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>33670</CodePostal>
+      <NomCommune>Le Pout</NomCommune>
+      <Localisation>
+         <Latitude>44.7939414978</Latitude>
+         <Longitude>-0.360170006752</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 23 02 75</Téléphone>
+      <Télécopie>+33 5 56 23 39 96</Télécopie>
+      <Email>commune.lepout@wanadoo.fr</Email>
+      <Url>http://www.lepout.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

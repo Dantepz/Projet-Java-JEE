@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-58114-01" codeInsee="58114" dateMiseAJour="2014-07-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fléty</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>58170</CodePostal>
+      <NomCommune>Fléty</NomCommune>
+      <Localisation>
+         <Latitude>46.789276123</Latitude>
+         <Longitude>3.90225696564</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 30 07 50</Téléphone>
+      <Télécopie>+33 3 86 30 07 50</Télécopie>
+      <Email>mairie.flety@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

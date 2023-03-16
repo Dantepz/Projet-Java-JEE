@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53185-01" codeInsee="53185" dateMiseAJour="2016-03-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pré-en-Pail-Saint-Samson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place de la République</Ligne>
+      <CodePostal>53140</CodePostal>
+      <NomCommune>Pré-en-Pail</NomCommune>
+      <Localisation>
+         <Latitude>48.4597015381</Latitude>
+         <Longitude>-0.198360994458</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 30 26 60</Téléphone>
+      <Télécopie>+33 2 43 30 26 61</Télécopie>
+      <Email>se@mairie-preenpail.fr</Email>
+      <Url>http://www.mairie-preenpail.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Fermeture exceptionnelle au mois d'août 2015.</Note>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Pré-en-Pail-Saint-Samson  remplace les communes de Pré-en-Pail et de Saint-Samson</Commentaire>
+</Organisme>

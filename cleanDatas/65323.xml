@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65323-01" codeInsee="65323" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montsérié</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>65150</CodePostal>
+      <NomCommune>Montsérié</NomCommune>
+      <Localisation>
+         <Latitude>43.050163269</Latitude>
+         <Longitude>0.437606006861</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 98 90 41</Téléphone>
+      <Télécopie>+33 5 62 98 90 41</Télécopie>
+      <Email>mairie_de_montserie@club-internet.fr</Email>
+      <Url>http://www.montserie.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

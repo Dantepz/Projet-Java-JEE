@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47157-01" codeInsee="47157" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marmande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Georges-Clemenceau</Ligne>
+      <Ligne>BP 313</Ligne>
+      <CodePostal>47207</CodePostal>
+      <NomCommune>Marmande Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.4997940063</Latitude>
+         <Longitude>0.161662995815</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 93 09 50</Téléphone>
+      <Télécopie>+33 5 53 64 28 81</Télécopie>
+      <Email>etatcivil@mairie-marmande.fr</Email>
+      <Url>http://mairie-marmande.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

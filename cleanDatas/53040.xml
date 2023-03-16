@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53040-01" codeInsee="53040" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bourgon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Hetlé</Ligne>
+      <CodePostal>53410</CodePostal>
+      <NomCommune>Bourgon</NomCommune>
+      <Localisation>
+         <Latitude>48.1667727</Latitude>
+         <Longitude>-1.0670794</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 37 15 90</Téléphone>
+      <Télécopie>+33 2 43 37 16 20</Télécopie>
+      <Email>mairie.bourgon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

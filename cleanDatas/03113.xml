@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03113-01" codeInsee="03113" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ferrières-sur-Sichon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 place de l'Église</Ligne>
+      <CodePostal>03250</CodePostal>
+      <NomCommune>Ferrières-sur-Sichon</NomCommune>
+      <Localisation>
+         <Latitude>46.0247001648</Latitude>
+         <Longitude>3.64789009094</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">la secrétaire descend en cas de besoin</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 41 10 10</Téléphone>
+      <Télécopie>+33 4 70 41 15 22</Télécopie>
+      <Email>Mairie.Ferrieres@wanadoo.fr</Email>
+      <Url>http://www.ferrieres-sur-sichon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

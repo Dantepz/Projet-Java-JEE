@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74034-01" codeInsee="74034" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie du Biot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chef-lieu</Ligne>
+      <CodePostal>74430</CodePostal>
+      <NomCommune>Le Biot</NomCommune>
+      <Localisation>
+         <Latitude>46.2620697021</Latitude>
+         <Longitude>6.6329741478</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 72 12 06</Téléphone>
+      <Télécopie>+33 4 50 72 10 15</Télécopie>
+      <Email>mairie.lebiot@wanadoo.fr</Email>
+      <Url>http://www.lebiot.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

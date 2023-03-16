@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50457-01" codeInsee="50457" dateMiseAJour="2011-10-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Colombe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 village de l' Eglise</Ligne>
+      <CodePostal>50390</CodePostal>
+      <NomCommune>STE COLOMBE</NomCommune>
+      <Localisation>
+         <Latitude>49.4211006165</Latitude>
+         <Longitude>-1.51968002319</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 41 48 76</Téléphone>
+      <Email>stecolombe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

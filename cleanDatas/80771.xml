@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80771-01" codeInsee="80771" dateMiseAJour="2007-11-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ugny l'Equipée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de l'église</Ligne>
+      <CodePostal>80400</CodePostal>
+      <NomCommune>UGNY L EQUIPEE</NomCommune>
+      <Localisation>
+         <Latitude>49.8165987</Latitude>
+         <Longitude>3.0614685</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 88 94 47</Téléphone>
+      <Télécopie>+33 3 22 85 39 96</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

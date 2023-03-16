@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27317-01" codeInsee="27317" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Haye-Aubrée</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>27, route de la Croix-Saint-Paul</Ligne>
+      <CodePostal>27350</CodePostal>
+      <NomCommune>La Haye-Aubrée</NomCommune>
+      <Localisation>
+         <Latitude>49.3917503357</Latitude>
+         <Longitude>0.681630015373</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 57 31 08</Téléphone>
+      <Télécopie>+33 2 32 56 99 85</Télécopie>
+      <Email>lahayeaubree@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

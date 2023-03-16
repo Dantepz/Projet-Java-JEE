@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60132-01" codeInsee="60132" dateMiseAJour="2012-06-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Catigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue du Canal du Nord</Ligne>
+      <CodePostal>60640</CodePostal>
+      <NomCommune>CATIGNY</NomCommune>
+      <Localisation>
+         <Latitude>49.6099014282</Latitude>
+         <Longitude>2.9805700779</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 43 62 75</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="19:00:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

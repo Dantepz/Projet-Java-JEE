@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86289-01" codeInsee="86289" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Vigeant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 place Saint-Georges</Ligne>
+      <CodePostal>86150</CodePostal>
+      <NomCommune>Le Vigeant</NomCommune>
+      <Localisation>
+         <Latitude>46.2249984741</Latitude>
+         <Longitude>0.64903897047</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 48 76 55</Téléphone>
+      <Télécopie>+33 5 49 48 70 20</Télécopie>
+      <Email>le-vigeant@cg86.fr</Email>
+      <Url>http://levigeant86.monclocher.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

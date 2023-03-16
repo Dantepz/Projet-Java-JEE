@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50342-01" codeInsee="50342" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montfarville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue És-Pailles</Ligne>
+      <CodePostal>50760</CodePostal>
+      <NomCommune>Montfarville</NomCommune>
+      <Localisation>
+         <Latitude>49.6506233215</Latitude>
+         <Longitude>-1.26508402824</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 54 05 74</Téléphone>
+      <Télécopie>+33 2 33 54 72 84</Télécopie>
+      <Email>mairie-montfarville@wanadoo.fr</Email>
+      <Url>http://www.montfarville.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

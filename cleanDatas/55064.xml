@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55064-01" codeInsee="55064" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouquemont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Haute</Ligne>
+      <CodePostal>55300</CodePostal>
+      <NomCommune>Bouquemont</NomCommune>
+      <Localisation>
+         <Latitude>48.9901008606</Latitude>
+         <Longitude>5.45018005371</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 85 22 44</Téléphone>
+      <Télécopie>+33 3 29 85 22 44</Télécopie>
+      <Email>commune.bouquemont@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

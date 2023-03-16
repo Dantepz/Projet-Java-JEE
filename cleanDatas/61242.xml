@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61242-01" codeInsee="61242" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Mage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 Grande rue</Ligne>
+      <CodePostal>61290</CodePostal>
+      <NomCommune>Le Mage</NomCommune>
+      <Localisation>
+         <Latitude>48.507316</Latitude>
+         <Longitude>0.804497</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 73 61 93</Téléphone>
+      <Télécopie>+33 2 33 83 52 80</Télécopie>
+      <Email>mairie.le-mage@wanadoo.fr</Email>
+      <Url>http://www.le-mage.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

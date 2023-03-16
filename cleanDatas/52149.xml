@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52149-01" codeInsee="52149" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courcelles-sur-Blaise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 B, rue de l'Église</Ligne>
+      <CodePostal>52110</CodePostal>
+      <NomCommune>Courcelles-sur-Blaise</NomCommune>
+      <Localisation>
+         <Latitude>48.4101982117</Latitude>
+         <Longitude>4.93824005127</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 94 44 37</Téléphone>
+      <Télécopie>+33 3 25 94 44 37</Télécopie>
+      <Email>commune-de-courcelles-blaise@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

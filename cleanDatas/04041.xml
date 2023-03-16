@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04041-01" codeInsee="04041" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Castellet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Canal</Ligne>
+      <CodePostal>04700</CodePostal>
+      <NomCommune>Le Castellet</NomCommune>
+      <Localisation>
+         <Latitude>43.9379196167</Latitude>
+         <Longitude>5.97996282578</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 78 74 03</Téléphone>
+      <Télécopie>+33 4 92 79 62 38</Télécopie>
+      <Email>mairie.lecastellet@orange.fr</Email>
+      <Url>http://www.le-castellet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

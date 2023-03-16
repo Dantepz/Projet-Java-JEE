@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49208-01" codeInsee="49208" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montguillon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Tilleuls</Ligne>
+      <CodePostal>49500</CodePostal>
+      <NomCommune>Montguillon</NomCommune>
+      <Localisation>
+         <Latitude>47.7533988953</Latitude>
+         <Longitude>-0.792059004307</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 61 31 72</Téléphone>
+      <Télécopie>+33 9 70 62 16 67</Télécopie>
+      <Email>mairie.montguillon@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 2eet le 4e samedi de chaque mois.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique le mardi et jeudi de 9h à 12h et de 14h à 18h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

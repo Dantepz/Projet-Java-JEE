@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57441-01" codeInsee="57441" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Manom</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>68 Grand'rue</Ligne>
+      <CodePostal>57100</CodePostal>
+      <NomCommune>Manom</NomCommune>
+      <Localisation>
+         <Latitude>49.3689994812</Latitude>
+         <Longitude>6.18774986267</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 53 63 64</Téléphone>
+      <Télécopie>+33 3 82 53 26 82</Télécopie>
+      <Email>mairie.manom@wanadoo.fr</Email>
+      <Url>http://www.mairie-manom.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé durant les vacances scolaires ou lors de ponts et veilles de jours fériés.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

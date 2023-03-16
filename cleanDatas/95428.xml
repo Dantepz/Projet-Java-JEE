@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95428-01" codeInsee="95428" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montmorency</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 avenue Foch</Ligne>
+      <Ligne>BP 70101</Ligne>
+      <CodePostal>95162</CodePostal>
+      <NomCommune>Montmorency Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.9892997742</Latitude>
+         <Longitude>2.32059001923</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 39 34 98 00</Téléphone>
+      <Télécopie>+33 1 34 12 18 65</Télécopie>
+      <Email>communication@ville-montmorency.fr</Email>
+      <Url>http://www.ville-montmorency.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Ouvert uniquement pour le service état civil, scolaire,fichier d'identification, passeport et carte d'identité.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

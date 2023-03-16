@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-45032-01" codeInsee="45032" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bignon-Mirabeau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 route de Rozoy</Ligne>
+      <CodePostal>45210</CodePostal>
+      <NomCommune>Le Bignon-Mirabeau</NomCommune>
+      <Localisation>
+         <Latitude>48.1470298767</Latitude>
+         <Longitude>2.92295098305</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 38 90 97 44</Téléphone>
+      <Télécopie>+33 2 38 90 93 68</Télécopie>
+      <Email>lebignonmirabeau.mairie@wanadoo.fr</Email>
+      <Url>http://www.lebignonmirabeau.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 2e Samedi de chaque mois.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34227-01" codeInsee="34227" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Restinclières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la République</Ligne>
+      <CodePostal>34160</CodePostal>
+      <NomCommune>Restinclières</NomCommune>
+      <Localisation>
+         <Latitude>43.7238006592</Latitude>
+         <Longitude>4.03880977631</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 86 60 02</Téléphone>
+      <Télécopie>+33 4 67 86 68 56</Télécopie>
+      <Email>mairie.restinclieres@cegetel.net</Email>
+      <Url>http://www.restinclieres.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert en juillet-août uniquement de 13h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

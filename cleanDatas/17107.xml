@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17107-01" codeInsee="17107" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ciré-d'Aunis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue de l'Église</Ligne>
+      <CodePostal>17290</CodePostal>
+      <NomCommune>Ciré-d'Aunis</NomCommune>
+      <Localisation>
+         <Latitude>46.0556983948</Latitude>
+         <Longitude>-0.931433975697</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 55 33 70</Téléphone>
+      <Télécopie>+33 5 46 55 34 57</Télécopie>
+      <Email>cire.daunis@mairie17.com</Email>
+      <Url>http://www.ciredaunis17.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

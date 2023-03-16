@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41082-01" codeInsee="41082" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Feings</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Bièvre</Ligne>
+      <CodePostal>41120</CodePostal>
+      <NomCommune>Feings</NomCommune>
+      <Localisation>
+         <Latitude>47.4388008118</Latitude>
+         <Longitude>1.35494995117</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 20 27 33</Téléphone>
+      <Télécopie>+33 2 54 33 21 77</Télécopie>
+      <Email>mairie-feings2@wanadoo.fr</Email>
+      <Url>http://www.feings.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

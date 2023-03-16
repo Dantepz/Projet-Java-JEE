@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27254-01" codeInsee="27254" dateMiseAJour="2015-12-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontaine-sous-Jouy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du Rosey</Ligne>
+      <CodePostal>27120</CodePostal>
+      <NomCommune>Fontaine-sous-Jouy</NomCommune>
+      <Localisation>
+         <Latitude>49.0680999756</Latitude>
+         <Longitude>1.29391002655</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 36 71 70</Téléphone>
+      <Télécopie>+33 2 32 26 31 42</Télécopie>
+      <Email>mairie-fontaine-sous-jouy@wanadoo.fr</Email>
+      <Url>http://www.fontainesousjouy.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

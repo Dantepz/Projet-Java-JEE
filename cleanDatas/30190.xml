@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30190-01" codeInsee="30190" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Notre-Dame-de-la-Rouvière</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de l'Église</Ligne>
+      <CodePostal>30570</CodePostal>
+      <NomCommune>Notre-Dame-de-la-Rouvière</NomCommune>
+      <Localisation>
+         <Latitude>44.0486984253</Latitude>
+         <Longitude>3.70082998276</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 82 40 73</Téléphone>
+      <Télécopie>+33 4 67 82 76 75</Télécopie>
+      <Email>notredamedelarouviere@wanadoo.fr</Email>
+      <Url>http://www.notredamedelarouviere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

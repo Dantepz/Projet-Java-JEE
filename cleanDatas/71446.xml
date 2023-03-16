@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71446-01" codeInsee="71446" dateMiseAJour="2016-01-25"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Marcelin-de-Cray</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71460</CodePostal>
+      <NomCommune>Saint-Marcelin-de-Cray</NomCommune>
+      <Localisation>
+         <Latitude>46.5588989258</Latitude>
+         <Longitude>4.53657007217</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 24 64 23</Téléphone>
+      <Email>saint.marcelin@wanadoo.fr</Email>
+      <Url>http://www.saint-marcelin-de-cray.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

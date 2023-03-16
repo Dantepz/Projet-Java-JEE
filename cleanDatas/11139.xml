@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11139-01" codeInsee="11139" dateMiseAJour="2014-06-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fenouillet-du-Razès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue des Pyrénées</Ligne>
+      <CodePostal>11240</CodePostal>
+      <NomCommune>Fenouillet-du-Razès</NomCommune>
+      <Localisation>
+         <Latitude>43.1678009033</Latitude>
+         <Longitude>2.07897996902</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 69 14 60</Téléphone>
+      <Télécopie>+33 4 68 69 14 60</Télécopie>
+      <Email>fenouillet.razes@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

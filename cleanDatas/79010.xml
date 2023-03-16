@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79010-01" codeInsee="79010" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arçais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29, rue de la Mairie</Ligne>
+      <CodePostal>79210</CodePostal>
+      <NomCommune>Arçais</NomCommune>
+      <Localisation>
+         <Latitude>46.297036</Latitude>
+         <Longitude>-0.6880071</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 35 37 12</Téléphone>
+      <Télécopie>+33 5 49 35 34 01</Télécopie>
+      <Email>mairie.arcais@orange.fr</Email>
+      <Url>http://www.arcais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

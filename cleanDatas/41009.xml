@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41009-01" codeInsee="41009" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Averdon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de la Mairie</Ligne>
+      <CodePostal>41330</CodePostal>
+      <NomCommune>Averdon</NomCommune>
+      <Localisation>
+         <Latitude>47.6843986511</Latitude>
+         <Longitude>1.29516005516</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 20 16 59</Téléphone>
+      <Email>mairie.averdon@wanadoo.fr</Email>
+      <Url>http://www.averdon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert sur rendez-vous en dehors des horaires d'ouverture</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+         <Note>Accueil ouvert sur rendez-vous en dehors des horaires d'ouverture</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+         <Note>Accueil ouvert sur rendez-vous en dehors des horaires d'ouverture</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

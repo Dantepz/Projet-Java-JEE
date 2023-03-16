@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51208-01" codeInsee="51208" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dampierre-sur-Moivre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, Grande rue</Ligne>
+      <CodePostal>51240</CodePostal>
+      <NomCommune>Dampierre-sur-Moivre</NomCommune>
+      <Localisation>
+         <Latitude>48.8935919</Latitude>
+         <Longitude>4.5588167</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 66 55 50</Téléphone>
+      <Télécopie>+33 3 26 66 55 50</Télécopie>
+      <Email>dasm512@wanadoo.fr</Email>
+      <Url>http://www.dampierre-sur-moivre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous avec monsieur le maire</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

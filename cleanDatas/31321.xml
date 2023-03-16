@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31321-01" codeInsee="31321" dateMiseAJour="2016-01-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marsoulas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>31260</CodePostal>
+      <NomCommune>Marsoulas</NomCommune>
+      <Localisation>
+         <Latitude>43.0812988281</Latitude>
+         <Longitude>0.950981020927</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 90 58 69</Téléphone>
+      <Télécopie>+33 5 61 90 58 69</Télécopie>
+      <Email>commarsoulas@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+         <Note>Permanence du Maire le lundi à partir de 11h</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+         <Note>Permanence du Maire le lundi à partir de 11h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

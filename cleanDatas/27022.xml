@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27022-01" codeInsee="27022" dateMiseAJour="2016-02-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Le Val d'Hazey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 14</Ligne>
+      <Ligne>Place du Souvenir-Français</Ligne>
+      <CodePostal>27940</CodePostal>
+      <NomCommune>Aubevoye</NomCommune>
+      <Localisation>
+         <Latitude>49.1745986938</Latitude>
+         <Longitude>1.33614003658</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 53 01 04</Téléphone>
+      <Télécopie>+33 2 32 53 98 45</Télécopie>
+      <Email>info@ville-aubevoye.fr</Email>
+      <Url>http://www.ville-aubevoye.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:15:00" fin="12:00:00"/>
+         <PlageH début="13:45:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Le Val d'Hazey   remplace les communes d'Aubevoye, de Sainte-Barbe-sur-Gaillon et de Vieux-Villez</Commentaire>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14551-01" codeInsee="14551" dateMiseAJour="2014-05-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Russy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Beaumont</Ligne>
+      <CodePostal>14710</CodePostal>
+      <NomCommune>Russy</NomCommune>
+      <Localisation>
+         <Latitude>49.3326085</Latitude>
+         <Longitude>-0.8213498</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 51 06 35</Téléphone>
+      <Télécopie>+33 2 31 51 06 35</Télécopie>
+      <Email>mairie.russy@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

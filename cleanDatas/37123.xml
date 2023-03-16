@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37123-01" codeInsee="37123" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Langeais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place du 14-Juillet</Ligne>
+      <Ligne>BP 98</Ligne>
+      <CodePostal>37130</CodePostal>
+      <NomCommune>Langeais</NomCommune>
+      <Localisation>
+         <Latitude>47.3246994019</Latitude>
+         <Longitude>0.40875300765</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 96 12 50</Téléphone>
+      <Télécopie>+33 2 47 96 69 23</Télécopie>
+      <Email>contact@langeais.fr</Email>
+      <Url>http://www.langeais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Ouverture uniquement pour les démarches courantes (service de l'état civil, inscriptions électorales ... etc.)</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16286-01" codeInsee="16286" dateMiseAJour="2016-02-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rouillac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 80020</Ligne>
+      <Ligne>16, place Thiers</Ligne>
+      <CodePostal>16170</CodePostal>
+      <NomCommune>Rouillac</NomCommune>
+      <Localisation>
+         <Latitude>45.7760532</Latitude>
+         <Longitude>-0.06583420000004025</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 96 51 41</Téléphone>
+      <Télécopie>+33 5 45 96 52 29</Télécopie>
+      <Email>mairie@ville-rouillac.fr</Email>
+      <Url>http://www.ville-rouillac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Rouillac remplace les communes de Rouillac, de Plaizac et de Sonneville</Commentaire>
+</Organisme>

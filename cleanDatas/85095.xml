@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85095-01" codeInsee="85095" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Froidfond</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55 rue de l'Océan</Ligne>
+      <CodePostal>85300</CodePostal>
+      <NomCommune>Froidfond</NomCommune>
+      <Localisation>
+         <Latitude>46.8693008423</Latitude>
+         <Longitude>-1.75885999203</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 35 53 44</Téléphone>
+      <Télécopie>+33 2 51 35 53 18</Télécopie>
+      <Email>mairiefroidfond@wanadoo.fr</Email>
+      <Url>http://www.froidfond.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

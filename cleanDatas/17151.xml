@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17151-01" codeInsee="17151" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Éguille-sur-Seudre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, Grand'rue</Ligne>
+      <CodePostal>17600</CodePostal>
+      <NomCommune>L'Éguille</NomCommune>
+      <Localisation>
+         <Latitude>45.6612014771</Latitude>
+         <Longitude>-0.967471003532</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 22 83 15</Téléphone>
+      <Télécopie>+33 5 46 22 88 89</Télécopie>
+      <Email>mairie.eguille@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

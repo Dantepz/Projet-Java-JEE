@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26082-01" codeInsee="26082" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châteauneuf-de-Bordette</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Les-Gleizes</Ligne>
+      <Ligne>Le Village</Ligne>
+      <CodePostal>26110</CodePostal>
+      <NomCommune>Châteauneuf-de-Bordette</NomCommune>
+      <Localisation>
+         <Latitude>44.3357467651</Latitude>
+         <Longitude>5.17735290527</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 27 73 71</Téléphone>
+      <Email>mairie.chateauneuf@cverte.fr</Email>
+      <Url>http://cc-valdeygues.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

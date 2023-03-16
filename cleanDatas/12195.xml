@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12195-01" codeInsee="12195" dateMiseAJour="2013-04-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rebourguil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12400</CodePostal>
+      <NomCommune>Rebourguil</NomCommune>
+      <Localisation>
+         <Latitude>43.8878135681</Latitude>
+         <Longitude>2.77492189407</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 99 83 11</Téléphone>
+      <Télécopie>+33 5 65 99 83 11</Télécopie>
+      <Email>mairierebourguil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

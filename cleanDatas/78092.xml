@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78092-01" codeInsee="78092" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bougival</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>126 rue du Maréchal-Joffre</Ligne>
+      <CodePostal>78380</CodePostal>
+      <NomCommune>Bougival</NomCommune>
+      <Localisation>
+         <Latitude>48.8609008789</Latitude>
+         <Longitude>2.14005994797</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 30 78 25 80</Téléphone>
+      <Télécopie>+33 1 30 78 25 88</Télécopie>
+      <Email>christine.dezaunay@ville-bougival.fr</Email>
+      <Url>http://www.ville-bougival.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+         <Note>Permanence service état civil uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

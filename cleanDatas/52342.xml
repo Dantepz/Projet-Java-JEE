@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52342-01" codeInsee="52342" dateMiseAJour="2007-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Morionvilliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>52700</CodePostal>
+      <NomCommune>MORIONVILLIERS</NomCommune>
+      <Localisation>
+         <Latitude>48.3699798584</Latitude>
+         <Longitude>5.41322803497</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 02 24 94</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

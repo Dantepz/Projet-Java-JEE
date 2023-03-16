@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63017-01" codeInsee="63017" dateMiseAJour="2015-04-16"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Augnat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>63340</CodePostal>
+      <NomCommune>Augnat</NomCommune>
+      <Localisation>
+         <Latitude>45.4119529724</Latitude>
+         <Longitude>3.18251895905</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 96 55 67</Téléphone>
+      <Télécopie>+33 4 73 96 55 67</Télécopie>
+      <Email>maire.augnat@wanadoo.fr</Email>
+      <Url>http://augnat.over-blog.com/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

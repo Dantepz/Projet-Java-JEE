@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48108-01" codeInsee="48108" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Panouse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48600</CodePostal>
+      <NomCommune>La Panouse</NomCommune>
+      <Localisation>
+         <Latitude>44.729172</Latitude>
+         <Longitude>3.588808</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 46 41 46</Téléphone>
+      <Télécopie>+33 4 66 46 41 46</Télécopie>
+      <Email>mairie.lapanouse@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

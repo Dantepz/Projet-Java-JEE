@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54514-01" codeInsee="54514" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tellancourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Marcel-Bigeard</Ligne>
+      <CodePostal>54260</CodePostal>
+      <NomCommune>Tellancourt</NomCommune>
+      <Localisation>
+         <Latitude>49.5078010559</Latitude>
+         <Longitude>5.63411998749</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 26 77 11</Téléphone>
+      <Télécopie>+33 3 82 26 76 11</Télécopie>
+      <Email>mairiedetellancourt@orange.fr</Email>
+      <Url>http://www.tellancourt.mairie.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

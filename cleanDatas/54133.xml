@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54133-01" codeInsee="54133" dateMiseAJour="2004-09-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55 rue de l'Eglise</Ligne>
+      <CodePostal>54370</CodePostal>
+      <NomCommune>COINCOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.6790008545</Latitude>
+         <Longitude>6.62610006332</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 71 31 83</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

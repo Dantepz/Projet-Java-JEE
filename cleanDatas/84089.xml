@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84089-01" codeInsee="84089" dateMiseAJour="2016-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pertuis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>CS 737</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <Ligne>Rue Voltaire</Ligne>
+      <CodePostal>84120</CodePostal>
+      <NomCommune>Pertuis</NomCommune>
+      <Localisation>
+         <Latitude>43.6944999695</Latitude>
+         <Longitude>5.50218009949</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 79 02 74</Téléphone>
+      <Télécopie>+33 4 90 79 21 79</Télécopie>
+      <Email>communication@mairie-pertuis.fr</Email>
+      <Url>http://www.ville-pertuis.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

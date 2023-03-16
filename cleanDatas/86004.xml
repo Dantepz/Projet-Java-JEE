@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86004-01" codeInsee="86004" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Angles-sur-l'Anglin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue Saint-Jean</Ligne>
+      <CodePostal>86260</CodePostal>
+      <NomCommune>Angles-sur-l'Anglin</NomCommune>
+      <Localisation>
+         <Latitude>46.6958007812</Latitude>
+         <Longitude>0.883581995964</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 48 61 20</Téléphone>
+      <Télécopie>+33 5 49 48 83 99</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+         <Note>Permanence téléphonique uniquement de 13h à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

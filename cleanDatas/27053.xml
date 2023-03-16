@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27053-01" codeInsee="27053" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bec-Thomas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue de la Mairie</Ligne>
+      <CodePostal>27370</CodePostal>
+      <NomCommune>Le Bec-Thomas</NomCommune>
+      <Localisation>
+         <Latitude>49.2346458435</Latitude>
+         <Longitude>0.980619013309</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 35 36 41</Téléphone>
+      <Télécopie>+33 9 70 62 14 32</Télécopie>
+      <Email>lebecthomas@lebecthomas.fr</Email>
+      <Url>http://www.lebecthomas.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:15:00" fin="18:15:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

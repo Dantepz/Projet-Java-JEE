@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21494-01" codeInsee="21494" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Poncey-sur-l'Ignon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Église</Ligne>
+      <CodePostal>21440</CodePostal>
+      <NomCommune>Poncey-sur-l'Ignon</NomCommune>
+      <Localisation>
+         <Latitude>47.4953239</Latitude>
+         <Longitude>4.697527</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 35 19 11</Téléphone>
+      <Télécopie>+33 3 80 35 19 11</Télécopie>
+      <Email>ponceysurlignon21@yahoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:45:00" fin="15:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

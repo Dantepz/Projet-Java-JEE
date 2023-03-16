@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39368-01" codeInsee="39368" dateMiseAJour="2016-03-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hauts de Bienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Jean-Jaurès</Ligne>
+      <Ligne>BP 90107</Ligne>
+      <CodePostal>39403</CodePostal>
+      <NomCommune>Morez</NomCommune>
+      <Localisation>
+         <Latitude>46.5210990906</Latitude>
+         <Longitude>6.02264976501</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 33 10 11</Téléphone>
+      <Télécopie>+33 3 84 33 26 42</Télécopie>
+      <Email>secretariat@mairie-morez.fr</Email>
+      <Url>http://www.ville-morez.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Hauts de Bienne  remplace les communes de La Mouille, de Lézat et de Morez</Commentaire>
+</Organisme>

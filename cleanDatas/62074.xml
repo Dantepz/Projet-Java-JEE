@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62074-01" codeInsee="62074" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bailleulval</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 bis rue du Château</Ligne>
+      <CodePostal>62123</CodePostal>
+      <NomCommune>Bailleulval</NomCommune>
+      <Localisation>
+         <Latitude>50.2164001465</Latitude>
+         <Longitude>2.6121199131</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 55 64 13</Téléphone>
+      <Télécopie>+33 3 21 48 06 17</Télécopie>
+      <Email>mairiedebailleulval@free.fr</Email>
+      <Url>http://www.bailleulval.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

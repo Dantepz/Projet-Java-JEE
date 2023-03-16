@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63244-01" codeInsee="63244" dateMiseAJour="2016-03-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chambaron sur Morge</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 place de l'Église</Ligne>
+      <CodePostal>63200</CodePostal>
+      <NomCommune>Chambaron-sur-Morge</NomCommune>
+      <Localisation>
+         <Latitude>45.9659975</Latitude>
+         <Longitude>3.1598114</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 97 20 43</Téléphone>
+      <Télécopie>+33 4 73 64 92 06</Télécopie>
+      <Email>communedelamoutade@orange.fr</Email>
+      <Url>http://www.lamoutade.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:00:00" fin="15:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Chambaron sur Morge  remplace les communes de Cellule et de La Moutade</Commentaire>
+</Organisme>

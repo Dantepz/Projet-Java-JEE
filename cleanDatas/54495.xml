@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54495-01" codeInsee="54495" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saulxures-lès-Nancy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de Tomblaine</Ligne>
+      <Ligne>BP 52010</Ligne>
+      <CodePostal>54420</CodePostal>
+      <NomCommune>Saulxures-lès-Nancy</NomCommune>
+      <Localisation>
+         <Latitude>48.6855262</Latitude>
+         <Longitude>6.240079</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 29 18 29</Téléphone>
+      <Télécopie>+33 3 83 21 80 50</Télécopie>
+      <Email>mairie-saulxures@mairie-saulxures-les-nancy.fr</Email>
+      <Url>http://www.mairie-saulxures-les-nancy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé en juillet-août et le 2e samedi pendant les congés scolaires ayant une durée de 2 semaines.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

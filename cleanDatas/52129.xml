@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52129-01" codeInsee="52129" dateMiseAJour="2011-08-31"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cirey-sur-Blaise</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Emilie du Châtelet</Ligne>
+      <CodePostal>52110</CodePostal>
+      <NomCommune>CIREY SUR BLAISE</NomCommune>
+      <Localisation>
+         <Latitude>48.332276</Latitude>
+         <Longitude>4.941091</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 55 95 00</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

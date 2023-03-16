@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61124-01" codeInsee="61124" dateMiseAJour="2014-07-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Coulonche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>61220</CodePostal>
+      <NomCommune>La Coulonche</NomCommune>
+      <Localisation>
+         <Latitude>48.6480903625</Latitude>
+         <Longitude>-0.451986014843</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 66 93 65</Téléphone>
+      <Télécopie>+33 9 62 26 76 47</Télécopie>
+      <Email>mairielacoulonche@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

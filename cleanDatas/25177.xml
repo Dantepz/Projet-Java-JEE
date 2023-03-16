@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25177-01" codeInsee="25177" dateMiseAJour="2016-02-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crosey-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Bataillot</Ligne>
+      <CodePostal>25340</CodePostal>
+      <NomCommune>Crosey-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>47.3530006409</Latitude>
+         <Longitude>6.52578020096</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 86 87 96</Téléphone>
+      <Email>mairiedecroseylegrand@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14496-01" codeInsee="14496" dateMiseAJour="2004-08-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Périgny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>14770</CodePostal>
+      <NomCommune>PERIGNY</NomCommune>
+      <Localisation>
+         <Latitude>48.8916586</Latitude>
+         <Longitude>-0.6073904</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 69 83 80</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

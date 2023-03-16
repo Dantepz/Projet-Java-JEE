@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25433-01" codeInsee="25433" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Orgeans-Blanchefontaine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue Principale</Ligne>
+      <CodePostal>25120</CodePostal>
+      <NomCommune>Orgeans-Blanchefontaine</NomCommune>
+      <Localisation>
+         <Latitude>47.2633437</Latitude>
+         <Longitude>6.7442043</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 64 26 78</Téléphone>
+      <Télécopie>+33 3 81 64 26 78</Télécopie>
+      <Email>commune.orgeans.blanchefontaine@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

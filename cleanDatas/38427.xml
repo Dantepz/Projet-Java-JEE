@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38427-01" codeInsee="38427" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Michel-de-Saint-Geoirs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1550 route de la Forteresse</Ligne>
+      <CodePostal>38590</CodePostal>
+      <NomCommune>Saint-Michel-de-Saint-Geoirs</NomCommune>
+      <Localisation>
+         <Latitude>45.3299598694</Latitude>
+         <Longitude>5.34592008591</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 65 48 83</Téléphone>
+      <Télécopie>+33 4 76 65 47 09</Télécopie>
+      <Email>mairie.stmichelstgeoirs@wanadoo.fr</Email>
+      <Url>http://www.mairie-stmichelstgeoirs.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:30:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous en dehors des horaires.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous en dehors des horaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80349-01" codeInsee="80349" dateMiseAJour="2004-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fransures</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>-</Ligne>
+      <CodePostal>80160</CodePostal>
+      <NomCommune>Fransures</NomCommune>
+      <Localisation>
+         <Latitude>49.7141532898</Latitude>
+         <Longitude>2.23201107979</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 09 43 52</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

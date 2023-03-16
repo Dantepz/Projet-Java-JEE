@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13034-01" codeInsee="13034" dateMiseAJour="2015-10-05"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Eygalières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Marcel-Bonein</Ligne>
+      <CodePostal>13810</CodePostal>
+      <NomCommune>Eygalières</NomCommune>
+      <Localisation>
+         <Latitude>43.76015</Latitude>
+         <Longitude>4.950151</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 95 91 01</Téléphone>
+      <Télécopie>+33 4 90 95 96 40</Télécopie>
+      <Email>mairie.eygalieres@wanadoo.fr</Email>
+      <Url>http://www.mairie-eygalieres.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

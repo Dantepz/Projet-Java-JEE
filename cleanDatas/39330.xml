@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39330-01" codeInsee="39330" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Miéry</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29, rue Principale</Ligne>
+      <CodePostal>39800</CodePostal>
+      <NomCommune>Miéry</NomCommune>
+      <Localisation>
+         <Latitude>46.8131711</Latitude>
+         <Longitude>5.6749587</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 37 37 22</Téléphone>
+      <Télécopie>+33 3 84 73 71 80</Télécopie>
+      <Email>mairie.miery@wanadoo.fr</Email>
+      <Url>http://www.miery.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

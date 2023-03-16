@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31359-01" codeInsee="31359" dateMiseAJour="2007-07-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montastruc-Savès</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>31370</CodePostal>
+      <NomCommune>MONTASTRUC SAVES</NomCommune>
+      <Localisation>
+         <Latitude>43.361541748</Latitude>
+         <Longitude>1.01979994774</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 98 59 66</Téléphone>
+      <Télécopie>+33 5 61 98 59 66</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

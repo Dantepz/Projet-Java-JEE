@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31300-01" codeInsee="31300" dateMiseAJour="2015-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lieoux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>31800</CodePostal>
+      <NomCommune>Lieoux</NomCommune>
+      <Localisation>
+         <Latitude>43.152417</Latitude>
+         <Longitude>0.7702679</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 00 16 73</Téléphone>
+      <Télécopie>+33 5 62 00 16 73</Télécopie>
+      <Email>http://www.lieoux.fr/?page_id=583</Email>
+      <Url>http://www.lieoux.fr</Url>
+   </CoordonnéesNum>
+</Organisme>

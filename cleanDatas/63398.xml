@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63398-01" codeInsee="63398" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sauveur-la-Sagne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Sagne</Ligne>
+      <CodePostal>63220</CodePostal>
+      <NomCommune>Saint-Sauveur-la-Sagne</NomCommune>
+      <Localisation>
+         <Latitude>45.3981018066</Latitude>
+         <Longitude>3.66932010651</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 72 40 12</Téléphone>
+      <Télécopie>+33 4 73 72 45 33</Télécopie>
+      <Email>mairie-st-sauveur-la-sagne@orange.fr</Email>
+      <Url>http://www.st-sauveur-la-sagne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

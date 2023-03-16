@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53150-01" codeInsee="53150" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ménil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>53200</CodePostal>
+      <NomCommune>Ménil</NomCommune>
+      <Localisation>
+         <Latitude>47.8340148926</Latitude>
+         <Longitude>-0.717778027058</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 70 25 25</Téléphone>
+      <Télécopie>+33 2 43 70 95 02</Télécopie>
+      <Email>menil@chateaugontier.fr</Email>
+      <Url>http://www.menil53.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique les jeudi et vendredi de 14h à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique uniquement de 14h à 18h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

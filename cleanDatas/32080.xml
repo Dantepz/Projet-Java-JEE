@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32080-01" codeInsee="32080" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Castelnau-sur-l'Auvignon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Roger-Larribeau</Ligne>
+      <CodePostal>32100</CodePostal>
+      <NomCommune>Castelnau-sur-l'Auvignon</NomCommune>
+      <Localisation>
+         <Latitude>43.971674</Latitude>
+         <Longitude>0.457909</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 28 15 53</Téléphone>
+      <Télécopie>+33 5 62 68 30 90</Télécopie>
+      <Email>mairie-castelnau-sur-auvignon@alsatis.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

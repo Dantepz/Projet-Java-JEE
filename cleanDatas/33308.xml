@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33308-01" codeInsee="33308" dateMiseAJour="2015-04-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Omet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 Bertrande-Sud</Ligne>
+      <CodePostal>33410</CodePostal>
+      <NomCommune>Omet</NomCommune>
+      <Localisation>
+         <Latitude>44.6525001526</Latitude>
+         <Longitude>-0.280539989471</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 62 97 54</Téléphone>
+      <Télécopie>+33 5 56 76 86 20</Télécopie>
+      <Email>mairie.de.omet@wanadoo.fr</Email>
+      <Url>http://www.omet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

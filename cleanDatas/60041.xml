@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60041-01" codeInsee="60041" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bailleul-sur-Thérain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Maurice-Segonds</Ligne>
+      <CodePostal>60930</CodePostal>
+      <NomCommune>Bailleul-sur-Thérain</NomCommune>
+      <Localisation>
+         <Latitude>49.3838651</Latitude>
+         <Longitude>2.223835</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 07 65 49</Téléphone>
+      <Télécopie>+33 3 44 07 31 90</Télécopie>
+      <Email>mairiedebailleul@wanadoo.fr</Email>
+      <Url>http://www.bailleulsurtherain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67069-01" codeInsee="67069" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Buhl</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>92 rue des Seigneurs</Ligne>
+      <CodePostal>67470</CodePostal>
+      <NomCommune>Buhl</NomCommune>
+      <Localisation>
+         <Latitude>48.916093</Latitude>
+         <Longitude>8.0081418</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 80 00 76</Téléphone>
+      <Télécopie>+33 3 88 09 30 43</Télécopie>
+      <Email>mairie.buhl@wanadoo.fr</Email>
+      <Url>http://www.buhl67.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

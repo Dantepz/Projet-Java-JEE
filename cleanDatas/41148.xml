@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-41148-01" codeInsee="41148" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montlivault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 Grande rue</Ligne>
+      <Ligne>Cedex 109</Ligne>
+      <CodePostal>41350</CodePostal>
+      <NomCommune>Montlivault</NomCommune>
+      <Localisation>
+         <Latitude>47.638999939</Latitude>
+         <Longitude>1.44394004345</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 20 62 18</Téléphone>
+      <Télécopie>+33 2 54 20 59 43</Télécopie>
+      <Email>mairie.montlivault@wanadoo.fr</Email>
+      <Url>http://www.monclocher.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

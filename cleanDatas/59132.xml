@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59132-01" codeInsee="59132" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Carnières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>59217</CodePostal>
+      <NomCommune>Carnières</NomCommune>
+      <Localisation>
+         <Latitude>50.1682014465</Latitude>
+         <Longitude>3.34777998924</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 78 66 92</Téléphone>
+      <Télécopie>+33 3 27 78 70 57</Télécopie>
+      <Email>mairie.carnieres@wanadoo.fr</Email>
+      <Url>http://carnieres.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil fermé l'après-midi en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

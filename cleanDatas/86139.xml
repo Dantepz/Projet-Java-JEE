@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86139-01" codeInsee="86139" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lusignan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place du 8-Mai-1945</Ligne>
+      <Ligne>BP 40002</Ligne>
+      <CodePostal>86600</CodePostal>
+      <NomCommune>Lusignan</NomCommune>
+      <Localisation>
+         <Latitude>46.4352378845</Latitude>
+         <Longitude>0.122424997389</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rampe d'accès</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 43 31 48</Téléphone>
+      <Télécopie>+33 5 49 43 61 19</Télécopie>
+      <Email>lusignan@cg86.fr</Email>
+      <Url>http://www.lusignan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

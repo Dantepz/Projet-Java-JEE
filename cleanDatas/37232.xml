@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37232-01" codeInsee="37232" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Patrice</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>62 rue Dorothée-de-Dino</Ligne>
+      <CodePostal>37130</CodePostal>
+      <NomCommune>Saint-Patrice</NomCommune>
+      <Localisation>
+         <Latitude>47.2847137451</Latitude>
+         <Longitude>0.300496011972</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 96 98 15</Téléphone>
+      <Email>mairie.stpatrice@wanadoo.fr</Email>
+      <Url>http://www.saint-patrice.a3w.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

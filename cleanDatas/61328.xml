@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61328-01" codeInsee="61328" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie du Pin-au-Haras</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Pin-Fleury</Ligne>
+      <CodePostal>61310</CodePostal>
+      <NomCommune>Le Pin-au-Haras</NomCommune>
+      <Localisation>
+         <Latitude>48.7458648682</Latitude>
+         <Longitude>0.141495004296</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 39 92 13</Téléphone>
+      <Télécopie>+33 9 70 61 34 12</Télécopie>
+      <Email>mairie.lepinauharas@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:45:00" fin="12:45:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:45:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

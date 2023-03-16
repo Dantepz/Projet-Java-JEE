@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85209-01" codeInsee="85209" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Étienne-de-Brillouet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>48 rue de la Mairie</Ligne>
+      <CodePostal>85210</CodePostal>
+      <NomCommune>Saint-Étienne-de-Brillouet</NomCommune>
+      <Localisation>
+         <Latitude>46.5250015259</Latitude>
+         <Longitude>-0.998430013657</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 27 62 91</Téléphone>
+      <Télécopie>+33 2 51 27 64 24</Télécopie>
+      <Email>mairie.saintetiennedebrillouet@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

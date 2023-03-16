@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50243-01" codeInsee="50243" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Heugueville-sur-Sienne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 rue Sienne</Ligne>
+      <CodePostal>50200</CodePostal>
+      <NomCommune>Heugueville-sur-Sienne</NomCommune>
+      <Localisation>
+         <Latitude>49.0345993042</Latitude>
+         <Longitude>-1.52135002613</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 19 04 80</Téléphone>
+      <Télécopie>+33 2 33 19 04 81</Télécopie>
+      <Email>mairie.heuguevillesursienne@mediamanche.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

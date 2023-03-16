@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-47256-01" codeInsee="47256" dateMiseAJour="2014-04-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-de-Villeréal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>47210</CodePostal>
+      <NomCommune>Saint-Martin-de-Villeréal</NomCommune>
+      <Localisation>
+         <Latitude>44.6446304321</Latitude>
+         <Longitude>0.820427000523</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 36 62 05</Téléphone>
+      <Email>mairiestmartinval@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97414-01" codeInsee="97414" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Louis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>125 avenue Principale</Ligne>
+      <CodePostal>97450</CodePostal>
+      <NomCommune>Saint-Louis</NomCommune>
+      <Localisation>
+         <Latitude>-20.939617</Latitude>
+         <Longitude>55.3044176</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 262 91 39 50</Téléphone>
+      <Télécopie>+262 262 26 79 70</Télécopie>
+      <Email>secret.maire-stlouis@wanadoo.fr</Email>
+      <Url>http://www.saintlouis.re</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

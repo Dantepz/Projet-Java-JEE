@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80528-01" codeInsee="80528" dateMiseAJour="2004-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mereaucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>-</Ligne>
+      <Ligne>- -</Ligne>
+      <CodePostal>80290</CodePostal>
+      <NomCommune>MEREAUCOURT</NomCommune>
+      <Localisation>
+         <Latitude>49.7291488647</Latitude>
+         <Longitude>1.93528199196</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 90 12 24</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

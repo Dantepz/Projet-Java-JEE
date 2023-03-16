@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46138-01" codeInsee="46138" dateMiseAJour="2016-02-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cœur de Causse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>46240</CodePostal>
+      <NomCommune>Labastide-Murat</NomCommune>
+      <Localisation>
+         <Latitude>44.6463012695</Latitude>
+         <Longitude>1.5668489933</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 31 11 50</Téléphone>
+      <Télécopie>+33 5 65 31 13 98</Télécopie>
+      <Email>mairie.labastide-murat@wanadoo.fr</Email>
+      <Url>http://www.labastide-murat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Cœur de Causse remplace les communes de Beaumat, de Fontanes-du-Causse, de Labastide-Murat, de Saint-Sauveur-la-Vallée et de Vaillac</Commentaire>
+</Organisme>

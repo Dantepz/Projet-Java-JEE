@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50619-01" codeInsee="50619" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie du Vast</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, rue de l'Église</Ligne>
+      <CodePostal>50630</CodePostal>
+      <NomCommune>Le Vast</NomCommune>
+      <Localisation>
+         <Latitude>49.6380996704</Latitude>
+         <Longitude>-1.29193997383</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 54 20 96</Téléphone>
+      <Email>mairie.levast@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

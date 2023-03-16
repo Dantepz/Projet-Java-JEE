@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24293-01" codeInsee="24293" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monplaisant</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Gaussens</Ligne>
+      <CodePostal>24170</CodePostal>
+      <NomCommune>Monplaisant</NomCommune>
+      <Localisation>
+         <Latitude>44.788643</Latitude>
+         <Longitude>0.996508</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 29 02 41</Téléphone>
+      <Télécopie>+33 5 53 29 02 41</Télécopie>
+      <Email>mairie.monplaisant@free.fr</Email>
+      <Url>http://monplaisant.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

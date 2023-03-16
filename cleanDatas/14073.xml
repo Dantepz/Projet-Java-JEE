@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14073-01" codeInsee="14073" dateMiseAJour="2014-07-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de la Bigne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route Ondefontaine</Ligne>
+      <CodePostal>14260</CodePostal>
+      <NomCommune>La Bigne</NomCommune>
+      <Localisation>
+         <Latitude>49.0118522644</Latitude>
+         <Longitude>-0.722414970398</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 77 83 44</Téléphone>
+      <Email>commune-la-bigne@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="18:30:00" fin="19:15:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="15:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

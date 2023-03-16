@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49234-01" codeInsee="49234" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Parçay-les-Pins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17 rue de la Mairie</Ligne>
+      <CodePostal>49390</CodePostal>
+      <NomCommune>Parçay-les-Pins</NomCommune>
+      <Localisation>
+         <Latitude>47.4372781</Latitude>
+         <Longitude>0.160259</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 82 62 52</Téléphone>
+      <Télécopie>+33 2 41 59 82 03</Télécopie>
+      <Email>mairiedeparcaylespins@wanadoo.fr</Email>
+      <Url>http://www.ville-parcaylespins.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37119-01" codeInsee="37119" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Île-Bouchard</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>16 place Bouchard</Ligne>
+      <Ligne>BP 26</Ligne>
+      <CodePostal>37220</CodePostal>
+      <NomCommune>L'Île-Bouchard</NomCommune>
+      <Localisation>
+         <Latitude>47.1201128</Latitude>
+         <Longitude>0.4247862</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 58 50 15</Téléphone>
+      <Télécopie>+33 2 47 58 67 35</Télécopie>
+      <Email>mairie.ilebouchard@wanadoo.fr</Email>
+      <Url>http://www.mairie-ilebouchard.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

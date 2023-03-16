@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-91204-01" codeInsee="91204" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Écharcon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue Jean-Comte</Ligne>
+      <CodePostal>91540</CodePostal>
+      <NomCommune>Écharcon</NomCommune>
+      <Localisation>
+         <Latitude>48.5729363</Latitude>
+         <Longitude>2.4143053</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 57 03 02</Téléphone>
+      <Télécopie>+33 1 69 90 53 64</Télécopie>
+      <Email>echarcon.commune@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueils physique, téléphonique et permanence du maire uniquement sur rendez-vous et uniquement durant les périodes scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueils physique, téléphonique et permanence du maire uniquement sur rendez-vous et uniquement hors périodes scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

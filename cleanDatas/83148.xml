@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-83148-01" codeInsee="83148" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vidauban</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Georges-Clemenceau</Ligne>
+      <CodePostal>83550</CodePostal>
+      <NomCommune>Vidauban</NomCommune>
+      <Localisation>
+         <Latitude>43.4268989563</Latitude>
+         <Longitude>6.4310798645</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 94 99 99 00</Téléphone>
+      <Télécopie>+33 4 94 99 99 16</Télécopie>
+      <Email>secretariat.mairie@ville-vidauban.fr</Email>
+      <Url>http://www.mairie-vidauban.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

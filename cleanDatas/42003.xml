@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42003-01" codeInsee="42003" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ambierle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Prieuré</Ligne>
+      <CodePostal>42820</CodePostal>
+      <NomCommune>Ambierle</NomCommune>
+      <Localisation>
+         <Latitude>46.1040534973</Latitude>
+         <Longitude>3.89629507065</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 65 60 67</Téléphone>
+      <Télécopie>+33 4 77 65 66 99</Télécopie>
+      <Email>prieure@wanadoo.fr</Email>
+      <Url>http://www.ambierle.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

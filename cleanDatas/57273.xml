@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57273-01" codeInsee="57273" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Guerstling</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue des Vergers</Ligne>
+      <CodePostal>57320</CodePostal>
+      <NomCommune>Guerstling</NomCommune>
+      <Localisation>
+         <Latitude>49.3274002075</Latitude>
+         <Longitude>6.57956981659</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 78 27 47</Téléphone>
+      <Télécopie>+33 3 87 57 92 28</Télécopie>
+      <Email>mairie.guerstling@wanadoo.fr</Email>
+      <Url>http://www.guerstling.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert le matin uniquement sur rendez-vous  et fermeture le mardi en juillet-août</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

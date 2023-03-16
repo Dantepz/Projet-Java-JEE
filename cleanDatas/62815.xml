@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62815-01" codeInsee="62815" dateMiseAJour="2007-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tigny Noyelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>impasse de la Mairie</Ligne>
+      <CodePostal>62180</CodePostal>
+      <NomCommune>TIGNY NOYELLE</NomCommune>
+      <Localisation>
+         <Latitude>50.4012985229</Latitude>
+         <Longitude>1.65104997158</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 81 20 70</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

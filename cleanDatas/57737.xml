@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57737-01" codeInsee="57737" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vulmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue Principale</Ligne>
+      <CodePostal>57420</CodePostal>
+      <NomCommune>Vulmont</NomCommune>
+      <Localisation>
+         <Latitude>48.9243008</Latitude>
+         <Longitude>6.3004215</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 52 40 48</Téléphone>
+      <Télécopie>+33 3 87 52 41 04</Télécopie>
+      <Email>mairie.de.cherisey@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="20:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

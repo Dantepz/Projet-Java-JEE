@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31061-01" codeInsee="31061" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bellegarde-Sainte-Marie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>31530</CodePostal>
+      <NomCommune>Bellegarde-Sainte-Marie</NomCommune>
+      <Localisation>
+         <Latitude>43.6718025208</Latitude>
+         <Longitude>1.11439096928</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 85 59 43</Téléphone>
+      <Télécopie>+33 5 61 85 59 43</Télécopie>
+      <Email>mairie.bellegarde31@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Accueil ouvert uniquement les 2e et 4e samedis du mois.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

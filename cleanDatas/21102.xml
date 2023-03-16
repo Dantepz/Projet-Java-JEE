@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21102-01" codeInsee="21102" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brazey-en-Morvan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue du Meix</Ligne>
+      <CodePostal>21430</CodePostal>
+      <NomCommune>Brazey-en-Morvan</NomCommune>
+      <Localisation>
+         <Latitude>47.1080151</Latitude>
+         <Longitude>4.9694186</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 84 03 36</Téléphone>
+      <Télécopie>+33 3 80 84 03 36</Télécopie>
+      <Email>commune.brazeyenmorvan@orange.fr</Email>
+      <Url>http://www.brazey-en-morvan.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

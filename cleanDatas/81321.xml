@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81321-01" codeInsee="81321" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie du Vintrou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81240</CodePostal>
+      <NomCommune>Le Vintrou</NomCommune>
+      <Localisation>
+         <Latitude>43.5247993469</Latitude>
+         <Longitude>2.46134495735</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 61 05 89</Téléphone>
+      <Télécopie>+33 5 63 98 18 13</Télécopie>
+      <Email>mairie-vintrou@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37093-01" codeInsee="37093" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crouzilles</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Balzac</Ligne>
+      <CodePostal>37220</CodePostal>
+      <NomCommune>Crouzilles</NomCommune>
+      <Localisation>
+         <Latitude>47.1242980957</Latitude>
+         <Longitude>0.460453003645</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 58 55 15</Téléphone>
+      <Télécopie>+33 2 47 58 57 83</Télécopie>
+      <Email>mairie.crouzilles@wanadoo.fr</Email>
+      <Url>http://www.cc-bouchardais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

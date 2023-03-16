@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39542-01" codeInsee="39542" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valfin-sur-Valouse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Tuilerie</Ligne>
+      <CodePostal>39240</CodePostal>
+      <NomCommune>Valfin-sur-Valouse</NomCommune>
+      <Localisation>
+         <Latitude>46.3695983887</Latitude>
+         <Longitude>5.51960992813</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 48 58 74</Téléphone>
+      <Télécopie>+33 3 84 48 58 74</Télécopie>
+      <Email>mairie.valfin-sur-valouse@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:15:00" fin="19:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

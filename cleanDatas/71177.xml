@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71177-01" codeInsee="71177" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dommartin-lès-Cuiseaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>122 Grande rue</Ligne>
+      <CodePostal>71480</CodePostal>
+      <NomCommune>Dommartin-lès-Cuiseaux</NomCommune>
+      <Localisation>
+         <Latitude>46.500713</Latitude>
+         <Longitude>5.298266</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 76 62 32</Téléphone>
+      <Télécopie>+33 3 85 76 68 89</Télécopie>
+      <Email>mairie.dommartinlescuiseaux@wanadoo.fr</Email>
+      <Url>http://www.dommartinlescuiseaux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement le 1er et le 3e samedi du mois.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

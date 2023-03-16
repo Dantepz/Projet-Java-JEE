@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51343-01" codeInsee="51343" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marcilly-sur-Seine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quai de Seine</Ligne>
+      <CodePostal>51260</CodePostal>
+      <NomCommune>Marcilly-sur-Seine</NomCommune>
+      <Localisation>
+         <Latitude>48.5694999695</Latitude>
+         <Longitude>3.73185992241</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 42 66 15</Téléphone>
+      <Télécopie>+33 3 26 81 16 80</Télécopie>
+      <Email>mairiedemarcilly2@wanadoo.fr</Email>
+      <Url>http://marcillysurseine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="14:00:00"/>
+         <Note>Accueil également ouvert le mardi de 17h à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="11:45:00"/>
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

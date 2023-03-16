@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-53181-01" codeInsee="53181" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pontmain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Sainte-Anne</Ligne>
+      <CodePostal>53220</CodePostal>
+      <NomCommune>Pontmain</NomCommune>
+      <Localisation>
+         <Latitude>48.4378421</Latitude>
+         <Longitude>-1.0588962</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 05 06 45</Téléphone>
+      <Télécopie>+33 2 43 05 06 10</Télécopie>
+      <Email>mairie.pontmain@wanadoo.fr</Email>
+      <Url>http://www.pontmain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25283-01" codeInsee="25283" dateMiseAJour="2004-09-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Goux Sous Landet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 bis rue de la Fromagerie</Ligne>
+      <CodePostal>25440</CodePostal>
+      <NomCommune>GOUX SOUS LANDET</NomCommune>
+      <Localisation>
+         <Latitude>47.080783844</Latitude>
+         <Longitude>5.93462610245</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 63 61 99</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

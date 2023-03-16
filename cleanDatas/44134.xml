@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44134-01" codeInsee="44134" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pouillé-les-Côteaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>176 rue de la Mairie</Ligne>
+      <CodePostal>44522</CodePostal>
+      <NomCommune>Pouillé-les-Côteaux</NomCommune>
+      <Localisation>
+         <Latitude>47.4546012878</Latitude>
+         <Longitude>-1.16161000729</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 98 49 56</Téléphone>
+      <Télécopie>+33 2 40 98 42 62</Télécopie>
+      <Email>pouille-les-coteaux.mairie@wanadoo.fr</Email>
+      <Url>http://www.pays-ancenis.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

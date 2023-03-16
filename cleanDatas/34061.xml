@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34061-01" codeInsee="34061" dateMiseAJour="2015-07-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Causses-et-Veyran</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 avenue de la République</Ligne>
+      <CodePostal>34490</CodePostal>
+      <NomCommune>Causses-et-Veyran</NomCommune>
+      <Localisation>
+         <Latitude>43.4755315</Latitude>
+         <Longitude>3.0843216</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 89 66 71</Téléphone>
+      <Télécopie>+33 4 67 89 63 07</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

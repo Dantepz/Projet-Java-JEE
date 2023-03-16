@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10077-01" codeInsee="10077" dateMiseAJour="2015-03-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Champigny-sur-Aube</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 Grande rue</Ligne>
+      <CodePostal>10700</CodePostal>
+      <NomCommune>Champigny-sur-Aube</NomCommune>
+      <Localisation>
+         <Latitude>48.5609559</Latitude>
+         <Longitude>4.07408</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 51 62 61 62</Téléphone>
+      <Email>mairie.champigny10@sfr.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:30:00" fin="20:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A211-01" codeInsee="2A211" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Petreto-Bicchisano</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Quartier Mairie</Ligne>
+      <CodePostal>20140</CodePostal>
+      <NomCommune>Petreto-Bicchisano</NomCommune>
+      <Localisation>
+         <Latitude>41.785303</Latitude>
+         <Longitude>8.980413</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 24 30 14</Téléphone>
+      <Télécopie>+33 4 95 24 37 44</Télécopie>
+      <Email>petreto-bicchisano@wanadoo.fr</Email>
+      <Url>http://petreto-bicchisano.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62613-01" codeInsee="62613" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nielles-lès-Bléquin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7, la Place</Ligne>
+      <Ligne>Hôtel de Ville</Ligne>
+      <CodePostal>62380</CodePostal>
+      <NomCommune>Nielles-lès-Bléquin</NomCommune>
+      <Localisation>
+         <Latitude>50.6739006042</Latitude>
+         <Longitude>2.03222990036</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 39 64 18</Téléphone>
+      <Télécopie>+33 3 21 38 04 47</Télécopie>
+      <Email>mairie@nielles.fr</Email>
+      <Url>http://www.nielles.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

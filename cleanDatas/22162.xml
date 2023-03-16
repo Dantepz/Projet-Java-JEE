@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-22162-01" codeInsee="22162" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Paimpol</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Pierre-Feutren</Ligne>
+      <Ligne>BP 92</Ligne>
+      <CodePostal>22502</CodePostal>
+      <NomCommune>Paimpol Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.7800561</Latitude>
+         <Longitude>-3.0493744</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 55 31 70</Téléphone>
+      <Télécopie>+33 2 96 55 31 89</Télécopie>
+      <Email>contact@ville-paimpol.fr</Email>
+      <Url>http://www.ville-paimpol.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

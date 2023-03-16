@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32456-01" codeInsee="32456" dateMiseAJour="2004-08-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tudelle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>32190</CodePostal>
+      <NomCommune>TUDELLE</NomCommune>
+      <Localisation>
+         <Latitude>43.679473877</Latitude>
+         <Longitude>0.289231002331</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 06 46 23</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

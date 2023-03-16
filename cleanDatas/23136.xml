@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-23136-01" codeInsee="23136" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mortroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>58 Grand'rue</Ligne>
+      <CodePostal>23220</CodePostal>
+      <NomCommune>Mortroux</NomCommune>
+      <Localisation>
+         <Latitude>46.3972625732</Latitude>
+         <Longitude>1.91404998302</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 80 62 14</Téléphone>
+      <Télécopie>+33 5 55 80 60 65</Télécopie>
+      <Email>mairie.mortroux@wanadoo.fr</Email>
+      <Url>http://www.mortroux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34216-01" codeInsee="34216" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie du Pradal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>34600</CodePostal>
+      <NomCommune>Le Pradal</NomCommune>
+      <Localisation>
+         <Latitude>43.6212997437</Latitude>
+         <Longitude>3.07118010521</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 95 08 35</Téléphone>
+      <Télécopie>+33 4 67 95 08 35</Télécopie>
+      <Email>mairie.le.pradal@wanadoo.fr</Email>
+      <Url>http://www.le-pradal.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="07:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

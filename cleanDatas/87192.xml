@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-87192-01" codeInsee="87192" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Solignac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>57 avenue Saint-Eloi</Ligne>
+      <CodePostal>87110</CodePostal>
+      <NomCommune>Solignac</NomCommune>
+      <Localisation>
+         <Latitude>45.7550010681</Latitude>
+         <Longitude>1.27553999424</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 55 00 50 09</Téléphone>
+      <Télécopie>+33 5 55 00 57 08</Télécopie>
+      <Email>mairie-solignac@orange.fr</Email>
+      <Url>http://www.solignac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

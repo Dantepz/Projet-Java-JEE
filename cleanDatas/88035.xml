@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88035-01" codeInsee="88035" dateMiseAJour="2007-11-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barbey Seroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route grande roche</Ligne>
+      <CodePostal>88640</CodePostal>
+      <NomCommune>BARBEY SEROUX</NomCommune>
+      <Localisation>
+         <Latitude>48.1424179077</Latitude>
+         <Longitude>6.83962392807</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 51 48 15</Téléphone>
+      <Télécopie>+33 3 29 51 48 15</Télécopie>
+      <Email>mairie.barbey-seroux@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

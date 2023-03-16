@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62735-01" codeInsee="62735" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sailly-Labourse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 18</Ligne>
+      <Ligne>Rue Nationale</Ligne>
+      <CodePostal>62113</CodePostal>
+      <NomCommune>Sailly-Labourse</NomCommune>
+      <Localisation>
+         <Latitude>50.498298645</Latitude>
+         <Longitude>2.69855999947</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 65 62 28</Téléphone>
+      <Télécopie>+33 3 21 64 32 77</Télécopie>
+      <Email>administration.sailly.lab@wanadoo.fr</Email>
+      <Url>http://www.sailly-labourse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

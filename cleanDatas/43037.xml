@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-43037-01" codeInsee="43037" dateMiseAJour="2015-02-10"
+           pivotLocal="mairie">
+   <Nom>Mairie du Bouchet-Saint-Nicolas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>43510</CodePostal>
+      <NomCommune>Le Bouchet-Saint-Nicolas</NomCommune>
+      <Localisation>
+         <Latitude>44.9283103943</Latitude>
+         <Longitude>3.80869102478</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 71 57 32 22</Téléphone>
+      <Télécopie>+33 4 71 57 32 22</Télécopie>
+      <Email>mairie.lebouchetstnicolas@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

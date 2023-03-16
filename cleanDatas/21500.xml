@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21500-01" codeInsee="21500" dateMiseAJour="2014-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pouillenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place Pion</Ligne>
+      <CodePostal>21150</CodePostal>
+      <NomCommune>Pouillenay</NomCommune>
+      <Localisation>
+         <Latitude>47.5071983337</Latitude>
+         <Longitude>4.46903991699</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 96 87 13</Téléphone>
+      <Télécopie>+33 3 80 96 93 89</Télécopie>
+      <Email>mpouillenay@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:45:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="10:00:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

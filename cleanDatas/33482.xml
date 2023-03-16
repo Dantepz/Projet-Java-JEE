@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33482-01" codeInsee="33482" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Sulpice-de-Pommiers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 route de La Réole</Ligne>
+      <CodePostal>33540</CodePostal>
+      <NomCommune>Saint-Sulpice-de-Pommiers</NomCommune>
+      <Localisation>
+         <Latitude>44.6714172363</Latitude>
+         <Longitude>-0.11353699863</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 56 71 59 43</Téléphone>
+      <Télécopie>+33 5 56 71 56 77</Télécopie>
+      <Email>mairie-st-sulpice-de-pommiers@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

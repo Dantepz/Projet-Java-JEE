@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-11119-01" codeInsee="11119" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Digne-d'Amont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Mairie</Ligne>
+      <CodePostal>11300</CodePostal>
+      <NomCommune>La Digne-d'Amont</NomCommune>
+      <Localisation>
+         <Latitude>43.0410995483</Latitude>
+         <Longitude>2.16032004356</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 31 72 60</Téléphone>
+      <Télécopie>+33 4 68 31 07 64</Télécopie>
+      <Email>digne.amont@wanadoo.fr</Email>
+      <Url>http://www.digne.amont@wanadoo.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

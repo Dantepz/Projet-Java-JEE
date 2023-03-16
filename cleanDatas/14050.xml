@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14050-01" codeInsee="14050" dateMiseAJour="2004-09-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bazoques</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>14490</CodePostal>
+      <NomCommune>LA BAZOQUE</NomCommune>
+      <Localisation>
+         <Latitude>49.1623764038</Latitude>
+         <Longitude>-0.868176996708</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 22 45 37</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

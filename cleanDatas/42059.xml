@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42059-01" codeInsee="42059" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chazelles-sur-Lyon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue Armand-Bazin</Ligne>
+      <CodePostal>42140</CodePostal>
+      <NomCommune>Chazelles-sur-Lyon</NomCommune>
+      <Localisation>
+         <Latitude>45.637137</Latitude>
+         <Longitude>4.3908722</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 54 20 20</Téléphone>
+      <Télécopie>+33 4 77 54 26 71</Télécopie>
+      <Email>mairie@chazelles-sur-lyon.fr</Email>
+      <Url>http://www.chazelles-sur-lyon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état-civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

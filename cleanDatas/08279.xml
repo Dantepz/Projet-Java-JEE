@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08279-01" codeInsee="08279" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mars-sous-Bourcq</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, place de la Mairie</Ligne>
+      <CodePostal>08400</CodePostal>
+      <NomCommune>Mars-sous-Bourcq</NomCommune>
+      <Localisation>
+         <Latitude>49.3966789246</Latitude>
+         <Longitude>4.64011383057</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 30 01 48</Téléphone>
+      <Télécopie>+33 3 24 30 99 81</Télécopie>
+      <Email>mairie.mars@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:30:00" fin="10:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

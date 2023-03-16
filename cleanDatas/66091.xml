@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66091-01" codeInsee="66091" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lamanère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, carre del Cingle</Ligne>
+      <CodePostal>66230</CodePostal>
+      <NomCommune>Lamanère</NomCommune>
+      <Localisation>
+         <Latitude>42.360849</Latitude>
+         <Longitude>2.519186</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 39 62 52</Téléphone>
+      <Télécopie>+33 4 68 39 69 26</Télécopie>
+      <Email>mairie.lamanere@orange.fr</Email>
+      <Url>http://www.lamanere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

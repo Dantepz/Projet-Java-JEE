@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21156-01" codeInsee="21156" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaudenay-le-Château</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, Grande rue</Ligne>
+      <CodePostal>21360</CodePostal>
+      <NomCommune>Chaudenay-le-Château</NomCommune>
+      <Localisation>
+         <Latitude>47.177749</Latitude>
+         <Longitude>4.645681</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 20 01 97</Téléphone>
+      <Télécopie>+33 3 80 20 01 97</Télécopie>
+      <Email>mairie.chaudenay-chateau@numeo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

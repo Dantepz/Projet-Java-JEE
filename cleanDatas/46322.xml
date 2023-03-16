@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46322-01" codeInsee="46322" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Trespoux-Rassiels</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Truque</Ligne>
+      <CodePostal>46090</CodePostal>
+      <NomCommune>Trespoux-Rassiels</NomCommune>
+      <Localisation>
+         <Latitude>44.4123497009</Latitude>
+         <Longitude>1.37813997269</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 22 27 98</Téléphone>
+      <Télécopie>+33 5 65 22 17 95</Télécopie>
+      <Email>mairie.trespoux@wanadoo.fr</Email>
+      <Url>http://www.trespoux-rassiels.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48065-01" codeInsee="48065" dateMiseAJour="2010-01-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fraissinet-de-Fourques</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>48400</CodePostal>
+      <NomCommune>FRAISSINET DE FOURQUES</NomCommune>
+      <Localisation>
+         <Latitude>44.2150576</Latitude>
+         <Longitude>3.5386531</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 44 01 51</Téléphone>
+      <Télécopie>+33 4 66 31 87 31</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33135-01" codeInsee="33135" dateMiseAJour="2014-04-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courpiac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, le Bourg Nord</Ligne>
+      <CodePostal>33760</CodePostal>
+      <NomCommune>Courpiac</NomCommune>
+      <Localisation>
+         <Latitude>44.7551078796</Latitude>
+         <Longitude>-0.182088002563</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 62 06 94 96</Téléphone>
+      <Télécopie>+33 5 56 23 93 09</Télécopie>
+      <Email>de-courpiac.mairie@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

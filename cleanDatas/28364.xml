@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28364-01" codeInsee="28364" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sancheville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18, place du Marché</Ligne>
+      <CodePostal>28800</CodePostal>
+      <NomCommune>Sancheville</NomCommune>
+      <Localisation>
+         <Latitude>48.1921285</Latitude>
+         <Longitude>1.5757538</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 44 00 23</Téléphone>
+      <Télécopie>+33 2 37 44 00 76</Télécopie>
+      <Email>sancheville.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A065-01" codeInsee="2A065" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cargèse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 1</Ligne>
+      <Ligne>Rue Marbeuf</Ligne>
+      <CodePostal>20130</CodePostal>
+      <NomCommune>Cargèse</NomCommune>
+      <Localisation>
+         <Latitude>42.1347671</Latitude>
+         <Longitude>8.5952744</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 26 41 01</Téléphone>
+      <Télécopie>+33 4 95 26 48 66</Télécopie>
+      <Email>mairie.cargese@wanadoo.fr</Email>
+      <Url>http://www.cargese.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

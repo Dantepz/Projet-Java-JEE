@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-72084-01" codeInsee="72084" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Clermont-Créans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, rue Nationale</Ligne>
+      <CodePostal>72200</CodePostal>
+      <NomCommune>Clermont-Créans</NomCommune>
+      <Localisation>
+         <Latitude>47.717540741</Latitude>
+         <Longitude>-0.0161509998143</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 43 94 37 25</Téléphone>
+      <Télécopie>+33 2 43 45 14 37</Télécopie>
+      <Email>mairie.clermont-creans@wanadoo.fr</Email>
+      <Url>http://www.clermont-creans.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

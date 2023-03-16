@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62272-01" codeInsee="62272" dateMiseAJour="2004-10-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Douchy lès Ayettes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Val</Ligne>
+      <CodePostal>62116</CodePostal>
+      <NomCommune>DOUCHY LES AYETTE</NomCommune>
+      <Localisation>
+         <Latitude>50.1762275696</Latitude>
+         <Longitude>2.71674108505</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 59 41 81</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

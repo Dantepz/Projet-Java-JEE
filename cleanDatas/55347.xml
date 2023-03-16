@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55347-01" codeInsee="55347" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie des Monthairons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de la Mairie</Ligne>
+      <CodePostal>55320</CodePostal>
+      <NomCommune>Les Monthairons</NomCommune>
+      <Localisation>
+         <Latitude>49.0489997864</Latitude>
+         <Longitude>5.41294002533</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 85 72 77</Téléphone>
+      <Télécopie>+33 3 29 85 72 77</Télécopie>
+      <Email>mairie.lesmonthairons@wanadoo.fr</Email>
+      <Url>http://www.communedesmonthairons.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

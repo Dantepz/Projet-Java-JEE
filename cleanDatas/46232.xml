@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46232-01" codeInsee="46232" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie des Quatre-Routes-du-Lot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Docteur-Monmont</Ligne>
+      <CodePostal>46110</CodePostal>
+      <NomCommune>Les Quatre-Routes-du-Lot</NomCommune>
+      <Localisation>
+         <Latitude>44.9974374</Latitude>
+         <Longitude>1.6452155</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 32 12 83</Téléphone>
+      <Télécopie>+33 5 65 32 00 99</Télécopie>
+      <Email>mairie-quatre-routes@info46.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

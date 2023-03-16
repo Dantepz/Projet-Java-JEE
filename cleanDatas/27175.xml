@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27175-01" codeInsee="27175" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Corny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de Saint-Jean</Ligne>
+      <CodePostal>27700</CodePostal>
+      <NomCommune>Corny</NomCommune>
+      <Localisation>
+         <Latitude>49.2831764221</Latitude>
+         <Longitude>1.45929896832</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 69 43 04</Téléphone>
+      <Télécopie>+33 2 32 69 43 04</Télécopie>
+      <Email>mairie-corny@orange.fr</Email>
+      <Url>http://corny.monsite-orange.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

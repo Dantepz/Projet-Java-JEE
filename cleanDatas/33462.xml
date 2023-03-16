@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-33462-01" codeInsee="33462" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Philippe-du-Seignal</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>91 route de Montbazillac</Ligne>
+      <CodePostal>33220</CodePostal>
+      <NomCommune>Saint-Philippe-du-Seignal</NomCommune>
+      <Localisation>
+         <Latitude>44.8276329041</Latitude>
+         <Longitude>0.254013985395</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 57 46 07 36</Téléphone>
+      <Télécopie>+33 5 57 46 14 82</Télécopie>
+      <Email>mairie.st.philippe.de.seignal@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="13:15:00" fin="17:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

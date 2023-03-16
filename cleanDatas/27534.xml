@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27534-01" codeInsee="27534" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Didier-des-Bois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, route d'Elbeuf</Ligne>
+      <CodePostal>27370</CodePostal>
+      <NomCommune>Saint-Didier-des-Bois</NomCommune>
+      <Localisation>
+         <Latitude>49.2359969</Latitude>
+         <Longitude>1.0267073</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 50 61 98</Téléphone>
+      <Télécopie>+33 2 32 40 76 98</Télécopie>
+      <Email>saint-didier-des-bois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

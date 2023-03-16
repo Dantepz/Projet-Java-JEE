@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27632-01" codeInsee="27632" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie du Thil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de l'Église</Ligne>
+      <CodePostal>27150</CodePostal>
+      <NomCommune>Le Thil</NomCommune>
+      <Localisation>
+         <Latitude>49.2877388</Latitude>
+         <Longitude>1.49868297577</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 55 84 21</Téléphone>
+      <Télécopie>+33 2 32 55 84 21</Télécopie>
+      <Email>mairie.lethil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

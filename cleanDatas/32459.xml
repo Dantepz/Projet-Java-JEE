@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32459-01" codeInsee="32459" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Valence-sur-Baïse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>32310</CodePostal>
+      <NomCommune>Valence-sur-Baïse</NomCommune>
+      <Localisation>
+         <Latitude>43.8823013306</Latitude>
+         <Longitude>0.381013005972</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 28 51 89</Téléphone>
+      <Télécopie>+33 5 62 28 56 69</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil téléphonique du lundi au vendredi de 09h à 12h et de 15h à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

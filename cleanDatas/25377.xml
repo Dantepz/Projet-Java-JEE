@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25377-01" codeInsee="25377" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mésandans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Caillausse</Ligne>
+      <CodePostal>25680</CodePostal>
+      <NomCommune>Mésandans</NomCommune>
+      <Localisation>
+         <Latitude>47.4312362671</Latitude>
+         <Longitude>6.3690328598</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 84 23 76</Téléphone>
+      <Email>joseph.cuenot@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d'ouverture de la mairie ou pour prendre rendez-vous avec M. le maire</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

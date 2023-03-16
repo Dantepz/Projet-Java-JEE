@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39218-01" codeInsee="39218" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Étrepigney</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de la Mairie</Ligne>
+      <CodePostal>39700</CodePostal>
+      <NomCommune>Étrepigney</NomCommune>
+      <Localisation>
+         <Latitude>47.130448</Latitude>
+         <Longitude>5.6905325</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 65 21 82 05</Téléphone>
+      <Télécopie>+33 3 84 71 31 12</Télécopie>
+      <Email>siteetrepigney@gmail.com</Email>
+      <Url>http://www.etrepigney.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="11:00:00" fin="13:00:00"/>
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

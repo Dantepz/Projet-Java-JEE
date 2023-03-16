@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10083-01" codeInsee="10083" dateMiseAJour="2014-07-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chappes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Honoré-Devanlay</Ligne>
+      <CodePostal>10260</CodePostal>
+      <NomCommune>Chappes</NomCommune>
+      <Localisation>
+         <Latitude>48.1661987305</Latitude>
+         <Longitude>4.24334001541</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 64 48 10 35</Téléphone>
+      <Télécopie>+33 3 25 40 95 11</Télécopie>
+      <Email>chappes.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-40266-01" codeInsee="40266" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien-en-Born</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>55 place de la Mairie</Ligne>
+      <CodePostal>40170</CodePostal>
+      <NomCommune>Saint-Julien-en-Born</NomCommune>
+      <Localisation>
+         <Latitude>44.0709677</Latitude>
+         <Longitude>-1.23326</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 58 42 80 08</Téléphone>
+      <Télécopie>+33 5 58 42 41 51</Télécopie>
+      <Email>mairie@saint-julien-en-born.fr</Email>
+      <Url>http://www.saint-julien-en-born.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour la permanence d'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

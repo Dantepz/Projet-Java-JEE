@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02165-01" codeInsee="02165" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Charmes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue Aristide-Briand</Ligne>
+      <Ligne>BP 21</Ligne>
+      <CodePostal>02800</CodePostal>
+      <NomCommune>Charmes</NomCommune>
+      <Localisation>
+         <Latitude>49.6537017822</Latitude>
+         <Longitude>3.37884998322</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 56 23 09</Téléphone>
+      <Télécopie>+33 3 23 56 57 02</Télécopie>
+      <Email>mairie-charmes@wanadoo.fr</Email>
+      <Url>http://www.charmes-aisne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

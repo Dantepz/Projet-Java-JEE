@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71424-01" codeInsee="71424" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Gervais-sur-Couches</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>71490</CodePostal>
+      <NomCommune>Saint-Gervais-sur-Couches</NomCommune>
+      <Localisation>
+         <Latitude>46.922382</Latitude>
+         <Longitude>4.5814959</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 45 51 54</Téléphone>
+      <Télécopie>+33 9 71 70 21 22</Télécopie>
+      <Email>mairie-stgervaissurcouches@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="07:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

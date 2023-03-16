@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70518-01" codeInsee="70518" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie du Val-Saint-Éloi</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue des Grandes-Vignes</Ligne>
+      <CodePostal>70160</CodePostal>
+      <NomCommune>Le Val-Saint-Éloi</NomCommune>
+      <Localisation>
+         <Latitude>47.7391741</Latitude>
+         <Longitude>6.1835612</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 68 92 89</Téléphone>
+      <Télécopie>+33 3 84 68 92 89</Télécopie>
+      <Email>valsainteloi@numeo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <Note>Accueil ouvert uniquement tous les 1er samedis du mois</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

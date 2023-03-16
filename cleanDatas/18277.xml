@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18277-01" codeInsee="18277" dateMiseAJour="2014-07-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verneuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>18210</CodePostal>
+      <NomCommune>Verneuil</NomCommune>
+      <Localisation>
+         <Latitude>46.8155394</Latitude>
+         <Longitude>2.6076352</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 61 81 16</Téléphone>
+      <Télécopie>+33 2 48 61 81 16</Télécopie>
+      <Email>mairiedeverneuil@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

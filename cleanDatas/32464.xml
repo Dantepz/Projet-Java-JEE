@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32464-01" codeInsee="32464" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villecomtal-sur-Arros</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22, avenue de Gascogne</Ligne>
+      <CodePostal>32730</CodePostal>
+      <NomCommune>Villecomtal-sur-Arros</NomCommune>
+      <Localisation>
+         <Latitude>43.4056015015</Latitude>
+         <Longitude>0.209852993488</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 64 87 36</Téléphone>
+      <Télécopie>+33 5 62 64 81 29</Télécopie>
+      <Email>mairie.villecomtal@free.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

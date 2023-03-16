@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17273-01" codeInsee="17273" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pérignac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>22 avenue de Cognac</Ligne>
+      <CodePostal>17800</CodePostal>
+      <NomCommune>Pérignac</NomCommune>
+      <Localisation>
+         <Latitude>45.6245002747</Latitude>
+         <Longitude>-0.46476700902</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 96 41 95</Téléphone>
+      <Télécopie>+33 5 46 96 37 47</Télécopie>
+      <Email>perignac@mairie17.com</Email>
+      <Url>http://www.perignac17.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-70013-01" codeInsee="70013" dateMiseAJour="2016-04-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ambiévillers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 Grande rue</Ligne>
+      <CodePostal>70210</CodePostal>
+      <NomCommune>Ambiévillers</NomCommune>
+      <Localisation>
+         <Latitude>47.9753837585</Latitude>
+         <Longitude>6.15736198425</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 92 86 47</Téléphone>
+      <Télécopie>+33 3 84 92 86 47</Télécopie>
+      <Email>ambievillers@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

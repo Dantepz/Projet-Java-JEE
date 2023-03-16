@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14554-01" codeInsee="14554" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aignan-de-Cramesnil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue du 7-Août-1944</Ligne>
+      <CodePostal>14540</CodePostal>
+      <NomCommune>Saint-Aignan-de-Cramesnil</NomCommune>
+      <Localisation>
+         <Latitude>49.0807495117</Latitude>
+         <Longitude>-0.277594000101</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 23 56 76</Téléphone>
+      <Télécopie>+33 2 31 23 56 76</Télécopie>
+      <Email>mairie.saintaignan@orange.fr</Email>
+      <Url>http://www.saint-aignan-de-crasmenil.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

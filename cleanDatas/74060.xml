@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74060-01" codeInsee="74060" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-Saint-Maurice</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chef-lieu</Ligne>
+      <CodePostal>74410</CodePostal>
+      <NomCommune>La Chapelle-Saint-Maurice</NomCommune>
+      <Localisation>
+         <Latitude>45.7787513733</Latitude>
+         <Longitude>6.15031385422</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">l'usager peut demander à la personne de l'accueil de l'aider à franchir la marche</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 32 03 39</Téléphone>
+      <Télécopie>+33 4 50 51 30 79</Télécopie>
+      <Email>lachapellestmaurice@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="12:00:00" fin="14:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

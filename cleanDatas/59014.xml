@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59014-01" codeInsee="59014" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Anzin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>26, place Roger-Salengro</Ligne>
+      <Ligne>BP 60089</Ligne>
+      <CodePostal>59416</CodePostal>
+      <NomCommune>Anzin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.3699989319</Latitude>
+         <Longitude>3.50135993958</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 28 21 00</Téléphone>
+      <Télécopie>+33 3 27 28 21 01</Télécopie>
+      <Email>mairie@ville-anzin.fr</Email>
+      <Url>http://www.ville-anzin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

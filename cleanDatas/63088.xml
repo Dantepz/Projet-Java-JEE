@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63088-01" codeInsee="63088" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chapelle-sur-Usson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63580</CodePostal>
+      <NomCommune>La Chapelle-sur-Usson</NomCommune>
+      <Localisation>
+         <Latitude>45.4650917053</Latitude>
+         <Longitude>3.3991920948</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 36 65</Téléphone>
+      <Email>chapelle.usson@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

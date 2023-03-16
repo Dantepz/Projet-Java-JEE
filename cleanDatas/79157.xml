@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79157-01" codeInsee="79157" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Louzy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de la Mairie</Ligne>
+      <CodePostal>79100</CodePostal>
+      <NomCommune>Louzy</NomCommune>
+      <Localisation>
+         <Latitude>47.0111999512</Latitude>
+         <Longitude>-0.186527997255</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 66 20 16</Téléphone>
+      <Télécopie>+33 5 49 66 31 40</Télécopie>
+      <Email>louzy.mairie@wanadoo.fr</Email>
+      <Url>http://mairiedelouzy.free.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

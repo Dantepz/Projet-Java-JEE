@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-69101-01" codeInsee="69101" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jarnioux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>47 esplanade de la Liberté</Ligne>
+      <CodePostal>69640</CodePostal>
+      <NomCommune>Jarnioux</NomCommune>
+      <Localisation>
+         <Latitude>45.964606</Latitude>
+         <Longitude>4.6281172</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 74 03 81 11</Téléphone>
+      <Télécopie>+33 4 74 03 81 05</Télécopie>
+      <Email>secretariat.mairie@jarnioux.fr</Email>
+      <Url>http://www.jarnioux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="15:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

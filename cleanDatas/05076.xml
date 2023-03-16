@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05076-01" codeInsee="05076" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Méreuil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>05700</CodePostal>
+      <NomCommune>Méreuil</NomCommune>
+      <Localisation>
+         <Latitude>44.3871498108</Latitude>
+         <Longitude>5.72993278503</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 67 09 58</Téléphone>
+      <Télécopie>+33 4 92 67 13 55</Télécopie>
+      <Email>mairie.mereuil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+         <PlageH début="13:45:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:45:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

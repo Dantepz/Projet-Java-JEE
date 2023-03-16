@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88130-01" codeInsee="88130" dateMiseAJour="2015-11-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Destord</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>81, rue d'Épinal</Ligne>
+      <CodePostal>88600</CodePostal>
+      <NomCommune>Destord</NomCommune>
+      <Localisation>
+         <Latitude>48.2720169</Latitude>
+         <Longitude>6.6202779</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 65 70 66</Téléphone>
+      <Télécopie>+33 3 29 65 70 66</Télécopie>
+      <Email>mairie.destord@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

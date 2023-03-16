@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02049-01" codeInsee="02049" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Barisis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Général-de-Gaulle</Ligne>
+      <CodePostal>02700</CodePostal>
+      <NomCommune>Barisis</NomCommune>
+      <Localisation>
+         <Latitude>49.5777069</Latitude>
+         <Longitude>3.3276825</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 60 54 77 71</Téléphone>
+      <Télécopie>+33 3 23 52 20 47</Télécopie>
+      <Email>barisisauxbois.mairie@wanadoo.fr</Email>
+      <Url>http://www.barisisauxbois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:45:00" fin="11:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

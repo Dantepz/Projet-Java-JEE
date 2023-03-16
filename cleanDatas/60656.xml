@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60656-01" codeInsee="60656" dateMiseAJour="2007-12-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Varinfroy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du Marais</Ligne>
+      <CodePostal>60890</CodePostal>
+      <NomCommune>VARINFROY</NomCommune>
+      <Localisation>
+         <Latitude>49.1014900208</Latitude>
+         <Longitude>3.0429019928</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 87 25 35</Téléphone>
+      <Télécopie>+33 3 44 87 42 92</Télécopie>
+   </CoordonnéesNum>
+</Organisme>

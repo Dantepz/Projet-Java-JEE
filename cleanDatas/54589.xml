@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54589-01" codeInsee="54589" dateMiseAJour="2004-10-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vittonville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue du Chêne</Ligne>
+      <CodePostal>54700</CodePostal>
+      <NomCommune>VITTONVILLE</NomCommune>
+      <Localisation>
+         <Latitude>48.9658241272</Latitude>
+         <Longitude>6.05687522888</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 81 23 38</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

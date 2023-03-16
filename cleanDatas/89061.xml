@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89061-01" codeInsee="89061" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Butteaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14 rue Fausse-Billon</Ligne>
+      <CodePostal>89360</CodePostal>
+      <NomCommune>Butteaux</NomCommune>
+      <Localisation>
+         <Latitude>47.9778022766</Latitude>
+         <Longitude>3.81113910675</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 43 23 34</Téléphone>
+      <Télécopie>+33 3 86 43 22 05</Télécopie>
+      <Email>mairie-butteaux@wanadoo.fr</Email>
+      <Url>http://www.butteaux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

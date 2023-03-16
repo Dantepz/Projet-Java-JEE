@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59313-01" codeInsee="59313" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hordain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 Grande place</Ligne>
+      <CodePostal>59111</CodePostal>
+      <NomCommune>Hordain</NomCommune>
+      <Localisation>
+         <Latitude>50.2633018494</Latitude>
+         <Longitude>3.32067990303</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 21 72 72</Téléphone>
+      <Télécopie>+33 3 27 21 72 70</Télécopie>
+      <Email>mairie.hordain@wanadoo.fr</Email>
+      <Url>http://www.hordain.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence et fermée durant les mois de juillet et août</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

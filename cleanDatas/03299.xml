@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03299-01" codeInsee="03299" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Varennes-sur-Tèche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue de la Mairie</Ligne>
+      <CodePostal>03220</CodePostal>
+      <NomCommune>Varennes-sur-Tèche</NomCommune>
+      <Localisation>
+         <Latitude>46.3260564</Latitude>
+         <Longitude>3.6289355</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 55 70 40</Téléphone>
+      <Télécopie>+33 4 70 55 75 64</Télécopie>
+      <Email>mairie.varennessurteche@wanadoo.fr</Email>
+      <Url>http://www.mairie-varennes-sur-teche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

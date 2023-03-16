@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44170-01" codeInsee="44170" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Julien-de-Vouvantes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>48, rue de la Libération</Ligne>
+      <Ligne>BP 7</Ligne>
+      <CodePostal>44670</CodePostal>
+      <NomCommune>Saint-Julien-de-Vouvantes</NomCommune>
+      <Localisation>
+         <Latitude>47.6418991089</Latitude>
+         <Longitude>-1.24012005329</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 55 52 77</Téléphone>
+      <Télécopie>+33 2 40 55 42 63</Télécopie>
+      <Email>stjuliendevouvantes@wanadoo.fr</Email>
+      <Url>http://www.saint-julien-de-vouvantes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

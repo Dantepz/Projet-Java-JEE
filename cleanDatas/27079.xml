@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27079-01" codeInsee="27079" dateMiseAJour="2014-08-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boissy-Lamberville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29, route du Lieuvin</Ligne>
+      <CodePostal>27300</CodePostal>
+      <NomCommune>Boissy-Lamberville</NomCommune>
+      <Localisation>
+         <Latitude>49.165127</Latitude>
+         <Longitude>0.577354</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 45 95 64</Téléphone>
+      <Télécopie>+33 2 32 45 95 64</Télécopie>
+      <Email>mairie.boissy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+         <Note>Accueil fermé au mois d'août le jeudi.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

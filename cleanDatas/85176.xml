@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85176-01" codeInsee="85176" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pissotte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 route de l'Orbrie</Ligne>
+      <CodePostal>85200</CodePostal>
+      <NomCommune>Pissotte</NomCommune>
+      <Localisation>
+         <Latitude>46.496727</Latitude>
+         <Longitude>-0.8080701</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 69 05 61</Téléphone>
+      <Télécopie>+33 2 51 69 75 96</Télécopie>
+      <Email>mairie.de.pissotte@wanadoo.fr</Email>
+      <Url>http://www.pissotte.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

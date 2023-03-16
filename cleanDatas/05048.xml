@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05048-01" codeInsee="05048" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de L'Épine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>05700</CodePostal>
+      <NomCommune>L'Épine</NomCommune>
+      <Localisation>
+         <Latitude>44.41664505</Latitude>
+         <Longitude>5.61563396454</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 66 00 24</Téléphone>
+      <Télécopie>+33 4 92 66 00 24</Télécopie>
+      <Email>mairie.de.lepine@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

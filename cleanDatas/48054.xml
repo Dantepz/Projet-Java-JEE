@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48054-01" codeInsee="48054" dateMiseAJour="2006-08-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cubierettes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Cubierettes</Ligne>
+      <CodePostal>48190</CodePostal>
+      <NomCommune>CUBIERETTES</NomCommune>
+      <Localisation>
+         <Latitude>44.4601707458</Latitude>
+         <Longitude>3.78766298294</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 48 61 62</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

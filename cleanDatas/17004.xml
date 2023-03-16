@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-17004-01" codeInsee="17004" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Île-d'Aix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Gourgaud</Ligne>
+      <CodePostal>17123</CodePostal>
+      <NomCommune>Île-d'Aix</NomCommune>
+      <Localisation>
+         <Latitude>46.0125007629</Latitude>
+         <Longitude>-1.17339003086</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 46 84 66 09</Téléphone>
+      <Télécopie>+33 5 46 84 65 79</Télécopie>
+      <Email>mairie@iledaix.fr</Email>
+      <Url>http://www.iledaix.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

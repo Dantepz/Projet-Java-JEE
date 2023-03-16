@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14350-01" codeInsee="14350" dateMiseAJour="2004-08-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lande-sur-Drome</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la mairie</Ligne>
+      <CodePostal>14240</CodePostal>
+      <NomCommune>LA LANDE SUR DROME</NomCommune>
+      <Localisation>
+         <Latitude>49.0910987854</Latitude>
+         <Longitude>-0.80647701025</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

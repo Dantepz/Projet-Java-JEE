@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-97416-01" codeInsee="97416" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Pierre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Méziaire-Guignard</Ligne>
+      <Ligne>BP 342</Ligne>
+      <CodePostal>97448</CodePostal>
+      <NomCommune>Saint-Pierre Cedex</NomCommune>
+      <Localisation>
+         <Latitude>-21.2832027</Latitude>
+         <Longitude>55.5167688</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+262 262 35 78 00</Téléphone>
+      <Télécopie>+262 262 35 78 09</Télécopie>
+      <Email>courrier@saintpierre.re</Email>
+      <Url>http://www.ville-saintpierre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="15:15:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="16:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

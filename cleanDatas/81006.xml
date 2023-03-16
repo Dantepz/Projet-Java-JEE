@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81006-01" codeInsee="81006" dateMiseAJour="2014-10-13"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Algans-Lastens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81470</CodePostal>
+      <NomCommune>Algans-Lastens</NomCommune>
+      <Localisation>
+         <Latitude>43.593137</Latitude>
+         <Longitude>1.877615</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 75 76 30</Téléphone>
+      <Télécopie>+33 5 63 75 76 30</Télécopie>
+      <Email>mairie-algans-lastens@alsatis.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

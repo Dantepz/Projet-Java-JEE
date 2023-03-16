@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59033-01" codeInsee="59033" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aulnoye-Aymeries</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Docteur-Guersant</Ligne>
+      <Ligne>BP 20109</Ligne>
+      <CodePostal>59620</CodePostal>
+      <NomCommune>Aulnoye-Aymeries</NomCommune>
+      <Localisation>
+         <Latitude>50.2006988525</Latitude>
+         <Longitude>3.83320999146</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 53 63 73</Téléphone>
+      <Télécopie>+33 3 27 53 63 83</Télécopie>
+      <Url>http://www.aulnoye-aymeries.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+         <PlageH début="13:15:00" fin="17:15:00"/>
+         <Note>Service état civil et CCAS fermé le mercredi après midi en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et fermé en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

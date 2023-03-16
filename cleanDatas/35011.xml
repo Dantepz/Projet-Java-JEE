@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35011-01" codeInsee="35011" dateMiseAJour="2015-09-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Baillé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 allée Fadhma-Amrouche</Ligne>
+      <CodePostal>35460</CodePostal>
+      <NomCommune>Baillé</NomCommune>
+      <Localisation>
+         <Latitude>48.3601341</Latitude>
+         <Longitude>-1.3793528</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 95 04 15</Téléphone>
+      <Télécopie>+33 9 70 32 30 89</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

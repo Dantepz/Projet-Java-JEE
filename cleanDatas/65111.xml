@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65111-01" codeInsee="65111" dateMiseAJour="2006-08-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bulan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65130</CodePostal>
+      <NomCommune>BULAN</NomCommune>
+      <Localisation>
+         <Latitude>43.0396995544</Latitude>
+         <Longitude>0.278452992439</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51613-01" codeInsee="51613" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verzenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Carnot</Ligne>
+      <CodePostal>51360</CodePostal>
+      <NomCommune>Verzenay</NomCommune>
+      <Localisation>
+         <Latitude>49.1598014832</Latitude>
+         <Longitude>4.14657020569</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 49 42 68</Téléphone>
+      <Télécopie>+33 3 26 49 44 03</Télécopie>
+      <Email>mairie.verzenay@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

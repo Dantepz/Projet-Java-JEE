@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08335-01" codeInsee="08335" dateMiseAJour="2007-11-19"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Omont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>08430</CodePostal>
+      <NomCommune>OMONT</NomCommune>
+      <Localisation>
+         <Latitude>49.604095459</Latitude>
+         <Longitude>4.79430007935</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 35 40 69</Téléphone>
+      <Télécopie>+33 3 24 35 40 69</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

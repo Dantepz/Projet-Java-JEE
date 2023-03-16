@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39324-01" codeInsee="39324" dateMiseAJour="2011-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mérona</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place du Village</Ligne>
+      <CodePostal>39270</CodePostal>
+      <NomCommune>Mérona</NomCommune>
+      <Localisation>
+         <Latitude>46.4918729</Latitude>
+         <Longitude>5.7092436</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 25 40 23</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

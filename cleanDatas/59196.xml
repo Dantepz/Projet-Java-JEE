@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59196-01" codeInsee="59196" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ennetières-en-Weppes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Bourg</Ligne>
+      <CodePostal>59320</CodePostal>
+      <NomCommune>Ennetières-en-Weppes</NomCommune>
+      <Localisation>
+         <Latitude>50.634934</Latitude>
+         <Longitude>2.940565</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 50 42 74</Téléphone>
+      <Télécopie>+33 3 20 07 78 35</Télécopie>
+      <Email>mairie.ennetieres.w@wanadoo.fr</Email>
+      <Url>http://www.ennetieres-en-weppes.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14313-01" codeInsee="14313" dateMiseAJour="2004-08-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Grandchamp le château</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la mairie</Ligne>
+      <CodePostal>14140</CodePostal>
+      <NomCommune>GRANDCHAMP LE CHATEAU</NomCommune>
+      <Localisation>
+         <Latitude>49.0777931213</Latitude>
+         <Longitude>0.0729049965739</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 63 80 68</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

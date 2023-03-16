@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13201-01" codeInsee="13201" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marseille - 1er et 7e arrondissements</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Immeuble Léon-Blum</Ligne>
+      <Ligne>Cedex 20</Ligne>
+      <Ligne>125 La Canebière</Ligne>
+      <CodePostal>13233</CodePostal>
+      <NomCommune>Marseille</NomCommune>
+      <Localisation>
+         <Latitude>43.2971305847</Latitude>
+         <Longitude>5.37976408005</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 91 14 54 10</Téléphone>
+      <Télécopie>+33 4 91 14 54 11</Télécopie>
+      <Email>http://www.marseille1-7.fr/services/contact/</Email>
+      <Url>http://www.marseille1-7.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="11:45:00"/>
+         <PlageH début="12:45:00" fin="16:30:00"/>
+         <Note>Démarches dans les mairies de secteur : mariage, déclaration de naissance, etc. Tout usager marseillais peut se rendre dans un bureau de proximité quel que soit son domicile pour les démarches suivantes : établir une carte nationale d'identité, un passeport.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

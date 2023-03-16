@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16271-01" codeInsee="16271" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Puymoyen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Genainville</Ligne>
+      <CodePostal>16400</CodePostal>
+      <NomCommune>Puymoyen</NomCommune>
+      <Localisation>
+         <Latitude>45.6150016785</Latitude>
+         <Longitude>0.179938003421</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 61 10 54</Téléphone>
+      <Télécopie>+33 5 45 61 64 91</Télécopie>
+      <Email>contact@puymoyen.fr</Email>
+      <Url>http://www.puymoyen.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

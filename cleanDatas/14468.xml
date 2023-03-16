@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14468-01" codeInsee="14468" dateMiseAJour="2014-07-11"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noron-la-Poterie</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40, route des Potiers</Ligne>
+      <CodePostal>14490</CodePostal>
+      <NomCommune>Noron-la-Poterie</NomCommune>
+      <Localisation>
+         <Latitude>49.227308</Latitude>
+         <Longitude>-0.77438600000005</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 31 92 57 50</Téléphone>
+      <Télécopie>+33 2 31 92 57 50</Télécopie>
+      <Email>mairienoronpoterie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

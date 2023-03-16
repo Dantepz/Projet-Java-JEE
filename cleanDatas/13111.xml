@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13111-01" codeInsee="13111" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vauvenargues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 boulevard du Moraliste</Ligne>
+      <CodePostal>13126</CodePostal>
+      <NomCommune>Vauvenargues</NomCommune>
+      <Localisation>
+         <Latitude>43.5551986694</Latitude>
+         <Longitude>5.59874010086</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 66 01 88</Téléphone>
+      <Télécopie>+33 4 42 26 02 47</Télécopie>
+      <Email>contact@mairie-vauvenargues.fr</Email>
+      <Url>http://www.vauvenargues.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

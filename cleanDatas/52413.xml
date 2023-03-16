@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52413-01" codeInsee="52413" dateMiseAJour="2004-10-07"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rachecourt Suzémont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Grande</Ligne>
+      <CodePostal>52130</CodePostal>
+      <NomCommune>RACHECOURT SUZEMONT</NomCommune>
+      <Localisation>
+         <Latitude>48.4630012512</Latitude>
+         <Longitude>4.91344976425</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 04 49 69</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

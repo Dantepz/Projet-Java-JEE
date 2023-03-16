@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85034-01" codeInsee="85034" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bournezeau</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, place de la Mairie</Ligne>
+      <Ligne>BP 1</Ligne>
+      <CodePostal>85480</CodePostal>
+      <NomCommune>Bournezeau</NomCommune>
+      <Localisation>
+         <Latitude>46.635799408</Latitude>
+         <Longitude>-1.17083001137</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 40 71 29</Téléphone>
+      <Télécopie>+33 2 51 40 79 30</Télécopie>
+      <Email>mairie@bournezeau.fr</Email>
+      <Url>http://www.bournezeau.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="18:00:00"/>
+         <Note>Accueil ouvert de 8h30 à 9h uniquement en juillet-août</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

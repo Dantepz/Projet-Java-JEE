@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80067-01" codeInsee="80067" dateMiseAJour="2007-11-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaufort en Santerre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>grande rue</Ligne>
+      <CodePostal>80170</CodePostal>
+      <NomCommune>BEAUFORT EN SANTERRE</NomCommune>
+      <Localisation>
+         <Latitude>49.7949981689</Latitude>
+         <Longitude>2.69243001938</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 37 46 50</Téléphone>
+      <Email>mairie.beaufortensanterre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

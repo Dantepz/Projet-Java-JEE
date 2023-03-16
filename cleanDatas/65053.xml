@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65053-01" codeInsee="65053" dateMiseAJour="2006-08-25"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aveux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place cap de las vignes</Ligne>
+      <CodePostal>65370</CodePostal>
+      <NomCommune>AVEUX</NomCommune>
+      <Localisation>
+         <Latitude>43.0099945068</Latitude>
+         <Longitude>0.57184201479</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 30 89</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

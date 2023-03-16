@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59289-01" codeInsee="59289" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Haussy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place Jean-Jaurès</Ligne>
+      <CodePostal>59294</CodePostal>
+      <NomCommune>Haussy</NomCommune>
+      <Localisation>
+         <Latitude>50.2182998657</Latitude>
+         <Longitude>3.47957992554</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 72 03 70</Téléphone>
+      <Télécopie>+33 3 27 72 03 71</Télécopie>
+      <Email>haussy.mairie@orange.fr</Email>
+      <Url>http://www.haussy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Horaires hors vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="15:00:00" fin="17:00:00"/>
+         <Note>Accueil fermé les après-midi pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

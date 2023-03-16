@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-03229-01" codeInsee="03229" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Ennemond</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>19 rue de Banville</Ligne>
+      <CodePostal>03400</CodePostal>
+      <NomCommune>Saint-Ennemond</NomCommune>
+      <Localisation>
+         <Latitude>46.6783981323</Latitude>
+         <Longitude>3.4215400219</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 70 42 10 08</Téléphone>
+      <Télécopie>+33 9 82 11 06 47</Télécopie>
+      <Email>mairie-de-st-ennemond@wanadoo.fr</Email>
+      <Url>http://www.saint-ennemond.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

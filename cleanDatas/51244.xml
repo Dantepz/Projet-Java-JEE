@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51244-01" codeInsee="51244" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie Faux-Vésigneul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, voie de Vitry</Ligne>
+      <CodePostal>51320</CodePostal>
+      <NomCommune>Faux-Vésigneul</NomCommune>
+      <Localisation>
+         <Latitude>48.7799758911</Latitude>
+         <Longitude>4.40020084381</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 70 60 91</Téléphone>
+      <Email>mairie.faux-vesigneul@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

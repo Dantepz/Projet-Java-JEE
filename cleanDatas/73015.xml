@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-73015-01" codeInsee="73015" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie des Allues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de la Resse</Ligne>
+      <CodePostal>73550</CodePostal>
+      <NomCommune>Les Allues</NomCommune>
+      <Localisation>
+         <Latitude>45.4318809509</Latitude>
+         <Longitude>6.55624723434</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 79 08 61 04</Téléphone>
+      <Télécopie>+33 4 79 08 52 07</Télécopie>
+      <Email>secgen@mairiedesallues.fr</Email>
+      <Url>http://www.mairiedesallues.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

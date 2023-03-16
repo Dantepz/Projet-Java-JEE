@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51622-01" codeInsee="51622" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ville-Dommange</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue Saint-Vincent</Ligne>
+      <CodePostal>51390</CodePostal>
+      <NomCommune>Ville-Dommange</NomCommune>
+      <Localisation>
+         <Latitude>49.2023010254</Latitude>
+         <Longitude>3.93496990204</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 49 25 40</Téléphone>
+      <Télécopie>+33 3 26 08 43 17</Télécopie>
+      <Email>mairie.de.villedommange@wanadoo.fr</Email>
+      <Url>http://www.villedommange.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

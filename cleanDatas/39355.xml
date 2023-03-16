@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39355-01" codeInsee="39355" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montigny-lès-Arsures</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 quartier de l'Église</Ligne>
+      <CodePostal>39600</CodePostal>
+      <NomCommune>Montigny-lès-Arsures</NomCommune>
+      <Localisation>
+         <Latitude>46.9269142151</Latitude>
+         <Longitude>5.78584384918</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 66 10 66</Téléphone>
+      <Télécopie>+33 3 84 66 10 66</Télécopie>
+      <Email>montigny-les-arsures@wanadoo.fr</Email>
+      <Url>http://www.montigny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

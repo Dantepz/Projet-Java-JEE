@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02322-01" codeInsee="02322" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontaine-Notre-Dame</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37 Grande rue</Ligne>
+      <CodePostal>02110</CodePostal>
+      <NomCommune>Fontaine-Notre-Dame</NomCommune>
+      <Localisation>
+         <Latitude>49.7774009705</Latitude>
+         <Longitude>3.18951010704</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 07 97 07</Téléphone>
+      <Télécopie>+33 9 63 43 00 64</Télécopie>
+      <Email>mairie.fontaine-notre-dame0085@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Permanence du maire le lundi et mercredi de 17h à 18h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

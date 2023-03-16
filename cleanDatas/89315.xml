@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-89315-01" codeInsee="89315" dateMiseAJour="2014-07-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Préhy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>33, Grande rue de Chablis</Ligne>
+      <CodePostal>89800</CodePostal>
+      <NomCommune>Préhy</NomCommune>
+      <Localisation>
+         <Latitude>47.7569160461</Latitude>
+         <Longitude>3.7562661171</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 86 41 44 23</Téléphone>
+      <Télécopie>+33 3 86 41 44 22</Télécopie>
+      <Email>mairieprehy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80065-01" codeInsee="80065" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaucourt-sur-l'Ancre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, rue d'En-Haut</Ligne>
+      <CodePostal>80300</CodePostal>
+      <NomCommune>Beaucourt-sur-l'Ancre</NomCommune>
+      <Localisation>
+         <Latitude>50.0815544128</Latitude>
+         <Longitude>2.6832280159</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 76 24 44</Téléphone>
+      <Email>mairie.beaucourt-sur-lancre@laposte.net</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="14:00:00" fin="15:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

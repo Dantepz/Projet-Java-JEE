@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34205-01" codeInsee="34205" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie des Plans</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>34700</CodePostal>
+      <NomCommune>Les Plans</NomCommune>
+      <Localisation>
+         <Latitude>43.75312</Latitude>
+         <Longitude>3.275689</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 96 41 80</Téléphone>
+      <Télécopie>+33 4 67 44 58 71</Télécopie>
+      <Email>mairielesplans@wanadoo.fr</Email>
+      <Url>http://www.mairie-lesplans34.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+         <Note>Permanence du maire le mardi de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="15:30:00"/>
+         <Note>Permanence du maire de 9h à 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-32023-01" codeInsee="32023" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Avezan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Saint-Jacques</Ligne>
+      <CodePostal>32380</CodePostal>
+      <NomCommune>Avezan</NomCommune>
+      <Localisation>
+         <Latitude>43.876314</Latitude>
+         <Longitude>0.795096</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 66 48 44</Téléphone>
+      <Télécopie>+33 5 62 66 48 44</Télécopie>
+      <Email>mairie.avezan@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

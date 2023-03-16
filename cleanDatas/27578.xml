@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27578-01" codeInsee="27578" dateMiseAJour="2016-02-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Marie-d'Attez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>87, rue de l'École</Ligne>
+      <CodePostal>27160</CodePostal>
+      <NomCommune>Saint-Ouen-d'Attez</NomCommune>
+      <Localisation>
+         <Latitude>48.8033790588</Latitude>
+         <Longitude>0.954607009888</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 32 23 01</Téléphone>
+      <Email>mairie.stouendattez@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Sainte-Marie-d'Attez remplace les communes de Dame-Marie, de Saint-Nicolas-d'Attez et de Saint-Ouen-d'Attez.</Commentaire>
+</Organisme>

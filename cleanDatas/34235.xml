@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34235-01" codeInsee="34235" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rosis</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Andabre</Ligne>
+      <CodePostal>34610</CodePostal>
+      <NomCommune>Rosis</NomCommune>
+      <Localisation>
+         <Latitude>43.6543006897</Latitude>
+         <Longitude>3.04384994507</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 23 60 73</Téléphone>
+      <Télécopie>+33 4 67 23 69 44</Télécopie>
+      <Email>mairie.rosis@wanadoo.fr</Email>
+      <Url>http://www.rosis-languedoc.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

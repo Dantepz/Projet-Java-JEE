@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27454-01" codeInsee="27454" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Perruel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>82, rue du Général-de-Gaulle</Ligne>
+      <CodePostal>27910</CodePostal>
+      <NomCommune>Perruel</NomCommune>
+      <Localisation>
+         <Latitude>49.4278973</Latitude>
+         <Longitude>1.3726672</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 49 10 64</Téléphone>
+      <Télécopie>+33 2 32 49 96 11</Télécopie>
+      <Email>mairie.perruel@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil physique et permanence des élus de 10h à 12h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

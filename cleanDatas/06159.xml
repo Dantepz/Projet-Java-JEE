@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06159-01" codeInsee="06159" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villefranche-sur-Mer</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Manuel-Philibert</Ligne>
+      <Ligne>BP 7</Ligne>
+      <Ligne>Citadelle</Ligne>
+      <CodePostal>06230</CodePostal>
+      <NomCommune>Villefranche-sur-Mer</NomCommune>
+      <Localisation>
+         <Latitude>43.7042007446</Latitude>
+         <Longitude>7.31015014648</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 76 33 33</Téléphone>
+      <Télécopie>+33 4 93 76 33 28</Télécopie>
+      <Email>mairie@villefranche-sur-mer.fr</Email>
+      <Url>http://www.villefranche-sur-mer.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

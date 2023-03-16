@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55063-01" codeInsee="55063" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouligny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Daniel-Mayer</Ligne>
+      <Ligne>BP 20</Ligne>
+      <CodePostal>55240</CodePostal>
+      <NomCommune>Bouligny</NomCommune>
+      <Localisation>
+         <Latitude>49.293598175</Latitude>
+         <Longitude>5.74040985107</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 87 93 08</Téléphone>
+      <Télécopie>+33 3 29 87 90 60</Télécopie>
+      <Email>bouligny.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <Note>Permanence.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54095-01" codeInsee="54095" dateMiseAJour="2015-06-25"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bratte</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6 rue de l'Eglise</Ligne>
+      <CodePostal>54610</CodePostal>
+      <NomCommune>Bratte</NomCommune>
+      <Localisation>
+         <Latitude>48.842300415</Latitude>
+         <Longitude>6.24245023727</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 31 51 18</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="09:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

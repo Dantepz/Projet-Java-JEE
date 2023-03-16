@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A017-01" codeInsee="2A017" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Appietto</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Marchesaccio</Ligne>
+      <CodePostal>20167</CodePostal>
+      <NomCommune>Appietto</NomCommune>
+      <Localisation>
+         <Latitude>42.01304245</Latitude>
+         <Longitude>8.76809978485</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 22 80 53</Téléphone>
+      <Télécopie>+33 4 95 22 89 20</Télécopie>
+      <Email>mairie.appietto@wanadoo.fr</Email>
+      <Url>http://www.commune-appietto.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-08155-01" codeInsee="08155" dateMiseAJour="2015-02-03"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Étalle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande Rue</Ligne>
+      <CodePostal>08260</CodePostal>
+      <NomCommune>Étalle</NomCommune>
+      <Localisation>
+         <Latitude>49.846962</Latitude>
+         <Longitude>4.443917</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 24 35 24 06</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31125-01" codeInsee="31125" dateMiseAJour="2004-11-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cathervielle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>31110</CodePostal>
+      <NomCommune>CATHERVIELLE</NomCommune>
+      <Localisation>
+         <Latitude>42.8113327026</Latitude>
+         <Longitude>0.506915986538</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 79 24 60</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

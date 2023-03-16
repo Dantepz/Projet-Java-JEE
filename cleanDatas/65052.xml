@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65052-01" codeInsee="65052" dateMiseAJour="2006-08-25"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Averan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue miramont</Ligne>
+      <CodePostal>65380</CodePostal>
+      <NomCommune>AVERAN</NomCommune>
+      <Localisation>
+         <Latitude>43.1300010681</Latitude>
+         <Longitude>0.0352700017393</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 45 42 04</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

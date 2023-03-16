@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-37207-01" codeInsee="37207" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Aubin-le-Dépeint</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 rue Principale</Ligne>
+      <CodePostal>37370</CodePostal>
+      <NomCommune>Saint-Aubin-le-Dépeint</NomCommune>
+      <Localisation>
+         <Latitude>47.6357002258</Latitude>
+         <Longitude>0.390208989382</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">rez-de-chaussée</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 47 29 25 07</Téléphone>
+      <Télécopie>+33 2 47 29 25 07</Télécopie>
+      <Email>mairie.staubinledepeint@wanadoo.fr</Email>
+      <Url>http://www.st-aubin-le-depeint.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Accueil ouvert le 1er et le 3e Samedi du mois.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-05023-01" codeInsee="05023" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Briançon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Aspirant-Jan</Ligne>
+      <Ligne>BP 18</Ligne>
+      <CodePostal>05105</CodePostal>
+      <NomCommune>Briançon Cedex</NomCommune>
+      <Localisation>
+         <Latitude>44.8979988098</Latitude>
+         <Longitude>6.64352989197</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 21 20 72</Téléphone>
+      <Email>affaires.generales@mairie-briancon.fr</Email>
+      <Url>http://www.ville-briancon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:15:00" fin="11:45:00"/>
+         <PlageH début="13:45:00" fin="16:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

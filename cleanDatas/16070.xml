@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-16070-01" codeInsee="16070" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chabanais</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue François-Faubert</Ligne>
+      <CodePostal>16150</CodePostal>
+      <NomCommune>Chabanais</NomCommune>
+      <Localisation>
+         <Latitude>45.8763008118</Latitude>
+         <Longitude>0.719850003719</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC">accueil accessible</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 45 89 03 99</Téléphone>
+      <Télécopie>+33 5 45 89 13 83</Télécopie>
+      <Email>mairie-chabanais@wanadoo.fr</Email>
+      <Url>http://www.chabanais.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85145-01" codeInsee="85145" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monsireigne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue de Rochereau</Ligne>
+      <CodePostal>85110</CodePostal>
+      <NomCommune>Monsireigne</NomCommune>
+      <Localisation>
+         <Latitude>46.7439002991</Latitude>
+         <Longitude>-0.94905602932</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 66 41 07</Téléphone>
+      <Télécopie>+33 2 51 64 02 94</Télécopie>
+      <Email>mairie@monsireigne.fr</Email>
+      <Url>http://www.monsireigne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

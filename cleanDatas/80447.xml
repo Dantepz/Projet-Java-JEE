@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80447-01" codeInsee="80447" dateMiseAJour="2016-02-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Hyencourt-le-Grand</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Nesle</Ligne>
+      <CodePostal>80320</CodePostal>
+      <NomCommune>Hyencourt-le-Grand</NomCommune>
+      <Localisation>
+         <Latitude>49.8213996887</Latitude>
+         <Longitude>2.83428001404</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 85 50 23</Téléphone>
+      <Email>mairiehyencourt@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34279-01" codeInsee="34279" dateMiseAJour="2014-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Nazaire-de-Ladarez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, rue de Laurens</Ligne>
+      <CodePostal>34490</CodePostal>
+      <NomCommune>Saint-Nazaire-de-Ladarez</NomCommune>
+      <Localisation>
+         <Latitude>43.507900238</Latitude>
+         <Longitude>3.08272004128</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 89 64 57</Téléphone>
+      <Télécopie>+33 4 67 89 59 78</Télécopie>
+      <Email>mairie.st.nazaire.de.ladarez@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

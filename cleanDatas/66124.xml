@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66124-01" codeInsee="66124" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Font-Romeu-Odeillo-Via</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Avenue du Professeur-Trombe</Ligne>
+      <CodePostal>66120</CodePostal>
+      <NomCommune>Font-Romeu-Odeillo-Via</NomCommune>
+      <Localisation>
+         <Latitude>42.492602</Latitude>
+         <Longitude>2.038293</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 30 10 22</Téléphone>
+      <Télécopie>+33 4 68 30 24 82</Télécopie>
+      <Email>mairie@font-romeu.fr</Email>
+      <Url>http://www.font-romeu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

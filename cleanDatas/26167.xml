@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26167-01" codeInsee="26167" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Luc-en-Diois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>26310</CodePostal>
+      <NomCommune>Luc-en-Diois</NomCommune>
+      <Localisation>
+         <Latitude>44.6156005859</Latitude>
+         <Longitude>5.45296001434</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 21 31 01</Téléphone>
+      <Télécopie>+33 4 75 21 38 09</Télécopie>
+      <Email>mairie.luc@wanadoo.fr</Email>
+      <Url>http://www.luc-en-diois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous pour les passeports biométriques.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement sur rendez-vous le jeudi pour les passeports biométriques.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

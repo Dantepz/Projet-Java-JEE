@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06121-01" codeInsee="06121" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-Cap-Ferrat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21 avenue Denis-Séméria</Ligne>
+      <CodePostal>06230</CodePostal>
+      <NomCommune>Saint-Jean-Cap-Ferrat</NomCommune>
+      <Localisation>
+         <Latitude>43.6918983459</Latitude>
+         <Longitude>7.3327999115</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 76 51 00</Téléphone>
+      <Télécopie>+33 4 93 76 51 01</Télécopie>
+      <Email>mairie@saintjeancapferrat.fr</Email>
+      <Url>http://www.saintjeancapferrat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:00:00"/>
+         <Note>Accueil téléphonique jusqu'à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

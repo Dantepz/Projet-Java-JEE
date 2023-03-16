@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30003-01" codeInsee="30003" dateMiseAJour="2015-08-27"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aigues-Mortes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Saint-Louis</Ligne>
+      <CodePostal>30220</CodePostal>
+      <NomCommune>Aigues-Mortes</NomCommune>
+      <Localisation>
+         <Latitude>43.5666107</Latitude>
+         <Longitude>4.1901583</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 73 90 90</Téléphone>
+      <Télécopie>+33 4 66 53 86 09</Télécopie>
+      <Email>http://www.ville-aigues-mortes.fr/index.php/Contact?idpage=28&amp;afficheMenuContextuel=Array</Email>
+      <Url>http://www.ville-aigues-mortes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+         <Note>Ouverture uniquement de l'accueil physique le vendredi de 13h30 à 17h30.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

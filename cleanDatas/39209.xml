@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39209-01" codeInsee="39209" dateMiseAJour="2016-02-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Val-d'Épy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42 rue de l'Église-Épy</Ligne>
+      <CodePostal>39160</CodePostal>
+      <NomCommune>Val-d'Épy</NomCommune>
+      <Localisation>
+         <Latitude>46.3830986023</Latitude>
+         <Longitude>5.39909982681</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 85 41 77</Téléphone>
+      <Télécopie>+33 3 84 85 41 77</Télécopie>
+      <Email>mairie.valdepy@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:00:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Val d'Epy  remplace les communes de Florentia, de Nantey, de Senaud et de Val-d'Epy</Commentaire>
+</Organisme>

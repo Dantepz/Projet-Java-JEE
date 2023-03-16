@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48122-01" codeInsee="48122" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Quézac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de la Source-Minérale</Ligne>
+      <CodePostal>48320</CodePostal>
+      <NomCommune>Quézac</NomCommune>
+      <Localisation>
+         <Latitude>44.3713819</Latitude>
+         <Longitude>3.52445399999999</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 44 21 26</Téléphone>
+      <Télécopie>+33 4 66 44 21 59</Télécopie>
+      <Email>mairie.quezac@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+         <Note>Accueil ouvert de 8h à 12h en juillet-août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

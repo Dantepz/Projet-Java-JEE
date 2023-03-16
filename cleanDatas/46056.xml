@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46056-01" codeInsee="46056" dateMiseAJour="2013-11-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Carayac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>le bourg</Ligne>
+      <CodePostal>46160</CodePostal>
+      <NomCommune>Carayac</NomCommune>
+      <Localisation>
+         <Latitude>44.5471687317</Latitude>
+         <Longitude>1.9238679409</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 40 73 93</Téléphone>
+      <Email>mairiecarayac@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="11:30:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59378-01" codeInsee="59378" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Marcq-en-Baroeul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 44029</Ligne>
+      <Ligne>103 avenue Foch</Ligne>
+      <CodePostal>59704</CodePostal>
+      <NomCommune>Marcq-en-Barœul Cedex</NomCommune>
+      <Localisation>
+         <Latitude>50.672000885</Latitude>
+         <Longitude>3.09697008133</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 20 45 45 45</Téléphone>
+      <Télécopie>+33 3 20 45 46 88</Télécopie>
+      <Email>mairie@marcq-en-baroeul.fr</Email>
+      <Url>http://www.marcq-en-baroeul.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="17:00:00"/>
+         <Note>Accueil fermé pendant les congés scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

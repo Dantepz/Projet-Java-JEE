@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25257-01" codeInsee="25257" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Franey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Grande rue</Ligne>
+      <CodePostal>25170</CodePostal>
+      <NomCommune>Franey</NomCommune>
+      <Localisation>
+         <Latitude>47.2621994019</Latitude>
+         <Longitude>5.81733989716</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 58 28 72</Téléphone>
+      <Télécopie>+33 3 81 58 28 72</Télécopie>
+      <Email>mairie.franey@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:45:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

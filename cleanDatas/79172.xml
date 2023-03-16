@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79172-01" codeInsee="79172" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mazières-en-Gâtine</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Marronniers</Ligne>
+      <Ligne>BP 12</Ligne>
+      <CodePostal>79310</CodePostal>
+      <NomCommune>Mazières-en-Gâtine</NomCommune>
+      <Localisation>
+         <Latitude>46.532699585</Latitude>
+         <Longitude>-0.322625011206</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 63 20 20</Téléphone>
+      <Télécopie>+33 5 49 63 25 47</Télécopie>
+      <Email>mazieres@ccsudgatine.fr</Email>
+      <Url>http://www.mazieres-en-gatine.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

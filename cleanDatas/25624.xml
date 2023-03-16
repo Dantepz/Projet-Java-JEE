@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25624-01" codeInsee="25624" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villers-Grélot</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, Grande rue</Ligne>
+      <CodePostal>25640</CodePostal>
+      <NomCommune>Villers-Grélot</NomCommune>
+      <Localisation>
+         <Latitude>47.356098175</Latitude>
+         <Longitude>6.22696018219</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Email>commune.villersgrelot@voila.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

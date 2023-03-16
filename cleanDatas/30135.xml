@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30135-01" codeInsee="30135" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Jonquières-Saint-Vincent</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>30300</CodePostal>
+      <NomCommune>Jonquières-Saint-Vincent</NomCommune>
+      <Localisation>
+         <Latitude>43.8277015686</Latitude>
+         <Longitude>4.56337022781</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 74 50 12</Téléphone>
+      <Télécopie>+33 4 66 74 50 13</Télécopie>
+      <Email>mairie.jonquieres.stvincent@wanadoo.fr</Email>
+      <Url>http://www.jonquieres-st-vincent.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

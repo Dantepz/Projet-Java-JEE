@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80051-01" codeInsee="80051" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bailleul</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de Bellifontaine</Ligne>
+      <CodePostal>80490</CodePostal>
+      <NomCommune>Bailleul</NomCommune>
+      <Localisation>
+         <Latitude>50.06224823</Latitude>
+         <Longitude>1.89117896557</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 28 60 48</Téléphone>
+      <Télécopie>+33 3 22 28 60 48</Télécopie>
+      <Email>bailleul.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+</Organisme>

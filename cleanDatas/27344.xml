@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27344-01" codeInsee="27344" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Houlbec-près-le-Gros-Theil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Yves-Desnos</Ligne>
+      <CodePostal>27370</CodePostal>
+      <NomCommune>Houlbec-près-le-Gros-Theil</NomCommune>
+      <Localisation>
+         <Latitude>49.2554899</Latitude>
+         <Longitude>0.831314600000042</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 35 57 02</Téléphone>
+      <Télécopie>+33 2 32 35 57 02</Télécopie>
+      <Email>mairie-houlbec-amf@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires d’ouverture en août</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31019-01" codeInsee="31019" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Artigue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <CodePostal>31110</CodePostal>
+      <NomCommune>Artigue</NomCommune>
+      <Localisation>
+         <Latitude>42.833240509</Latitude>
+         <Longitude>0.619342029095</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 79 39 03</Téléphone>
+      <Télécopie>+33 5 61 79 39 03</Télécopie>
+      <Email>rocabe@laposte.net</Email>
+   </CoordonnéesNum>
+</Organisme>

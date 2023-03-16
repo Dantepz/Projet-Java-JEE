@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26317-01" codeInsee="26317" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Maurice-sur-Eygues</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>26110</CodePostal>
+      <NomCommune>Saint-Maurice-sur-Eygues</NomCommune>
+      <Localisation>
+         <Latitude>44.2986984253</Latitude>
+         <Longitude>5.00904989243</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 27 60 61</Téléphone>
+      <Télécopie>+33 4 75 27 64 25</Télécopie>
+      <Email>mairie.stmaurice.eygues@orange.fr</Email>
+      <Url>http://www.saintmauricedrome.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

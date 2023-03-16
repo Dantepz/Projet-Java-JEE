@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88518-01" codeInsee="88518" dateMiseAJour="2004-08-25"
+           pivotLocal="mairie">
+   <Nom>Mairie de Viviers lès Offroicourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Mont</Ligne>
+      <CodePostal>88500</CodePostal>
+      <NomCommune>VIVIERS LES OFFROICOURT</NomCommune>
+      <Localisation>
+         <Latitude>48.2680015564</Latitude>
+         <Longitude>6.02047014236</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 37 69 88</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

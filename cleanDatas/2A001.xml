@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A001-01" codeInsee="2A001" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Afa</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Afa village</Ligne>
+      <CodePostal>20167</CodePostal>
+      <NomCommune>Afa</NomCommune>
+      <Localisation>
+         <Latitude>41.983417511</Latitude>
+         <Longitude>8.79639816284</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 10 90 00</Téléphone>
+      <Télécopie>+33 4 95 22 93 09</Télécopie>
+      <Email>afa.mairie@wanadoo.fr</Email>
+      <Url>http://www.mairie-afa.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

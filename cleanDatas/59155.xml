@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59155-01" codeInsee="59155" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coudekerque-Branche</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la République</Ligne>
+      <Ligne>CS 30119</Ligne>
+      <CodePostal>59411</CodePostal>
+      <NomCommune>Coudekerque-Branche Cedex</NomCommune>
+      <Localisation>
+         <Latitude>51.0188213</Latitude>
+         <Longitude>2.3809458</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 28 29 25 25</Téléphone>
+      <Télécopie>+33 3 28 60 85 09</Télécopie>
+      <Email>maire@ville-coudekerque-branche.fr</Email>
+      <Url>http://www.ville-coudekerque-branche.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour les cérémonies pendant les vacances scolaires.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+         <Note>Accueil ouvert de 8h30 à 12h et de 13h30 à 17h30 pendant les vacances scolaires.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

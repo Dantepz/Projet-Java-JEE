@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59085-01" codeInsee="59085" dateMiseAJour="2007-11-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Blécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Moncheaux</Ligne>
+      <CodePostal>59268</CodePostal>
+      <NomCommune>BLECOURT</NomCommune>
+      <Localisation>
+         <Latitude>50.2194252014</Latitude>
+         <Longitude>3.21140098572</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 79 90 72</Téléphone>
+      <Télécopie>+33 3 27 79 90 72</Télécopie>
+      <Email>mairiedeblecourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

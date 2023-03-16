@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62483-01" codeInsee="62483" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lacres</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>56, rue de l'École</Ligne>
+      <Ligne>Hameau de Sequières</Ligne>
+      <CodePostal>62830</CodePostal>
+      <NomCommune>Lacres</NomCommune>
+      <Localisation>
+         <Latitude>50.5950164795</Latitude>
+         <Longitude>1.75209999084</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 33 54 30</Téléphone>
+      <Télécopie>+33 3 21 33 54 30</Télécopie>
+      <Email>commune.lacres@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

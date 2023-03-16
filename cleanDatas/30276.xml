@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30276-01" codeInsee="30276" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-d'Aigouze</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 10</Ligne>
+      <Ligne>Rue Henri-Méry</Ligne>
+      <CodePostal>30220</CodePostal>
+      <NomCommune>Saint-Laurent-d'Aigouze</NomCommune>
+      <Localisation>
+         <Latitude>43.6358413696</Latitude>
+         <Longitude>4.19574308395</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 88 12 77</Téléphone>
+      <Télécopie>+33 4 66 88 10 11</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

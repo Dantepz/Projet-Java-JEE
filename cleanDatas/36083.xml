@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-36083-01" codeInsee="36083" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Giroux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 route de Graçay</Ligne>
+      <CodePostal>36150</CodePostal>
+      <NomCommune>Giroux</NomCommune>
+      <Localisation>
+         <Latitude>47.0667800903</Latitude>
+         <Longitude>1.91192805767</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 54 49 73 82</Téléphone>
+      <Télécopie>+33 2 54 49 42 45</Télécopie>
+      <Email>mairie.giroux@wanadoo.fr</Email>
+      <Url>http://www.mairie-giroux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

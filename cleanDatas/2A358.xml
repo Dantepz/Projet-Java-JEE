@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-2A358-01" codeInsee="2A358" dateMiseAJour="2015-04-22"
+           pivotLocal="mairie">
+   <Nom>Mairie de Zévaco</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Fontana-di-Zevaco</Ligne>
+      <CodePostal>20173</CodePostal>
+      <NomCommune>Zévaco</NomCommune>
+      <Localisation>
+         <Latitude>41.8922576904</Latitude>
+         <Longitude>9.04930686951</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 95 24 43 76</Téléphone>
+      <Télécopie>+33 4 95 24 43 76</Télécopie>
+      <Email>mairiezevaco@wanadoo.fr</Email>
+      <Url>http://www.zevaco.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

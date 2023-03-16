@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79103-01" codeInsee="79103" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Courlay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>42 rue Salliard-du-Rivault</Ligne>
+      <CodePostal>79440</CodePostal>
+      <NomCommune>Courlay</NomCommune>
+      <Localisation>
+         <Latitude>46.7797584534</Latitude>
+         <Longitude>-0.56697499752</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 72 20 42</Téléphone>
+      <Télécopie>+33 5 49 72 34 61</Télécopie>
+      <Email>mairie.de.courlay@wanadoo.fr</Email>
+      <Url>http://www.courlay.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

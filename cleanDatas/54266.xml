@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54266-01" codeInsee="54266" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Houdreville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 Grande rue</Ligne>
+      <CodePostal>54330</CodePostal>
+      <NomCommune>Houdreville</NomCommune>
+      <Localisation>
+         <Latitude>48.5067797</Latitude>
+         <Longitude>6.1033906</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 26 23 26</Téléphone>
+      <Télécopie>+33 3 83 26 09 26</Télécopie>
+      <Email>mairie.de.houdreville@wanadoo.fr</Email>
+      <Url>http://www.houdreville.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <PlageH début="16:00:00" fin="17:30:00"/>
+         <Note>Permanence du maire de 9h à 11h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

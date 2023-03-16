@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28340-01" codeInsee="28340" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hilaire-sur-Yerre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue du 11-Novembre</Ligne>
+      <CodePostal>28220</CodePostal>
+      <NomCommune>Saint-Hilaire-sur-Yerre</NomCommune>
+      <Localisation>
+         <Latitude>48.0235002</Latitude>
+         <Longitude>1.2552516</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 96 81 27</Téléphone>
+      <Télécopie>+33 2 37 96 81 27</Télécopie>
+      <Email>mairie.sainthilairesuryerre@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

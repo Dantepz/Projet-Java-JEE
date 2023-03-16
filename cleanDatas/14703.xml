@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-14703-01" codeInsee="14703" dateMiseAJour="2004-08-18"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tournebu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>14220</CodePostal>
+      <NomCommune>TOURNEBU</NomCommune>
+      <Localisation>
+         <Latitude>49.0102996826</Latitude>
+         <Longitude>-0.350997000933</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 13 78 32 11</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

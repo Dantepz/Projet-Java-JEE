@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54395-01" codeInsee="54395" dateMiseAJour="2016-01-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nancy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place Stanislas</Ligne>
+      <Ligne>CS 1</Ligne>
+      <CodePostal>54035</CodePostal>
+      <NomCommune>Nancy Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.6931878</Latitude>
+         <Longitude>6.1827904</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 85 30 00</Téléphone>
+      <Télécopie>+33 3 83 85 30 30</Télécopie>
+      <Email>https://www2.nancy.fr/ext/formulairemail/html/formulaire.php?i=170</Email>
+      <Url>http://www.nancy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

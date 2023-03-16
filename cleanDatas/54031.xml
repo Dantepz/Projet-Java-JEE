@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54031-01" codeInsee="54031" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Autreville-sur-Moselle</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, Grande rue</Ligne>
+      <CodePostal>54380</CodePostal>
+      <NomCommune>Autreville-sur-Moselle</NomCommune>
+      <Localisation>
+         <Latitude>48.8423995972</Latitude>
+         <Longitude>6.06835985184</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 24 96 70</Téléphone>
+      <Télécopie>+33 3 83 24 03 12</Télécopie>
+      <Email>communedeautrevillesurmoselle@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="10:30:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

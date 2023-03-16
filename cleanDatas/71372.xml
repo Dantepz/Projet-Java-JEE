@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-71372-01" codeInsee="71372" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Romanèche-Thorins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>72 route de la Mairie</Ligne>
+      <CodePostal>71570</CodePostal>
+      <NomCommune>Romanèche-Thorins</NomCommune>
+      <Localisation>
+         <Latitude>46.1873016357</Latitude>
+         <Longitude>4.73442983627</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 85 35 50 26</Téléphone>
+      <Télécopie>+33 3 85 35 21 79</Télécopie>
+      <Email>mairie@romaneche-thorins.fr</Email>
+      <Url>http://www.romaneche-thorins.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

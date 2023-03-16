@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27424-01" codeInsee="27424" dateMiseAJour="2007-11-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nagel Seez Mesnil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place Marcel Leredde</Ligne>
+      <CodePostal>27190</CodePostal>
+      <NomCommune>NAGEL SEEZ MESNIL</NomCommune>
+      <Localisation>
+         <Latitude>48.921875</Latitude>
+         <Longitude>0.934724986553</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 67 26 44</Téléphone>
+      <Télécopie>+33 2 32 35 86 19</Télécopie>
+      <Email>mairie.nagel.seez.mesnil@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

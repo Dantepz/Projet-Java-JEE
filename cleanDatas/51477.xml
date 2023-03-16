@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51477-01" codeInsee="51477" dateMiseAJour="2014-07-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Étienne-sur-Suippe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10, rue de l'Église</Ligne>
+      <CodePostal>51110</CodePostal>
+      <NomCommune>Saint-Étienne-sur-Suippe</NomCommune>
+      <Localisation>
+         <Latitude>49.3739013672</Latitude>
+         <Longitude>4.14269018173</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 97 55 25</Téléphone>
+      <Télécopie>+33 3 26 97 02 39</Télécopie>
+      <Email>mairie.st-etienne-sur-suippe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

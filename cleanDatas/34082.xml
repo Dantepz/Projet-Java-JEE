@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34082-01" codeInsee="34082" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Combaillaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue des Remparts</Ligne>
+      <CodePostal>34980</CodePostal>
+      <NomCommune>Combaillaux</NomCommune>
+      <Localisation>
+         <Latitude>43.676700592</Latitude>
+         <Longitude>3.76636004448</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 84 22 68</Téléphone>
+      <Télécopie>+33 4 67 84 87 98</Télécopie>
+      <Email>mairie.combaillaux@wanadoo.fr</Email>
+      <Url>http://www.combaillaux.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

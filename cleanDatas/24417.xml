@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-24417-01" codeInsee="24417" dateMiseAJour="2016-02-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Germain-des-Prés</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>24160</CodePostal>
+      <NomCommune>Saint-Germain-des-Prés</NomCommune>
+      <Localisation>
+         <Latitude>45.3421536</Latitude>
+         <Longitude>0.9906359</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 53 55 31 15</Téléphone>
+      <Télécopie>+33 5 53 55 31 16</Télécopie>
+      <Email>stgermaindespres.mairie@wanadoo.fr</Email>
+      <Url>http://www.saint-germain-des-prés.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert le 3e vendredi de chaque mois uniquement de 9h à 12h.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire ou des adjoints.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-55125-01" codeInsee="55125" dateMiseAJour="2013-07-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Contrisson</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>68, rue Simon</Ligne>
+      <CodePostal>55800</CodePostal>
+      <NomCommune>Contrisson</NomCommune>
+      <Localisation>
+         <Latitude>48.8045005798</Latitude>
+         <Longitude>4.96298980713</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 75 60 75</Téléphone>
+      <Télécopie>+33 3 29 75 19 35</Télécopie>
+      <Email>mairie.contrisson@wanadoo.fr</Email>
+      <Url>http://www.mairie-contrisson.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

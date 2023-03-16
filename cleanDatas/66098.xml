@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-66098-01" codeInsee="66098" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Llagonne</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Promenade du Pré-de-la-Ville</Ligne>
+      <CodePostal>66210</CodePostal>
+      <NomCommune>La Llagonne</NomCommune>
+      <Localisation>
+         <Latitude>42.5266914368</Latitude>
+         <Longitude>2.11619400978</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 04 21 10</Téléphone>
+      <Télécopie>+33 4 68 04 12 26</Télécopie>
+      <Email>mairie.la-llagonne@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

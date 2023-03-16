@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28393-01" codeInsee="28393" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Tremblay-les-Villages</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue de Châteauneuf</Ligne>
+      <CodePostal>28170</CodePostal>
+      <NomCommune>Tremblay-les-Villages</NomCommune>
+      <Localisation>
+         <Latitude>48.6006141</Latitude>
+         <Longitude>1.37940520000006</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 65 28 18</Téléphone>
+      <Télécopie>+33 2 37 65 30 66</Télécopie>
+      <Email>contact.mairie@tremblaylesvillages.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

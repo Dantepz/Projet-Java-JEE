@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-82191-01" codeInsee="82191" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verfeil-sur-Seye</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Route de Laguépie</Ligne>
+      <CodePostal>82330</CodePostal>
+      <NomCommune>Verfeil-sur-Seye</NomCommune>
+      <Localisation>
+         <Latitude>44.1871099</Latitude>
+         <Longitude>1.876263</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 65 46 08</Téléphone>
+      <Télécopie>+33 5 63 65 47 60</Télécopie>
+      <Email>mairie-de-verfeil-sur-seye@info82.com</Email>
+      <Url>http://www.verfeil-sur-seye.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

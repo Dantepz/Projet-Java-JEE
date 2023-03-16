@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-12008-01" codeInsee="12008" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Anglars-Saint-Félix</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>12390</CodePostal>
+      <NomCommune>Anglars-Saint-Félix</NomCommune>
+      <Localisation>
+         <Latitude>44.4233894348</Latitude>
+         <Longitude>2.21904993057</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 64 51 06</Téléphone>
+      <Télécopie>+33 5 65 64 45 02</Télécopie>
+      <Email>mairie-anglarsaintfelix@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

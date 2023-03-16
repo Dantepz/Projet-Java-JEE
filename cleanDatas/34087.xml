@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34087-01" codeInsee="34087" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cournonsec</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 rue du Jeu-de-Tambourin</Ligne>
+      <CodePostal>34660</CodePostal>
+      <NomCommune>Cournonsec</NomCommune>
+      <Localisation>
+         <Latitude>43.5495986938</Latitude>
+         <Longitude>3.70611000061</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 85 60 10</Téléphone>
+      <Télécopie>+33 4 67 85 42 87</Télécopie>
+      <Email>mairie.cournonsec@wanadoo.fr</Email>
+      <Url>http://www.cournonsec.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

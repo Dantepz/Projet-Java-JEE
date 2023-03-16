@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09022-01" codeInsee="09022" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arvigna</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place des Fusillés-de-Marty</Ligne>
+      <CodePostal>09100</CodePostal>
+      <NomCommune>Arvigna</NomCommune>
+      <Localisation>
+         <Latitude>43.0612831116</Latitude>
+         <Longitude>1.73183000088</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 68 70 88</Téléphone>
+      <Email>mairiearvigna@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49174-01" codeInsee="49174" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lézigné</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>14, rue de la Mairie</Ligne>
+      <CodePostal>49430</CodePostal>
+      <NomCommune>Lézigné</NomCommune>
+      <Localisation>
+         <Latitude>47.637298584</Latitude>
+         <Longitude>-0.297821998596</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 76 91 48</Téléphone>
+      <Télécopie>+33 2 41 76 98 13</Télécopie>
+      <Email>mairiedelezigne@wanadoo.fr</Email>
+      <Url>http://www.lezigne.mairie49.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="18:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

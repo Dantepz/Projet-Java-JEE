@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77120-01" codeInsee="77120" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cocherel</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, rue du Gué-Mathieu</Ligne>
+      <CodePostal>77440</CodePostal>
+      <NomCommune>Cocherel</NomCommune>
+      <Localisation>
+         <Latitude>49.021232605</Latitude>
+         <Longitude>3.10122704506</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 60 01 80 91</Téléphone>
+      <Télécopie>+33 1 60 61 21 98</Télécopie>
+      <Email>mairie.cocherel@orange.fr</Email>
+      <Url>http://www.mairiecocherel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

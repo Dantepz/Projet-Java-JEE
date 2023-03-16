@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49182-01" codeInsee="49182" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Louresse-Rochemenier</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Principale</Ligne>
+      <CodePostal>49700</CodePostal>
+      <NomCommune>Louresse-Rochemenier</NomCommune>
+      <Localisation>
+         <Latitude>47.239200592</Latitude>
+         <Longitude>-0.313183009624</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 59 13 13</Téléphone>
+      <Télécopie>+33 2 41 59 95 70</Télécopie>
+      <Email>louresse.rochemenier@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="samedi">
+         <PlageH début="08:30:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

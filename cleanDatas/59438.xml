@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59438-01" codeInsee="59438" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noyelles-sur-Escaut</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Sorel</Ligne>
+      <CodePostal>59159</CodePostal>
+      <NomCommune>Noyelles-sur-Escaut</NomCommune>
+      <Localisation>
+         <Latitude>50.1384441</Latitude>
+         <Longitude>3.1830632</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 37 52 21</Téléphone>
+      <Télécopie>+33 3 27 74 52 30</Télécopie>
+      <Email>mairie.n-s-e@wanadoo.fr</Email>
+      <Url>http://www.noyelles-sur-escaut.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

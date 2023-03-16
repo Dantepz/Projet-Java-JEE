@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61092-01" codeInsee="61092" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chandai</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>74 route de Paris</Ligne>
+      <CodePostal>61300</CodePostal>
+      <NomCommune>Chandai</NomCommune>
+      <Localisation>
+         <Latitude>48.7542648315</Latitude>
+         <Longitude>0.736088991165</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 24 05 75</Téléphone>
+      <Télécopie>+33 2 33 24 60 98</Télécopie>
+      <Email>chandai.mairie@orange.fr</Email>
+      <Url>http://www.mairie-chandai.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:45:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:45:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

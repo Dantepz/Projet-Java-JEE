@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06068-01" codeInsee="06068" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gourdon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>263 chemin du Colombier</Ligne>
+      <Ligne>La Colombière</Ligne>
+      <CodePostal>06620</CodePostal>
+      <NomCommune>Gourdon</NomCommune>
+      <Localisation>
+         <Latitude>43.719923</Latitude>
+         <Longitude>6.979338</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 42 92 00</Téléphone>
+      <Télécopie>+33 4 93 09 40 21</Télécopie>
+      <Email>contact@mairie-gourdon06.fr</Email>
+      <Url>http://www.gourdon06.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

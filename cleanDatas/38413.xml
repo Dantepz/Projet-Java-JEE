@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38413-01" codeInsee="38413" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Laurent-en-Beaumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>38350</CodePostal>
+      <NomCommune>Saint-Laurent-en-Beaumont</NomCommune>
+      <Localisation>
+         <Latitude>45.3118647</Latitude>
+         <Longitude>3.3426256</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 30 43 65</Téléphone>
+      <Télécopie>+33 9 71 70 38 61</Télécopie>
+      <Email>mairie.st-laurent-beaumont@orange.fr</Email>
+      <Url>http://www.mairie-saint-laurent-en-beaumont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

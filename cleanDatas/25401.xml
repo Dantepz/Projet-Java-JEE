@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25401-01" codeInsee="25401" dateMiseAJour="2013-10-15"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montivernage</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8, Grande rue</Ligne>
+      <CodePostal>25110</CodePostal>
+      <NomCommune>Montivernage</NomCommune>
+      <Localisation>
+         <Latitude>47.3188018799</Latitude>
+         <Longitude>6.39375019073</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 60 42 70</Téléphone>
+      <Email>mairie.montivernage@packsurfwisi.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Permanence du maire</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

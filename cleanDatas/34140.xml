@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34140-01" codeInsee="34140" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lignan-sur-Orb</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>135 rue Raymond-Cau</Ligne>
+      <CodePostal>34490</CodePostal>
+      <NomCommune>Lignan-sur-Orb</NomCommune>
+      <Localisation>
+         <Latitude>43.3852106</Latitude>
+         <Longitude>3.1696578</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 11 84 90</Téléphone>
+      <Télécopie>+33 4 67 11 84 99</Télécopie>
+      <Email>mairie.lignan@wanadoo.fr</Email>
+      <Url>http://www.ville-lignansurorb.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

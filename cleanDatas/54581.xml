@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54581-01" codeInsee="54581" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ville-sur-Yron</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de Metz</Ligne>
+      <CodePostal>54800</CodePostal>
+      <NomCommune>Ville-sur-Yron</NomCommune>
+      <Localisation>
+         <Latitude>49.1190986633</Latitude>
+         <Longitude>5.8660697937</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 82 33 91 70</Téléphone>
+      <Télécopie>+33 3 82 33 91 70</Télécopie>
+      <Email>mairie.villesuryron@wanadoo.fr</Email>
+      <Url>http://www.villesuryron.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

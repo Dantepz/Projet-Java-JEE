@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09230-01" codeInsee="09230" dateMiseAJour="2016-01-21"
+           pivotLocal="mairie">
+   <Nom>Mairie du Pla</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du 15-Août</Ligne>
+      <CodePostal>09460</CodePostal>
+      <NomCommune>Le Pla</NomCommune>
+      <Localisation>
+         <Latitude>42.933314</Latitude>
+         <Longitude>1.177181</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 68 20 40 40</Téléphone>
+      <Télécopie>+33 4 68 20 40 40</Télécopie>
+      <Email>mairie.le-pla@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

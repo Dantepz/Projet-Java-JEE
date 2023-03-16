@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51229-01" codeInsee="51229" dateMiseAJour="2007-12-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Epense</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9 rue de la Gravelle</Ligne>
+      <CodePostal>51330</CodePostal>
+      <NomCommune>EPENSE</NomCommune>
+      <Localisation>
+         <Latitude>48.9713668823</Latitude>
+         <Longitude>4.83423900604</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 60 88 87</Téléphone>
+      <Email>mairie.epense@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

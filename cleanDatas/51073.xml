@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51073-01" codeInsee="51073" dateMiseAJour="2004-09-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouleuse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du Tardenois</Ligne>
+      <CodePostal>51170</CodePostal>
+      <NomCommune>BOULEUSE</NomCommune>
+      <Localisation>
+         <Latitude>49.2350006104</Latitude>
+         <Longitude>3.79197001457</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 03 63 89</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="13:00:00" fin="15:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

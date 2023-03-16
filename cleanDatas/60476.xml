@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60476-01" codeInsee="60476" dateMiseAJour="2007-12-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Omecourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue de Saint-Deniscourt</Ligne>
+      <CodePostal>60220</CodePostal>
+      <NomCommune>OMECOURT</NomCommune>
+      <Localisation>
+         <Latitude>49.6305007935</Latitude>
+         <Longitude>1.82553994656</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 82 73 26</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

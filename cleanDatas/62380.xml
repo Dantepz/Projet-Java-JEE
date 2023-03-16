@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62380-01" codeInsee="62380" dateMiseAJour="2007-11-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Gouy Servins</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>62530</CodePostal>
+      <NomCommune>GOUY SERVINS</NomCommune>
+      <Localisation>
+         <Latitude>50.403301239</Latitude>
+         <Longitude>2.65084004402</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 55 48 76</Téléphone>
+      <Télécopie>+33 3 21 55 48 76</Télécopie>
+      <Email>alainlherbier@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>sauf le mercredi après-midi</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

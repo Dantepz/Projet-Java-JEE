@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57627-01" codeInsee="57627" dateMiseAJour="2004-09-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sanry Sur Nied</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>30 rue principale</Ligne>
+      <CodePostal>57530</CodePostal>
+      <NomCommune>SANRY SUR NIED</NomCommune>
+      <Localisation>
+         <Latitude>49.0522003174</Latitude>
+         <Longitude>6.34295988083</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74009-01" codeInsee="74009" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Andilly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 chemin du Champ-de-Foire</Ligne>
+      <Ligne>Saint-Symphorien</Ligne>
+      <CodePostal>74350</CodePostal>
+      <NomCommune>Andilly</NomCommune>
+      <Localisation>
+         <Latitude>46.056098938</Latitude>
+         <Longitude>6.06108999252</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 44 21 43</Téléphone>
+      <Télécopie>+33 4 50 66 61 32</Télécopie>
+      <Email>mairie@andilly74.fr</Email>
+      <Url>http://www.andilly74.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <Note>Accueil fermé le 4e samedi du mois</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

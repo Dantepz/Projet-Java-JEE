@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31040-01" codeInsee="31040" dateMiseAJour="2004-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bachos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>31440</CodePostal>
+      <NomCommune>BACHOS</NomCommune>
+      <Localisation>
+         <Latitude>42.8972473145</Latitude>
+         <Longitude>0.617645025253</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 94 34 99</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

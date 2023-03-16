@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-86025-01" codeInsee="86025" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Béthines</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>11 rue du Salleron</Ligne>
+      <CodePostal>86310</CodePostal>
+      <NomCommune>Béthines</NomCommune>
+      <Localisation>
+         <Latitude>46.5497016907</Latitude>
+         <Longitude>0.974273979664</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 48 03 09</Téléphone>
+      <Email>bethines@cg86.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="15:00:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="15:00:00" fin="17:30:00"/>
+         <Note>Accueil fermé les lundis du 1er mai au 31 octobre.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

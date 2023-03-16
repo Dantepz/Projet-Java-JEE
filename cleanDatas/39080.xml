@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-39080-01" codeInsee="39080" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Broissia</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de la Mairie</Ligne>
+      <CodePostal>39320</CodePostal>
+      <NomCommune>Broissia</NomCommune>
+      <Localisation>
+         <Latitude>46.359597</Latitude>
+         <Longitude>5.43123900000001</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 84 44 38 41</Téléphone>
+      <Télécopie>+33 3 84 44 38 41</Télécopie>
+      <Email>mairie.broissia@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="16:00:00" fin="18:00:00"/>
+         <Note>Contacter l'accueil pour obtenir les horaires de permanence de M. le maire</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

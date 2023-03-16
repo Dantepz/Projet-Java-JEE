@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85229-01" codeInsee="85229" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Hilaire-de-Voust</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>21, rue de la Mairie</Ligne>
+      <CodePostal>85120</CodePostal>
+      <NomCommune>Saint-Hilaire-de-Voust</NomCommune>
+      <Localisation>
+         <Latitude>46.5876998901</Latitude>
+         <Longitude>-0.645119011402</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 00 40 13</Téléphone>
+      <Télécopie>+33 2 51 00 41 95</Télécopie>
+      <Email>mairiesainthilairedevoust@orange.fr</Email>
+      <Url>http://www.sthilairedevoust.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

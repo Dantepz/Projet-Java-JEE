@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25088-01" codeInsee="25088" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Breconchaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>6, rue Perrières</Ligne>
+      <CodePostal>25640</CodePostal>
+      <NomCommune>Breconchaux</NomCommune>
+      <Localisation>
+         <Latitude>47.3404655457</Latitude>
+         <Longitude>6.26775789261</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 55 54 98</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="19:00:00" fin="20:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

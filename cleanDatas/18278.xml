@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-18278-01" codeInsee="18278" dateMiseAJour="2013-01-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vesdun</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, place du Champ-de-Foire</Ligne>
+      <CodePostal>18360</CodePostal>
+      <NomCommune>Vesdun</NomCommune>
+      <Localisation>
+         <Latitude>46.5391387939</Latitude>
+         <Longitude>2.4300661087</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 48 63 03 07</Téléphone>
+      <Télécopie>+33 2 48 63 12 62</Télécopie>
+      <Email>mairie.vesdun.cher@wanadoo.fr</Email>
+      <Url>http://www.vesdun.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

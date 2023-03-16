@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63032-01" codeInsee="63032" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Beaumont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 rue de l’Hôtel-de-Ville</Ligne>
+      <CodePostal>63110</CodePostal>
+      <NomCommune>Beaumont</NomCommune>
+      <Localisation>
+         <Latitude>45.7535912</Latitude>
+         <Longitude>3.0860752</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 28 88 00</Téléphone>
+      <Télécopie>+33 4 73 28 88 09</Télécopie>
+      <Email>contact@beaumont63.fr</Email>
+      <Url>http://www.beaumont63.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+         <Note>Horaires du service population et du standard, les horaires des autres services varient.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l’état civil et fermé en juillet-août.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+         <Note>Horaires du service population et du standard, les horaires des autres services varient.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

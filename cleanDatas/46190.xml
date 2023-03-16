@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46190-01" codeInsee="46190" dateMiseAJour="2004-09-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mechmont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>le Bourg</Ligne>
+      <CodePostal>46150</CodePostal>
+      <NomCommune>MECHMONT</NomCommune>
+      <Localisation>
+         <Latitude>44.5830497742</Latitude>
+         <Longitude>1.45703601837</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 36 81 12</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65426-01" codeInsee="65426" dateMiseAJour="2014-10-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sinzos</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4, place Fontaine</Ligne>
+      <CodePostal>65190</CodePostal>
+      <NomCommune>Sinzos</NomCommune>
+      <Localisation>
+         <Latitude>43.185798645</Latitude>
+         <Longitude>0.245645999908</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 79 38</Téléphone>
+      <Télécopie>+33 5 62 35 79 38</Télécopie>
+      <Email>sinzos.cne@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

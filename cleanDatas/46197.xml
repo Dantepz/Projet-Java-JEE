@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-46197-01" codeInsee="46197" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie du Montat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>180 rue du Village</Ligne>
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>46090</CodePostal>
+      <NomCommune>Le Montat</NomCommune>
+      <Localisation>
+         <Latitude>44.3796742</Latitude>
+         <Longitude>1.4461273</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 65 21 01 17</Téléphone>
+      <Télécopie>+33 5 65 21 71 41</Télécopie>
+      <Email>mairie.montat@orange.fr</Email>
+      <Url>http://www.lemontat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

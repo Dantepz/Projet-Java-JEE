@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44163-01" codeInsee="44163" dateMiseAJour="2016-02-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vair-sur-Loire</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue Boule-d'Or</Ligne>
+      <CodePostal>44150</CodePostal>
+      <NomCommune>Saint-Herblon</NomCommune>
+      <Localisation>
+         <Latitude>47.4069088</Latitude>
+         <Longitude>-1.0946419</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 98 02 23</Téléphone>
+      <Télécopie>+33 2 40 98 03 08</Télécopie>
+      <Email>mairie@stherblon.fr</Email>
+      <Url>http://www.saintherblon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Vair-sur-Loire  remplace les communes d'Anetz et de Saint-Herblon</Commentaire>
+</Organisme>

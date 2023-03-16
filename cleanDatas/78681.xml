@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-78681-01" codeInsee="78681" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Villiers-le-Mahieu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>18 rue du Centre</Ligne>
+      <CodePostal>78770</CodePostal>
+      <NomCommune>Villiers-le-Mahieu</NomCommune>
+      <Localisation>
+         <Latitude>48.8606987</Latitude>
+         <Longitude>1.77407002449</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 87 40 83</Téléphone>
+      <Télécopie>+33 1 34 87 50 91</Télécopie>
+      <Email>mairie@villiers-le-mahieu.fr</Email>
+      <Url>http://www.villiers-le-mahieu.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="15:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

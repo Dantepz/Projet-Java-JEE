@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09090-01" codeInsee="09090" dateMiseAJour="2004-08-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Cazaux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Mairie</Ligne>
+      <CodePostal>09120</CodePostal>
+      <NomCommune>CAZAUX</NomCommune>
+      <Localisation>
+         <Latitude>43.0531888</Latitude>
+         <Longitude>1.5160212</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+</Organisme>

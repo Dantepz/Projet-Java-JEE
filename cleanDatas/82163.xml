@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-82163-01" codeInsee="82163" dateMiseAJour="2004-08-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint du Bouzet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>le bourg</Ligne>
+      <CodePostal>82120</CodePostal>
+      <NomCommune>ST JEAN DU BOUZET</NomCommune>
+      <Localisation>
+         <Latitude>43.9898834229</Latitude>
+         <Longitude>0.874104976654</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 94 02 65</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

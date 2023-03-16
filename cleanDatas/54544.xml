@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54544-01" codeInsee="54544" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vandelainville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 Grand'rue</Ligne>
+      <CodePostal>54890</CodePostal>
+      <NomCommune>Vandelainville</NomCommune>
+      <Localisation>
+         <Latitude>49.0166473389</Latitude>
+         <Longitude>5.97519683838</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">réception sur demande dans la salle communale.</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 81 83 44</Téléphone>
+      <Télécopie>+33 3 83 81 83 44</Télécopie>
+      <Email>mairievandelainville@gmail.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

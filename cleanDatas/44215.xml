@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-44215-01" codeInsee="44215" dateMiseAJour="2015-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Vertou</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 place Saint-Martin</Ligne>
+      <Ligne>BP 2319</Ligne>
+      <CodePostal>44123</CodePostal>
+      <NomCommune>Vertou Cedex</NomCommune>
+      <Localisation>
+         <Latitude>47.1375236511</Latitude>
+         <Longitude>-1.46781098843</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 40 34 43 00</Téléphone>
+      <Télécopie>+33 2 40 34 91 45</Télécopie>
+      <Email>http://www.vertou.fr/fr/nous-contacter</Email>
+      <Url>http://www.vertou.fr/</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:45:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

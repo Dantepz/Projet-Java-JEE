@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59068-01" codeInsee="59068" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Berlaimont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>15, place du Général-de-Gaulle</Ligne>
+      <Ligne>BP 200023</Ligne>
+      <CodePostal>59145</CodePostal>
+      <NomCommune>Berlaimont</NomCommune>
+      <Localisation>
+         <Latitude>50.201499939</Latitude>
+         <Longitude>3.81502008438</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 67 31 63</Téléphone>
+      <Télécopie>+33 3 27 67 20 62</Télécopie>
+      <Email>mairie.berlaimont@wanadoo.fr</Email>
+      <Url>http://www.berlaimont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

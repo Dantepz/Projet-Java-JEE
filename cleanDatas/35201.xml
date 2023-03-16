@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-35201-01" codeInsee="35201" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Muël</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>13 rue de Brocéliande</Ligne>
+      <CodePostal>35290</CodePostal>
+      <NomCommune>Muël</NomCommune>
+      <Localisation>
+         <Latitude>48.1601982117</Latitude>
+         <Longitude>-2.21764993668</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 99 07 52 35</Téléphone>
+      <Télécopie>+33 2 99 07 55 79</Télécopie>
+      <Email>mairie-de-muel@wanadoo.fr</Email>
+      <Url>http://www.muel.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert les 1er et 2e samedis du mois. Permanence des adjoints les autres samedis entre 10h et 12h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

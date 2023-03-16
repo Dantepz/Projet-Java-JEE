@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27662-01" codeInsee="27662" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Triqueville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>27500</CodePostal>
+      <NomCommune>Triqueville</NomCommune>
+      <Localisation>
+         <Latitude>49.3370475769</Latitude>
+         <Longitude>0.440663993359</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 42 11 94</Téléphone>
+      <Télécopie>+33 2 32 42 11 94</Télécopie>
+      <Email>mairie-triqueville@wanadoo.fr</Email>
+      <Url>http://www.triqueville.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

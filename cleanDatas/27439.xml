@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27439-01" codeInsee="27439" dateMiseAJour="2016-01-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Normanville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>103, route de la Vallée</Ligne>
+      <CodePostal>27930</CodePostal>
+      <NomCommune>Normanville</NomCommune>
+      <Localisation>
+         <Latitude>49.0798492432</Latitude>
+         <Longitude>1.15799498558</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 34 71 37</Téléphone>
+      <Télécopie>+33 2 32 34 72 06</Télécopie>
+      <Email>secretaire@normanville.com</Email>
+      <Url>http://www.normanville.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

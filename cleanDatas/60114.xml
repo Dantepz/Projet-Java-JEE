@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60114-01" codeInsee="60114" dateMiseAJour="2006-08-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Buicourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 rue Principale</Ligne>
+      <CodePostal>60380</CodePostal>
+      <NomCommune>BUICOURT</NomCommune>
+      <Localisation>
+         <Latitude>49.5484008789</Latitude>
+         <Longitude>1.85424995422</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 82 72 16</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

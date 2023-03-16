@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52358-01" codeInsee="52358" dateMiseAJour="2013-05-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noyers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue des Grands Puits</Ligne>
+      <CodePostal>52240</CodePostal>
+      <NomCommune>Noyers</NomCommune>
+      <Localisation>
+         <Latitude>48.0608024597</Latitude>
+         <Longitude>5.48635005951</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 01 46 49</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

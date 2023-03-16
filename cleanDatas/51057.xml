@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51057-01" codeInsee="51057" dateMiseAJour="2007-11-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bettancourt la Longue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40 grande rue</Ligne>
+      <CodePostal>51330</CodePostal>
+      <NomCommune>BETTANCOURT LA LONGUE</NomCommune>
+      <Localisation>
+         <Latitude>48.8709983826</Latitude>
+         <Longitude>4.8690199852</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 72 08 61</Téléphone>
+      <Télécopie>+33 3 26 73 41 84</Télécopie>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

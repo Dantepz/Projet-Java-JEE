@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-42072-01" codeInsee="42072" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Côte-en-Couzan</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le They</Ligne>
+      <CodePostal>42111</CodePostal>
+      <NomCommune>La Côte-en-Couzan</NomCommune>
+      <Localisation>
+         <Latitude>45.7834014893</Latitude>
+         <Longitude>3.84572005272</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 77 97 96 14</Téléphone>
+      <Télécopie>+33 4 77 97 96 14</Télécopie>
+      <Email>mairie.coteencouzan@akeonet.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

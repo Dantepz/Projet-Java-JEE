@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50245-01" codeInsee="50245" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie déléguée de Heussé</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg-Heussé</Ligne>
+      <CodePostal>50640</CodePostal>
+      <NomCommune>Le Teilleul</NomCommune>
+      <Localisation>
+         <Latitude>48.5075152</Latitude>
+         <Longitude>-0.9013776</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 59 42 94</Téléphone>
+      <Télécopie>+33 2 33 59 42 94</Télécopie>
+      <Email>commune-ec@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60143-01" codeInsee="60143" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Chaumont-en-Vexin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45 rue de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>60240</CodePostal>
+      <NomCommune>Chaumont-en-Vexin</NomCommune>
+      <Localisation>
+         <Latitude>49.2625999451</Latitude>
+         <Longitude>1.8820899725</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 49 00 46</Téléphone>
+      <Télécopie>+33 3 44 49 17 74</Télécopie>
+      <Email>mairie.chaumont-en-vexin@wanadoo.fr</Email>
+      <Url>http://www.mairie-chaumont-en-vexin.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>Accueil ouvert en décembre, juillet et août jusqu'à 16h30 uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+         <Note>Accueil ouvert en décembre, juillet et août jusqu'à 16h30 uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et fermé les veilles de fêtes.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

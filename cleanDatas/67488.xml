@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-67488-01" codeInsee="67488" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Thal-Drulingen</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue de la Mairie</Ligne>
+      <CodePostal>67320</CodePostal>
+      <NomCommune>Thal-Drulingen</NomCommune>
+      <Localisation>
+         <Latitude>48.9090003967</Latitude>
+         <Longitude>7.14554023743</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 88 01 70 16</Téléphone>
+      <Email>mairie.thal.drulingen@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="08:00:00" fin="11:15:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="08:00:00" fin="11:15:00"/>
+         <Note>Permanence du maire le jeudi de 19h à 20h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

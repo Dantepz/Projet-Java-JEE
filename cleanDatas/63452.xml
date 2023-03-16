@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63452-01" codeInsee="63452" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Verrières</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 chemin de Lachaux</Ligne>
+      <CodePostal>63320</CodePostal>
+      <NomCommune>Verrières</NomCommune>
+      <Localisation>
+         <Latitude>45.5694007874</Latitude>
+         <Longitude>3.03673005104</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 88 55 11</Téléphone>
+      <Télécopie>+33 4 73 96 29 70</Télécopie>
+      <Email>commune-verrieres@orange.fr</Email>
+      <Url>http://www.verrieres-auvergne.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49041-01" codeInsee="49041" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Brain-sur-Allonnes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de la Mairie</Ligne>
+      <CodePostal>49650</CodePostal>
+      <NomCommune>Brain-sur-Allonnes</NomCommune>
+      <Localisation>
+         <Latitude>47.3063645</Latitude>
+         <Longitude>-1.0012871</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 52 03 28</Téléphone>
+      <Télécopie>+33 2 41 38 86 30</Télécopie>
+      <Email>mairie@brain-sur-allonnes.fr</Email>
+      <Url>http://www.brain-sur-allonnes.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

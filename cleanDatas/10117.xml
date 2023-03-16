@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10117-01" codeInsee="10117" dateMiseAJour="2014-06-30"
+           pivotLocal="mairie">
+   <Nom>Mairie de Crespy le Neuf</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>40, rue Charles-Herbelot</Ligne>
+      <CodePostal>10500</CodePostal>
+      <NomCommune>Crespy le Neuf</NomCommune>
+      <Localisation>
+         <Latitude>48.414100647</Latitude>
+         <Longitude>4.58928012848</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 92 98 71</Téléphone>
+      <Télécopie>+33 3 25 92 99 45</Télécopie>
+      <Email>mairie.crespy@packsurfwifi.com</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59104-01" codeInsee="59104" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Boussois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place du 8-Mai-1945</Ligne>
+      <CodePostal>59168</CodePostal>
+      <NomCommune>Boussois</NomCommune>
+      <Localisation>
+         <Latitude>50.2895011902</Latitude>
+         <Longitude>4.03916978836</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 68 93 48</Téléphone>
+      <Télécopie>+33 3 27 68 53 80</Télécopie>
+      <Email>mairie@boussois.fr</Email>
+      <Url>http://www.ville-boussois.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="11:00:00"/>
+         <Note>Permanence de l'état-civil uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-94042-01" codeInsee="94042" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Joinville-le-Pont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue de Paris</Ligne>
+      <Ligne>BP 83</Ligne>
+      <CodePostal>94340</CodePostal>
+      <NomCommune>Joinville-le-Pont</NomCommune>
+      <Localisation>
+         <Latitude>48.8181266785</Latitude>
+         <Longitude>2.46630311012</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 49 76 60 00</Téléphone>
+      <Télécopie>+33 1 48 89 53 19</Télécopie>
+      <Email>courrier@joinvillelepont.fr</Email>
+      <Url>http://www.ville-joinville-le-pont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

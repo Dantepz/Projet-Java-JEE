@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52110-01" codeInsee="52110" dateMiseAJour="2013-02-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Charmes-la-Grande</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>45, rue des Deux-Écoles</Ligne>
+      <CodePostal>52110</CodePostal>
+      <NomCommune>Charmes-la-Grande</NomCommune>
+      <Localisation>
+         <Latitude>48.3833999634</Latitude>
+         <Longitude>4.99532985687</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 94 41 21</Téléphone>
+      <Télécopie>+33 3 25 94 41 21</Télécopie>
+      <Email>mairiecharmeslagrande@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="09:00:00" fin="13:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="17:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

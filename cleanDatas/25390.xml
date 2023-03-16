@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-25390-01" codeInsee="25390" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montbenoît</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de l'Abbaye</Ligne>
+      <CodePostal>25650</CodePostal>
+      <NomCommune>Montbenoît</NomCommune>
+      <Localisation>
+         <Latitude>46.9926986694</Latitude>
+         <Longitude>6.46193981171</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 81 38 12 94</Téléphone>
+      <Télécopie>+33 3 81 38 19 04</Télécopie>
+      <Email>mairie.montbenoit@wanadoo.fr</Email>
+      <Url>http://www.montbenoit.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88415-01" codeInsee="88415" dateMiseAJour="2014-08-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Étienne-lès-Remiremont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 20234</Ligne>
+      <Ligne>Place de l'Hôtel-de-Ville</Ligne>
+      <CodePostal>88200</CodePostal>
+      <NomCommune>Saint-Étienne-lès-Remiremont</NomCommune>
+      <Localisation>
+         <Latitude>48.0206985474</Latitude>
+         <Longitude>6.6111497879</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 26 18 00</Téléphone>
+      <Télécopie>+33 3 29 26 18 01</Télécopie>
+      <Email>info@ville-st-etienne-remiremont.fr</Email>
+      <Url>http://www.ville-st-etienne-remiremont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

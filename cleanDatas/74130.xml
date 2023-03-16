@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74130-01" codeInsee="74130" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Franclens</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Chemin des Écoliers</Ligne>
+      <CodePostal>74910</CodePostal>
+      <NomCommune>Franclens</NomCommune>
+      <Localisation>
+         <Latitude>46.0449180603</Latitude>
+         <Longitude>5.82846879959</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 77 90 63</Téléphone>
+      <Télécopie>+33 4 50 77 99 05</Télécopie>
+      <Email>accueil@franclens.fr</Email>
+      <Url>http://www.franclens.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

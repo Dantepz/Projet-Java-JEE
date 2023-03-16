@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28002-01" codeInsee="28002" dateMiseAJour="2014-07-14"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Allaines-Mervilliers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du 11-Novembre</Ligne>
+      <CodePostal>28310</CodePostal>
+      <NomCommune>Allaines-Mervilliers</NomCommune>
+      <Localisation>
+         <Latitude>48.2041664124</Latitude>
+         <Longitude>1.82452702522</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 37 90 10 09</Téléphone>
+      <Email>mairie.allainesmervilliers@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

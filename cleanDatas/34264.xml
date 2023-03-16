@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-34264-01" codeInsee="34264" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-de-Buèges</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue le Grand-Chemin</Ligne>
+      <CodePostal>34380</CodePostal>
+      <NomCommune>Saint-Jean-de-Buèges</NomCommune>
+      <Localisation>
+         <Latitude>43.834435</Latitude>
+         <Longitude>3.620665</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 73 10 64</Téléphone>
+      <Télécopie>+33 9 74 44 16 74</Télécopie>
+      <Email>communedesaintjean@sfr.fr</Email>
+      <Url>http://www.saintjeandebueges.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

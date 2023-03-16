@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31077-01" codeInsee="31077" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie du Born</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>9, place Maurice-Richard</Ligne>
+      <CodePostal>31340</CodePostal>
+      <NomCommune>Le Born</NomCommune>
+      <Localisation>
+         <Latitude>43.8840369201</Latitude>
+         <Longitude>1.54563903809</Longitude>
+         <Précision>9</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 09 32 76</Téléphone>
+      <Télécopie>+33 5 61 74 10 78</Télécopie>
+      <Email>mairie@leborn.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="samedi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

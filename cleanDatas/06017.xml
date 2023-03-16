@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06017-01" codeInsee="06017" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bezaudun-les-Alpes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>31 rue Haute</Ligne>
+      <CodePostal>06510</CodePostal>
+      <NomCommune>Bezaudun-les-Alpes</NomCommune>
+      <Localisation>
+         <Latitude>43.8088989258</Latitude>
+         <Longitude>7.09651994705</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 59 12 34</Téléphone>
+      <Télécopie>+33 4 93 59 12 34</Télécopie>
+      <Email>mairie.bezaudun@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09296-01" codeInsee="09296" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sinsat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5, avenue Paul-Berdot</Ligne>
+      <CodePostal>09310</CodePostal>
+      <NomCommune>Sinsat</NomCommune>
+      <Localisation>
+         <Latitude>42.7991142273</Latitude>
+         <Longitude>1.66096496582</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 64 97 20</Téléphone>
+      <Télécopie>+33 5 61 64 97 20</Télécopie>
+      <Email>mairiesinsat@wanadoo.fr</Email>
+      <Url>http://www.mairiesinsat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement de juillet à septembre</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="16:00:00" fin="18:30:00"/>
+         <Note>Accueil fermé de juillet à septembre</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

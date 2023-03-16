@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62133-01" codeInsee="62133" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Billy-Montigny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Jean-Jaurès</Ligne>
+      <CodePostal>62420</CodePostal>
+      <NomCommune>Billy-Montigny</NomCommune>
+      <Localisation>
+         <Latitude>50.4183006287</Latitude>
+         <Longitude>2.91213011742</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 13 81 13</Téléphone>
+      <Télécopie>+33 3 21 13 81 21</Télécopie>
+      <Email>ville-billy-montigny@wanadoo.fr</Email>
+      <Url>http://www.billymontigny.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

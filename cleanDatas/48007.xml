@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-48007-01" codeInsee="48007" dateMiseAJour="2014-10-28"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Arzenc-d'Apcher</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>48310</CodePostal>
+      <NomCommune>Arzenc-d'Apcher</NomCommune>
+      <Localisation>
+         <Latitude>44.8550899</Latitude>
+         <Longitude>3.09789</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 66 45 31 46</Téléphone>
+      <Télécopie>+33 4 66 31 60 13</Télécopie>
+      <Email>noanbernadettemairie@fournels48.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil situé dans les locaux de la mairie de Fournels au 0466316015.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

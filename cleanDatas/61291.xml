@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-61291-01" codeInsee="61291" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montreuil-la-Cambe</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>La Cambe</Ligne>
+      <CodePostal>61160</CodePostal>
+      <NomCommune>Montreuil-la-Cambe</NomCommune>
+      <Localisation>
+         <Latitude>48.8833007812</Latitude>
+         <Longitude>0.049362000078</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 36 70 84</Téléphone>
+      <Télécopie>+33 2 33 36 70 84</Télécopie>
+      <Email>mairie.montreuil.la.cambe@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="16:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27183-01" codeInsee="27183" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Couture-Boussey</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue d'Ezy</Ligne>
+      <CodePostal>27750</CodePostal>
+      <NomCommune>La Couture-Boussey</NomCommune>
+      <Localisation>
+         <Latitude>48.8929023743</Latitude>
+         <Longitude>1.40536701679</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 36 75 05</Téléphone>
+      <Télécopie>+33 2 32 36 25 57</Télécopie>
+      <Email>contact@lacoutureboussey.com</Email>
+      <Url>http://www.lacoutureboussey.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

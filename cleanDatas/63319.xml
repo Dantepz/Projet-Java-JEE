@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63319-01" codeInsee="63319" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Anthème</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Halle</Ligne>
+      <CodePostal>63660</CodePostal>
+      <NomCommune>Saint-Anthème</NomCommune>
+      <Localisation>
+         <Latitude>45.5264015198</Latitude>
+         <Longitude>3.91769003868</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 95 40 20</Téléphone>
+      <Télécopie>+33 4 73 95 81 79</Télécopie>
+      <Email>st-antheme-mairie@orange.fr</Email>
+      <Url>http://www.saint-antheme.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

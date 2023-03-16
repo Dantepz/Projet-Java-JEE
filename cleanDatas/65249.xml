@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65249-01" codeInsee="65249" dateMiseAJour="2007-11-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lalanne Magnoac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Village</Ligne>
+      <CodePostal>65230</CodePostal>
+      <NomCommune>LALANNE</NomCommune>
+      <Localisation>
+         <Latitude>43.2673950195</Latitude>
+         <Longitude>0.578423976898</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 99 87 02</Téléphone>
+      <Email>lalanne.magnoac@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:15:00" fin="12:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

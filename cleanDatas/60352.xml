@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60352-01" codeInsee="60352" dateMiseAJour="2016-01-28"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lattainville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12, rue Jean-Baptiste-Crèvecoeur</Ligne>
+      <CodePostal>60240</CodePostal>
+      <NomCommune>Lattainville</NomCommune>
+      <Localisation>
+         <Latitude>49.2424736023</Latitude>
+         <Longitude>1.8138730526</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 49 96 87</Téléphone>
+      <Télécopie>+33 3 44 07 91 03</Télécopie>
+      <Email>mairie.lattainville@free.fr</Email>
+      <Url>http://www.vallee-du-reveillon.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="19:30:00"/>
+         <Note>Ouvert le 1er samedi du mois : 9h à11h</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

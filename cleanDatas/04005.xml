@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-04005-01" codeInsee="04005" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Allons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Amiral-de-Richery</Ligne>
+      <CodePostal>04170</CodePostal>
+      <NomCommune>Allons</NomCommune>
+      <Localisation>
+         <Latitude>43.97706604</Latitude>
+         <Longitude>6.5951461792</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 89 10 73</Téléphone>
+      <Télécopie>+33 4 92 89 10 73</Télécopie>
+      <Email>mairie.allons@orange.fr</Email>
+      <Url>http://www.allons-alpes-haute-provence.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80795-01" codeInsee="80795" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ville-le-Marclet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 rue du 8-Mai-1945</Ligne>
+      <CodePostal>80420</CodePostal>
+      <NomCommune>Ville-le-Marclet</NomCommune>
+      <Localisation>
+         <Latitude>50.0203018188</Latitude>
+         <Longitude>2.08294010162</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 51 61 45</Téléphone>
+      <Télécopie>+33 3 22 51 43 33</Télécopie>
+      <Email>mairie.villelemarclet@orange.fr</Email>
+      <Url>http://www.ville-le-marclet.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="16:30:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="11:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

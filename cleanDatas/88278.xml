@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-88278-01" codeInsee="88278" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Maconcourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>4 rue de l'Église</Ligne>
+      <CodePostal>88170</CodePostal>
+      <NomCommune>Maconcourt</NomCommune>
+      <Localisation>
+         <Latitude>48.4002990723</Latitude>
+         <Longitude>5.89707994461</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 29 06 45 03</Téléphone>
+      <Télécopie>+33 3 29 06 45 03</Télécopie>
+      <Email>mairie.maconcourt@orange.fr</Email>
+      <Url>http://www.maconcourt.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

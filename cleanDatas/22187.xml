@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-22187-01" codeInsee="22187" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Plérin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue de l'Espérance</Ligne>
+      <Ligne>CS 30310</Ligne>
+      <CodePostal>22193</CodePostal>
+      <NomCommune>Plérin Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.534787</Latitude>
+         <Longitude>-2.770376</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 96 79 82 00</Téléphone>
+      <Télécopie>+33 2 96 79 82 09</Télécopie>
+      <Email>contact@ville-plerin.fr</Email>
+      <Url>http://www.ville-plerin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence état civil et des élus uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

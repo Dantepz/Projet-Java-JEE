@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-30170-01" codeInsee="30170" dateMiseAJour="2014-10-20"
+           pivotLocal="mairie">
+   <Nom>Mairie de Molières-Cavaillac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Jeu-de-Boules</Ligne>
+      <CodePostal>30120</CodePostal>
+      <NomCommune>Molières-Cavaillac</NomCommune>
+      <Localisation>
+         <Latitude>43.9755783081</Latitude>
+         <Longitude>3.57632899284</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 67 81 03 99</Téléphone>
+      <Télécopie>+33 4 67 81 70 20</Télécopie>
+      <Email>mairie.molieres-cavaillac@wanadoo.fr</Email>
+      <Url>http://www.molierescavaillac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+         <PlageH début="16:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

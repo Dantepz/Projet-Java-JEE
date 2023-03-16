@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63006-01" codeInsee="63006" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Anzat-le-Luguet</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63420</CodePostal>
+      <NomCommune>Anzat-le-Luguet</NomCommune>
+      <Localisation>
+         <Latitude>45.3316993713</Latitude>
+         <Longitude>3.04176998138</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 74 68</Téléphone>
+      <Télécopie>+33 4 73 71 72 15</Télécopie>
+      <Email>anzatleluguet.mairie@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique de 13h30 à 17h.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence téléphonique de 13h30 à 17h.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

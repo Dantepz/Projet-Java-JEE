@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-57520-01" codeInsee="57520" dateMiseAJour="2013-05-15"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Obreck</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue Principale</Ligne>
+      <CodePostal>57170</CodePostal>
+      <NomCommune>Obreck</NomCommune>
+      <Localisation>
+         <Latitude>48.8153991699</Latitude>
+         <Longitude>6.54704999924</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 87 86 63 73</Téléphone>
+      <Télécopie>+33 3 87 86 63 73</Télécopie>
+      <Email>mairie.obreck@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

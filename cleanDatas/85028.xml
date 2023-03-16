@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-85028-01" codeInsee="85028" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bouillé-Courdault</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue du Prieuré</Ligne>
+      <CodePostal>85420</CodePostal>
+      <NomCommune>Bouillé-Courdault</NomCommune>
+      <Localisation>
+         <Latitude>46.3897018433</Latitude>
+         <Longitude>-0.687388002872</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 51 52 40 50</Téléphone>
+      <Télécopie>+33 2 51 52 48 24</Télécopie>
+      <Email>bouille.courdault@wanadoo.fr</Email>
+      <Url>http://www.bouille-courdault.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

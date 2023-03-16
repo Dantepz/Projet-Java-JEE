@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62809-01" codeInsee="62809" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Ternas</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24 rue Buneville</Ligne>
+      <CodePostal>62127</CodePostal>
+      <NomCommune>Ternas</NomCommune>
+      <Localisation>
+         <Latitude>50.3426952</Latitude>
+         <Longitude>2.3966939</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 47 24 21</Téléphone>
+      <Télécopie>+33 3 21 47 24 21</Télécopie>
+      <Email>mairieternas@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="11:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:45:00" fin="13:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

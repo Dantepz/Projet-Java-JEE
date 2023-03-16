@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-10154-01" codeInsee="10154" dateMiseAJour="2014-07-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fontenay-de-Bossery</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue du Poncelot</Ligne>
+      <CodePostal>10400</CodePostal>
+      <NomCommune>Fontenay-de-Bossery</NomCommune>
+      <Localisation>
+         <Latitude>48.4911003113</Latitude>
+         <Longitude>3.50310993195</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 39 15 62</Téléphone>
+      <Télécopie>+33 3 25 39 15 62</Télécopie>
+      <Email>mairie-fontenay-de-bossery@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:00:00" fin="13:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

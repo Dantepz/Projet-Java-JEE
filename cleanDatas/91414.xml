@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-91414-01" codeInsee="91414" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Monnerville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>7 bis Grande rue</Ligne>
+      <CodePostal>91930</CodePostal>
+      <NomCommune>Monnerville</NomCommune>
+      <Localisation>
+         <Latitude>48.3490982056</Latitude>
+         <Longitude>1.99566996098</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 95 03 57</Téléphone>
+      <Télécopie>+33 1 64 95 13 76</Télécopie>
+      <Email>mairie-de-monnerville@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="16:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

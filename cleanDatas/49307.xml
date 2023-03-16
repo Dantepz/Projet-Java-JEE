@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49307-01" codeInsee="49307" dateMiseAJour="2016-03-21"
+           pivotLocal="mairie">
+   <Nom>Mairie de Loire-Authion</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>8 levée du Roi-René</Ligne>
+      <CodePostal>49250</CodePostal>
+      <NomCommune>Saint-Mathurin-sur-Loire</NomCommune>
+      <Localisation>
+         <Latitude>47.4095993042</Latitude>
+         <Longitude>-0.321891993284</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 57 08 18</Téléphone>
+      <Télécopie>+33 2 41 57 08 02</Télécopie>
+      <Email>mairie.saintmathurinsurloire@wanadoo.fr</Email>
+      <Url>http://www.st-mathurin.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+   <Commentaire>Depuis le 1er janvier 2016, la commune nouvelle de Loire-Authion  remplace les communes d'Andard, de Bauné, de La Bohalle, de Brain-sur-l'Authion, de Corné, de La Daguenière et de Saint-Mathurin-sur-Loire</Commentaire>
+</Organisme>

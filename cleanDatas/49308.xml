@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49308-01" codeInsee="49308" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Melaine-sur-Aubance</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>5 rue Armand-Brousse</Ligne>
+      <CodePostal>49610</CodePostal>
+      <NomCommune>Saint-Melaine-sur-Aubance</NomCommune>
+      <Localisation>
+         <Latitude>47.3693008423</Latitude>
+         <Longitude>-0.490875989199</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 45 30 30</Téléphone>
+      <Télécopie>+33 2 41 45 76 11</Télécopie>
+      <Email>mairie@saint-melaine-sur-aubance.fr</Email>
+      <Url>http://www.saint-melaine-sur-aubance.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert les 1er et 3e samedi de chaque mois. Accueil fermé juillet et août.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

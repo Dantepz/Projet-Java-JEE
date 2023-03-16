@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-51175-01" codeInsee="51175" dateMiseAJour="2014-10-14"
+           pivotLocal="mairie">
+   <Nom>Mairie de Corrobert</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>51210</CodePostal>
+      <NomCommune>Corrobert</NomCommune>
+      <Localisation>
+         <Latitude>48.915347</Latitude>
+         <Longitude>3.60472</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 26 81 14 33</Téléphone>
+      <Télécopie>+33 3 26 81 18 56</Télécopie>
+      <Email>mairie.corrobert@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-09040-01" codeInsee="09040" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Bastide-de-Lordat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>17, promenade du Lavoir</Ligne>
+      <CodePostal>09700</CodePostal>
+      <NomCommune>La Bastide-de-Lordat</NomCommune>
+      <Localisation>
+         <Latitude>43.144569397</Latitude>
+         <Longitude>1.71341097355</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 67 28 65</Téléphone>
+      <Télécopie>+33 5 61 67 28 65</Télécopie>
+      <Email>la-bastide-de-lordat@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="16:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

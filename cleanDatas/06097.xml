@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06097-01" codeInsee="06097" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pierrefeu</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36 route du Vieux-Pierrefeu</Ligne>
+      <CodePostal>06910</CodePostal>
+      <NomCommune>Pierrefeu</NomCommune>
+      <Localisation>
+         <Latitude>43.8753318787</Latitude>
+         <Longitude>7.08194494247</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 93 08 58 18</Téléphone>
+      <Télécopie>+33 4 93 08 51 29</Télécopie>
+      <Email>mairiedepierrefeu@wanadoo.fr</Email>
+      <Url>http://pierrefeu-06.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

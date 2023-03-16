@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie_com-97701-01" codeInsee="97701" dateMiseAJour="2013-12-18"
+           pivotLocal="mairie_com">
+   <Nom>Collectivité de Saint-Barthélemy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Lieu-dit La Pointe-Gustavia</Ligne>
+      <Ligne>BP 113</Ligne>
+      <CodePostal>97133</CodePostal>
+      <NomCommune>Saint-Barthélemy</NomCommune>
+      <Localisation>
+         <Latitude>17.8963097</Latitude>
+         <Longitude>-62.8518764</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+590 590 29 80 40</Téléphone>
+      <Télécopie>+590 590 27 71 77</Télécopie>
+      <Email>contact@comstbarth.fr</Email>
+      <Url>http://www.comstbarth.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="vendredi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="07:30:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

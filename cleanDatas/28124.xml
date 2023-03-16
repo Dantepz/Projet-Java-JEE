@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-28124-01" codeInsee="28124" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Dampierre-sur-Avre</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>10 côte de Dampierre</Ligne>
+      <CodePostal>28350</CodePostal>
+      <NomCommune>Dampierre-sur-Avre</NomCommune>
+      <Localisation>
+         <Latitude>48.7624015808</Latitude>
+         <Longitude>1.14904999733</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 58 11 75</Téléphone>
+      <Télécopie>+33 2 32 58 44 50</Télécopie>
+      <Email>mairie@dampierresuravre.fr</Email>
+      <Url>http://www.dampierresuravre.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="13:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

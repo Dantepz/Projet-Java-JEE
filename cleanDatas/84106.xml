@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84106-01" codeInsee="84106" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Sainte-Cécile-les-Vignes</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place Max-Aubert</Ligne>
+      <CodePostal>84290</CodePostal>
+      <NomCommune>Sainte-Cécile-les-Vignes</NomCommune>
+      <Localisation>
+         <Latitude>44.2452011108</Latitude>
+         <Longitude>4.88779020309</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 30 80 17</Téléphone>
+      <Télécopie>+33 4 90 30 74 91</Télécopie>
+      <Email>mairie-ste-cecile@orange.fr</Email>
+      <Url>http://www.sainte-cecile.org</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

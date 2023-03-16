@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-84023-01" codeInsee="84023" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Buoux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>84480</CodePostal>
+      <NomCommune>Buoux</NomCommune>
+      <Localisation>
+         <Latitude>43.8313941956</Latitude>
+         <Longitude>5.37820196152</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 90 74 07 65</Téléphone>
+      <Télécopie>+33 4 90 74 36 05</Télécopie>
+      <Email>mairiedebuoux@orange.fr</Email>
+      <Url>http://www.buoux-village.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="jeudi">
+         <PlageH début="10:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

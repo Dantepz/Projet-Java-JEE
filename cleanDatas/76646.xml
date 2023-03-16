@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-76646-01" codeInsee="76646" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Riquier-ès-Plains</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>185, rue du Four-Banal</Ligne>
+      <CodePostal>76460</CodePostal>
+      <NomCommune>Saint-Riquier-ès-Plains</NomCommune>
+      <Localisation>
+         <Latitude>49.8230247498</Latitude>
+         <Longitude>0.665426015854</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 35 97 51 83</Téléphone>
+      <Télécopie>+33 2 35 57 15 40</Télécopie>
+      <Email>mairie.saint-riquier@cote-albatre.com</Email>
+      <Url>http://www.saint-riquier-es-plains.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="17:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="17:00:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

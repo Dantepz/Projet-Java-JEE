@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65272-01" codeInsee="65272" dateMiseAJour="2006-09-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lhez</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>village</Ligne>
+      <CodePostal>65190</CodePostal>
+      <NomCommune>LHEZ</NomCommune>
+      <Localisation>
+         <Latitude>43.2038650513</Latitude>
+         <Longitude>0.198735997081</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 24 30</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

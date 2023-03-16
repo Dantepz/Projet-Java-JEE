@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-27099-01" codeInsee="27099" dateMiseAJour="2014-08-04"
+           pivotLocal="mairie">
+   <Nom>Mairie du Boulay-Morin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>24, rue de Louviers</Ligne>
+      <CodePostal>27930</CodePostal>
+      <NomCommune>Le Boulay-Morin</NomCommune>
+      <Localisation>
+         <Latitude>49.082901001</Latitude>
+         <Longitude>1.18120002747</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 32 34 76 24</Téléphone>
+      <Télécopie>+33 2 32 34 42 67</Télécopie>
+      <Email>mairie.boulay.morin@wanadoo.fr</Email>
+      <Url>http://leboulaymorin.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:30:00" fin="16:30:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:30:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

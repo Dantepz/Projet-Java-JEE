@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-79273-01" codeInsee="79273" dateMiseAJour="2014-12-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Martin-de-Bernegoue</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>440, route de Brûlain</Ligne>
+      <CodePostal>79230</CodePostal>
+      <NomCommune>Saint-Martin-de-Bernegoue</NomCommune>
+      <Localisation>
+         <Latitude>46.2098999023</Latitude>
+         <Longitude>-0.378915995359</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 49 26 48 60</Téléphone>
+      <Télécopie>+33 5 49 26 03 21</Télécopie>
+      <Email>mairie.st.martin.de.bernegoue@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:15:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

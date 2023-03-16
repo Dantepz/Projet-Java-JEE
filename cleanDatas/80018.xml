@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80018-01" codeInsee="80018" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Allenay</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 rue Journel-Orphée</Ligne>
+      <CodePostal>80130</CodePostal>
+      <NomCommune>Allenay</NomCommune>
+      <Localisation>
+         <Latitude>50.0866809</Latitude>
+         <Longitude>1.4901841</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 30 50 42</Téléphone>
+      <Télécopie>+33 3 22 30 50 42</Télécopie>
+      <Email>mairie.allenay@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="11:00:00" fin="13:00:00"/>
+         <PlageH début="16:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="10:00:00" fin="13:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

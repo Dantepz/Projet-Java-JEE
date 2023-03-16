@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60397-01" codeInsee="60397" dateMiseAJour="2006-09-04"
+           pivotLocal="mairie">
+   <Nom>Mairie du Mesnil Conteville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>34 grande rue</Ligne>
+      <CodePostal>60210</CodePostal>
+      <NomCommune>LE MESNIL CONTEVILLE</NomCommune>
+      <Localisation>
+         <Latitude>49.6685919</Latitude>
+         <Longitude>2.058566</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 46 36 06</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="20:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13081-01" codeInsee="13081" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Rognac</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 10062</Ligne>
+      <Ligne>21 avenue du Général-de-Gaulle</Ligne>
+      <CodePostal>13655</CodePostal>
+      <NomCommune>Rognac</NomCommune>
+      <Localisation>
+         <Latitude>43.4977989197</Latitude>
+         <Longitude>5.22913980484</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 87 76 00</Téléphone>
+      <Télécopie>+33 4 42 87 76 26</Télécopie>
+      <Email>contact@mairie-rognac.fr</Email>
+      <Url>http://www.mairie-rognac.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

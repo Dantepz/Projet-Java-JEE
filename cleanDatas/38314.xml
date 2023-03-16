@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-38314-01" codeInsee="38314" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pontcharra</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>BP 49</Ligne>
+      <Ligne>95 avenue de la Gare</Ligne>
+      <CodePostal>38530</CodePostal>
+      <NomCommune>Pontcharra</NomCommune>
+      <Localisation>
+         <Latitude>45.4337997437</Latitude>
+         <Longitude>6.01339006424</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 76 97 11 65</Téléphone>
+      <Télécopie>+33 4 76 97 34 99</Télécopie>
+      <Email>courrier@ville-pontcharra.fr</Email>
+      <Url>http://www.ville-pontcharra.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="jeudi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+         <Note>Accueil ouvert le mardi jusqu'à 20h les semaines impaires à partir d'août 2015.</Note>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement les semaines paires à partir d'août 2015.</Note>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

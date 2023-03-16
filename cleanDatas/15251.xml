@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-15251-01" codeInsee="15251" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Védrines-Saint-Loup</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 Grand’rue Maurice-Vaillant</Ligne>
+      <CodePostal>15100</CodePostal>
+      <NomCommune>Védrines-Saint-Loup</NomCommune>
+      <Localisation>
+         <Latitude>45.068439</Latitude>
+         <Longitude>3.28174999999999</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 9 62 12 89 28</Téléphone>
+      <Télécopie>+33 4 71 73 50 55</Télécopie>
+      <Email>mairie.vedrines15@orange.fr</Email>
+      <Url>http://www.vedrinessaintloup.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

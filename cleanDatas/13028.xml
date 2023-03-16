@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-13028-01" codeInsee="13028" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Ciotat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rond-point des Messageries-Maritimes</Ligne>
+      <CodePostal>13600</CodePostal>
+      <NomCommune>La Ciotat</NomCommune>
+      <Localisation>
+         <Latitude>43.1737213135</Latitude>
+         <Longitude>5.60603189468</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 42 08 88 00</Téléphone>
+      <Email>lcp@mairie-laciotat.fr</Email>
+      <Url>http://www.laciotat.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="17:30:00"/>
+         <Note>Contacter la mairie pour les horaires des différents services.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

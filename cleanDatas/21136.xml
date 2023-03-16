@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-21136-01" codeInsee="21136" dateMiseAJour="2007-11-19"
+           pivotLocal="mairie">
+   <Nom>Mairie de Champagny</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le bourg</Ligne>
+      <CodePostal>21440</CodePostal>
+      <NomCommune>CHAMPAGNY</NomCommune>
+      <Localisation>
+         <Latitude>47.4571800232</Latitude>
+         <Longitude>4.76356601715</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 80 35 05 56</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="10:00:00" fin="11:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

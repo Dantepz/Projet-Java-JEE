@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63252-01" codeInsee="63252" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Neuville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>63160</CodePostal>
+      <NomCommune>Neuville</NomCommune>
+      <Localisation>
+         <Latitude>45.7448421</Latitude>
+         <Longitude>3.4362877</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 68 44 20</Téléphone>
+      <Télécopie>+33 9 77 90 32 35</Télécopie>
+      <Email>mairie.neuville63@wanadoo.fr</Email>
+      <Url>http://www.neuville63.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="vendredi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Permanence des élus tous les samedis de 10h30 à 11h30 ou sur rendez vous.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

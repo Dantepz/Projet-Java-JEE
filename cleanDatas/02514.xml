@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-02514-01" codeInsee="02514" dateMiseAJour="2015-07-08"
+           pivotLocal="mairie">
+   <Nom>Mairie de Montigny-Lengrain</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1 place de l'Église</Ligne>
+      <CodePostal>02290</CodePostal>
+      <NomCommune>Montigny-Lengrain</NomCommune>
+      <Localisation>
+         <Latitude>49.3716802</Latitude>
+         <Longitude>3.0990051</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 23 55 52 55</Téléphone>
+      <Télécopie>+33 3 23 55 90 87</Télécopie>
+      <Email>mairie@montigny-lengrain.fr</Email>
+      <Url>http://www.montigny-lengrain.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-77013-01" codeInsee="77013" dateMiseAJour="2015-05-12"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Aulnoy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>77120</CodePostal>
+      <NomCommune>Aulnoy</NomCommune>
+      <Localisation>
+         <Latitude>48.8212013245</Latitude>
+         <Longitude>3.03804993629</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 64 03 19 69</Téléphone>
+      <Email>mairie.aulnoy@orange.fr</Email>
+      <Url>http://www.aulnoy.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil sur rendez-vous tous les jours en dehors des heures d'ouvertures.</Note>
+      </PlageJ>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+         <Note>Accueil sur rendez-vous tous les jours en dehors des heures d'ouvertures.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:45:00" fin="11:30:00"/>
+         <Note>Accueil sur rendez-vous tous les jours en dehors des heures d'ouvertures.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

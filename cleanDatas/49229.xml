@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49229-01" codeInsee="49229" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noyant-la-Gravoyère</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Constant-Gerard</Ligne>
+      <CodePostal>49520</CodePostal>
+      <NomCommune>Noyant-la-Gravoyère</NomCommune>
+      <Localisation>
+         <Latitude>47.70362</Latitude>
+         <Longitude>-0.9522745</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 61 50 08</Téléphone>
+      <Télécopie>+33 2 41 61 73 05</Télécopie>
+      <Email>mairie.noyant-la-gravoyere@wanadoo.fr</Email>
+      <Url>http://www.noyantlagravoyere.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="11:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:30:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

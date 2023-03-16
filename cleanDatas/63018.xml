@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-63018-01" codeInsee="63018" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie d’Aulhat-Flat</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 route de Manglieu</Ligne>
+      <CodePostal>63500</CodePostal>
+      <NomCommune>Aulhat-Flat</NomCommune>
+      <Localisation>
+         <Latitude>45.5736024</Latitude>
+         <Longitude>3.3123893</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 73 71 52 95</Téléphone>
+      <Télécopie>+33 4 73 71 52 95</Télécopie>
+      <Email>mairie.aulhat@orange.fr</Email>
+      <Url>http://www.aulhat-saint-privat.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:30:00" fin="18:30:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="15:30:00" fin="18:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

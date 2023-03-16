@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-65353-01" codeInsee="65353" dateMiseAJour="2015-07-06"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Ozon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>29 Cami-Nau</Ligne>
+      <CodePostal>65190</CodePostal>
+      <NomCommune>Ozon</NomCommune>
+      <Localisation>
+         <Latitude>43.1715621948</Latitude>
+         <Longitude>0.257050991058</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 62 35 25 79</Téléphone>
+      <Email>mairieozon@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="19:00:00"/>
+         <Note>Permanence des élus de 17h30 à 19h uniquement.</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:30:00" fin="19:00:00"/>
+         <Note>Permanence des élus de 17h30 à 19h uniquement.</Note>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

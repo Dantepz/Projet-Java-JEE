@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62571-01" codeInsee="62571" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Merlimont</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Haye</Ligne>
+      <CodePostal>62155</CodePostal>
+      <NomCommune>Merlimont</NomCommune>
+      <Localisation>
+         <Latitude>50.4558982849</Latitude>
+         <Longitude>1.61540997028</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 94 72 18</Téléphone>
+      <Télécopie>+33 3 21 94 09 01</Télécopie>
+      <Email>mairie.de.merlimont@wanadoo.fr</Email>
+      <Url>http://www.merlimont.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="17:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-74215-01" codeInsee="74215" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Praz-sur-Arly</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>36, route de Megève</Ligne>
+      <CodePostal>74120</CodePostal>
+      <NomCommune>Praz-sur-Arly</NomCommune>
+      <Localisation>
+         <Latitude>45.8382987976</Latitude>
+         <Longitude>6.57273006439</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 50 21 90 28</Téléphone>
+      <Télécopie>+33 4 50 21 99 02</Télécopie>
+      <Email>accueil@mairie-prazsurarly.fr</Email>
+      <Url>http://www.prazsurarly.com</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

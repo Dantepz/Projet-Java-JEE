@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-50112-01" codeInsee="50112" dateMiseAJour="2016-04-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de La Chaise-Baudouin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>23 rue Baudouin-de-Mosles</Ligne>
+      <CodePostal>50370</CodePostal>
+      <NomCommune>La Chaise-Baudouin</NomCommune>
+      <Localisation>
+         <Latitude>48.7650985718</Latitude>
+         <Longitude>-1.2370300293</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM">un agent peut aider l'usager à monter les quelques marches</Accessibilité>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 33 48 12 26</Téléphone>
+      <Télécopie>+33 2 33 48 21 99</Télécopie>
+      <Email>lachaisebaudouin@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

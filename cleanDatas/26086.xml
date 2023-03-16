@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-26086-01" codeInsee="26086" dateMiseAJour="2014-12-04"
+           pivotLocal="mairie">
+   <Nom>Mairie de Châtillon-en-Diois</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place du Reviron</Ligne>
+      <CodePostal>26410</CodePostal>
+      <NomCommune>Châtillon-en-Diois</NomCommune>
+      <Localisation>
+         <Latitude>44.695098877</Latitude>
+         <Longitude>5.48501014709</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 75 21 14 44</Téléphone>
+      <Télécopie>+33 4 75 21 18 78</Télécopie>
+      <Email>mairie.chatillonendiois@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

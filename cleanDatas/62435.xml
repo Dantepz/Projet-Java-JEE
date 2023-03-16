@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-62435-01" codeInsee="62435" dateMiseAJour="2007-11-13"
+           pivotLocal="mairie">
+   <Nom>Mairie de Herlincourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>12 rue principale</Ligne>
+      <CodePostal>62130</CodePostal>
+      <NomCommune>HERLINCOURT</NomCommune>
+      <Localisation>
+         <Latitude>50.3213005066</Latitude>
+         <Longitude>2.23705005646</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 21 04 08 98</Téléphone>
+      <Télécopie>+33 3 21 04 08 98</Télécopie>
+      <Email>mairie.herlincourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+         <Note>permacence du monsieur le maire</Note>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:30:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

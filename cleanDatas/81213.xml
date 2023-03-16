@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-81213-01" codeInsee="81213" dateMiseAJour="2004-09-17"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pratveil</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Bourg</Ligne>
+      <CodePostal>81500</CodePostal>
+      <NomCommune>PRATVIEL</NomCommune>
+      <Localisation>
+         <Latitude>43.8810081482</Latitude>
+         <Longitude>2.19587206841</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 63 41 35 06</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

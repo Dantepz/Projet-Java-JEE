@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31413-01" codeInsee="31413" dateMiseAJour="2015-10-16"
+           pivotLocal="mairie">
+   <Nom>Mairie de Pelleport</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Le Village</Ligne>
+      <CodePostal>31480</CodePostal>
+      <NomCommune>Pelleport</NomCommune>
+      <Localisation>
+         <Latitude>43.738849</Latitude>
+         <Longitude>1.117447</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 85 36 40</Téléphone>
+      <Télécopie>+33 5 34 52 45 76</Télécopie>
+      <Url>http://www.mairie-pelleport31.fr/fr/index.html</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="08:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-59632-01" codeInsee="59632" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Wallers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Marcel-Danna</Ligne>
+      <CodePostal>59135</CodePostal>
+      <NomCommune>Wallers</NomCommune>
+      <Localisation>
+         <Latitude>50.3731002808</Latitude>
+         <Longitude>3.39123010635</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 27 35 61 61</Téléphone>
+      <Télécopie>+33 3 27 35 53 93</Télécopie>
+      <Email>mairie-wallers@wanadoo.fr</Email>
+      <Url>http://www.ville-de-wallers-arenberg.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+         <Note>Accueil ouvert uniquement pour l'état civil et les cartes d'identité.</Note>
+      </PlageJ>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:00:00" fin="12:00:00"/>
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-49290-01" codeInsee="49290" dateMiseAJour="2016-02-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Saint-Jean-des-Mauvrets</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Place de la Mairie</Ligne>
+      <CodePostal>49320</CodePostal>
+      <NomCommune>Saint-Jean-des-Mauvrets</NomCommune>
+      <Localisation>
+         <Latitude>47.3967018127</Latitude>
+         <Longitude>-0.451072990894</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 2 41 91 92 02</Téléphone>
+      <Email>mairie@saint-jean-des-mauvrets.fr</Email>
+      <Url>http://www.saint-jean-des-mauvrets.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="14:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

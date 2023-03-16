@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80294-01" codeInsee="80294" dateMiseAJour="2007-11-29"
+           pivotLocal="mairie">
+   <Nom>Mairie de EterPIGNY</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 grande rue</Ligne>
+      <CodePostal>80200</CodePostal>
+      <NomCommune>ETERPIGNY</NomCommune>
+      <Localisation>
+         <Latitude>49.9113006592</Latitude>
+         <Longitude>2.86497998238</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 84 38 31</Téléphone>
+      <Email>mairie.eterpigny@tiscali.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

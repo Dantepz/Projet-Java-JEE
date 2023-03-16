@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-31292-01" codeInsee="31292" dateMiseAJour="2004-11-24"
+           pivotLocal="mairie">
+   <Nom>Mairie de Lescuns</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>place de la Mairie</Ligne>
+      <CodePostal>31220</CodePostal>
+      <NomCommune>LESCUNS</NomCommune>
+      <Localisation>
+         <Latitude>43.2412948608</Latitude>
+         <Longitude>1.01364898682</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 5 61 97 47 88</Téléphone>
+   </CoordonnéesNum>
+</Organisme>

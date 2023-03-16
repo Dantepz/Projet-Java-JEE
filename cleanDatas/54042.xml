@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-54042-01" codeInsee="54042" dateMiseAJour="2004-11-03"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bainville-aux-Miroirs</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>61 rue de Lebeuville</Ligne>
+      <CodePostal>54290</CodePostal>
+      <NomCommune>BAINVILLE AUX MIROIRS</NomCommune>
+      <Localisation>
+         <Latitude>48.4399719238</Latitude>
+         <Longitude>6.27927398682</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 83 72 54 13</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

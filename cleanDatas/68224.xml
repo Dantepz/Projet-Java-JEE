@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-68224-01" codeInsee="68224" dateMiseAJour="2016-03-10"
+           pivotLocal="mairie">
+   <Nom>Mairie de Mulhouse</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2 rue Pierre-et-Marie-Curie</Ligne>
+      <Ligne>BP 1020</Ligne>
+      <CodePostal>68948</CodePostal>
+      <NomCommune>Mulhouse Cedex 9</NomCommune>
+      <Localisation>
+         <Latitude>47.7493777</Latitude>
+         <Longitude>7.3361983</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 89 32 58 58</Téléphone>
+      <Télécopie>+33 3 89 32 59 09</Télécopie>
+      <Email>service-accueil@mulhouse-alsace.fr</Email>
+      <Url>http://www.mulhouse.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="09:00:00" fin="11:30:00"/>
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-60085-01" codeInsee="60085" dateMiseAJour="2013-08-26"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bonvillers</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>1, rue du Bois</Ligne>
+      <CodePostal>60120</CodePostal>
+      <NomCommune>Bonvillers</NomCommune>
+      <Localisation>
+         <Latitude>49.5881996155</Latitude>
+         <Longitude>2.35672998428</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 44 51 93 66</Téléphone>
+      <Télécopie>+33 3 44 51 93 66</Télécopie>
+      <Email>mairie.bonvillers@orange.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

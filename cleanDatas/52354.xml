@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-52354-01" codeInsee="52354" dateMiseAJour="2004-10-06"
+           pivotLocal="mairie">
+   <Nom>Mairie de Noidant Chatenoy</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue Grande</Ligne>
+      <CodePostal>52600</CodePostal>
+      <NomCommune>NOIDANT CHATENOY</NomCommune>
+      <Localisation>
+         <Latitude>47.7947387695</Latitude>
+         <Longitude>5.37592220306</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 25 88 01 22</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mercredi" fin="mercredi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

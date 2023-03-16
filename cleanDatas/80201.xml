@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80201-01" codeInsee="80201" dateMiseAJour="2004-10-05"
+           pivotLocal="mairie">
+   <Nom>Mairie de Coigneux</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>Rue Couin</Ligne>
+      <CodePostal>80560</CodePostal>
+      <NomCommune>Coigneux</NomCommune>
+      <Localisation>
+         <Latitude>50.1302986145</Latitude>
+         <Longitude>2.5501999855</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 76 19 55</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="15:30:00" fin="16:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-80347-01" codeInsee="80347" dateMiseAJour="2004-10-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Fransart</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>-</Ligne>
+      <CodePostal>80700</CodePostal>
+      <NomCommune>Fransart</NomCommune>
+      <Localisation>
+         <Latitude>49.7673683167</Latitude>
+         <Longitude>2.77310609818</Longitude>
+         <Précision>4</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 3 22 87 06 97</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="18:00:00" fin="19:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

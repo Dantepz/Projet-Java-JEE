@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-06060-01" codeInsee="06060" dateMiseAJour="2015-08-12"
+           pivotLocal="mairie">
+   <Nom>Mairie de Falicon</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3 place Marcel-Eusebi</Ligne>
+      <CodePostal>06950</CodePostal>
+      <NomCommune>Falicon</NomCommune>
+      <Localisation>
+         <Latitude>43.7487983704</Latitude>
+         <Longitude>7.2786397934</Longitude>
+         <Précision>8</Précision>
+      </Localisation>
+      <Accessibilité type="DEM"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 4 92 07 92 70</Téléphone>
+      <Télécopie>+33 4 92 07 92 79</Télécopie>
+      <Email>contact@mairie-falicon.com</Email>
+      <Url>http://falicon.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>
