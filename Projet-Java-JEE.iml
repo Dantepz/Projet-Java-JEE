@@ -20,6 +20,5 @@
     </content>
     <orderEntry type="jdk" jdkName="19" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="dom-2.3.0-jaxb-1.0.6" level="project" />
   </component>
 </module>
