@@ -20,14 +20,14 @@ import java.util.HashMap;
  */
 public class DBDAO {
 
-    private final String mySQLURL = "jdbc:mysql://localhost/countries";
-    private final String username = "ccodes";
-    private final String password = "javaee2021";
+    private static final String mySQLURL = "jdbc:mysql://localhost/equipements_sportifs";
+    private static final String username = "ccodes";
+    private static final String password = "javaee2021";
 
-    private HashMap<String, String> hashMap;
+    private static HashMap<String, String> hashMap;
 
-    public Connection connection;
-    public Statement statement;
+    public static Connection connection;
+    public static Statement statement;
     public PreparedStatement preparedStatement;
 
     /**
@@ -140,7 +140,7 @@ public class DBDAO {
     /**
      * Method used to initialize a connection to the database.
      */
-    private void dbConnect() {
+    private static void dbConnect() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
         } catch(ClassNotFoundException cnfe) {
@@ -151,12 +151,13 @@ public class DBDAO {
             connection = DriverManager.getConnection(mySQLURL, username, password);
 
             statement = connection.createStatement();
-            String query = "SELECT ccode, ccapital FROM `country_capitals`;";
+            String query = "SELECT mairie_id, mairie_nom FROM `mairie`;";
             ResultSet resultSet = statement.executeQuery(query);
 
             hashMap = new HashMap<>();
             while (resultSet.next()) {
-                hashMap.put(resultSet.getString(1), resultSet.getString(2));
+                //hashMap.put(resultSet.getString(1), resultSet.getString(2));
+                System.out.println(resultSet.getString(1) + ", " + resultSet.getString(2));
             }
         } catch (SQLException e) {
             e.printStackTrace();
@@ -166,7 +167,7 @@ public class DBDAO {
     /**
      * Method used to close the connection to the database.
      */
-    public void dbClose() {
+    public static void dbClose() {
         try {
             connection.close();
         } catch (SQLException e) {
@@ -267,5 +268,10 @@ public class DBDAO {
             e.printStackTrace();
         }
         return state;
+    }
+
+    public static void main(String[] args) {
+        dbConnect();
+        dbClose();
     }
 }
