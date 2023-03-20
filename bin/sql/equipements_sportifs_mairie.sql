@@ -24,7 +24,7 @@ DROP TABLE IF EXISTS `mairie`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `mairie` (
   `mairie_nom` varchar(200) NOT NULL,
-  `mairie_id` float NOT NULL,
+  `mairie_id` varchar(6) NOT NULL,
   PRIMARY KEY (`mairie_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -47,4 +47,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-20 13:49:36
+-- Dump completed on 2023-03-20 14:52:33

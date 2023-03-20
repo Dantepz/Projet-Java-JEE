@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="dom-2.3.0-jaxb-1.0.6">
+    <archive path="/Users/valentinleclerc/Library/Mobile Documents/com~apple~CloudDocs/Documents/Esigelec/Java project/Projet-Java-JEE/lib/dom-2.3.0-jaxb-1.0.6.jar" />
+    <archive path="/Users/valentinleclerc/Library/Mobile Documents/com~apple~CloudDocs/Documents/Esigelec/Java project/Projet-Java-JEE/lib/mysql-connector-j-8.0.32.jar" />
+  </library>
+</eclipse-userlibraries>
+
