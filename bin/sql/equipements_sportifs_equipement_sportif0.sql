@@ -16,29 +16,36 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `equipment_type`
+-- Table structure for table `equipement_sportif`
 --
 
-DROP TABLE IF EXISTS `equipment_type`;
+DROP TABLE IF EXISTS `equipement_sportif`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `equipment_type` (
-  `equipment_type_code` varchar(5) NOT NULL,
-  `equipment_type_lib` varchar(48) NOT NULL,
-  `equipment_famille` varchar(48) NOT NULL,
-  `equipment_categorie` varchar(48) NOT NULL,
-  PRIMARY KEY (`equipment_type_code`),
-  UNIQUE KEY `equipment_other_info_uk` (`equipment_type_lib`)
+CREATE TABLE `equipement_sportif` (
+  `equipment_id` varchar(15) NOT NULL,
+  `equ_nom` varchar(48) NOT NULL,
+  `com_insee` varchar(6) NOT NULL,
+  `ins_numero_install` varchar(11) NOT NULL,
+  `ins_nom` varchar(48) NOT NULL,
+  `nature_libelle` varchar(48) NOT NULL,
+  `equ_surface_evolution` float DEFAULT NULL,
+  `equip_gpsx` float NOT NULL,
+  `equip_gpsy` float NOT NULL,
+  `equipment_type_code_id` varchar(5) NOT NULL,
+  PRIMARY KEY (`equipment_id`),
+  KEY `equipement_sportif_equipment_type_equipment_type_code_fk` (`equipment_type_code_id`),
+  CONSTRAINT `equipement_sportif_equipment_type_equipment_type_code_fk` FOREIGN KEY (`equipment_type_code_id`) REFERENCES `equipment_type` (`equipment_type_code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `equipment_type`
+-- Dumping data for table `equipement_sportif`
 --
 
-LOCK TABLES `equipment_type` WRITE;
-/*!40000 ALTER TABLE `equipment_type` DISABLE KEYS */;
-/*!40000 ALTER TABLE `equipment_type` ENABLE KEYS */;
+LOCK TABLES `equipement_sportif` WRITE;
+/*!40000 ALTER TABLE `equipement_sportif` DISABLE KEYS */;
+/*!40000 ALTER TABLE `equipement_sportif` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -50,4 +57,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-20 13:49:36
+-- Dump completed on 2023-03-20 14:52:04

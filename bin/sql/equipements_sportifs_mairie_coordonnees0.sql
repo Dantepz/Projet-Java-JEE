@@ -16,29 +16,29 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `equipment_type`
+-- Table structure for table `mairie_coordonnees`
 --
 
-DROP TABLE IF EXISTS `equipment_type`;
+DROP TABLE IF EXISTS `mairie_coordonnees`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `equipment_type` (
-  `equipment_type_code` varchar(5) NOT NULL,
-  `equipment_type_lib` varchar(48) NOT NULL,
-  `equipment_famille` varchar(48) NOT NULL,
-  `equipment_categorie` varchar(48) NOT NULL,
-  PRIMARY KEY (`equipment_type_code`),
-  UNIQUE KEY `equipment_other_info_uk` (`equipment_type_lib`)
+CREATE TABLE `mairie_coordonnees` (
+  `coordonnees_id` varchar(6) NOT NULL,
+  `coordonnees_telephone` float NOT NULL,
+  `coordonnees_mail` varchar(200) NOT NULL,
+  `coordonnees_url` varchar(200) NOT NULL,
+  PRIMARY KEY (`coordonnees_id`),
+  CONSTRAINT `mairie_coordonnees_fk` FOREIGN KEY (`coordonnees_id`) REFERENCES `mairie` (`mairie_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `equipment_type`
+-- Dumping data for table `mairie_coordonnees`
 --
 
-LOCK TABLES `equipment_type` WRITE;
-/*!40000 ALTER TABLE `equipment_type` DISABLE KEYS */;
-/*!40000 ALTER TABLE `equipment_type` ENABLE KEYS */;
+LOCK TABLES `mairie_coordonnees` WRITE;
+/*!40000 ALTER TABLE `mairie_coordonnees` DISABLE KEYS */;
+/*!40000 ALTER TABLE `mairie_coordonnees` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -50,4 +50,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-20 13:49:36
+-- Dump completed on 2023-03-20 14:52:04

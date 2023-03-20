@@ -23,12 +23,12 @@ DROP TABLE IF EXISTS `mairie_coordonnees`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `mairie_coordonnees` (
-  `coordonnees_id` float NOT NULL,
+  `coordonnees_id` varchar(6) NOT NULL,
   `coordonnees_telephone` float NOT NULL,
   `coordonnees_mail` varchar(200) NOT NULL,
   `coordonnees_url` varchar(200) NOT NULL,
   PRIMARY KEY (`coordonnees_id`),
-  CONSTRAINT `mairie_coordonnees_mairie_id_fk` FOREIGN KEY (`coordonnees_id`) REFERENCES `mairie` (`mairie_id`)
+  CONSTRAINT `mairie_coordonnees_fk` FOREIGN KEY (`coordonnees_id`) REFERENCES `mairie` (`mairie_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -50,4 +50,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-20 13:49:37
+-- Dump completed on 2023-03-20 14:52:33
