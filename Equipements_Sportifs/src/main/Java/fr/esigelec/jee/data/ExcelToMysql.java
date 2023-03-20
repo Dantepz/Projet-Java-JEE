@@ -16,11 +16,11 @@ public class ExcelToMysql {
     // nom de la BDD sur le serveur Mysql
     final static String nomBase = "equipements_sportifs";
     // login de la BDD
-    final static String login = "root";
+    final static String login = "admin";
     // mot de passe
-    final static String motDePasse = "rootQt5GtD1D";
+    final static String motDePasse = "admin";
     // chemin fichier csv à importer
-    final static String nomFichier = "/Users/bernardombangyandoumbe/Downloads/projet jee files/Csv/equipements_clean.csv";
+    final static String nomFichier = "Equipements_Sportifs/src/main/data/cvs/equipements_clean.csv";
     // caractère de séparation des colonne
     final static String separateur = ";";
     final static String nomTable = "equipement_sportif";
