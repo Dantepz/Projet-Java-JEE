@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Tomcat 9.0.72">
-    <output-path>$PROJECT_DIR$/classes/artifacts/Tomcat_9_0_72</output-path>
+  <artifact type="exploded-war" name="Projet-Java-JEE:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Projet_Java_JEE_war_exploded</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">

@@ -4,6 +4,8 @@ import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathConstants;
 import java.io.File;
 import java.sql.SQLException;
 import java.sql.Types;
@@ -27,24 +29,21 @@ public class MairieDAO extends DBDAO
                 }
                 try
                 {
-                    //an instance of factory that gives a document builder
-                    DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-                    //an instance of builder to parse the specified xml file
-                    DocumentBuilder db = dbf.newDocumentBuilder();
-                    Document doc = db.parse(file);
+                    DocumentBuilderFactory docBuild = DocumentBuilderFactory.newInstance();
+                    DocumentBuilder documentBuilder = docBuild.newDocumentBuilder();
+                    Document doc = documentBuilder.parse(file);
                     doc.getDocumentElement().normalize();
                     System.out.println("Root element: " + doc.getDocumentElement().getNodeName());
                     NodeList nodeList = doc.getElementsByTagName("Organisme");
-                    // nodeList is not iterable, so we are using for loop
+
                     for (int itr = 0; itr < nodeList.getLength(); itr++) {
                         Node node = nodeList.item(itr);
                         if (node.getNodeType() == Node.ELEMENT_NODE) {
-                            Element eElement = (Element) node;
-                            try {
-                                // Mairies
+                            Element element = (Element) node;
+                            // Mairies
 //                                preparedStatement = connection.prepareStatement("INSERT INTO `mairie` (mairie_id, mairie_nom) VALUES (?, ?)");
 //                                preparedStatement.setString(1, codeInsee);
-//                                preparedStatement.setString(2, eElement.getElementsByTagName("Nom").item(0).getTextContent());
+//                                preparedStatement.setString(2, element.getElementsByTagName("Nom").item(0).getTextContent());
 //                                System.out.println(preparedStatement.toString());
 //                                /*if(preparedStatement.executeUpdate() != 1)
 //                                    // TODO : print error
@@ -61,12 +60,12 @@ public class MairieDAO extends DBDAO
 //                                        "mairie_adresse.adresse_precision) " +
 //                                        "VALUES (?, ?, ?, ?, ?, ?, ?)");
 //                                preparedStatement.setString(1, codeInsee);
-//                                preparedStatement.setString(2, eElement.getElementsByTagName("Ligne").item(0).getTextContent());
-//                                preparedStatement.setString(3, eElement.getElementsByTagName("CodePostal").item(0).getTextContent());
-//                                preparedStatement.setString(4, eElement.getElementsByTagName("NomCommune").item(0).getTextContent());
-//                                preparedStatement.setString(5, eElement.getElementsByTagName("Latitude").item(0).getTextContent());
-//                                preparedStatement.setString(6, eElement.getElementsByTagName("Longitude").item(0).getTextContent());
-//                                preparedStatement.setString(7, eElement.getElementsByTagName("Précision").item(0).getTextContent());
+//                                preparedStatement.setString(2, element.getElementsByTagName("Ligne").item(0).getTextContent());
+//                                preparedStatement.setString(3, element.getElementsByTagName("CodePostal").item(0).getTextContent());
+//                                preparedStatement.setString(4, element.getElementsByTagName("NomCommune").item(0).getTextContent());
+//                                preparedStatement.setString(5, element.getElementsByTagName("Latitude").item(0).getTextContent());
+//                                preparedStatement.setString(6, element.getElementsByTagName("Longitude").item(0).getTextContent());
+//                                preparedStatement.setString(7, element.getElementsByTagName("Précision").item(0).getTextContent());
 //                                System.out.println(preparedStatement.toString());
 //                                /*if(preparedStatement.executeUpdate() != 1)
 //                                    // TODO : print error
@@ -80,41 +79,51 @@ public class MairieDAO extends DBDAO
 //                                        "mairie_coordonnees.coordonnees_url) " +
 //                                        "VALUES (?, ?, ?, ?)");
 //                                preparedStatement.setString(1, codeInsee);
-//                                preparedStatement.setString(2, eElement.getElementsByTagName("Téléphone").item(0).getTextContent());
-//                                preparedStatement.setString(3, eElement.getElementsByTagName("Email").item(0).getTextContent());
-//                                if(eElement.getElementsByTagName("Url").item(0).getTextContent() == null)
-//                                    preparedStatement.setString(4, eElement.getElementsByTagName("Url").item(0).getTextContent());
+//                                preparedStatement.setString(2, element.getElementsByTagName("Téléphone").item(0).getTextContent());
+//                                preparedStatement.setString(3, element.getElementsByTagName("Email").item(0).getTextContent());
+//                                if(element.getElementsByTagName("Url").item(0).getTextContent() == null)
+//                                    preparedStatement.setString(4, element.getElementsByTagName("Url").item(0).getTextContent());
 //                                else
 //                                    preparedStatement.setNull(4, Types.VARCHAR);
 //                                System.out.println(preparedStatement.toString());
 //                                /*if(preparedStatement.executeUpdate() != 1)
 //                                    // TODO : print error
 //                                    System.out.println("error");*/
+//
+//                                // Ouverture
+//                                preparedStatement = connection.prepareStatement("INSERT INTO `mairie_ouverture` " +
+//                                        "(mairie_ouverture.ouverture_id, " +
+//                                        "mairie_ouverture.ouverture_plageJ_debut," +
+//                                        "mairie_ouverture.ouverture_plageJ_fin," +
+//                                        "mairie_ouverture.ouverture_plageH_debut," +
+//                                        "mairie_ouverture.ouverture_plageH_fin) " +
+//                                        "VALUES (?, ?, ?, ?, ?)");
+//                                preparedStatement.setString(1, codeInsee);
+//                                preparedStatement.setString(2, element.getAttribute("début"));
 
-                                // Ouverture
-                                preparedStatement = connection.prepareStatement("INSERT INTO `mairie_ouverture` " +
-                                        "(mairie_ouverture.ouverture_id, " +
-                                        "mairie_ouverture.ouverture_plageJ_debut," +
-                                        "mairie_ouverture.ouverture_plageJ_fin," +
-                                        "mairie_ouverture.ouverture_plageH_debut," +
-                                        "mairie_ouverture.ouverture_plageH_fin) " +
-                                        "VALUES (?, ?, ?, ?, ?)");
-                                preparedStatement.setString(1, codeInsee);
-                                NamedNodeMap namedNodeMap = eElement.getElementsByTagName("Téléphone").item(0).getAttributes();
-                                /*preparedStatement.setString(2, eElement.getAttribute("début"));
-                                preparedStatement.setString(3, eElement.getElementsByTagName("Email").item(0).getTextContent());
-                                if(eElement.getElementsByTagName("Url").item(0).getTextContent() == null)
-                                    preparedStatement.setString(4, eElement.getElementsByTagName("Url").item(0).getTextContent());
-                                else
-                                    preparedStatement.setString(4, "");*/
-                                System.out.println(preparedStatement.toString());
+                            DocumentBuilderFactory docBuildOuverture = DocumentBuilderFactory.newInstance();
+                            DocumentBuilder documentBuilderOuverture = docBuild.newDocumentBuilder();
+                            Document docOuverture = documentBuilder.parse(file);
+                            docOuverture.getDocumentElement().normalize();
+                            NodeList nodeListOuverture = doc.getElementsByTagName("Ouverture");
+
+                            for(int iter = 0; iter < nodeList.getLength(); iter++) {
+                                Node nodeOuverture = nodeList.item(itr);
+                                if(nodeOuverture.getNodeType() == Node.ELEMENT_NODE) {
+                                    Element elementOuverture = (Element) nodeOuverture;
+                                    try {
+                                        if(element.getElementsByTagName("PlageJ").item(0).getTextContent() != null)
+                                            preparedStatement.setString(3, element.getElementsByTagName("PlageJ").item(0).getTextContent());
+                                    } catch (SQLException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                            }
+                            System.out.println(preparedStatement.toString());
                                 /*if(preparedStatement.executeUpdate() != 1)
                                     // TODO : print error
                                     System.out.println("error");*/
 
-                            } catch (SQLException e) {
-                                e.printStackTrace();
-                            }
                         }
                     }
                 } catch (Exception e) {
