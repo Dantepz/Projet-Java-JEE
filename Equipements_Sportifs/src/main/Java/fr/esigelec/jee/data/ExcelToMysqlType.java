@@ -6,11 +6,14 @@ package fr.esigelec.jee.data;
  * qui permet d'assurer l'intégrité des données au sein d'une base de données.
  * @author Serais Sébastien
  */
-import java.io.*;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
 import java.sql.*;
 import java.util.Scanner;
 
-public class ExcelToMysql {
+public class ExcelToMysqlType {
     // nom de la machine hôte qui héberge le SGBD Mysql
     final static String host = "localhost";
     // nom de la BDD sur le serveur Mysql
@@ -20,10 +23,10 @@ public class ExcelToMysql {
     // mot de passe
     final static String motDePasse = "rootQt5GtD1D";
     // chemin fichier csv à importer
-    final static String nomFichier = "/Users/bernardombangyandoumbe/Downloads/projet jee files/Csv/equipements_clean.csv";
+    final static String nomFichier = "/Users/bernardombangyandoumbe/Downloads/projet jee files/Csv/equipment_type_clean.csv";
     // caractère de séparation des colonne
     final static String separateur = ";";
-    final static String nomTable = "equipement_sportif";
+    final static String nomTable = "equipment_type";
 
     public static void main(String[] args) {
         Connection con = null;			//objet connexion
@@ -64,10 +67,6 @@ public class ExcelToMysql {
 
                         tab = ligne.split(separateur);
                         System.out.println("nb colonnes=" + tab.length);
-                        tab[6] = tab[6].replace(',','.');
-                        tab[7] = tab[7].replace(',','.');
-                        tab[8] = tab[8].replace(',','.');
-                        System.out.println(tab[6]+", "+tab[7]+", "+tab[8]);
 
                         for (int i = 0; i < tab.length; i++) {
 
@@ -76,36 +75,16 @@ public class ExcelToMysql {
                         System.out.println("");
 
                         // TODO configurer la requete SQL en fonction des colonnes
-                        String requete = "insert into " + nomTable + "(equipment_id,equ_nom,com_insee,ins_numero_install,ins_nom,nature_libelle, equ_surface_evolution,equip_gpsx,equip_gpsy,equipment_type_code_id) values (?,?,?,?,?,?,?,?,?,?)";
+                        String requete = "insert into " + nomTable + "(equipment_type_code,equipment_type_lib,equipment_famille,equipment_categorie) values (?,?,?,?)";
                         stmt = con.prepareStatement(requete);
                         System.out.println(requete);
 
                         // TODO injection des données dans la requete au format souhaité
-                        stmt.setString(1, tab[3]);
-                        stmt.setString(2, tab[4]);
-                        stmt.setString(3, tab[0]);
-                        stmt.setString(4, tab[1]);
-                        stmt.setString(5, tab[2]);
-                        stmt.setString(6, tab[5]);
-                        if(!(tab[6].isEmpty())) {
-                            stmt.setFloat(7, Float.parseFloat(tab[6]));
-                        }
-                        else{
-                            stmt.setNull(7, Types.FLOAT);
-                        }
-                        if(!(tab[7].isEmpty())) {
-                            stmt.setFloat(8, Float.parseFloat(tab[7]));
-                        }
-                        else{
-                            stmt.setNull(8, Types.FLOAT);
-                        }
-                        if(!(tab[8].isEmpty())) {
-                            stmt.setFloat(9, Float.parseFloat(tab[8]));
-                        }
-                        else{
-                            stmt.setNull(9, Types.FLOAT);
-                        }
-                        stmt.setString(10,tab[9]);
+                        stmt.setString(1, tab[0]);
+                        stmt.setString(2, tab[1]);
+                        stmt.setString(3, tab[2]);
+                        stmt.setString(4, tab[3]);
+
 
                         // exécution de la requete
                         retour = stmt.executeUpdate();

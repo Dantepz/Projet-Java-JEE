@@ -28,13 +28,13 @@ public class ReaderCsv {
                     System.out.println("");
                 }
                 j++;
-            } while (ligne != null && j<100);
+            } while (ligne != null && j<1000);
         }catch(IOException ee){
             ee.printStackTrace();
         }
     }
 
     public static void main(String [] args) throws IOException {
-        read0("/Users/bernardombangyandoumbe/Downloads/Equipement_type.txt");
+        read0("/Users/bernardombangyandoumbe/Downloads/projet jee files/Csv/equipements_clean.csv");
     }
 }
