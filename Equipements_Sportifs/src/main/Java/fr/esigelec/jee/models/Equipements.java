@@ -1,4 +1,4 @@
-package fr.esigelec.jee;
+package fr.esigelec.jee.models;
 
 public class Equipements{
     private String id;

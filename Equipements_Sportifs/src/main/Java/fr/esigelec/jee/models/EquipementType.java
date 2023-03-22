@@ -1,4 +1,4 @@
-package fr.esigelec.jee;
+package fr.esigelec.jee.models;
 
 public class EquipementType {
     private String equipTypeCode;
@@ -42,5 +42,15 @@ public class EquipementType {
 
     public void setEquipCategorie(String equipCategorie) {
         this.equipCategorie = equipCategorie;
+    }
+
+    @Override
+    public String toString() {
+        return "EquipementType{" +
+                "equipTypeCode='" + equipTypeCode + '\'' +
+                ", equipTypeLib='" + equipTypeLib + '\'' +
+                ", equipFamille='" + equipFamille + '\'' +
+                ", equipCategorie='" + equipCategorie + '\'' +
+                '}';
     }
 }

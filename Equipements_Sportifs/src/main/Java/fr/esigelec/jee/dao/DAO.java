@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DAO {
-    private Connection con;
+    protected Connection con;
 
     /**
      * Verifying the connection is well established.
@@ -20,19 +20,12 @@ public class DAO {
     }
 
     /**
-     * @return the connector of the DAO instance.
-     */
-    public Connection getCon(){
-        return con;
-    }
-
-    /**
      * Connect to the database
      */
     public void dbconnect(){
         try {
             con = DriverManager.getConnection("jdbc:mysql://localhost:3306/equipements_sportifs?characterEncoding=UTF-8", "admin", "admin");
-            System.out.println("Conection établie");
+            System.out.println("Connexion établie");
         }catch(SQLException sqle){
             sqle.printStackTrace();
         }
