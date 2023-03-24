@@ -1,11 +1,12 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-            <a class="nav-link" href="Page.jsp">
-                <i class="fa-solid fa-xl fa-map-location-dot"></i>
-                Carte
-            </a>
-        </li>
+        <a class="nav-link" href="Page.jsp">
+            <i class="fa-solid fa-xl fa-map-location-dot"></i>
+            Carte
+        </a>
+        <a class="nav-link" href="Index.jsp">
+            Accueil
+        </a>
     </ul>
     <ul class="navbar-nav ms-auto">
         <li class="nav-item">
