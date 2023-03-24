@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
-<% String pageTitle = "This is a page title"; %>
+<% String pageTitle = "Accueil"; %>
 
 <html>
     <jsp:include page="Header.jsp" flush="true">
