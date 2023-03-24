@@ -21,7 +21,7 @@ public class MairieDAO extends DAO
         super();
     }
 
-    public static void main(String[] argv)
+   /* public static void main(String[] argv)
     {
         MairieDAO mdao = new MairieDAO();
 
@@ -62,7 +62,7 @@ public class MairieDAO extends DAO
                                 System.out.println("error");
                             */
                             // Adresses
-                            preparedStatement = mdao.con.prepareStatement("INSERT INTO `mairie_adresse` " +
+                            /*preparedStatement = mdao.con.prepareStatement("INSERT INTO `mairie_adresse` " +
                                     "(mairie_adresse.adresse_ligne, " +
                                     "mairie_adresse.adresse_codePostal, " +
                                     "mairie_adresse.adresse_commune, " +
@@ -169,7 +169,7 @@ public class MairieDAO extends DAO
                             /*if(preparedStatement.executeUpdate() != 1)
                                 // TODO : print error
                                 System.out.println("error");*/
-                        }
+                        /*}
                     }
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -177,7 +177,7 @@ public class MairieDAO extends DAO
             }
         }
         mdao.dbclose();
-    }
+    }*/
 
     public ArrayList<String[]> getMairiesBasics(){
         dbconnect();
@@ -199,5 +199,9 @@ public class MairieDAO extends DAO
         }
 
         return mairiesBasics;
+    }
+
+    public static void main (String [] args){
+
     }
 }  
