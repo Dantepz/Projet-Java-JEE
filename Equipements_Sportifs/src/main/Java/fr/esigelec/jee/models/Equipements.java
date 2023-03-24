@@ -3,7 +3,7 @@ package fr.esigelec.jee.models;
 public class Equipements{
     private String id;
     private String nom;
-    private String comInsee;
+    private Mairie mairie;
     private String insNumInstall;
     private String inNom;
     private String natureLibelle;
@@ -11,10 +11,10 @@ public class Equipements{
     private float equipGpsx;
     private float equipGpsy;
     private EquipementType equipementType;
-    public Equipements(String id, String nom, String comInsee, String insNumInstall, String inNom, String natureLibelle, float equSurfEvol, float equipGpsx, float equipGpsy, EquipementType equipementType) {
+    public Equipements(String id, String nom, Mairie mairie, String insNumInstall, String inNom, String natureLibelle, float equSurfEvol, float equipGpsx, float equipGpsy, EquipementType equipementType) {
         this.id = id;
         this.nom = nom;
-        this.comInsee = comInsee;
+        this.mairie = mairie;
         this.insNumInstall = insNumInstall;
         this.inNom = inNom;
         this.natureLibelle = natureLibelle;
@@ -40,12 +40,12 @@ public class Equipements{
         this.nom = nom;
     }
 
-    public String getComInsee() {
-        return comInsee;
+    public Mairie getMairie() {
+        return mairie;
     }
 
-    public void setComInsee(String comInsee) {
-        this.comInsee = comInsee;
+    public void setMairie(String comInsee) {
+        this.mairie = mairie;
     }
 
     public String getInsNumInstall() {

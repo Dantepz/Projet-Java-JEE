@@ -9,14 +9,21 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class EquipementTypeDao extends DAO{
-    private ArrayList<EquipementType> equipementTypes;
-    private ArrayList<String> equipmentTypesFamille;
 
     public EquipementTypeDao(){
         super();
     }
 
+    /**
+     * Retreiving Types Equipments from database.
+     * @return
+     */
     public ArrayList<EquipementType> getEquipementTypes(){
+        /**
+         * Declaring a list of models EquipmentType.
+         */
+        ArrayList<EquipementType> equipementTypes = null;
+
         /**
          * connecting to database.
          */
@@ -57,31 +64,36 @@ public class EquipementTypeDao extends DAO{
         return equipementTypes;
     }
 
-    public ArrayList<String> getEquipementTypesFamille(){
+    public EquipementType getTypeById(String id){
+
         dbconnect();
-        try {
-            String query = "SELECT DISTINCT equipment_famille FROM equipment_type";
+
+        EquipementType equipementType = null;
+
+        try{
+            String query = "SELECT * FROM equipment_type WHERE equipment_type_code = ?";
             PreparedStatement ps = con.prepareStatement(query);
+            ps.setString(1, id);
             ResultSet resultSet = ps.executeQuery();
-
-            equipmentTypesFamille = new ArrayList<>();
-
-            while(resultSet.next()){
-                equipmentTypesFamille.add(resultSet.getString(1));
+            if(resultSet.next()){
+                equipementType = new EquipementType(resultSet.getString("equipment_type_code"),resultSet.getString("equipment_type_lib"),resultSet.getString("equipment_famille"),resultSet.getString("equipment_categorie"));
             }
         }catch(SQLException se){
-            System.err.println("Une Erreur SQL est survenue");
             se.printStackTrace();
         }finally{
             dbclose();
         }
-        return equipmentTypesFamille;
+
+        return equipementType;
     }
+
 
     public static void main(String [] args){
         EquipementTypeDao etd = new EquipementTypeDao();
+        EquipementType etyp = etd.getTypeById("2802");
+        //System.out.println("Hello"+etd.getEquipementTypes());
+        System.out.println("Hey"+etyp);
 
-        System.out.println("Hello"+etd.getEquipementTypes());
     }
 
 }

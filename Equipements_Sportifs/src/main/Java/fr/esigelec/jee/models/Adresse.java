@@ -1,6 +1,8 @@
 package fr.esigelec.jee.models;
 
 public class Adresse {
+
+    private int id;
     private String ligne;
     private int codePostal;
     private String Commune;
@@ -8,13 +10,22 @@ public class Adresse {
     private double longitude;
     private double precision;
 
-    public Adresse(String ligne, int codePostal, String commune, double latitude, double longitude, double precision) {
+    public Adresse(int id, String ligne, int codePostal, String commune, double latitude, double longitude, double precision) {
+        this.id = id;
         this.ligne = ligne;
         this.codePostal = codePostal;
-        Commune = commune;
+        this.Commune = commune;
         this.latitude = latitude;
         this.longitude = longitude;
         this.precision = precision;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getLigne() {
