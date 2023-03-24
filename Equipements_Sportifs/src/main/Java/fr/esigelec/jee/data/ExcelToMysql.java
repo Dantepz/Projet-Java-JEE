@@ -7,6 +7,7 @@ package fr.esigelec.jee.data;
  * @author Serais Sébastien
  */
 import java.io.*;
+import java.nio.charset.StandardCharsets;
 import java.sql.*;
 import java.util.Scanner;
 
@@ -30,7 +31,7 @@ public class ExcelToMysql {
         PreparedStatement stmt = null;	//prepareStatement
         int compteurLignesAjoutees = 0;	//compteur de lignes effectivement ajoutées
         String ligne = null;			//ligne lue dans le fichier
-        String tab[];					//tableau issu du split
+        String[] tab;					//tableau issu du split
         int retour;						//nb de lignées insérées
         Scanner sc = new Scanner(System.in);
         String reponse;
@@ -52,7 +53,7 @@ public class ExcelToMysql {
             // activation du mode transactionnel
             con.setAutoCommit(false);
             // Creation du flux de lecture en mode caractères
-            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(nomFichier), "UTF-8"));
+            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(nomFichier), StandardCharsets.UTF_8));
             // nombre de lignes insérées dans le BDD
             br.readLine();
             do {
@@ -69,11 +70,11 @@ public class ExcelToMysql {
                         tab[8] = tab[8].replace(',','.');
                         System.out.println(tab[6]+", "+tab[7]+", "+tab[8]);
 
-                        for (int i = 0; i < tab.length; i++) {
+                        for (String s : tab) {
 
-                            System.out.print(tab[i] + "**");
+                            System.out.print(s + "**");
                         }
-                        System.out.println("");
+                        System.out.println();
 
                         // TODO configurer la requete SQL en fonction des colonnes
                         String requete = "insert into " + nomTable + "(equipment_id,equ_nom,com_insee,ins_numero_install,ins_nom,nature_libelle, equ_surface_evolution,equip_gpsx,equip_gpsy,equipment_type_code_id) values (?,?,?,?,?,?,?,?,?,?)";

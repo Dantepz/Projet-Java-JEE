@@ -10,6 +10,7 @@ package fr.esigelec.jee.data;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.nio.charset.StandardCharsets;
 import java.sql.*;
 import java.util.Scanner;
 
@@ -33,7 +34,7 @@ public class ExcelToMysqlType {
         PreparedStatement stmt = null;	//prepareStatement
         int compteurLignesAjoutees = 0;	//compteur de lignes effectivement ajoutées
         String ligne = null;			//ligne lue dans le fichier
-        String tab[];					//tableau issu du split
+        String[] tab;					//tableau issu du split
         int retour;						//nb de lignées insérées
         Scanner sc = new Scanner(System.in);
         String reponse;
@@ -55,7 +56,7 @@ public class ExcelToMysqlType {
             // activation du mode transactionnel
             con.setAutoCommit(false);
             // Creation du flux de lecture en mode caractères
-            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(nomFichier), "UTF-8"));
+            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(nomFichier), StandardCharsets.UTF_8));
             // nombre de lignes insérées dans le BDD
             br.readLine();
             do {
@@ -68,11 +69,11 @@ public class ExcelToMysqlType {
                         tab = ligne.split(separateur);
                         System.out.println("nb colonnes=" + tab.length);
 
-                        for (int i = 0; i < tab.length; i++) {
+                        for (String s : tab) {
 
-                            System.out.print(tab[i] + "**");
+                            System.out.print(s + "**");
                         }
-                        System.out.println("");
+                        System.out.println();
 
                         // TODO configurer la requete SQL en fonction des colonnes
                         String requete = "insert into " + nomTable + "(equipment_type_code,equipment_type_lib,equipment_famille,equipment_categorie) values (?,?,?,?)";
