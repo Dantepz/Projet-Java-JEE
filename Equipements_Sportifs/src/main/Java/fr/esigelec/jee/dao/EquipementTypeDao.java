@@ -10,6 +10,7 @@ import java.util.ArrayList;
 
 public class EquipementTypeDao extends DAO{
 
+    private ArrayList<String> equipmentTypesFamille;
     public EquipementTypeDao(){
         super();
     }
@@ -87,7 +88,26 @@ public class EquipementTypeDao extends DAO{
         return equipementType;
     }
 
+    public ArrayList<String> getEquipementTypesFamille(){
+        dbconnect();
+        try {
+            String query = "SELECT DISTINCT equipment_famille FROM equipment_type";
+            PreparedStatement ps = con.prepareStatement(query);
+            ResultSet resultSet = ps.executeQuery();
 
+            equipmentTypesFamille = new ArrayList<>();
+
+            while(resultSet.next()){
+                equipmentTypesFamille.add(resultSet.getString(1));
+            }
+        }catch(SQLException se){
+            System.err.println("Une Erreur SQL est survenue");
+            se.printStackTrace();
+        }finally{
+            dbclose();
+        }
+        return equipmentTypesFamille;
+    }
     public static void main(String [] args){
         EquipementTypeDao etd = new EquipementTypeDao();
         EquipementType etyp = etd.getTypeById("2802");
