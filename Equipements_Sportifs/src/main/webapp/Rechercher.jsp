@@ -1,7 +1,6 @@
-<%@ page import="java.util.ArrayList" %>
-<%@ page import="fr.esigelec.jee.dao.EquipementTypeDao" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
-<% String pageTitle = "Rechercher"; %>
+<% String pageTitle = "Page Rechercher"; %>
 
 <html>
   <jsp:include page="Header.jsp" flush="true">

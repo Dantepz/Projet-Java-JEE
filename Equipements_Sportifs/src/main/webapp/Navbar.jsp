@@ -17,7 +17,7 @@
         <li class="nav-item">
             <a class="nav-link link-secondary" href="Rechercher.jsp">
                 <i class="fa-solid fa-magnifying-glass fa-xl"></i>
-                Rechercher
+                Rechercher une mairie
             </a>
         </li>
     </ul>
