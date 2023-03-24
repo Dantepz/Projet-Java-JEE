@@ -24,11 +24,11 @@ DROP TABLE IF EXISTS `equipement_sportif`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `equipement_sportif` (
   `equipment_id` varchar(15) NOT NULL,
-  `equ_nom` varchar(48) NOT NULL,
+  `equ_nom` varchar(200) NOT NULL,
   `com_insee` varchar(6) NOT NULL,
   `ins_numero_install` varchar(11) NOT NULL,
-  `ins_nom` varchar(48) NOT NULL,
-  `nature_libelle` varchar(48) NOT NULL,
+  `ins_nom` varchar(500) NOT NULL,
+  `nature_libelle` varchar(100) NOT NULL,
   `equ_surface_evolution` float DEFAULT NULL,
   `equip_gpsx` float NOT NULL,
   `equip_gpsy` float NOT NULL,
@@ -57,4 +57,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-20 14:52:33
+-- Dump completed on 2023-03-20 18:44:26
