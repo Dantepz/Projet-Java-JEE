@@ -3,16 +3,35 @@ package fr.esigelec.jee.models;
 import java.util.ArrayList;
 
 public class Mairie {
+    private String insee;
     private String nom;
     private Adresse adresse;
     private Coordonnees coordonnees;
     private ArrayList<Ouverture> ouverture;
 
-    public Mairie(String nom, Adresse adresse, Coordonnees coordonnees) {
+    public Mairie(String insee, String nom, Adresse adresse, Coordonnees coordonnees) {
+        this.insee = insee;
         this.nom = nom;
         this.adresse = adresse;
         this.coordonnees = coordonnees;
-        this.ouverture = new ArrayList<>();
+        this.ouverture = null;
+    }
+
+    public Mairie(String insee){
+        this.insee = insee;
+        this.nom = null;
+        this.adresse = null;
+        this.coordonnees = null;
+        this.ouverture = null;
+    }
+
+
+    public String getInsee() {
+        return insee;
+    }
+
+    public void setInsee(String insee) {
+        this.insee = insee;
     }
 
     public String getNom() {
@@ -44,5 +63,12 @@ public class Mairie {
     }
     public void setOuverture(ArrayList<Ouverture> ouverture) {
         this.ouverture = ouverture;
+    }
+
+    @Override
+    public String toString() {
+        return "Mairie{" +
+                "insee='" + insee + '\'' +
+                '}';
     }
 }

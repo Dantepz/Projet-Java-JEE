@@ -12,7 +12,7 @@ public class AdresseDAO extends DAO{
         super();
     }
 
-    public ArrayList<Adresse> getAllAddresses(){
+    /*public ArrayList<Adresse> getAllAddresses(){
         dbconnect();
         ArrayList<Adresse> adresses =null;
         try{
@@ -32,12 +32,35 @@ public class AdresseDAO extends DAO{
             dbclose();
         }
         return adresses;
+    }*/
+
+    /**
+     * Recuperer l'adresse par commune
+     */
+public Adresse getAdresseofMairie(String insee) {
+    dbconnect();
+    Adresse adresse = null;
+    PreparedStatement pstmt = null;
+    ResultSet rset = null;
+    try {
+        String query = "SELECT * FROM mairie_adresse WHERE 1";
+         pstmt = con.prepareStatement(query);
+         rset = pstmt.executeQuery();
+    }catch(SQLException se){
+        se.printStackTrace();
+    }finally{
+        dbclose(rset);
+        dbclose(pstmt);
+        dbclose();
     }
+    return adresse;
+}
+
+    //public Adresse
 
     public ArrayList<Adresse> getAdressByInsee(){
 
     }
-
 
 
 

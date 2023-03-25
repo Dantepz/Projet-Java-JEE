@@ -21,7 +21,7 @@ public class ExcelToMysql {
     // mot de passe
     final static String motDePasse = "admin";
     // chemin fichier csv à importer
-    final static String nomFichier = "Equipements_Sportifs/src/main/data/cvs/equipements_clean.csv";
+    final static String nomFichier = "/Users/bernardombangyandoumbe/Downloads/projet jee files/Csv/equipements_clean.csv";
     // caractère de séparation des colonne
     final static String separateur = ";";
     final static String nomTable = "equipement_sportif";

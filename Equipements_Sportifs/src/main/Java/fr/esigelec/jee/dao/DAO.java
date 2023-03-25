@@ -1,8 +1,6 @@
 package fr.esigelec.jee.dao;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
 
 public class DAO {
     protected Connection con;
@@ -38,8 +36,29 @@ public class DAO {
         if (con != null) {
             try {
                 con.close();
-            } catch (Exception e) {
+            } catch (SQLException e) {
                 e.printStackTrace();
+            }
+        }
+    }
+
+    public void dbclose(PreparedStatement pstmt){
+        dbclose();
+        if(pstmt != null) {
+            try {
+                pstmt.close();
+            } catch (SQLException se) {
+                se.printStackTrace();
+            }
+        }
+    }
+
+    public void dbclose(ResultSet rset){
+        if(rset != null) {
+            try {
+                rset.close();
+            } catch (SQLException se) {
+                se.printStackTrace();
             }
         }
     }
