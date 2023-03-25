@@ -24,11 +24,10 @@ public class Ouverture implements Comparable<Ouverture>{
 
     /**
      *
-     * @param i
-     * @return a specific Mairie of the time
+     * @return Mairies of the time
      */
-    public Mairie getMairie(int i) {
-        return mairiesRelated.get(i);
+    public ArrayList<Mairie> getMairiesRelated(){
+        return mairiesRelated;
     }
 
     public boolean addMairieRelated(Mairie mairie){

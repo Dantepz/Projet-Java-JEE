@@ -1,6 +1,9 @@
 package fr.esigelec.jee.dao;
 
+import fr.esigelec.jee.models.Adresse;
+import fr.esigelec.jee.models.Coordonnee;
 import fr.esigelec.jee.models.Mairie;
+import fr.esigelec.jee.models.Ouverture;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -20,6 +23,38 @@ public class MairieDAO extends DAO
     public MairieDAO() {
         super();
     }
+
+    /**
+     * DAOs and initialization
+     */
+    private CoordonneeDAO coordDao;
+    private AdresseDAO addrDao;
+    private OuvertureDAO ouvDao;
+    private void initDAOs(){
+        coordDao = new CoordonneeDAO();
+        addrDao = new AdresseDAO();
+        ouvDao = new OuvertureDAO();
+    }
+
+    /**
+     * Data feeding.
+     */
+    private ArrayList<Coordonnee> coords;
+    private ArrayList<Adresse> addrs;
+    private ArrayList<Ouverture> ouvs;
+    public void feedList(String zipcode){
+        coords = coordDao.getCoordsByZipCode(zipcode);
+        addrs = addrDao.getAdressByZipCode(zipcode);
+        ouvs = ouvDao.getDeptOuvertures(zipcode);
+    }
+
+    public void emptyingdata() {
+        coords.removeAll(coords);
+        addrs.removeAll(addrs);
+        ouvs.removeAll(ouvs);
+    }
+
+
 
    /* public static void main(String[] argv)
     {
@@ -179,19 +214,51 @@ public class MairieDAO extends DAO
         mdao.dbclose();
     }*/
 
-    public ArrayList<String[]> getMairiesBasics(){
+    public ArrayList<Mairie> getMairiesByZipCode(String zipcode){
         dbconnect();
-        ArrayList<String[]> mairiesBasics = null;
+        ArrayList<Mairie> mairiesBasics = null;
+        initDAOs();
+        feedList(zipcode);
+
         try{
-            String query = "SELECT * FROM mairie WHERE 1";
+            String query = "SELECT mairie.mairie_insee, mairie.mairie_nom FROM mairie INNER JOIN mairie_adresse" +
+                    " ON mairie.mairie_insee = mairie_adresse.mairie_insee" +
+                    " WHERE mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?";
             PreparedStatement pstmt = con.prepareStatement(query);
-
+            pstmt.setString(1,zipcode);
+            pstmt.setString(2,zipcode.substring(0,2)+"%");
             ResultSet rset = pstmt.executeQuery();
-
             mairiesBasics = new ArrayList<>();
+            int [] indexes = new int[3];
 
-            String [] mairieBasic = {rset.getString(2),rset.getString(1)};
-            mairiesBasics.add(mairieBasic);
+            while(rset.next()) {
+                Mairie mairie = new Mairie(rset.getString(1));
+                Mairie mairieClone = new Mairie(rset.getString(1));
+
+                mairie.setNom(rset.getString(2));
+
+                for(int i = 0; i < ouvs.size(); i++){
+                        if(ouvs.get(i).getMairiesRelated().contains(mairieClone)){
+                            mairie.addOuverture(ouvs.get(i));
+                        }
+                        System.out.println(ouvs.get(i).getMairiesRelated());
+                }
+
+                for(int i = 0; i < coords.size();i++){
+                    if(coords.get(i).getInsee().equals(rset.getString(1))){
+                        mairie.setCoordonnees(coords.get(i));
+                        break;
+                    }
+                }
+                for(int i = 0; i < addrs.size() ; i++){
+                    if(addrs.get(i).getInsee().equals(rset.getString(1))){
+                        mairie.setAdresse(addrs.get(i));
+                        break;}
+
+                }
+
+                mairiesBasics.add(mairie);
+            }
         }catch(SQLException se) {
             se.printStackTrace();
         }finally{
@@ -202,6 +269,10 @@ public class MairieDAO extends DAO
     }
 
     public static void main (String [] args){
-
+        long start = System.currentTimeMillis();
+        MairieDAO mdao = new MairieDAO();
+        ArrayList<Mairie> mairies = mdao.getMairiesByZipCode("31100");
+        System.out.println(mairies);
+        System.out.println("Run time =" + (System.currentTimeMillis() - start) );
     }
 }  

@@ -1,30 +1,30 @@
 package fr.esigelec.jee.models;
 
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class Mairie {
     private String insee;
     private String nom;
     private Adresse adresse;
-    private Coordonnees coordonnees;
+    private Coordonnee coordonnee;
     private ArrayList<Ouverture> ouverture;
 
-    public Mairie(String insee, String nom, Adresse adresse, Coordonnees coordonnees) {
+    public Mairie(String insee, String nom, Adresse adresse, Coordonnee coordonnee) {
         this.insee = insee;
         this.nom = nom;
         this.adresse = adresse;
-        this.coordonnees = coordonnees;
-        this.ouverture = null;
+        this.coordonnee = coordonnee;
+        this.ouverture = new ArrayList<>();
     }
 
     public Mairie(String insee){
-        this.insee = insee;
-        this.nom = null;
-        this.adresse = null;
-        this.coordonnees = null;
-        this.ouverture = null;
+        this(insee,null,null,null);
     }
 
+    public void addOuverture(Ouverture ouverture){
+        this.ouverture.add(ouverture);
+    }
 
     public String getInsee() {
         return insee;
@@ -50,12 +50,12 @@ public class Mairie {
         this.adresse = adresse;
     }
 
-    public Coordonnees getCoordonnees() {
-        return coordonnees;
+    public Coordonnee getCoordonnees() {
+        return coordonnee;
     }
 
-    public void setCoordonnees(Coordonnees coordonnees) {
-        this.coordonnees = coordonnees;
+    public void setCoordonnees(Coordonnee coordonnee) {
+        this.coordonnee = coordonnee;
     }
 
     public ArrayList<Ouverture> getOuverture() {
@@ -69,6 +69,18 @@ public class Mairie {
     public String toString() {
         return "Mairie{" +
                 "insee='" + insee + '\'' +
+                ", nom='" + nom + '\'' +
+                ", adresse=" + adresse +
+                ", coordonnee=" + coordonnee +
+                ", ouverture=" + ouverture +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Mairie mairie = (Mairie) o;
+        return insee.equals(mairie.insee);
     }
 }

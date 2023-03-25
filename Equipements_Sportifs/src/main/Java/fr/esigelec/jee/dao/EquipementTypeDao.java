@@ -1,5 +1,6 @@
 package fr.esigelec.jee.dao;
 
+import fr.esigelec.jee.models.Coordonnee;
 import fr.esigelec.jee.models.EquipementType;
 
 import java.sql.PreparedStatement;
@@ -88,6 +89,31 @@ public class EquipementTypeDao extends DAO{
         return equipementType;
     }
 
+    public ArrayList<EquipementType> getEquipTypeByZipCode(String zipcode){
+        dbconnect();
+        ArrayList<EquipementType> equipementTypes  = null;
+        try{
+            String query = "";
+            PreparedStatement pstmt = con.prepareStatement(query);
+            pstmt.setString(1,zipcode);
+            pstmt.setString(2,zipcode.substring(0,2)+"%");
+            ResultSet rset = pstmt.executeQuery();
+            equipementTypes = new ArrayList<>();
+            while(rset.next()){
+                equipementTypes.add(new EquipementType(rset.getString(1),rset.getString(2),rset.getString(3), rset.getString(4)));
+            }
+        }catch(SQLException se){
+            se.printStackTrace();
+        }finally{
+            dbclose();
+        }
+        return equipementTypes;
+    }
+
+
+
+
+
     public ArrayList<String> getEquipementTypesFamille(){
         dbconnect();
         try {
@@ -110,9 +136,11 @@ public class EquipementTypeDao extends DAO{
     }
     public static void main(String [] args){
         EquipementTypeDao etd = new EquipementTypeDao();
+        ArrayList<EquipementType> etyps = etd.getEquipementTypes();
         EquipementType etyp = etd.getTypeById("2802");
-        //System.out.println("Hello"+etd.getEquipementTypes());
-        System.out.println("Hey"+etyp);
+        System.out.println(etyps);
+        System.out.println(etyps.size());
+        System.out.println(etyp);
 
     }
 
