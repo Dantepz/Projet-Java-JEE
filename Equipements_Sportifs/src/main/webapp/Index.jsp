@@ -13,6 +13,7 @@
                 <h1>Bienvenue sur le site de gestion des salles de sport en France !</h1>
             </div>
         </div>
+        <jsp:include page="MairieList.jsp"/>
         <jsp:include page="Footer.jsp"/>
     </body>
 </html>

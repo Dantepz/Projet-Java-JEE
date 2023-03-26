@@ -3,7 +3,7 @@ package fr.esigelec.jee.models;
 import java.util.ArrayList;
 import java.util.Objects;
 
-public class Mairie {
+public class Mairie implements Comparable<Mairie>{
     private String insee;
     private String nom;
     private Adresse adresse;
@@ -18,8 +18,8 @@ public class Mairie {
         this.ouverture = new ArrayList<>();
     }
 
-    public Mairie(String insee){
-        this(insee,null,null,null);
+    public Mairie(String insee, String nom){
+        this(insee,nom,null,null);
     }
 
     public void addOuverture(Ouverture ouverture){
@@ -82,5 +82,10 @@ public class Mairie {
         if (o == null || getClass() != o.getClass()) return false;
         Mairie mairie = (Mairie) o;
         return insee.equals(mairie.insee);
+    }
+
+    @Override
+    public int compareTo(Mairie o) {
+        return this.nom.compareTo(o.getNom());
     }
 }

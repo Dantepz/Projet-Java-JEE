@@ -20,10 +20,10 @@ import java.util.ArrayList;
 
 public class MairieDAO extends DAO
 {
+    public static final int EQUIPEMENTS_MAX_PAR_REQUETE = 50;
     public MairieDAO() {
         super();
     }
-
     /**
      * DAOs and initialization
      */
@@ -214,50 +214,48 @@ public class MairieDAO extends DAO
         mdao.dbclose();
     }*/
 
-    public ArrayList<Mairie> getMairiesByZipCode(String zipcode){
+    public ArrayList<Mairie> getMairiesByZipCode(String zipcode, int occurrence, int max){
         dbconnect();
         ArrayList<Mairie> mairiesBasics = null;
         initDAOs();
         feedList(zipcode);
-
+        int startLine = occurrence*max;
         try{
             String query = "SELECT mairie.mairie_insee, mairie.mairie_nom FROM mairie INNER JOIN mairie_adresse" +
                     " ON mairie.mairie_insee = mairie_adresse.mairie_insee" +
-                    " WHERE mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?";
+                    " WHERE (mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?) LIMIT ? OFFSET ?";
             PreparedStatement pstmt = con.prepareStatement(query);
             pstmt.setString(1,zipcode);
             pstmt.setString(2,zipcode.substring(0,2)+"%");
+            pstmt.setInt(3, max);
+            pstmt.setInt(4, startLine+1);
             ResultSet rset = pstmt.executeQuery();
             mairiesBasics = new ArrayList<>();
             int [] indexes = new int[3];
 
             while(rset.next()) {
-                Mairie mairie = new Mairie(rset.getString(1));
-                Mairie mairieClone = new Mairie(rset.getString(1));
-
-                mairie.setNom(rset.getString(2));
-
-                for(int i = 0; i < ouvs.size(); i++){
-                        if(ouvs.get(i).getMairiesRelated().contains(mairieClone)){
+                    Mairie mairie = new Mairie(rset.getString(1), rset.getString(2));
+                    Mairie mairieClone = new Mairie(rset.getString(1), rset.getString(2));
+                    for (int i = 0; i < ouvs.size(); i++) {
+                        if (ouvs.get(i).getMairiesRelated().contains(mairieClone)) {
                             mairie.addOuverture(ouvs.get(i));
                         }
-                        System.out.println(ouvs.get(i).getMairiesRelated());
-                }
-
-                for(int i = 0; i < coords.size();i++){
-                    if(coords.get(i).getInsee().equals(rset.getString(1))){
-                        mairie.setCoordonnees(coords.get(i));
-                        break;
                     }
-                }
-                for(int i = 0; i < addrs.size() ; i++){
-                    if(addrs.get(i).getInsee().equals(rset.getString(1))){
-                        mairie.setAdresse(addrs.get(i));
-                        break;}
 
-                }
+                    for (int i = 0; i < coords.size(); i++) {
+                        if (coords.get(i).getInsee().equals(rset.getString(1))) {
+                            mairie.setCoordonnees(coords.get(i));
+                            break;
+                        }
+                    }
+                    for (int i = 0; i < addrs.size(); i++) {
+                        if (addrs.get(i).getInsee().equals(rset.getString(1))) {
+                            mairie.setAdresse(addrs.get(i));
+                            break;
+                        }
 
-                mairiesBasics.add(mairie);
+                    }
+                    mairiesBasics.add(mairie);
             }
         }catch(SQLException se) {
             se.printStackTrace();
@@ -268,11 +266,16 @@ public class MairieDAO extends DAO
         return mairiesBasics;
     }
 
+    public ArrayList<Mairie> getMairiesByZipCode(String zipcode, int occurrence){
+        return getMairiesByZipCode(zipcode,occurrence,EQUIPEMENTS_MAX_PAR_REQUETE);
+    }
+
     public static void main (String [] args){
         long start = System.currentTimeMillis();
         MairieDAO mdao = new MairieDAO();
-        ArrayList<Mairie> mairies = mdao.getMairiesByZipCode("31100");
+        ArrayList<Mairie> mairies = mdao.getMairiesByZipCode("31100",0);
         System.out.println(mairies);
+        System.out.println(mairies.size());
         System.out.println("Run time =" + (System.currentTimeMillis() - start) );
     }
 }  

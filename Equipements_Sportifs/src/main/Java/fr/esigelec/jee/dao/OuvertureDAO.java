@@ -17,10 +17,15 @@ public class OuvertureDAO extends DAO{
         super();
     }
 
+    private MairieDAO mdao = new MairieDAO();
+
+    private ArrayList<Mairie> mairies;
 
     public ArrayList<Ouverture> getSpecificOvertures(String insee){
         dbconnect();
         ArrayList<Ouverture> ouvertures = null;
+        mairies = mdao.getMairiesByZipCode(insee,0,1000);
+        //}
         try{
             String query = "SELECT mairie_ouverture.ouverture_id, mairie_ouverture.ouverture_id, mairie_ouverture.ouverture_plageJ_debut, mairie_ouverture.ouverture_plageJ_fin, mairie_ouverture.ouverture_plageH_debut, mairie_ouverture.ouverture_plageH_fin, m_o.mairie_insee FROM mairie_ouverture, m_o WHERE mairie_ouverture.ouverture_id = m_o.ouverture AND m_o.mairie_insee = ?";
             PreparedStatement pstmt = con.prepareStatement(query);
@@ -52,11 +57,13 @@ public class OuvertureDAO extends DAO{
         ResultSet rset = null;
         String depcode = codePostal.substring(0,2)+"%" ;
         try{
-            String query = "SELECT mairie_ouverture.ouverture_id, mairie_ouverture.ouverture_plageJ_debut, mairie_ouverture.ouverture_plageJ_fin, mairie_ouverture.ouverture_plageH_debut, mairie_ouverture.ouverture_plageH_fin, m_o.mairie_insee " +
+            String query = "SELECT mairie_ouverture.ouverture_id, mairie_ouverture.ouverture_plageJ_debut, mairie_ouverture.ouverture_plageJ_fin, mairie_ouverture.ouverture_plageH_debut, mairie_ouverture.ouverture_plageH_fin, m_o.mairie_insee, mairie.mairie_nom " +
                     "FROM m_o INNER JOIN mairie_adresse " +
                     "ON m_o.mairie_insee = mairie_adresse.mairie_insee " +
                     "INNER JOIN mairie_ouverture " +
                     "ON m_o.ouverture = mairie_ouverture.ouverture_id " +
+                    "INNER JOIN mairie " +
+                    "ON m_o.mairie_insee = mairie.mairie_insee " +
                     "WHERE mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?";
 
             pstmt = con.prepareStatement(query);
@@ -73,14 +80,14 @@ public class OuvertureDAO extends DAO{
                 Integer idOuverture = rset.getInt(1);
                 int index = idOuvertures.indexOf(idOuverture);
                 if(index == -1){
-                    ouv.addMairieRelated(new Mairie(rset.getString(6)));
+                    ouv.addMairieRelated(new Mairie(rset.getString(6),rset.getString(7)));
+
                     idOuvertures.add(idOuverture);
                     ouvertures.add(ouv);
                 }else{
                     Ouverture ouvLocal = ouvertures.get(index);
-                    ouvLocal.addMairieRelated(new Mairie(rset.getString(6)));
+                    ouvLocal.addMairieRelated(new Mairie(rset.getString(6),rset.getString(7)));
                     ouvertures.set(index, ouvLocal);
-                    System.out.println(rset.getString(6));
                 }
             }
 

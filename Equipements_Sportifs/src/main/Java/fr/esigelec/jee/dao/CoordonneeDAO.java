@@ -31,7 +31,6 @@ public class CoordonneeDAO extends DAO{
             coordonnees = new ArrayList<>();
             while(rset.next()){
                 coordonnees.add(new Coordonnee(rset.getInt(1),rset.getString(2),rset.getString(3), rset.getString(4),rset.getString(5)));
-                System.out.println(rset.getString(6));
             }
         }catch(SQLException se){
             se.printStackTrace();

@@ -21,4 +21,11 @@
             </a>
         </li>
     </ul>
+    <form action="RechercheMairie" method="POST" class = "d-flex mt-3">
+        <input class="form-control me-2" type="text" id="mairie" name="mairie" placeholder="Entrer le nom de la mairie">
+        <input class="form-control" type="text" id="zipcode" name="zipcode" placeholder="Entrer le code Postal" required>
+        <button class="btn btn-success" role="submit">Go</button>
+    </form>
+
+
 </nav>

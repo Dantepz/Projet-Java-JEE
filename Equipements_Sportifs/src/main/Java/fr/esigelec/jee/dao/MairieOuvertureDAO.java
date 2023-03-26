@@ -13,32 +13,49 @@ public class MairieOuvertureDAO extends DAO{
         super();
     }
 
-
-
-    public ArrayList<MairieOuverture> getMOZipCode(String zipcode){
-        dbconnect();
-        ArrayList<MairieOuverture> mairOuvs = null;
-
-        try{
-            String query = "SELECT m_o.mairie_insee, m_o.ouverture " +
-                    "FROM m_o INNER JOIN mairie_adresse " +
-                    "ON m_o.mairie_insee = mairie_adresse.mairie_insee " +
-                    "WHERE mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?";
-            PreparedStatement pstmt = con.prepareStatement(query);
-            pstmt.setString(1,zipcode);
-            pstmt.setString(2,zipcode.substring(0,2)+"%");
-            ResultSet rset = pstmt.executeQuery();
-            mairOuvs = new ArrayList<>();
-            while(rset.next()){
-               mairOuvs.add(new MairieOuverture(rset.getString(1), rset.getInt(2) ));
-
-            }
-        }catch(SQLException se){
-            se.printStackTrace();
-        }finally{
-            dbclose();
-        }
-        return mairOuvs;
+    private MairieDAO mdao;
+    private OuvertureDAO odao;
+    private void init(){
+        mdao= new MairieDAO();
+        odao = new OuvertureDAO();
     }
+
+    private ArrayList<Mairie> mairies;
+    private ArrayList<Ouverture> ouvertures;
+    private void feedData(String zipcode){
+        mairies = mdao.getMairiesByZipCode(zipcode,0,1000);
+        ouvertures = odao.getDeptOuvertures(zipcode);
+    }
+
+    public ArrayList<Ouverture> getOuvsOfMairie(String zipcode, Mairie mairie){
+        init();
+        feedData(zipcode);
+
+        ArrayList<Ouverture> ouvertureOfMairie = new ArrayList<>();
+
+        for(Ouverture o : ouvertures){
+            if (o.getMairiesRelated().contains(mairie)){
+                ouvertureOfMairie.add(o);
+            }
+        }
+
+        return ouvertureOfMairie;
+
+    }
+
+    public ArrayList<Mairie> getMairiesByOuvs(String zipcode, Ouverture ouverture){
+        init();
+        feedData(zipcode);
+
+        ArrayList<Mairie> mairiesByOuv = new ArrayList<>();
+
+        for(Mairie m : mairies) {
+            if (m.getOuverture().contains(ouverture)) {
+                mairiesByOuv.add(m);
+            }
+        }
+        return mairiesByOuv;
+    }
+
 
 }
