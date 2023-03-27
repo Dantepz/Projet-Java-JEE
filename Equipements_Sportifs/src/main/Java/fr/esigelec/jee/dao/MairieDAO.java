@@ -1,21 +1,10 @@
 package fr.esigelec.jee.dao;
 
-import fr.esigelec.jee.models.Adresse;
-import fr.esigelec.jee.models.Coordonnee;
-import fr.esigelec.jee.models.Mairie;
-import fr.esigelec.jee.models.Ouverture;
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
+import fr.esigelec.jee.models.*;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import java.io.File;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Types;
 import java.util.ArrayList;
 
 public class MairieDAO extends DAO
@@ -30,10 +19,12 @@ public class MairieDAO extends DAO
     private CoordonneeDAO coordDao;
     private AdresseDAO addrDao;
     private OuvertureDAO ouvDao;
+    private EquipementDAO equipDao;
     private void initDAOs(){
         coordDao = new CoordonneeDAO();
         addrDao = new AdresseDAO();
         ouvDao = new OuvertureDAO();
+        equipDao = new EquipementDAO();
     }
 
     /**
@@ -42,16 +33,20 @@ public class MairieDAO extends DAO
     private ArrayList<Coordonnee> coords;
     private ArrayList<Adresse> addrs;
     private ArrayList<Ouverture> ouvs;
-    public void feedList(String zipcode){
+
+    private ArrayList<Equipement> equips;
+    public void feedingList(String zipcode){
         coords = coordDao.getCoordsByZipCode(zipcode);
         addrs = addrDao.getAdressByZipCode(zipcode);
         ouvs = ouvDao.getDeptOuvertures(zipcode);
+        equips = equipDao.getEquipByZipCode(zipcode,0,7000);
     }
 
-    public void emptyingdata() {
+    public void emptyingList() {
         coords.removeAll(coords);
         addrs.removeAll(addrs);
         ouvs.removeAll(ouvs);
+        equips.removeAll(equips);
     }
 
 
@@ -218,12 +213,12 @@ public class MairieDAO extends DAO
         dbconnect();
         ArrayList<Mairie> mairiesBasics = null;
         initDAOs();
-        feedList(zipcode);
+        feedingList(zipcode);
         int startLine = occurrence*max;
         try{
-            String query = "SELECT mairie.mairie_insee, mairie.mairie_nom FROM mairie INNER JOIN mairie_adresse" +
+            String query = "SELECT DISTINCT mairie.mairie_insee, mairie.mairie_nom FROM mairie INNER JOIN mairie_adresse" +
                     " ON mairie.mairie_insee = mairie_adresse.mairie_insee" +
-                    " WHERE (mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?) LIMIT ? OFFSET ?";
+                    " WHERE (mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?) ORDER BY mairie.mairie_insee LIMIT ? OFFSET ? ";
             PreparedStatement pstmt = con.prepareStatement(query);
             pstmt.setString(1,zipcode);
             pstmt.setString(2,zipcode.substring(0,2)+"%");
@@ -255,12 +250,18 @@ public class MairieDAO extends DAO
                         }
 
                     }
+                for (int i = 0; i < equips.size(); i++) {
+                    if (equips.get(i).getMairie().equals(rset.getString(1))) {
+                        mairie.addEquipment(equips.get(i));
+                    }
+                }
                     mairiesBasics.add(mairie);
             }
         }catch(SQLException se) {
             se.printStackTrace();
         }finally{
             dbclose();
+            emptyingList();
         }
 
         return mairiesBasics;
@@ -273,7 +274,7 @@ public class MairieDAO extends DAO
     public static void main (String [] args){
         long start = System.currentTimeMillis();
         MairieDAO mdao = new MairieDAO();
-        ArrayList<Mairie> mairies = mdao.getMairiesByZipCode("31100",0);
+        ArrayList<Mairie> mairies = mdao.getMairiesByZipCode("62000",0);
         System.out.println(mairies);
         System.out.println(mairies.size());
         System.out.println("Run time =" + (System.currentTimeMillis() - start) );

@@ -1,6 +1,6 @@
 package fr.esigelec.jee.models;
 
-public class Equipements{
+public class Equipement {
     private String id;
     private String nom;
     private String insee;
@@ -11,7 +11,7 @@ public class Equipements{
     private float equipGpsx;
     private float equipGpsy;
     private EquipementType equipementType;
-    public Equipements(String id, String nom, String insee, String insNumInstall, String inNom, String natureLibelle, float equSurfEvol, float equipGpsx, float equipGpsy, EquipementType equipementType) {
+    public Equipement(String id, String nom, String insee, String insNumInstall, String inNom, String natureLibelle, float equSurfEvol, float equipGpsx, float equipGpsy, EquipementType equipementType) {
         this.id = id;
         this.nom = nom;
         this.insee = insee;
@@ -100,7 +100,23 @@ public class Equipements{
         return equipementType;
     }
 
-    public void setEquipTypeCodeId(String equipTypeCodeId) {
+    public void setEquipTypeCodeId(EquipementType equipementType) {
         this.equipementType = equipementType;
+    }
+
+    @Override
+    public String toString() {
+        return "Equipements{" +
+                "id='" + id + '\'' +
+                ", nom='" + nom + '\'' +
+                ", insee='" + insee + '\'' +
+                ", insNumInstall='" + insNumInstall + '\'' +
+                ", inNom='" + inNom + '\'' +
+                ", natureLibelle='" + natureLibelle + '\'' +
+                ", equSurfEvol=" + equSurfEvol +
+                ", equipGpsx=" + equipGpsx +
+                ", equipGpsy=" + equipGpsy +
+                ", equipementType=" + equipementType +
+                '}';
     }
 }

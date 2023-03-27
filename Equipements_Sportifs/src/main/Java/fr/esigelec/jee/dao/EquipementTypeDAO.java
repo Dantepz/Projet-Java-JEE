@@ -1,6 +1,5 @@
 package fr.esigelec.jee.dao;
 
-import fr.esigelec.jee.models.Coordonnee;
 import fr.esigelec.jee.models.EquipementType;
 
 import java.sql.PreparedStatement;
@@ -9,10 +8,10 @@ import java.sql.SQLException;
 
 import java.util.ArrayList;
 
-public class EquipementTypeDao extends DAO{
+public class EquipementTypeDAO extends DAO{
 
     private ArrayList<String> equipmentTypesFamille;
-    public EquipementTypeDao(){
+    public EquipementTypeDAO(){
         super();
     }
 
@@ -93,7 +92,11 @@ public class EquipementTypeDao extends DAO{
         dbconnect();
         ArrayList<EquipementType> equipementTypes  = null;
         try{
-            String query = "";
+            String query = "SELECT DISTINCT equipment_type.equipment_type_code, equipment_type.equipment_type_lib, " +
+                    "equipment_type.equipment_famille, equipment_categorie " +
+                    "FROM equipment_type INNER JOIN equipement_sportif ON equipment_type.equipment_type_code = equipement_sportif.equipment_type_code_id " +
+                    "INNER JOIN mairie_adresse ON equipement_sportif.com_insee = mairie_adresse.mairie_insee " +
+                    "WHERE mairie_adresse.adresse_codePostal = ? OR mairie_adresse.adresse_codePostal LIKE ?";
             PreparedStatement pstmt = con.prepareStatement(query);
             pstmt.setString(1,zipcode);
             pstmt.setString(2,zipcode.substring(0,2)+"%");
@@ -135,12 +138,14 @@ public class EquipementTypeDao extends DAO{
         return equipmentTypesFamille;
     }
     public static void main(String [] args){
-        EquipementTypeDao etd = new EquipementTypeDao();
-        ArrayList<EquipementType> etyps = etd.getEquipementTypes();
-        EquipementType etyp = etd.getTypeById("2802");
+        long start = System.currentTimeMillis();
+        EquipementTypeDAO etd = new EquipementTypeDAO();
+        ArrayList<EquipementType> etyps = etd.getEquipTypeByZipCode("31000");
+        //EquipementType etyp = etd.getTypeById("2802");
         System.out.println(etyps);
         System.out.println(etyps.size());
-        System.out.println(etyp);
+        System.out.println("Run time : "+(System.currentTimeMillis()-start));
+       // System.out.println(etyp);
 
     }
 

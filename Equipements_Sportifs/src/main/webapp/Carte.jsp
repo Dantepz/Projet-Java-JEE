@@ -29,7 +29,7 @@
                 // Fonction d'initialisation de la carte
                 function initMap() {
                     // Créer l'objet "macarte" et l'insèrer dans l'élément HTML qui a l'ID "map"
-                    macarte = L.map('map').setView([<%=mairies.get(mairies.size() - 1).getAdresse().getLatitude()%>, <%=mairies.get(mairies.size() - 1).getAdresse().getLongitude()%>], 17);
+                    macarte = L.map('map').setView([<%=mairies.get(1).getAdresse().getLatitude()%>, <%=mairies.get(1).getAdresse().getLongitude()%>], 17);
                     // Leaflet ne récupère pas les cartes (tiles) sur un serveur par défaut. Nous devons lui préciser où nous souhaitons les récupérer. Ici, openstreetmap.fr
                     L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
                         // Il est toujours bien de laisser le lien vers la source des données
@@ -39,16 +39,30 @@
                     }).addTo(macarte);
                     addPoint(lat, lon);
 
-                    var leavesMarker = L.layerGroup([
-                        <% for(int m = 0;m <mairies.size() - 1;m++){ %>
-                            new L.marker([<%=mairies.get(m).getAdresse().getLatitude()%>, <%=mairies.get(m).getAdresse().getLongitude()%>], {icon : mairieIcon}),
+                         var ma;
+
+                        <% for(int m = 0;m <5;m++){ %>
+                            ma =  L.marker([<%=mairies.get(m).getAdresse().getLatitude()%>, <%=mairies.get(m).getAdresse().getLongitude()%>], {icon : mairieIcon}).addTo(macarte)<%--.bindPopup(<%=mairies.get(m).getNom()%>)--%>;
+                               ma.bindPopup("<%=mairies.get(m).getNom()%>");
                         <%}%>
-                        new L.marker([<%=mairies.get(mairies.size() - 1).getAdresse().getLatitude()%>, <%=mairies.get(mairies.size() - 1).getAdresse().getLongitude()%>], {icon : mairieIcon})
-                    ]);
+
+                        <%
+                            String eqnom;
+                            for(int m = 0;m<5; m++){
+                                for(int j = 0;j<mairies.get(m).getEquipementsSize();j++){
+                                    if(mairies.get(m).getEquipementsSize() == 0)
+                                        break;
+                        %>
+                                    ma = L.marker([<%=mairies.get(m).getEquipement(j).getEquipGpsy()%>,<%=mairies.get(m).getEquipement(j).getEquipGpsx()%>], {incon : equipIcon}).addTo(macarte);
+                                    ma.bindPopup("<%=mairies.get(m).getEquipement(j).getInNom()%>");
+                        <%  }
+                        }%>
+                  -
 
 
 
-                    leavesMarker.addTo(macarte);
+                        mairiesMarker.addTo(macarte);
+                       // equipsMarker.addTo(macarte);
 
                     <%--if(mairies.get(m).getAdresse().getLatitude() == 0.00000000 || mairies.get(m).getAdresse().getLongitude()==0.00000000){
                            continue;}--%>
@@ -63,6 +77,10 @@
                         iconSize: [25, 41],iconAnchor: [12, 41],popupAnchor: [1, -34],shadowSize: [41, 41]
                 });
 
+                var equipIcon = L.marker([51.5, -0.09], {icon: L.icon({iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+                        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                        iconSize: [25, 41],iconAnchor: [12, 41],popupAnchor: [1, -34],shadowSize: [41, 41]})});
+
                 function addPoint(lat, lon) {
                     var marker = L.marker([lat, lon]).addTo(macarte);
                 }
@@ -71,6 +89,7 @@
                     var marker = L.marker([lat, lon], {icon : mairieIcon}).addTo(macarte);
                     marker.bindPopUp("centre");
                 }
+
                 window.onload = function(){
                     // Fonction d'initialisation qui s'exécute lorsque le DOM est chargé
                     initMap();

@@ -43,7 +43,6 @@ public class DAO {
     }
 
     public void dbclose(PreparedStatement pstmt){
-        dbclose();
         if(pstmt != null) {
             try {
                 pstmt.close();

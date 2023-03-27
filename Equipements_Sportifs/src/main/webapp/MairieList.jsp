@@ -18,10 +18,10 @@
 
 for(Mairie m : mairies){
 
-if(m.getNom().toLowerCase().contains(mairieString.toLowerCase())){
-
+if(m.getNom().substring(8).toLowerCase().contains(mairieString.toLowerCase())){
+    String equip1 = m.getEquipementsSize()==0 ? "Pas d'équipements" : m.getEquipement(0).getNom();
 %>
-        <div> <%=m.getNom()%> <%=m.getAdresse().getCodePostal()%> <%=m.getInsee()%> <%=m.getAdresse().getLatitude()%> <%=m.getAdresse().getLongitude()%></div><br>
+        <div> <%=m.getNom()%> <%=m.getAdresse().getCodePostal()%> <%=m.getInsee()%> <%=m.getAdresse().getLatitude()%> <%=m.getAdresse().getLongitude()%> <%=equip1%></div><br>
 <%
     }
 }%>

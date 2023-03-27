@@ -1,5 +1,7 @@
 package fr.esigelec.jee.models;
 
+import fr.esigelec.jee.dao.EquipementDAO;
+
 import java.util.ArrayList;
 import java.util.Objects;
 
@@ -10,12 +12,15 @@ public class Mairie implements Comparable<Mairie>{
     private Coordonnee coordonnee;
     private ArrayList<Ouverture> ouverture;
 
+    private ArrayList<Equipement> equipements;
+
     public Mairie(String insee, String nom, Adresse adresse, Coordonnee coordonnee) {
         this.insee = insee;
         this.nom = nom;
         this.adresse = adresse;
         this.coordonnee = coordonnee;
         this.ouverture = new ArrayList<>();
+        this.equipements = new ArrayList<>();
     }
 
     public Mairie(String insee, String nom){
@@ -25,6 +30,8 @@ public class Mairie implements Comparable<Mairie>{
     public void addOuverture(Ouverture ouverture){
         this.ouverture.add(ouverture);
     }
+
+    public void addEquipment(Equipement equipement){this.equipements.add(equipement);}
 
     public String getInsee() {
         return insee;
@@ -61,8 +68,19 @@ public class Mairie implements Comparable<Mairie>{
     public ArrayList<Ouverture> getOuverture() {
         return ouverture;
     }
-    public void setOuverture(ArrayList<Ouverture> ouverture) {
-        this.ouverture = ouverture;
+
+    public ArrayList<Equipement> getEquipements() {
+        return equipements;
+    }
+
+    public int getEquipementsSize(){
+        return equipements.size();
+    }
+
+    public Equipement getEquipement(int i){
+
+        Equipement eq = equipements.get(i);
+        return eq;
     }
 
     @Override
@@ -73,6 +91,7 @@ public class Mairie implements Comparable<Mairie>{
                 ", adresse=" + adresse +
                 ", coordonnee=" + coordonnee +
                 ", ouverture=" + ouverture +
+                ", equipements=" + equipements +
                 '}';
     }
 
