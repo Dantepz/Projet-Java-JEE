@@ -8,20 +8,20 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="fr.esigelec.jee.models.*" %>
 <%@ page import="java.util.ArrayList" %>
+<%@ page import="java.util.HashMap" %>
 
 <%
-    String mairieString = request.getParameter("mairie");
-    ArrayList<Mairie> mairies = new ArrayList<>();
-    if(request.getSession(true).getAttribute("mairies")!=null) {
-        mairies = (ArrayList<Mairie>) request.getSession(true).getAttribute("mairies");
+    HashMap<Equipement,Mairie> eqsMs = new HashMap<>();
+    ArrayList<Equipement> equipements = new ArrayList<>();
+    if(request.getSession().getAttribute("eqsMs") != null) {
+        eqsMs = (HashMap<Equipement, Mairie>) request.getSession().getAttribute("eqsMs");
+        equipements = new ArrayList<>(eqsMs.keySet());
     }
 
-for(Mairie m : mairies){
 
-if(m.getNom().substring(8).toLowerCase().contains(mairieString.toLowerCase())){
-    String equip1 = m.getEquipementsSize()==0 ? "Pas d'équipements" : m.getEquipement(0).getNom();
+for(Equipement eq : equipements){
 %>
-        <div> <%=m.getNom()%> <%=m.getAdresse().getCodePostal()%> <%=m.getInsee()%> <%=m.getAdresse().getLatitude()%> <%=m.getAdresse().getLongitude()%> <%=equip1%></div><br>
+            <div> <%=eq.getId()%> <%=eq.getNom()%> <%=eqsMs.get(eq).getNom()%></div><br>
 <%
     }
-}%>
+%>

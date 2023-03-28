@@ -1,5 +1,8 @@
 package fr.esigelec.jee.models;
 
+import java.util.ArrayList;
+import java.util.Objects;
+
 public class Equipement {
     private String id;
     private String nom;
@@ -118,5 +121,14 @@ public class Equipement {
                 ", equipGpsy=" + equipGpsy +
                 ", equipementType=" + equipementType +
                 '}';
+    }
+
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Equipement that = (Equipement) o;
+        return id.equals(that.id);
     }
 }

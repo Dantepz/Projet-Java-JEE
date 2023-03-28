@@ -33,7 +33,7 @@ public class EquipementDAO extends DAO{
         int startLine = occurrence*max;
         String depcode = zipcode.substring(0,2)+"%" ;
         try {
-            String query = "SELECT equipement_sportif.equipment_id, equipement_sportif.equ_nom, equipement_sportif.com_insee, equipement_sportif.ins_numero_install, " +
+            String query = "SELECT DISTINCT equipement_sportif.equipment_id, equipement_sportif.equ_nom, equipement_sportif.com_insee, equipement_sportif.ins_numero_install, " +
                     " equipement_sportif.ins_nom, equipement_sportif.nature_libelle, equipement_sportif.equ_surface_evolution, equipement_sportif.equip_gpsx, " +
                     " equipement_sportif.equip_gpsy, equipement_sportif.equipment_type_code_id" +
                     " FROM equipement_sportif" +

@@ -83,6 +83,13 @@ public class Mairie implements Comparable<Mairie>{
         return eq;
     }
 
+    public ArrayList<String> getEquipNoms(){
+        ArrayList<String> noms = new ArrayList<>();
+        for(int i =0;i<equipements.size();i++) {
+            noms.add(this.equipements.get(i).getNom());
+        }
+        return noms;
+    }
     @Override
     public String toString() {
         return "Mairie{" +
@@ -106,5 +113,19 @@ public class Mairie implements Comparable<Mairie>{
     @Override
     public int compareTo(Mairie o) {
         return this.nom.compareTo(o.getNom());
+    }
+
+    public boolean containsAKeyword(String myString, String search){
+            if(myString.contains(search)) {
+                return true;
+            }
+        return false;
+    }
+
+    public Mairie getMairie(Equipement eq){
+        if(equipements.contains(eq)){
+            return this;
+        }
+        return null;
     }
 }
