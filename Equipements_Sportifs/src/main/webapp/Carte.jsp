@@ -13,6 +13,9 @@
         eqsMs = (HashMap<Equipement, Mairie>) request.getSession().getAttribute("eqsMs");
         equipements = new ArrayList<>(eqsMs.keySet());
     }
+    else{
+        response.sendRedirect("Index.jsp");
+    }
 %>
 
 <% String pageTitle = "Page Carte"; %>
@@ -30,38 +33,63 @@
         <div id="equip_info" class="col-md-5" >
             <div class ="row align-items-center bg-dark">
                 <div class="col my-3">
-                    <h3 id="equip_title" class="text-center text-light-emphasis mt-auto" >Nothing for the moment</h3>
+                    <h3 id="equip_title" class="text-center text-light mt-auto" >Nothing for the moment</h3>
                 </div>
             </div>
-            <div class ="row align-items-center text-body" style="background-color:#4527A0">
-                <div class="col gap-1">
-                    <h6 class="text-center text-light-emphasis my-2">Informations liées à l'infrastructure</h6>
-                    <div class="mt-2">
-                        <span id="id-eq"></span>
-                        <lable for="id-eq">Id de l'équipement :</lable>
+            <div class ="row align-items-center text-body">
+                <form>
+
+                    <!--Equipement information-->
+
+                    <div class="mt-2 border rounded-3 bg-primary" data-bs-theme="blue">
+                        <div class="col">
+                            <br><h6 class="text-center text-light mb-3">Informations liées à l'infrastructure</h6>
+                            <div class="mt-2 form-floating">
+                                <input id="nom-eq" readonly class="form-control-plaintext"  placeholder="---" value="---">
+                                <label for="nom-eq" class="text-light"> Nom de l'équipement :</label>
+                            </div>
+                            <div class="mt-2 form-floating">
+                                <input class="form-control-plaintext" placeholder="nothing" readonly id="id-eq" value="---">
+                                <label for="id-eq" class="text-light">Id de l'équipement :</label>
+                            </div>
+                            <div class="mt-2 form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="sup-eq"value="---">
+                                <label for="sup-eq" class="text-light">superficie :</label>
+                            </div>
+                            <div class="my-2  form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="type-eq" value="---">
+                                <label for="type-eq" class="text-light">Type d'équipement :</label>
+                            </div>
+                        </div>
                     </div>
-                    <div class="mt-2">
-                        <span id="nom-eq"></span>
-                        <label for="nom-eq"> Nom de l'équipement :</label>
-                    </div>
-                    <div class="mt-2">
-                        <span id="sup-eq"></span>
-                        <label for="sup-eq">superficie :</label>
-                    </div>
-                    <div class="mt-2">
-                        <span id="mairie-eq"></span>
-                        <label for="mairie-eq">Mairie responsable : </label>
-                    </div>
-                    <div class="my-2">
-                        <span id="type-eq"></span>
-                        <label for="type-eq">Type d'équipement :</label>
-                    </div>
-                </div>
-            </div>
-            <div class ="row align-items-center text-body" style="background-color:#2E7D32">
-                <div class="col">
-                    <h6 class="text-center text-light-emphasis my-2">Informations liées à la mairie</h6>
-                </div>
+
+                        <!--Informations mairies -->
+
+                        <div class="mt-2 border rounded-3  bg-dark" data-bs-theme="dark">
+                            <br><h6 class="text-center text-light mb-3">Informations liées à la mairie</h6><button id="mairie-location" type="button" onclick=""><i class="fa-solid fa-location-arrow" style="color: #ffffff;" ></i></button>
+                            <div class="form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="mairie-eq" value="---">
+                                <label for="mairie-eq" class="text-light">Mairie responsable : </label>
+                            </div>
+                            <div class="form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="mairie-adresse" value="---">
+                                <label for="mairie-adresse" class="text-light">Adresse : </label>
+                            </div>
+                            <div class="form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="mairie-tel" value="---">
+                                <label for="mairie-tel" class="text-light">Téléphone : </label>
+                            </div>
+                            <div class="form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="mairie-mail" value="---">
+                                <label for="mairie-mail" class="text-light">Mail : </label>
+                            </div>
+                            <!--<div class="form-floating">
+                                <input readonly class="form-control-plaintext"  placeholder="---" id="mairie-ouv1" value="---">
+                                <label for="mairie-ouv1" class="text-light">Ouvertures : </label>
+                            </div>-->
+                        </div>
+
+                </form>
             </div>
         </div>
 
@@ -71,15 +99,16 @@
             var lat = 41.983417511;
             var lon = 8.79639816284;
             var macarte = null;
+            var zoom = 17;
+            var dezoom=15;
             // Fonction d'initialisation de la carte
+
             function initMap() {
+                //macarte = L.map('map').setView(lat,lon);
                 // Créer l'objet "macarte" et l'insèrer dans l'élément HTML qui a l'ID "map"
                 <% if(eqsMs.size() != 0)
                 {%>
-                macarte = L.map('map').setView([<%=eqsMs.get(equipements.get(0)).getAdresse().getLatitude()%>, <%=eqsMs.get(equipements.get(0)).getAdresse().getLongitude()%>], 17);
-                <%
-                }else {%>
-                macarte = L.map('map').setView(lat,lon,17);
+                macarte = L.map('map').setView([<%=eqsMs.get(equipements.get(0)).getAdresse().getLatitude()%>, <%=eqsMs.get(equipements.get(0)).getAdresse().getLongitude()%>], zoom);
                 <%
                 }
                 %>// Leaflet ne récupère pas les cartes (tiles) sur un serveur par défaut. Nous devons lui préciser où nous souhaitons les récupérer. Ici, openstreetmap.fr
@@ -91,41 +120,62 @@
                 }).addTo(macarte);
                 addPoint(lat, lon);
 
+                <%-- mairie informations --%>
                 var ma;
                 <%
                         for(int m = 0;m < equipements.size();m++){ %>
                 ma =  L.marker([<%=eqsMs.get(equipements.get(m)).getAdresse().getLatitude()%>, <%=eqsMs.get(equipements.get(m)).getAdresse().getLongitude()%>], {icon : mairieIcon}).addTo(macarte)<%--.bindPopup(<%=mairies.get(m).getNom()%>)--%>;
                 ma.bindPopup("<%=eqsMs.get(equipements.get(m)).getNom()%>");
                 ma.on('click', function (){
-                    console.log("clicked");
+                    macarte.flyTo([<%=eqsMs.get(equipements.get(m)).getAdresse().getLatitude()%>, <%=eqsMs.get(equipements.get(m)).getAdresse().getLongitude()%>], zoom);
                     document.getElementById("equip_title").innerHTML="<%=eqsMs.get(equipements.get(m)).getNom()%>";
-                });
-                <%--ma.on('click', function (event){
-                     document.getElementById("")
-                 });--%>
-                <%}%>
+                    document.getElementById("id-eq").value="---";
+                    document.getElementById("nom-eq").value="---";
+                    document.getElementById("sup-eq").value="---";
+                    document.getElementById("type-eq").value="---";
 
+                    //Mairie informations
+                    document.getElementById("mairie-eq").value="<%=eqsMs.get(equipements.get(m)).getNom()%>";
+                    document.getElementById("mairie-adresse").value="<%=eqsMs.get(equipements.get(m)).getAdresse().getLigne()%>, <%=eqsMs.get(equipements.get(m)).getAdresse().getCodePostal()%>";
+                    document.getElementById("mairie-tel").value="<%=eqsMs.get(equipements.get(m)).getCoordonnees().getTelephone()%>";
+                    document.getElementById("mairie-mail").value="<%=eqsMs.get(equipements.get(m)).getCoordonnees().getMail()%>";
+                    document.getElementById("mairie-location").onclick="L.map('map').flyTo([<%=eqsMs.get(equipements.get(m)).getAdresse().getLatitude()%>, <%=eqsMs.get(equipements.get(m)).getAdresse().getLongitude()%>], dezoom);"
+                });
+                <%}%>
+            <%-- Equipment informations --%>
                 <%
                    for(Equipement eq : equipements){
                 %>
                 ma = L.marker([<%=eq.getEquipGpsy()%>,<%=eq.getEquipGpsx()%>], {incon : equipIcon}).addTo(macarte);
                 ma.bindPopup("<%=eq.getNom()%>");
-                <%--ma.on('click', function (event){
-                    map.panTo(<%=eq.getEquipGpsy()%>, <%=eq.getEquipGpsx()%>);
-                });--%>
+
                 ma.on('click', function (){
-                    console.log("clicked");
+                    macarte.flyTo([<%=eq.getEquipGpsy()%>,<%=eq.getEquipGpsx()%>],zoom);
                     document.getElementById("equip_title").innerHTML="<%=eq.getNom()%>";
-                    document.getElementById("id-eq").innerHTML="<%=eq.getId()%>";
-                    document.getElementById("nom-eq").innerHTML="<%=eq.getNom()%>";
-                    document.getElementById("sup-eq").innerHTML="<%=eq.getEquSurfEvol()%>";
-                    document.getElementById("mairie-eq").innerHTML="<%=eqsMs.get(eq).getNom()%>";
-                    document.getElementById("type-eq").innerHTML="<%=eq.getEquipTypeCodeId().getEquipTypeLib()%>";
-                    macarte.
+                    document.getElementById("id-eq").value="<%=eq.getId()%>";
+                    document.getElementById("nom-eq").value="<%=eq.getNom()%>";
+                    document.getElementById("sup-eq").value="<%=eq.getEquSurfEvol()%>";
+                    document.getElementById("type-eq").value="<%=eq.getEquipTypeCodeId().getEquipTypeLib()%>";
+                    <%--document.getElementById("mairie-location").onclick="L.map('map').flyTo([<%=eqsMs.get(eq).getAdresse().getLatitude()%>,<%=eqsMs.get(eq).getAdresse().getLongitude()%>],dezoom)"
+                    --%>
+
+                    var bt = document.getElementById("mairie-location");
+                    bt.addEventListener('click', function(e){
+                        e.preventDefault();
+                        macarte.flyTo([<%=eqsMs.get(eq).getAdresse().getLatitude()%>,<%=eqsMs.get(eq).getAdresse().getLongitude()%>],dezoom);
+
+                        L.marker([<%=eqsMs.get(eq).getAdresse().getLatitude()%>,<%=eqsMs.get(eq).getAdresse().getLongitude()%>], {icon : mairieIcon}).bindPopup("<%=eqsMs.get(eq).getNom()%>").openOn(macarte);
+                    });
+                     //Mairie informations
+                    document.getElementById("mairie-eq").value="<%=eqsMs.get(eq).getNom()%>";
+                    document.getElementById("mairie-adresse").value="<%=eqsMs.get(eq).getAdresse().getLigne()%>, <%=eqsMs.get(eq).getAdresse().getCodePostal()%>";
+                    document.getElementById("mairie-tel").value="<%=eqsMs.get(eq).getCoordonnees().getTelephone()%>";
+                    document.getElementById("mairie-mail").value="<%=eqsMs.get(eq).getCoordonnees().getMail()%>";
+
                 });
                 <%
                 }%>
-            }
+            };
 
             var mairieIcon = L.icon({iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
                 shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
@@ -144,7 +194,10 @@
             function addPointMairie(lat, lon) {
                 var marker = L.marker([lat, lon], {icon : mairieIcon}).addTo(macarte);
                 marker.bindPopUp("centre");
-            }
+            };
+
+
+
 
             window.onload = function(){
                 // Fonction d'initialisation qui s'exécute lorsque le DOM est chargé
